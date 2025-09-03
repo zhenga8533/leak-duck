@@ -1,6 +1,7 @@
 # Leak Duck 🦆
 
 [![Scrape Leek Duck Data](https://github.com/zhenga8533/leak-duck/actions/workflows/run_scrapers.yml/badge.svg)](https://github.com/zhenga8533/leak-duck/actions/workflows/run_scrapers.yml)
+![Last Updated](https://img.shields.io/github/last-commit/zhenga8533/leak-duck/data)
 
 A Python-based web scraper that automatically collects and updates Pokémon GO data from [leekduck.com](https://leekduck.com). This project uses GitHub Actions to run on a schedule and pushes the structured JSON data to a dedicated `data` branch.
 
