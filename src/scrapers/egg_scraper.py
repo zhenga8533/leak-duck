@@ -1,3 +1,5 @@
+import re
+
 from .base_scraper import BaseScraper
 
 
@@ -18,6 +20,9 @@ class EggScraper(BaseScraper):
             egg_group_name = title_element.get_text(strip=True)
             egg_pool[egg_group_name] = []
 
+            distance_match = re.search(r"\d+", egg_group_name)
+            hatch_distance = int(distance_match.group(0)) if distance_match else None
+
             pokemon_cards = egg_grid.find_all("li", class_="pokemon-card")
 
             for card in pokemon_cards:
@@ -32,6 +37,7 @@ class EggScraper(BaseScraper):
 
                 pokemon_data = {
                     "name": name,
+                    "hatch_distance": hatch_distance,
                     "shiny_available": is_shiny,
                     "rarity_tier": rarity,
                     "asset_url": asset_url,
