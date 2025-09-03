@@ -25,7 +25,7 @@ The scraper is designed to be run automatically every hour via a GitHub Actions 
 
 The scraped data is automatically committed and pushed to the `data` branch of this repository as a set of JSON files.
 
-**➡️ Browse the data here: [https://github.com/zhenga8533/leak-duck/tree/data](https://www.google.com/search?q=https://github.com/zhenga8533/leak-duck/tree/data)**
+**➡️ Browse the data here: [https://github.com/zhenga8533/leak-duck/tree/data](https://github.com/zhenga8533/leak-duck/tree/data)**
 
 The following files are generated:
 
