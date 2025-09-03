@@ -49,6 +49,8 @@ class RaidBossScraper(BaseScraper):
 
                 types = [t["title"] for t in card.select(".boss-type .type img")]
 
+                asset_url = card.select_one(".boss-img img")["src"]
+
                 boss_info = {
                     "name": name,
                     "tier": tier_value,
@@ -56,6 +58,7 @@ class RaidBossScraper(BaseScraper):
                     "cp_range": self._parse_cp_range(cp_range_str),
                     "boosted_cp_range": self._parse_cp_range(boosted_cp_str),
                     "types": types,
+                    "asset_url": asset_url,
                 }
                 raid_data[tier_name].append(boss_info)
 

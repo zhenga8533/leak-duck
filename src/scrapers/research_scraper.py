@@ -34,6 +34,9 @@ class ResearchScraper(BaseScraper):
                 for reward_element in reward_elements:
                     reward_type = reward_element.get("data-reward-type", "unknown")
                     reward_label_element = reward_element.find("span", class_="reward-label")
+                    image_element = reward_element.find("img", class_="reward-image")
+                    asset_url = image_element["src"] if image_element else None
+
                     if not reward_label_element:
                         continue
 
@@ -57,6 +60,7 @@ class ResearchScraper(BaseScraper):
                                 "name": label_text,
                                 "shiny_available": is_shiny,
                                 "cp_range": {"max": max_cp, "min": min_cp} if max_cp else None,
+                                "asset_url": asset_url,
                             }
                         )
                     else:
@@ -68,6 +72,7 @@ class ResearchScraper(BaseScraper):
                                 "type": reward_type,
                                 "name": re.sub(r"\s?×\d+$", "", label_text).strip(),
                                 "quantity": int(re.sub(r"\D", "", quantity)),
+                                "asset_url": asset_url,
                             }
                         )
 
