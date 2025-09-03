@@ -1,0 +1,1567 @@
+{
+    "Giovanni": [
+        {
+            "slot": 1,
+            "pokemons": [
+                {
+                    "name": "Persian",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm53.icon.png"
+                }
+            ],
+            "is_encounter": false
+        },
+        {
+            "slot": 2,
+            "pokemons": [
+                {
+                    "name": "Kangaskhan",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm115.icon.png"
+                },
+                {
+                    "name": "Rhyperior",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm464.icon.png"
+                },
+                {
+                    "name": "Nidoking",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm34.icon.png"
+                }
+            ],
+            "is_encounter": false
+        },
+        {
+            "slot": 3,
+            "pokemons": [
+                {
+                    "name": "Giratina (Altered)",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm487.fALTERED.icon.png"
+                }
+            ],
+            "is_encounter": true
+        }
+    ],
+    "Cliff": [
+        {
+            "slot": 1,
+            "pokemons": [
+                {
+                    "name": "Cyndaquil",
+                    "shiny_available": true,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm155.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 2,
+            "pokemons": [
+                {
+                    "name": "Annihilape",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm979.icon.png"
+                },
+                {
+                    "name": "Honchkrow",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm430.icon.png"
+                },
+                {
+                    "name": "Skarmory",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm227.icon.png"
+                }
+            ],
+            "is_encounter": false
+        },
+        {
+            "slot": 3,
+            "pokemons": [
+                {
+                    "name": "Tyranitar",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm248.icon.png"
+                },
+                {
+                    "name": "Machamp",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm68.icon.png"
+                },
+                {
+                    "name": "Luxray",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm405.icon.png"
+                }
+            ],
+            "is_encounter": false
+        }
+    ],
+    "Arlo": [
+        {
+            "slot": 1,
+            "pokemons": [
+                {
+                    "name": "Chikorita",
+                    "shiny_available": true,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm152.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 2,
+            "pokemons": [
+                {
+                    "name": "Steelix",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm208.icon.png"
+                },
+                {
+                    "name": "Slowbro",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm80.icon.png"
+                },
+                {
+                    "name": "Crobat",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm169.icon.png"
+                }
+            ],
+            "is_encounter": false
+        },
+        {
+            "slot": 3,
+            "pokemons": [
+                {
+                    "name": "Scizor",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm212.icon.png"
+                },
+                {
+                    "name": "Alakazam",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm65.icon.png"
+                },
+                {
+                    "name": "Alolan Muk",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm89.fALOLA.icon.png"
+                }
+            ],
+            "is_encounter": false
+        }
+    ],
+    "Sierra": [
+        {
+            "slot": 1,
+            "pokemons": [
+                {
+                    "name": "Totodile",
+                    "shiny_available": true,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm158.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 2,
+            "pokemons": [
+                {
+                    "name": "Mismagius",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm429.icon.png"
+                },
+                {
+                    "name": "Staraptor",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm398.icon.png"
+                },
+                {
+                    "name": "Ferrothorn",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm598.icon.png"
+                }
+            ],
+            "is_encounter": false
+        },
+        {
+            "slot": 3,
+            "pokemons": [
+                {
+                    "name": "Houndoom",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm229.icon.png"
+                },
+                {
+                    "name": "Camerupt",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm323.icon.png"
+                },
+                {
+                    "name": "Drapion",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm452.icon.png"
+                }
+            ],
+            "is_encounter": false
+        }
+    ],
+    "Normal-type Male Grunt": [
+        {
+            "slot": 1,
+            "pokemons": [
+                {
+                    "name": "Slakoth",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm287.icon.png"
+                },
+                {
+                    "name": "Bidoof",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm399.icon.png"
+                },
+                {
+                    "name": "Bunnelby",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm659.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 2,
+            "pokemons": [
+                {
+                    "name": "Rattata",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm19.icon.png"
+                },
+                {
+                    "name": "Vigoroth",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm288.icon.png"
+                },
+                {
+                    "name": "Diggersby",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm660.icon.png"
+                }
+            ],
+            "is_encounter": false
+        },
+        {
+            "slot": 3,
+            "pokemons": [
+                {
+                    "name": "Raticate",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm20.icon.png"
+                },
+                {
+                    "name": "Ursaring",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm217.icon.png"
+                },
+                {
+                    "name": "Slaking",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm289.icon.png"
+                }
+            ],
+            "is_encounter": false
+        }
+    ],
+    "Fire-type Female Grunt": [
+        {
+            "slot": 1,
+            "pokemons": [
+                {
+                    "name": "Darumaka",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm554.icon.png"
+                },
+                {
+                    "name": "Numel",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm322.icon.png"
+                },
+                {
+                    "name": "Tepig",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm498.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 2,
+            "pokemons": [
+                {
+                    "name": "Houndoom",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm229.icon.png"
+                },
+                {
+                    "name": "Ninetales",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm38.icon.png"
+                },
+                {
+                    "name": "Pignite",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm499.icon.png"
+                }
+            ],
+            "is_encounter": false
+        },
+        {
+            "slot": 3,
+            "pokemons": [
+                {
+                    "name": "Houndoom",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm229.icon.png"
+                },
+                {
+                    "name": "Darmanitan",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm555.fSTANDARD.icon.png"
+                },
+                {
+                    "name": "Emboar",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm500.icon.png"
+                }
+            ],
+            "is_encounter": false
+        }
+    ],
+    "Water-type Female Grunt": [
+        {
+            "slot": 1,
+            "pokemons": [
+                {
+                    "name": "Oshawott",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm501.icon.png"
+                },
+                {
+                    "name": "Spheal",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm363.icon.png"
+                },
+                {
+                    "name": "Staryu",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm120.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 2,
+            "pokemons": [
+                {
+                    "name": "Cloyster",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm91.icon.png"
+                },
+                {
+                    "name": "Dewott",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm502.icon.png"
+                },
+                {
+                    "name": "Seadra",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm117.icon.png"
+                }
+            ],
+            "is_encounter": false
+        },
+        {
+            "slot": 3,
+            "pokemons": [
+                {
+                    "name": "Carracosta",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm565.icon.png"
+                },
+                {
+                    "name": "Samurott",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm503.icon.png"
+                },
+                {
+                    "name": "Whiscash",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm340.icon.png"
+                }
+            ],
+            "is_encounter": false
+        }
+    ],
+    "Water-type Male Grunt": [
+        {
+            "slot": 1,
+            "pokemons": [
+                {
+                    "name": "Magikarp",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm129.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 2,
+            "pokemons": [
+                {
+                    "name": "Magikarp",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm129.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 3,
+            "pokemons": [
+                {
+                    "name": "Magikarp",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm129.icon.png"
+                },
+                {
+                    "name": "Gyarados",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm130.icon.png"
+                }
+            ],
+            "is_encounter": false
+        }
+    ],
+    "Electric-type Female Grunt": [
+        {
+            "slot": 1,
+            "pokemons": [
+                {
+                    "name": "Joltik",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm595.icon.png"
+                },
+                {
+                    "name": "Mareep",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm179.icon.png"
+                },
+                {
+                    "name": "Magnemite",
+                    "shiny_available": true,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm81.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 2,
+            "pokemons": [
+                {
+                    "name": "Voltorb",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm100.icon.png"
+                },
+                {
+                    "name": "Electabuzz",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm125.icon.png"
+                },
+                {
+                    "name": "Alolan Geodude",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm74.fALOLA.icon.png"
+                }
+            ],
+            "is_encounter": false
+        },
+        {
+            "slot": 3,
+            "pokemons": [
+                {
+                    "name": "Luxray",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm405.icon.png"
+                },
+                {
+                    "name": "Ampharos",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm181.icon.png"
+                },
+                {
+                    "name": "Galvantula",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm596.icon.png"
+                }
+            ],
+            "is_encounter": false
+        }
+    ],
+    "Grass-type Male Grunt": [
+        {
+            "slot": 1,
+            "pokemons": [
+                {
+                    "name": "Hoppip",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm187.icon.png"
+                },
+                {
+                    "name": "Seedot",
+                    "shiny_available": true,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm273.icon.png"
+                },
+                {
+                    "name": "Snivy",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm495.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 2,
+            "pokemons": [
+                {
+                    "name": "Ferrothorn",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm598.icon.png"
+                },
+                {
+                    "name": "Lileep",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm345.icon.png"
+                },
+                {
+                    "name": "Servine",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm496.icon.png"
+                }
+            ],
+            "is_encounter": false
+        },
+        {
+            "slot": 3,
+            "pokemons": [
+                {
+                    "name": "Cacturne",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm332.icon.png"
+                },
+                {
+                    "name": "Vileplume",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm45.icon.png"
+                },
+                {
+                    "name": "Serperior",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm497.icon.png"
+                }
+            ],
+            "is_encounter": false
+        }
+    ],
+    "Ice-type Female Grunt": [
+        {
+            "slot": 1,
+            "pokemons": [
+                {
+                    "name": "Amaura",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm698.icon.png"
+                },
+                {
+                    "name": "Sneasel",
+                    "shiny_available": true,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm215.icon.png"
+                },
+                {
+                    "name": "Swinub",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm220.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 2,
+            "pokemons": [
+                {
+                    "name": "Alolan Ninetales",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm38.fALOLA.icon.png"
+                },
+                {
+                    "name": "Froslass",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm478.icon.png"
+                },
+                {
+                    "name": "Sealeo",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm364.icon.png"
+                }
+            ],
+            "is_encounter": false
+        },
+        {
+            "slot": 3,
+            "pokemons": [
+                {
+                    "name": "Glalie",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm362.icon.png"
+                },
+                {
+                    "name": "Aurorus",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm699.icon.png"
+                },
+                {
+                    "name": "Froslass",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm478.icon.png"
+                }
+            ],
+            "is_encounter": false
+        }
+    ],
+    "Fighting-type Female Grunt": [
+        {
+            "slot": 1,
+            "pokemons": [
+                {
+                    "name": "Machop",
+                    "shiny_available": true,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm66.icon.png"
+                },
+                {
+                    "name": "Makuhita",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm296.icon.png"
+                },
+                {
+                    "name": "Mankey",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm56.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 2,
+            "pokemons": [
+                {
+                    "name": "Hitmonlee",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm106.icon.png"
+                },
+                {
+                    "name": "Hitmonchan",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm107.icon.png"
+                },
+                {
+                    "name": "Gurdurr",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm533.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 3,
+            "pokemons": [
+                {
+                    "name": "Toxicroak",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm454.icon.png"
+                },
+                {
+                    "name": "Infernape",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm392.icon.png"
+                },
+                {
+                    "name": "Conkeldurr",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm534.icon.png"
+                }
+            ],
+            "is_encounter": false
+        }
+    ],
+    "Poison-type Female Grunt": [
+        {
+            "slot": 1,
+            "pokemons": [
+                {
+                    "name": "Tentacool",
+                    "shiny_available": true,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm72.icon.png"
+                },
+                {
+                    "name": "Skorupi",
+                    "shiny_available": true,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm451.icon.png"
+                },
+                {
+                    "name": "Trubbish",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm568.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 2,
+            "pokemons": [
+                {
+                    "name": "Nidorino",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm33.icon.png"
+                },
+                {
+                    "name": "Nidorina",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm30.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 3,
+            "pokemons": [
+                {
+                    "name": "Weezing",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm110.icon.png"
+                },
+                {
+                    "name": "Toxicroak",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm454.icon.png"
+                },
+                {
+                    "name": "Amoonguss",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm591.icon.png"
+                }
+            ],
+            "is_encounter": false
+        }
+    ],
+    "Ground-type Male Grunt": [
+        {
+            "slot": 1,
+            "pokemons": [
+                {
+                    "name": "Sandshrew",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm27.icon.png"
+                },
+                {
+                    "name": "Gligar",
+                    "shiny_available": true,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm207.icon.png"
+                },
+                {
+                    "name": "Drilbur",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm529.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 2,
+            "pokemons": [
+                {
+                    "name": "Rhyhorn",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm111.icon.png"
+                },
+                {
+                    "name": "Donphan",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm232.icon.png"
+                },
+                {
+                    "name": "Vibrava",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm329.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 3,
+            "pokemons": [
+                {
+                    "name": "Whiscash",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm340.icon.png"
+                },
+                {
+                    "name": "Flygon",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm330.icon.png"
+                },
+                {
+                    "name": "Torterra",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm389.icon.png"
+                }
+            ],
+            "is_encounter": false
+        }
+    ],
+    "Flying-type Female Grunt": [
+        {
+            "slot": 1,
+            "pokemons": [
+                {
+                    "name": "Fletchling",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm661.icon.png"
+                },
+                {
+                    "name": "Taillow",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm276.icon.png"
+                },
+                {
+                    "name": "Pikipek",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm731.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 2,
+            "pokemons": [
+                {
+                    "name": "Zubat",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm41.icon.png"
+                },
+                {
+                    "name": "Swellow",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm277.icon.png"
+                },
+                {
+                    "name": "Gligar",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm207.icon.png"
+                }
+            ],
+            "is_encounter": false
+        },
+        {
+            "slot": 3,
+            "pokemons": [
+                {
+                    "name": "Dragonite",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm149.icon.png"
+                },
+                {
+                    "name": "Pidgeot",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm18.icon.png"
+                },
+                {
+                    "name": "Archeops",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm567.icon.png"
+                }
+            ],
+            "is_encounter": false
+        }
+    ],
+    "Psychic-type Male Grunt": [
+        {
+            "slot": 1,
+            "pokemons": [
+                {
+                    "name": "Ralts",
+                    "shiny_available": true,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm280.icon.png"
+                },
+                {
+                    "name": "Inkay",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm686.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 2,
+            "pokemons": [
+                {
+                    "name": "Drowzee",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm96.icon.png"
+                },
+                {
+                    "name": "Duosion",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm578.icon.png"
+                },
+                {
+                    "name": "Wobbuffet",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm202.icon.png"
+                }
+            ],
+            "is_encounter": false
+        },
+        {
+            "slot": 3,
+            "pokemons": [
+                {
+                    "name": "Malamar",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm687.icon.png"
+                },
+                {
+                    "name": "Reuniclus",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm579.icon.png"
+                },
+                {
+                    "name": "Gallade",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm475.icon.png"
+                }
+            ],
+            "is_encounter": false
+        }
+    ],
+    "Bug-type Male Grunt": [
+        {
+            "slot": 1,
+            "pokemons": [
+                {
+                    "name": "Pineco",
+                    "shiny_available": true,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm204.icon.png"
+                },
+                {
+                    "name": "Grubbin",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm736.icon.png"
+                },
+                {
+                    "name": "Scyther",
+                    "shiny_available": true,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm123.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 2,
+            "pokemons": [
+                {
+                    "name": "Karrablast",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm588.icon.png"
+                },
+                {
+                    "name": "Shelmet",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm616.icon.png"
+                },
+                {
+                    "name": "Anorith",
+                    "shiny_available": true,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm347.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 3,
+            "pokemons": [
+                {
+                    "name": "Beedrill",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm15.icon.png"
+                },
+                {
+                    "name": "Scizor",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm212.icon.png"
+                },
+                {
+                    "name": "Forretress",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm205.icon.png"
+                }
+            ],
+            "is_encounter": false
+        }
+    ],
+    "Rock-type Male Grunt": [
+        {
+            "slot": 1,
+            "pokemons": [
+                {
+                    "name": "Amaura",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm698.icon.png"
+                },
+                {
+                    "name": "Tyrunt",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm696.icon.png"
+                },
+                {
+                    "name": "Roggenrola",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm524.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 2,
+            "pokemons": [
+                {
+                    "name": "Graveler",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm75.icon.png"
+                },
+                {
+                    "name": "Shieldon",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm410.icon.png"
+                },
+                {
+                    "name": "Cranidos",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm408.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 3,
+            "pokemons": [
+                {
+                    "name": "Golem",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm76.icon.png"
+                },
+                {
+                    "name": "Aurorus",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm699.icon.png"
+                },
+                {
+                    "name": "Tyrantrum",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm697.icon.png"
+                }
+            ],
+            "is_encounter": false
+        }
+    ],
+    "Ghost-type Male Grunt": [
+        {
+            "slot": 1,
+            "pokemons": [
+                {
+                    "name": "Gastly",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm92.icon.png"
+                },
+                {
+                    "name": "Golett",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm622.icon.png"
+                },
+                {
+                    "name": "Duskull",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm355.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 2,
+            "pokemons": [
+                {
+                    "name": "Dusclops",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm356.icon.png"
+                },
+                {
+                    "name": "Haunter",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm93.icon.png"
+                },
+                {
+                    "name": "Sableye",
+                    "shiny_available": true,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm302.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 3,
+            "pokemons": [
+                {
+                    "name": "Gengar",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm94.icon.png"
+                },
+                {
+                    "name": "Froslass",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm478.icon.png"
+                },
+                {
+                    "name": "Alolan Marowak",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm105.fALOLA.icon.png"
+                }
+            ],
+            "is_encounter": false
+        }
+    ],
+    "Dragon-type Female Grunt": [
+        {
+            "slot": 1,
+            "pokemons": [
+                {
+                    "name": "Dratini",
+                    "shiny_available": true,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm147.icon.png"
+                },
+                {
+                    "name": "Bagon",
+                    "shiny_available": true,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm371.icon.png"
+                },
+                {
+                    "name": "Tyrunt",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm696.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 2,
+            "pokemons": [
+                {
+                    "name": "Dragonair",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm148.icon.png"
+                },
+                {
+                    "name": "Alolan Exeggutor",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm103.fALOLA.icon.png"
+                },
+                {
+                    "name": "Gabite",
+                    "shiny_available": true,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm444.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 3,
+            "pokemons": [
+                {
+                    "name": "Dragonite",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm149.icon.png"
+                },
+                {
+                    "name": "Salamence",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm373.icon.png"
+                },
+                {
+                    "name": "Tyrantrum",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm697.icon.png"
+                }
+            ],
+            "is_encounter": false
+        }
+    ],
+    "Dark-type Female Grunt": [
+        {
+            "slot": 1,
+            "pokemons": [
+                {
+                    "name": "Alolan Rattata",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm19.fALOLA.icon.png"
+                },
+                {
+                    "name": "Cacnea",
+                    "shiny_available": true,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm331.icon.png"
+                },
+                {
+                    "name": "Carvanha",
+                    "shiny_available": true,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm318.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 2,
+            "pokemons": [
+                {
+                    "name": "Alolan Raticate",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm20.fALOLA.icon.png"
+                },
+                {
+                    "name": "Alolan Muk",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm89.fALOLA.icon.png"
+                }
+            ],
+            "is_encounter": false
+        },
+        {
+            "slot": 3,
+            "pokemons": [
+                {
+                    "name": "Alolan Muk",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm89.fALOLA.icon.png"
+                },
+                {
+                    "name": "Skuntank",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm435.icon.png"
+                }
+            ],
+            "is_encounter": false
+        }
+    ],
+    "Steel-type Male Grunt": [
+        {
+            "slot": 1,
+            "pokemons": [
+                {
+                    "name": "Alolan Sandshrew",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm27.fALOLA.icon.png"
+                },
+                {
+                    "name": "Alolan Diglett",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm50.fALOLA.icon.png"
+                },
+                {
+                    "name": "Beldum",
+                    "shiny_available": true,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm374.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 2,
+            "pokemons": [
+                {
+                    "name": "Metang",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm375.icon.png"
+                },
+                {
+                    "name": "Skarmory",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm227.icon.png"
+                },
+                {
+                    "name": "Lairon",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm305.icon.png"
+                }
+            ],
+            "is_encounter": false
+        },
+        {
+            "slot": 3,
+            "pokemons": [
+                {
+                    "name": "Aggron",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm306.icon.png"
+                },
+                {
+                    "name": "Scizor",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm212.icon.png"
+                },
+                {
+                    "name": "Alolan Sandslash",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm28.fALOLA.icon.png"
+                }
+            ],
+            "is_encounter": false
+        }
+    ],
+    "Fairy-type Female Grunt": [
+        {
+            "slot": 1,
+            "pokemons": [
+                {
+                    "name": "Snubbull",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm209.icon.png"
+                },
+                {
+                    "name": "Mawile",
+                    "shiny_available": true,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm303.icon.png"
+                },
+                {
+                    "name": "Alolan Vulpix",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm37.fALOLA.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 2,
+            "pokemons": [
+                {
+                    "name": "Snubbull",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm209.icon.png"
+                },
+                {
+                    "name": "Galarian Weezing",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm110.fGALARIAN.icon.png"
+                },
+                {
+                    "name": "Kirlia",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm281.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 3,
+            "pokemons": [
+                {
+                    "name": "Alolan Ninetales",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm38.fALOLA.icon.png"
+                },
+                {
+                    "name": "Galarian Weezing",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm110.fGALARIAN.icon.png"
+                },
+                {
+                    "name": "Gardevoir",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm282.icon.png"
+                }
+            ],
+            "is_encounter": false
+        }
+    ],
+    "Male Grunt": [
+        {
+            "slot": 1,
+            "pokemons": [
+                {
+                    "name": "Bulbasaur",
+                    "shiny_available": true,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm1.icon.png"
+                },
+                {
+                    "name": "Charmander",
+                    "shiny_available": true,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm4.icon.png"
+                },
+                {
+                    "name": "Squirtle",
+                    "shiny_available": true,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm7.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 2,
+            "pokemons": [
+                {
+                    "name": "Ivysaur",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm2.icon.png"
+                },
+                {
+                    "name": "Charmeleon",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm5.icon.png"
+                },
+                {
+                    "name": "Wartortle",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm8.icon.png"
+                }
+            ],
+            "is_encounter": false
+        },
+        {
+            "slot": 3,
+            "pokemons": [
+                {
+                    "name": "Venusaur",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm3.icon.png"
+                },
+                {
+                    "name": "Charizard",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm6.icon.png"
+                },
+                {
+                    "name": "Blastoise",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm9.icon.png"
+                }
+            ],
+            "is_encounter": false
+        }
+    ],
+    "Female Grunt": [
+        {
+            "slot": 1,
+            "pokemons": [
+                {
+                    "name": "Snorlax",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm143.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 2,
+            "pokemons": [
+                {
+                    "name": "Poliwrath",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm62.icon.png"
+                },
+                {
+                    "name": "Gardevoir",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm282.icon.png"
+                },
+                {
+                    "name": "Snorlax",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm143.icon.png"
+                }
+            ],
+            "is_encounter": false
+        },
+        {
+            "slot": 3,
+            "pokemons": [
+                {
+                    "name": "Gyarados",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm130.icon.png"
+                },
+                {
+                    "name": "Dragonite",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm149.icon.png"
+                },
+                {
+                    "name": "Snorlax",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm143.icon.png"
+                }
+            ],
+            "is_encounter": false
+        }
+    ],
+    "Decoy Female Grunt": [
+        {
+            "slot": 1,
+            "pokemons": [
+                {
+                    "name": "Bellsprout",
+                    "shiny_available": true,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm69.icon.png"
+                }
+            ],
+            "is_encounter": true
+        },
+        {
+            "slot": 2,
+            "pokemons": [
+                {
+                    "name": "Raticate",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm20.icon.png"
+                },
+                {
+                    "name": "Weepinbell",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm70.icon.png"
+                }
+            ],
+            "is_encounter": false
+        },
+        {
+            "slot": 3,
+            "pokemons": [
+                {
+                    "name": "Raticate",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm20.icon.png"
+                },
+                {
+                    "name": "Snorlax",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm143.icon.png"
+                }
+            ],
+            "is_encounter": false
+        }
+    ]
+}
