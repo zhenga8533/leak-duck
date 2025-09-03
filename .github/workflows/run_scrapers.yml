@@ -8,6 +8,8 @@ on:
 jobs:
   scrape-and-commit:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Check out main branch for code
