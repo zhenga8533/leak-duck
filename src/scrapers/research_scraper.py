@@ -1,0 +1,77 @@
+import re
+
+from .base_scraper import BaseScraper
+
+
+class ResearchScraper(BaseScraper):
+    def __init__(self):
+        super().__init__("https://leekduck.com/research/", "research_tasks")
+
+    def parse(self, soup):
+        research_data = {}
+        task_categories = soup.find_all("div", class_="task-category")
+
+        for category in task_categories:
+            category_title_element = category.find("h2")
+            if not category_title_element:
+                continue
+
+            category_title = category_title_element.get_text(strip=True)
+            research_data[category_title] = []
+
+            task_items = category.find_all("li", class_="task-item")
+
+            for item in task_items:
+                task_text_element = item.find("span", class_="task-text")
+                if not task_text_element:
+                    continue
+
+                task_description = task_text_element.get_text(strip=True)
+                rewards_list = []
+
+                reward_elements = item.select("ul.reward-list > li.reward")
+
+                for reward_element in reward_elements:
+                    reward_type = reward_element.get("data-reward-type", "unknown")
+                    reward_label_element = reward_element.find("span", class_="reward-label")
+                    if not reward_label_element:
+                        continue
+
+                    label_text = reward_label_element.get_text(strip=True)
+
+                    if reward_type == "encounter":
+                        is_shiny = reward_element.find("img", class_="shiny-icon") is not None
+                        cp_values_element = reward_element.find("span", class_="cp-values")
+                        max_cp, min_cp = None, None
+                        if cp_values_element:
+                            max_cp_text = cp_values_element.find("span", class_="max-cp").get_text(strip=True)
+                            min_cp_text = cp_values_element.find("span", class_="min-cp").get_text(strip=True)
+                            max_cp_match = re.search(r"\d+", max_cp_text)
+                            min_cp_match = re.search(r"\d+", min_cp_text)
+                            max_cp = int(max_cp_match.group()) if max_cp_match else None
+                            min_cp = int(min_cp_match.group()) if min_cp_match else None
+
+                        rewards_list.append(
+                            {
+                                "type": "encounter",
+                                "name": label_text,
+                                "shiny_available": is_shiny,
+                                "cp_range": {"max": max_cp, "min": min_cp} if max_cp else None,
+                            }
+                        )
+                    else:
+                        quantity_element = reward_element.find("div", class_="quantity")
+                        quantity = quantity_element.get_text(strip=True).replace("×", "") if quantity_element else "1"
+
+                        rewards_list.append(
+                            {
+                                "type": reward_type,
+                                "name": re.sub(r"\s?×\d+$", "", label_text).strip(),
+                                "quantity": int(re.sub(r"\D", "", quantity)),
+                            }
+                        )
+
+                if rewards_list:
+                    research_data[category_title].append({"task": task_description, "rewards": rewards_list})
+
+        return research_data
