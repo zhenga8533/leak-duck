@@ -9,23 +9,33 @@ A Python-based web scraper that automatically collects and updates Pokémon GO d
 
 ## About The Project
 
-This project was created to provide a reliable, automated way to access up-to-date information for Pokémon GO. It scrapes the Leek Duck website for the latest details on:
+This project provides a reliable, automated way to access up-to-date information for Pokémon GO. It scrapes the Leek Duck website for the latest details on:
 
-- **Raid Bosses**: Current Pokémon in Raids.
+- **Raid Bosses**: Current Pokémon in Tier 1, 3, 5, Mega, and Shadow Raids.
 - **Events**: A categorized list of all current and upcoming in-game events.
 - **Field Research**: All available research tasks and their possible rewards.
 - **Team GO Rocket**: The complete lineups for Giovanni, the Leaders, and all Grunts.
 - **Egg Pool**: The current list of Pokémon hatching from each egg distance.
 
-The scraper is designed to be run automatically every hour via a GitHub Actions workflow, ensuring the data is always fresh.
+The scraper is designed to be run automatically **every 12 hours** via a GitHub Actions workflow, ensuring the data is always fresh.
+
+---
+
+## API & Documentation
+
+The raw JSON files can be used as simple, free API endpoints for your projects.
+
+**➡️ For detailed information, visit the [Official Project Wiki](https://github.com/zhenga8533/leak-duck/wiki)**
+
+The wiki includes a full breakdown of the data structure for each file, field descriptions, and direct links to the JSON endpoints.
 
 ---
 
 ## Data Output
 
-The scraped data is automatically committed and pushed to the `data` branch of this repository as a set of JSON files.
+The scraped data is automatically committed and pushed to the `data` branch of this repository.
 
-**➡️ Browse the data here: [https://github.com/zhenga8533/leak-duck/tree/data](https://github.com/zhenga8533/leak-duck/tree/data)**
+**➡️ Browse the raw data files here: [https://github.com/zhenga8533/leak-duck/tree/data](https://github.com/zhenga8533/leak-duck/tree/data)**
 
 The following files are generated:
 
@@ -53,7 +63,7 @@ The following files are generated:
         "max": 2850
       },
       "types": ["Water", "Dragon"],
-      "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm484.icon.png"
+      "asset_url": "[https://cdn.leekduck.com/assets/img/pokemon_icons/pm484.icon.png](https://cdn.leekduck.com/assets/img/pokemon_icons/pm484.icon.png)"
     }
   ]
 }
@@ -75,7 +85,7 @@ To get a local copy up and running, follow these simple steps.
 1.  **Clone the repository:**
 
     ```sh
-    git clone https://github.com/zhenga8533/leak-duck.git
+    git clone [https://github.com/zhenga8533/leak-duck.git](https://github.com/zhenga8533/leak-duck.git)
     cd leak-duck
     ```
 
@@ -103,7 +113,7 @@ To get a local copy up and running, follow these simple steps.
     python src/run.py
     ```
 
-    When run locally, the script will create two folders in your project root: `html/` (containing the raw HTML of each scraped page) and `json/` (containing the generated data files). These folders are included in the `.gitignore` and will not be committed to your repository.
+    When run locally, the script will create two folders in your project root: `html/` and `json/`. These folders are included in the `.gitignore` and will not be committed to your repository.
 
 ---
 
@@ -112,15 +122,15 @@ To get a local copy up and running, follow these simple steps.
 This repository is configured to run the scraper automatically using GitHub Actions.
 
 - **Workflow file:** `.github/workflows/run_scrapers.yml`
-- **Trigger:** The workflow runs on a schedule (every hour at the top of the hour) and can also be triggered manually from the "Actions" tab in GitHub.
+- **Trigger:** The workflow runs on a schedule (every 12 hours) and can also be triggered manually from the "Actions" tab in GitHub.
 - **Process:**
   1.  The action checks out the `main` branch to get the latest scraper code.
   2.  It installs the Python dependencies.
-  3.  It runs the `src/run.py` script, which generates the JSON files in the workspace root.
+  3.  It runs the `src/run.py` script, which generates the JSON files.
   4.  The action then checks out the `data` branch, adds the new JSON files, and commits them.
   5.  Finally, it pushes the updated data files directly to the `data` branch.
 
-**Note:** For the GitHub Action to work, you must **manually create the `data` branch** in your repository first.
+**Note:** For the GitHub Action to work, you must **manually create the `data` branch** as a clean, orphan branch in your repository first.
 
 ---
 
@@ -150,7 +160,7 @@ leak-duck/
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. You can create a file named `LICENSE` in your project root and add the contents of the MIT license to it.
 
 ---
 
