@@ -32,9 +32,17 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          mkdir -p ./temp_data
+          mv *.json ./temp_data/
+
           git fetch
-          git checkout -f data
-          git rm --ignore-unmatch *.json
+          git checkout data
+
+          mv ./temp_data/* .
+          rmdir ./temp_data
+
           git add *.json
-          git commit --allow-empty -m "Automated data update"
+
+          git commit -m "Automated data update" || echo "No changes to commit"
           git push origin data
