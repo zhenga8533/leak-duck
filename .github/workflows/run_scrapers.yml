@@ -35,5 +35,5 @@ jobs:
           git fetch
           git checkout -f data
           git add *.json
-          git commit -m "Automated data update" || echo "No changes to commit"
+          git commit --allow-empty -m "Automated data update"
           git push origin data
