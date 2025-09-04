@@ -33,7 +33,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git fetch
-          git checkout data
+          git checkout -f data
           git rm --ignore-unmatch *.json
           git add *.json
           git commit --allow-empty -m "Automated data update"
