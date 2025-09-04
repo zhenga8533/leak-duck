@@ -28,12 +28,13 @@ jobs:
       - name: Run the scrapers
         run: python src/run.py
 
-      - name: Commit and push to data branch
+      - name: Commit and push JSON to data branch
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git fetch
-          git checkout -f data
+          git checkout data
+          git rm --ignore-unmatch *.json
           git add *.json
           git commit --allow-empty -m "Automated data update"
           git push origin data
