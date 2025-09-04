@@ -63,7 +63,7 @@ The following files are generated:
         "max": 2850
       },
       "types": ["Water", "Dragon"],
-      "asset_url": "[https://cdn.leekduck.com/assets/img/pokemon_icons/pm484.icon.png](https://cdn.leekduck.com/assets/img/pokemon_icons/pm484.icon.png)"
+      "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm484.icon.png"
     }
   ]
 }
@@ -85,7 +85,7 @@ To get a local copy up and running, follow these simple steps.
 1.  **Clone the repository:**
 
     ```sh
-    git clone [https://github.com/zhenga8533/leak-duck.git](https://github.com/zhenga8533/leak-duck.git)
+    git clone https://github.com/zhenga8533/leak-duck.git
     cd leak-duck
     ```
 
