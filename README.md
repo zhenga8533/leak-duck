@@ -77,7 +77,7 @@ To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 
-- Python 3.10 or later
+- Python 3.13
 - pip
 
 ### Installation & Local Usage
