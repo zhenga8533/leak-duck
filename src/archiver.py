@@ -1,5 +1,6 @@
 import json
-from datetime import datetime, timezone
+import os
+from datetime import datetime, timedelta, timezone
 
 import requests
 
@@ -9,12 +10,18 @@ class EventArchiver:
         base_url = f"https://raw.githubusercontent.com/{user}/{repo}/data"
         self.current_events_url = f"{base_url}/events.json"
         self.archive_url = f"{base_url}/archive.json"
-        self.events_path = "events.json"
-        self.archive_path = "archive.json"
+
+        # Determine save directory based on environment
+        json_dir = "." if os.getenv("CI") else "json"
+        if not os.path.exists(json_dir) and json_dir != ".":
+            os.makedirs(json_dir)
+
+        self.events_path = os.path.join(json_dir, "events.json")
+        self.archive_path = os.path.join(json_dir, "archive.json")
 
     def run(self):
         print("--- Running Event Archiver ---")
-        now_utc_timestamp = int(datetime.now(timezone.utc).timestamp())
+        now_utc = datetime.now(timezone.utc)
 
         try:
             response = requests.get(self.current_events_url)
@@ -39,16 +46,31 @@ class EventArchiver:
             active_events_in_category = []
 
             for event in events:
-                if not event.get("is_local_time") and event.get("end_time") and isinstance(event["end_time"], int):
-                    if event["end_time"] < now_utc_timestamp:
-                        print(f"Archiving '{event['title']}'...")
+                should_archive = False
+                end_time = event.get("end_time")
 
-                        if category not in archive_data:
-                            archive_data[category] = []
-                        archive_data[category].append(event)
-                        newly_archived_count += 1
-                    else:
-                        active_events_in_category.append(event)
+                if event.get("is_local_time") and isinstance(end_time, str):
+                    # If local time, assume the last timezone offset (-12)
+                    try:
+                        naive_end_dt = datetime.fromisoformat(end_time)
+                        last_tz_offset = timedelta(hours=-12)
+                        last_tz = timezone(last_tz_offset)
+                        absolute_end_dt = naive_end_dt.replace(tzinfo=last_tz)
+
+                        if now_utc > absolute_end_dt:
+                            should_archive = True
+                    except ValueError:
+                        pass
+                elif isinstance(end_time, int):
+                    if end_time < now_utc.timestamp():
+                        should_archive = True
+
+                if should_archive:
+                    print(f"Archiving '{event['title']}'...")
+                    if category not in archive_data:
+                        archive_data[category] = []
+                    archive_data[category].append(event)
+                    newly_archived_count += 1
                 else:
                     active_events_in_category.append(event)
 
@@ -60,8 +82,13 @@ class EventArchiver:
         if newly_archived_count > 0:
             with open(self.archive_path, "w", encoding="utf-8") as f:
                 json.dump(archive_data, f, ensure_ascii=False, indent=4)
-            print("archive.json has been updated locally.")
+            print(f"archive.json has been updated locally at {self.archive_path}.")
 
             with open(self.events_path, "w", encoding="utf-8") as f:
                 json.dump(remaining_events, f, ensure_ascii=False, indent=4)
-            print("events.json has been cleaned of old events locally.")
+            print(f"events.json has been cleaned of old events locally at {self.events_path}.")
+
+
+if __name__ == "__main__":
+    archiver = EventArchiver(user="zhenga8533", repo="leak-duck")
+    archiver.run()
