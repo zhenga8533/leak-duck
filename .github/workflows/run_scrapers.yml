@@ -52,7 +52,10 @@ jobs:
             rm -rf ./temp_data
           fi
 
-          # Add all changes and commit
-          git add .
+          # Specifically add only the data files and folders
+          git add *.json
+          git add archives/
+
+          # Commit and push
           git commit -m "Automated data update" || echo "No changes to commit"
           git push origin data
