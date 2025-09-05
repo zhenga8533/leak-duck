@@ -44,6 +44,7 @@ The following files are generated:
 - `research_tasks.json`
 - `rocket_lineups.json`
 - `egg_pool.json`
+- `archive.json`
 
 ### Example Data (`raid_bosses.json`)
 
