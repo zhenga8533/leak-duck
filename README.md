@@ -45,6 +45,7 @@ The following files are generated:
 - `egg_pool.json` - The current list of Pokémon hatching from each egg distance.
 - `events.json`- All current and upcoming events.
 - `archives/archive_YYYY.json` - Historical event data, organized by year.
+  - _Note: Automated archiving began on September 5, 2025._
 
 ### Example Data (`raid_bosses.json`)
 
