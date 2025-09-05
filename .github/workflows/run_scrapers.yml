@@ -33,7 +33,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Temporarily move new files to a backup location
+          # Temporarily move all new data out of the way
           mkdir -p ./temp_data
           if ls *.json 1> /dev/null 2>&1; then
             mv *.json ./temp_data/
@@ -42,19 +42,17 @@ jobs:
             mv archives ./temp_data/
           fi
 
-          # Check out the data branch
+          # Prepare the data branch
           git fetch
-          git checkout data
+          git checkout -f data
 
-          # Move the new files back, overwriting the old ones
+          # Move the new data back, overwriting old files if they exist
           if [ -d "./temp_data" ]; then
-            mv ./temp_data/* .
-            rmdir ./temp_data
+            cp -r ./temp_data/* .
+            rm -rf ./temp_data
           fi
 
-          # Add all changes
+          # Add all changes and commit
           git add .
-
-          # Commit and push
           git commit -m "Automated data update" || echo "No changes to commit"
           git push origin data
