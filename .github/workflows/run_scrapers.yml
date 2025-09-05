@@ -32,21 +32,13 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-          mkdir -p ./temp_data
-          if ls *.json 1> /dev/null 2>&1; then
-            mv *.json ./temp_data/
-          fi
-
           git fetch
           git checkout data
 
-          if [ -d "./temp_data" ]; then
-            mv ./temp_data/* .
-            rmdir ./temp_data
-          fi
+          # Add all json files in the root and in the archives directory
+          git add ./*.json
+          git add archives/*.json
 
-          git add *.json
-
+          # Commit changes
           git commit -m "Automated data update" || echo "No changes to commit"
           git push origin data
