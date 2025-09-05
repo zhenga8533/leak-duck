@@ -25,7 +25,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run the scrapers
+      - name: Run archiver and scrapers
         run: python src/run.py
 
       - name: Commit and push JSON to data branch
@@ -34,13 +34,17 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
           mkdir -p ./temp_data
-          mv *.json ./temp_data/
+          if ls *.json 1> /dev/null 2>&1; then
+            mv *.json ./temp_data/
+          fi
 
           git fetch
           git checkout data
 
-          mv ./temp_data/* .
-          rmdir ./temp_data
+          if [ -d "./temp_data" ]; then
+            mv ./temp_data/* .
+            rmdir ./temp_data
+          fi
 
           git add *.json
 
