@@ -39,12 +39,12 @@ The scraped data is automatically committed and pushed to the `data` branch of t
 
 The following files are generated:
 
-- `raid_bosses.json`
-- `events.json`
-- `research_tasks.json`
-- `rocket_lineups.json`
-- `egg_pool.json`
-- `archive.json`
+- `raid_bosses.json` - All current Pokémon in Tier 1, 3, 5, Mega, and Shadow Raids.
+- `research_tasks.json` - All available Field Research tasks and their possible rewards.
+- `rocket_lineups.json` - The complete lineups for Team GO Rocket Leaders and Grunts.
+- `egg_pool.json` - The current list of Pokémon hatching from each egg distance.
+- `events.json`- All current and upcoming events.
+- `archives/archive_YYYY.json` - Historical event data, organized by year.
 
 ### Example Data (`raid_bosses.json`)
 
