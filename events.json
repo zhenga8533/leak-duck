@@ -93,6 +93,17 @@
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-07-trade-days-tales-of-transformation/trade-days.jpg"
         }
     ],
+    "PokéStop Showcase": [
+        {
+            "title": "Farfetch'd, Mr. Mime, Kangaskhan, and Tauros PokéStop Showcases",
+            "category": "PokéStop Showcase",
+            "is_local_time": true,
+            "start_time": "2025-09-06T10:00:00",
+            "end_time": "2025-09-07T20:00:00",
+            "article_url": "https://leekduck.com/events/farfetchd-mr-mime-kangaskhan-tauros-showcase/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg"
+        }
+    ],
     "Max Mondays": [
         {
             "title": "Dynamax Trubbish during Max Monday",
