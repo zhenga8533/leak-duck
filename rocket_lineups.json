@@ -738,6 +738,11 @@
                     "name": "Nidorina",
                     "shiny_available": false,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm30.icon.png"
+                },
+                {
+                    "name": "Galarian Weezing",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm110.fGALARIAN.icon.png"
                 }
             ],
             "is_encounter": true
@@ -1060,7 +1065,7 @@
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm408.icon.png"
                 }
             ],
-            "is_encounter": true
+            "is_encounter": false
         },
         {
             "slot": 3,
@@ -1186,11 +1191,11 @@
                 },
                 {
                     "name": "Gabite",
-                    "shiny_available": true,
+                    "shiny_available": false,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm444.icon.png"
                 }
             ],
-            "is_encounter": true
+            "is_encounter": false
         },
         {
             "slot": 3,
@@ -1391,9 +1396,9 @@
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm110.fGALARIAN.icon.png"
                 },
                 {
-                    "name": "Gardevoir",
+                    "name": "Granbull",
                     "shiny_available": false,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm282.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm210.icon.png"
                 }
             ],
             "is_encounter": false
