@@ -1,118 +1,4 @@
 {
-    "Raid Day": [
-        {
-            "title": "Mega Sharpedo Raid Day",
-            "category": "Raid Day",
-            "is_local_time": true,
-            "start_time": "2025-09-07T14:00:00",
-            "end_time": "2025-09-07T17:00:00",
-            "article_url": "https://leekduck.com/events/mega-sharpedo-raid-day-september-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-07-mega-sharpedo-raid-day-september-2025/mega-sharpedo-raid-day.jpg"
-        },
-        {
-            "title": "Mega Raid Day",
-            "category": "Raid Day",
-            "is_local_time": true,
-            "start_time": "2025-09-28T10:00:00",
-            "end_time": "2025-09-28T20:00:00",
-            "article_url": "https://leekduck.com/events/mega-raid-day-september-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg"
-        }
-    ],
-    "Event": [
-        {
-            "title": "Kanto Celebration",
-            "category": "Event",
-            "is_local_time": true,
-            "start_time": "2025-09-02T10:00:00",
-            "end_time": "2025-09-07T20:00:00",
-            "article_url": "https://leekduck.com/events/kanto-celebration-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-02-kanto-celebration-2025/kanto-celebration.jpg"
-        },
-        {
-            "title": "Pokémon Concierge Celebration",
-            "category": "Event",
-            "is_local_time": true,
-            "start_time": "2025-09-09T10:00:00",
-            "end_time": "2025-09-14T20:00:00",
-            "article_url": "https://leekduck.com/events/pokemon-concierge-celebration/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-09-pokemon-concierge-celebration/pokemon-concierge-celebration.jpg"
-        },
-        {
-            "title": "Psychic Spectacular: Taken Over",
-            "category": "Event",
-            "is_local_time": true,
-            "start_time": "2025-09-16T10:00:00",
-            "end_time": "2025-09-21T20:00:00",
-            "article_url": "https://leekduck.com/events/psychic-spectacular-taken-over-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-16-psychic-spectacular-taken-over-2025/psychic-spectacular-taken-over-2025.jpg"
-        },
-        {
-            "title": "Completely Normal",
-            "category": "Event",
-            "is_local_time": true,
-            "start_time": "2025-09-23T10:00:00",
-            "end_time": "2025-09-27T20:00:00",
-            "article_url": "https://leekduck.com/events/completely-normal-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg"
-        },
-        {
-            "title": "Steel Skyline",
-            "category": "Event",
-            "is_local_time": true,
-            "start_time": "2025-09-30T10:00:00",
-            "end_time": "2025-10-07T20:00:00",
-            "article_url": "https://leekduck.com/events/steel-skyline-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg"
-        },
-        {
-            "title": "XP Celebration",
-            "category": "Event",
-            "is_local_time": true,
-            "start_time": "2025-08-25T13:00:00",
-            "end_time": "2025-10-14T23:59:00",
-            "article_url": "https://leekduck.com/events/xp-celebration-event-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-08-25-xp-celebration-event-2025/xp-event.jpg"
-        },
-        {
-            "title": "GO Battle Weekend: Tales of Transformation",
-            "category": "Event",
-            "is_local_time": true,
-            "start_time": "2025-10-25T00:00:00",
-            "end_time": "2025-10-26T23:59:00",
-            "article_url": "https://leekduck.com/events/go-battle-weekend-tales-of-transformation/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg"
-        },
-        {
-            "title": "Trade Days | Tales of Transformation",
-            "category": "Event",
-            "is_local_time": true,
-            "start_time": "2025-09-07T00:00:00",
-            "end_time": "2025-11-30T23:59:59",
-            "article_url": "https://leekduck.com/events/trade-days-tales-of-transformation/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-07-trade-days-tales-of-transformation/trade-days.jpg"
-        }
-    ],
-    "PokéStop Showcase": [
-        {
-            "title": "Farfetch'd, Mr. Mime, Kangaskhan, and Tauros PokéStop Showcases",
-            "category": "PokéStop Showcase",
-            "is_local_time": true,
-            "start_time": "2025-09-06T10:00:00",
-            "end_time": "2025-09-07T20:00:00",
-            "article_url": "https://leekduck.com/events/farfetchd-mr-mime-kangaskhan-tauros-showcase/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg"
-        },
-        {
-            "title": "Venusaur, Charizard, and Blastoise PokéStop Showcases",
-            "category": "PokéStop Showcase",
-            "is_local_time": true,
-            "start_time": "2025-09-08T10:00:00",
-            "end_time": "2025-09-10T20:00:00",
-            "article_url": "https://leekduck.com/events/venusaur-charizard-blastoise-showcase/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg"
-        }
-    ],
     "Max Mondays": [
         {
             "title": "Dynamax Trubbish during Max Monday",
@@ -411,6 +297,17 @@
             "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg"
         }
     ],
+    "PokéStop Showcase": [
+        {
+            "title": "Venusaur, Charizard, and Blastoise PokéStop Showcases",
+            "category": "PokéStop Showcase",
+            "is_local_time": true,
+            "start_time": "2025-09-08T10:00:00",
+            "end_time": "2025-09-10T20:00:00",
+            "article_url": "https://leekduck.com/events/venusaur-charizard-blastoise-showcase/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg"
+        }
+    ],
     "Community Day": [
         {
             "title": "Flabébé Community Day",
@@ -438,6 +335,71 @@
             "end_time": "2025-11-30T17:00:00",
             "article_url": "https://leekduck.com/events/november-communityday2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg"
+        }
+    ],
+    "Event": [
+        {
+            "title": "Pokémon Concierge Celebration",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-09-09T10:00:00",
+            "end_time": "2025-09-14T20:00:00",
+            "article_url": "https://leekduck.com/events/pokemon-concierge-celebration/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-09-pokemon-concierge-celebration/pokemon-concierge-celebration.jpg"
+        },
+        {
+            "title": "Psychic Spectacular: Taken Over",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-09-16T10:00:00",
+            "end_time": "2025-09-21T20:00:00",
+            "article_url": "https://leekduck.com/events/psychic-spectacular-taken-over-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-16-psychic-spectacular-taken-over-2025/psychic-spectacular-taken-over-2025.jpg"
+        },
+        {
+            "title": "Completely Normal",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-09-23T10:00:00",
+            "end_time": "2025-09-27T20:00:00",
+            "article_url": "https://leekduck.com/events/completely-normal-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg"
+        },
+        {
+            "title": "Steel Skyline",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-09-30T10:00:00",
+            "end_time": "2025-10-07T20:00:00",
+            "article_url": "https://leekduck.com/events/steel-skyline-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg"
+        },
+        {
+            "title": "XP Celebration",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-08-25T13:00:00",
+            "end_time": "2025-10-14T23:59:00",
+            "article_url": "https://leekduck.com/events/xp-celebration-event-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-08-25-xp-celebration-event-2025/xp-event.jpg"
+        },
+        {
+            "title": "GO Battle Weekend: Tales of Transformation",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-10-25T00:00:00",
+            "end_time": "2025-10-26T23:59:00",
+            "article_url": "https://leekduck.com/events/go-battle-weekend-tales-of-transformation/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg"
+        },
+        {
+            "title": "Trade Days | Tales of Transformation",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-09-07T00:00:00",
+            "end_time": "2025-11-30T23:59:59",
+            "article_url": "https://leekduck.com/events/trade-days-tales-of-transformation/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-07-trade-days-tales-of-transformation/trade-days.jpg"
         }
     ],
     "Raid Weekend": [
@@ -496,6 +458,17 @@
             "end_time": "2025-09-28T18:00:00",
             "article_url": "https://leekduck.com/events/pokemon-go-city-safari-vancouver-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-27-pokemon-go-city-safari-vancouver-2025/city-safari-vancouver-2025.jpg"
+        }
+    ],
+    "Raid Day": [
+        {
+            "title": "Mega Raid Day",
+            "category": "Raid Day",
+            "is_local_time": true,
+            "start_time": "2025-09-28T10:00:00",
+            "end_time": "2025-09-28T20:00:00",
+            "article_url": "https://leekduck.com/events/mega-raid-day-september-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg"
         }
     ],
     "GO Pass": [

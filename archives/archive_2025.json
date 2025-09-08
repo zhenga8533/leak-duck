@@ -18,5 +18,38 @@
             "article_url": "https://leekduck.com/events/go-pass-july-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-07-01-go-pass-july-2025/go-pass-july-2025.jpg"
         }
+    ],
+    "Raid Day": [
+        {
+            "title": "Mega Sharpedo Raid Day",
+            "category": "Raid Day",
+            "is_local_time": true,
+            "start_time": "2025-09-07T14:00:00",
+            "end_time": "2025-09-07T17:00:00",
+            "article_url": "https://leekduck.com/events/mega-sharpedo-raid-day-september-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-07-mega-sharpedo-raid-day-september-2025/mega-sharpedo-raid-day.jpg"
+        }
+    ],
+    "Event": [
+        {
+            "title": "Kanto Celebration",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-09-02T10:00:00",
+            "end_time": "2025-09-07T20:00:00",
+            "article_url": "https://leekduck.com/events/kanto-celebration-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-02-kanto-celebration-2025/kanto-celebration.jpg"
+        }
+    ],
+    "PokéStop Showcase": [
+        {
+            "title": "Farfetch'd, Mr. Mime, Kangaskhan, and Tauros PokéStop Showcases",
+            "category": "PokéStop Showcase",
+            "is_local_time": true,
+            "start_time": "2025-09-06T10:00:00",
+            "end_time": "2025-09-07T20:00:00",
+            "article_url": "https://leekduck.com/events/farfetchd-mr-mime-kangaskhan-tauros-showcase/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg"
+        }
     ]
 }
