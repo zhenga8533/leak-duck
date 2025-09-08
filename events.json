@@ -102,6 +102,15 @@
             "end_time": "2025-09-07T20:00:00",
             "article_url": "https://leekduck.com/events/farfetchd-mr-mime-kangaskhan-tauros-showcase/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg"
+        },
+        {
+            "title": "Venusaur, Charizard, and Blastoise PokéStop Showcases",
+            "category": "PokéStop Showcase",
+            "is_local_time": true,
+            "start_time": "2025-09-08T10:00:00",
+            "end_time": "2025-09-10T20:00:00",
+            "article_url": "https://leekduck.com/events/venusaur-charizard-blastoise-showcase/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg"
         }
     ],
     "Max Mondays": [
