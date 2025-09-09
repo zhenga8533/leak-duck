@@ -1,4 +1,71 @@
 {
+    "Pokémon Concierge Celebration Tasks": [
+        {
+            "task": "Catch 10 Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Corphish",
+                    "shiny_available": true,
+                    "cp_range": {
+                        "max": 527,
+                        "min": 490
+                    },
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm341.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Sealeo",
+                    "shiny_available": false,
+                    "cp_range": {
+                        "max": 735,
+                        "min": 690
+                    },
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm364.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Dedenne",
+                    "shiny_available": true,
+                    "cp_range": {
+                        "max": 789,
+                        "min": 743
+                    },
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm702.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Take 3 snapshots of wild Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Psyduck with a swim ring",
+                    "shiny_available": true,
+                    "cp_range": {
+                        "max": 474,
+                        "min": 439
+                    },
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm54.fSWIM_2025.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Win a raid",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Psyduck with a swim ring",
+                    "shiny_available": true,
+                    "cp_range": {
+                        "max": 474,
+                        "min": 439
+                    },
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm54.fSWIM_2025.icon.png"
+                }
+            ]
+        }
+    ],
     "Catching Tasks": [
         {
             "task": "Catch 7 Pokémon",
