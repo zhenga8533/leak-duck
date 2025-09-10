@@ -84,5 +84,16 @@
             "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_retro-cup-great-league-edition/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg"
         }
+    ],
+    "Pokémon Spotlight Hour": [
+        {
+            "title": "Trubbish Spotlight Hour",
+            "category": "Pokémon Spotlight Hour",
+            "is_local_time": true,
+            "start_time": "2025-09-09T18:00:00",
+            "end_time": "2025-09-09T19:00:00",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-09-09/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg"
+        }
     ]
 }
