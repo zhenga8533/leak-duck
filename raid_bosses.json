@@ -1,128 +1,109 @@
 {
     "Tier 1": [
         {
-            "name": "Tangela",
+            "name": "Pikachu",
             "tier": 1,
             "shiny_available": true,
             "cp_range": {
-                "min": 1212,
-                "max": 1278
+                "min": 493,
+                "max": 536
             },
             "boosted_cp_range": {
-                "min": 1515,
-                "max": 1598
+                "min": 616,
+                "max": 670
             },
             "types": [
-                "Grass"
+                "Electric"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm114.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.icon.png"
         },
         {
-            "name": "Staryu",
+            "name": "Magikarp",
             "tier": 1,
             "shiny_available": true,
             "cp_range": {
-                "min": 613,
-                "max": 661
+                "min": 132,
+                "max": 157
             },
             "boosted_cp_range": {
-                "min": 766,
-                "max": 826
+                "min": 165,
+                "max": 196
             },
             "types": [
                 "Water"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm120.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm129.icon.png"
         },
         {
-            "name": "Omanyte",
+            "name": "Shinx",
             "tier": 1,
             "shiny_available": true,
             "cp_range": {
-                "min": 826,
-                "max": 882
+                "min": 458,
+                "max": 500
             },
             "boosted_cp_range": {
-                "min": 1033,
-                "max": 1103
+                "min": 572,
+                "max": 625
             },
             "types": [
-                "Rock",
-                "Water"
+                "Electric"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm138.icon.png"
-        },
-        {
-            "name": "Kabuto",
-            "tier": 1,
-            "shiny_available": true,
-            "cp_range": {
-                "min": 730,
-                "max": 783
-            },
-            "boosted_cp_range": {
-                "min": 913,
-                "max": 979
-            },
-            "types": [
-                "Rock",
-                "Water"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm140.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm403.icon.png"
         }
     ],
     "Tier 3": [
         {
-            "name": "Pinsir",
+            "name": "Arcanine",
             "tier": 3,
-            "shiny_available": true,
+            "shiny_available": false,
             "cp_range": {
-                "min": 1613,
-                "max": 1690
+                "min": 1652,
+                "max": 1731
             },
             "boosted_cp_range": {
-                "min": 2016,
-                "max": 2113
+                "min": 2066,
+                "max": 2164
             },
             "types": [
-                "Bug"
+                "Fire"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm127.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm59.icon.png"
         },
         {
-            "name": "Lapras",
+            "name": "Dragonite",
             "tier": 3,
-            "shiny_available": true,
+            "shiny_available": false,
             "cp_range": {
-                "min": 1435,
-                "max": 1509
+                "min": 2079,
+                "max": 2167
             },
             "boosted_cp_range": {
-                "min": 1794,
-                "max": 1886
+                "min": 2599,
+                "max": 2709
             },
             "types": [
-                "Water",
-                "Ice"
+                "Dragon",
+                "Flying"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm131.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm149.icon.png"
         },
         {
-            "name": "Snorlax",
+            "name": "Luxray",
             "tier": 3,
-            "shiny_available": true,
+            "shiny_available": false,
             "cp_range": {
-                "min": 1760,
-                "max": 1843
+                "min": 1573,
+                "max": 1650
             },
             "boosted_cp_range": {
-                "min": 2201,
-                "max": 2304
+                "min": 1967,
+                "max": 2063
             },
             "types": [
-                "Normal"
+                "Electric"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm143.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm405.icon.png"
         }
     ],
     "Tier 5": [
@@ -147,75 +128,40 @@
     ],
     "Mega": [
         {
-            "name": "Mega Venusaur",
+            "name": "Mega Pidgeot",
             "tier": "Mega",
             "shiny_available": true,
             "cp_range": {
-                "min": 1480,
-                "max": 1554
+                "min": 1151,
+                "max": 1216
             },
             "boosted_cp_range": {
-                "min": 1851,
-                "max": 1943
+                "min": 1439,
+                "max": 1521
             },
             "types": [
-                "Grass",
-                "Poison"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm3.fMEGA.icon.png"
-        },
-        {
-            "name": "Mega Charizard X",
-            "tier": "Mega",
-            "shiny_available": true,
-            "cp_range": {
-                "min": 1574,
-                "max": 1651
-            },
-            "boosted_cp_range": {
-                "min": 1968,
-                "max": 2064
-            },
-            "types": [
-                "Fire",
-                "Dragon"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm6.fMEGA_X.icon.png"
-        },
-        {
-            "name": "Mega Charizard Y",
-            "tier": "Mega",
-            "shiny_available": true,
-            "cp_range": {
-                "min": 1574,
-                "max": 1651
-            },
-            "boosted_cp_range": {
-                "min": 1968,
-                "max": 2064
-            },
-            "types": [
-                "Fire",
+                "Normal",
                 "Flying"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm6.fMEGA_Y.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm18.fMEGA.icon.png"
         },
         {
-            "name": "Mega Blastoise",
+            "name": "Mega Gyarados",
             "tier": "Mega",
             "shiny_available": true,
             "cp_range": {
-                "min": 1338,
-                "max": 1409
+                "min": 1855,
+                "max": 1937
             },
             "boosted_cp_range": {
-                "min": 1673,
-                "max": 1761
+                "min": 2319,
+                "max": 2422
             },
             "types": [
-                "Water"
+                "Water",
+                "Dark"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm9.fMEGA.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm130.fMEGA.icon.png"
         }
     ],
     "Shadow Tier 1": [

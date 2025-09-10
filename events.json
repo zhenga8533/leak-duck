@@ -1,107 +1,4 @@
 {
-    "Max Mondays": [
-        {
-            "title": "Dynamax Trubbish during Max Monday",
-            "category": "Max Mondays",
-            "is_local_time": true,
-            "start_time": "2025-09-08T18:00:00",
-            "end_time": "2025-09-08T19:00:00",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-09-08/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg"
-        },
-        {
-            "title": "Dynamax Abra during Max Monday",
-            "category": "Max Mondays",
-            "is_local_time": true,
-            "start_time": "2025-09-15T18:00:00",
-            "end_time": "2025-09-15T19:00:00",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-09-15/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg"
-        },
-        {
-            "title": "Dynamax Chansey during Max Monday",
-            "category": "Max Mondays",
-            "is_local_time": true,
-            "start_time": "2025-09-22T18:00:00",
-            "end_time": "2025-09-22T19:00:00",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-09-22/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg"
-        },
-        {
-            "title": "Dynamax Beldum during Max Monday",
-            "category": "Max Mondays",
-            "is_local_time": true,
-            "start_time": "2025-09-29T18:00:00",
-            "end_time": "2025-09-29T19:00:00",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-09-29/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg"
-        }
-    ],
-    "Raid Battles": [
-        {
-            "title": "Mega Kanto Starters in Mega Raids",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-09-02T10:00:00",
-            "end_time": "2025-09-09T10:00:00",
-            "article_url": "https://leekduck.com/events/mega-kanto-starters-in-mega-raids-september-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg"
-        },
-        {
-            "title": "Palkia in 5-star Raid Battles",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-09-02T10:00:00",
-            "end_time": "2025-09-16T10:00:00",
-            "article_url": "https://leekduck.com/events/palkia-in-5-star-raid-battles-september-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/palkiaraid.jpg"
-        },
-        {
-            "title": "Mega Pidgeot and Mega Gyarados in Mega Raids",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-09-09T10:00:00",
-            "end_time": "2025-09-16T10:00:00",
-            "article_url": "https://leekduck.com/events/mega-pidgeot-gyarados-in-mega-raids-september-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg"
-        },
-        {
-            "title": "Mega Gardevoir, Latias, Latios, and Gallade in Mega Raids",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-09-16T10:00:00",
-            "end_time": "2025-09-23T10:00:00",
-            "article_url": "https://leekduck.com/events/mega-psychic-dragon-in-mega-raids-september-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg"
-        },
-        {
-            "title": "Mega Kangaskhan and Mega Lopunny in Mega Raids",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-09-23T10:00:00",
-            "end_time": "2025-09-30T10:00:00",
-            "article_url": "https://leekduck.com/events/mega-kangaskhan-lopunny-in-mega-raids-september-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg"
-        },
-        {
-            "title": "Dialga in 5-star Raid Battles",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-09-23T10:00:00",
-            "end_time": "2025-10-07T10:00:00",
-            "article_url": "https://leekduck.com/events/dialga-in-5-star-raid-battles-september-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/dialgaraids.jpg"
-        },
-        {
-            "title": "Mega Steelix, Scizor, and Lucario in Mega Raids",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-09-30T10:00:00",
-            "end_time": "2025-10-07T10:00:00",
-            "article_url": "https://leekduck.com/events/mega-steel-fighting-in-mega-raids-september-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg"
-        }
-    ],
     "GO Battle League": [
         {
             "title": "Great League and Retro Cup: Great League Edition | Tales of Transformation",
@@ -337,6 +234,17 @@
             "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg"
         }
     ],
+    "Research": [
+        {
+            "title": "Pokémon Concierge Bonus Timed Research",
+            "category": "Research",
+            "is_local_time": true,
+            "start_time": "2025-09-09T00:00:00",
+            "end_time": "2025-09-14T20:00:00",
+            "article_url": "https://leekduck.com/events/pokemon-concierge-bonus-timed-research/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-09-pokemon-concierge-bonus-timed-research/swim-ring-psyduck-promo.jpg"
+        }
+    ],
     "Event": [
         {
             "title": "Pokémon Concierge Celebration",
@@ -400,6 +308,91 @@
             "end_time": "2025-11-30T23:59:59",
             "article_url": "https://leekduck.com/events/trade-days-tales-of-transformation/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-07-trade-days-tales-of-transformation/trade-days.jpg"
+        }
+    ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Abra during Max Monday",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-09-15T18:00:00",
+            "end_time": "2025-09-15T19:00:00",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-09-15/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg"
+        },
+        {
+            "title": "Dynamax Chansey during Max Monday",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-09-22T18:00:00",
+            "end_time": "2025-09-22T19:00:00",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-09-22/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg"
+        },
+        {
+            "title": "Dynamax Beldum during Max Monday",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-09-29T18:00:00",
+            "end_time": "2025-09-29T19:00:00",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-09-29/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg"
+        }
+    ],
+    "Raid Battles": [
+        {
+            "title": "Palkia in 5-star Raid Battles",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-09-02T10:00:00",
+            "end_time": "2025-09-16T10:00:00",
+            "article_url": "https://leekduck.com/events/palkia-in-5-star-raid-battles-september-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/palkiaraid.jpg"
+        },
+        {
+            "title": "Mega Pidgeot and Mega Gyarados in Mega Raids",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-09-09T10:00:00",
+            "end_time": "2025-09-16T10:00:00",
+            "article_url": "https://leekduck.com/events/mega-pidgeot-gyarados-in-mega-raids-september-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg"
+        },
+        {
+            "title": "Mega Gardevoir, Latias, Latios, and Gallade in Mega Raids",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-09-16T10:00:00",
+            "end_time": "2025-09-23T10:00:00",
+            "article_url": "https://leekduck.com/events/mega-psychic-dragon-in-mega-raids-september-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg"
+        },
+        {
+            "title": "Mega Kangaskhan and Mega Lopunny in Mega Raids",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-09-23T10:00:00",
+            "end_time": "2025-09-30T10:00:00",
+            "article_url": "https://leekduck.com/events/mega-kangaskhan-lopunny-in-mega-raids-september-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg"
+        },
+        {
+            "title": "Dialga in 5-star Raid Battles",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-09-23T10:00:00",
+            "end_time": "2025-10-07T10:00:00",
+            "article_url": "https://leekduck.com/events/dialga-in-5-star-raid-battles-september-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/dialgaraids.jpg"
+        },
+        {
+            "title": "Mega Steelix, Scizor, and Lucario in Mega Raids",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-09-30T10:00:00",
+            "end_time": "2025-10-07T10:00:00",
+            "article_url": "https://leekduck.com/events/mega-steel-fighting-in-mega-raids-september-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg"
         }
     ],
     "Raid Weekend": [

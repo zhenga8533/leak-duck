@@ -62,5 +62,27 @@
             "article_url": "https://leekduck.com/events/max-mondays-2025-09-08/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg"
         }
+    ],
+    "Raid Battles": [
+        {
+            "title": "Mega Kanto Starters in Mega Raids",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-09-02T10:00:00",
+            "end_time": "2025-09-09T10:00:00",
+            "article_url": "https://leekduck.com/events/mega-kanto-starters-in-mega-raids-september-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg"
+        }
+    ],
+    "GO Battle League": [
+        {
+            "title": "Great League and Retro Cup: Great League Edition | Tales of Transformation",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1756843200,
+            "end_time": 1757448000,
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_retro-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg"
+        }
     ]
 }
