@@ -1,53 +1,4 @@
 {
-    "Raid Hour": [
-        {
-            "title": "Palkia (Origin Forme) Raid Hour",
-            "category": "Raid Hour",
-            "is_local_time": true,
-            "start_time": "2025-09-10T17:00:00",
-            "end_time": "2025-09-10T19:00:00",
-            "article_url": "https://leekduck.com/events/raidhour20250910/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg"
-        },
-        {
-            "title": "Mega Latias and Mega Latios Raid Hour",
-            "category": "Raid Hour",
-            "is_local_time": true,
-            "start_time": "2025-09-17T18:00:00",
-            "end_time": "2025-09-17T19:00:00",
-            "article_url": "https://leekduck.com/events/raidhour20250917/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg"
-        },
-        {
-            "title": "Dialga (Origin Forme) Raid Hour",
-            "category": "Raid Hour",
-            "is_local_time": true,
-            "start_time": "2025-09-24T18:00:00",
-            "end_time": "2025-09-24T19:00:00",
-            "article_url": "https://leekduck.com/events/raidhour20250924/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg"
-        },
-        {
-            "title": "Dialga (Origin Forme) Raid Hour",
-            "category": "Raid Hour",
-            "is_local_time": true,
-            "start_time": "2025-10-01T18:00:00",
-            "end_time": "2025-10-01T19:00:00",
-            "article_url": "https://leekduck.com/events/raidhour20251001/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg"
-        }
-    ],
-    "PokéStop Showcase": [
-        {
-            "title": "Venusaur, Charizard, and Blastoise PokéStop Showcases",
-            "category": "PokéStop Showcase",
-            "is_local_time": true,
-            "start_time": "2025-09-08T10:00:00",
-            "end_time": "2025-09-10T20:00:00",
-            "article_url": "https://leekduck.com/events/venusaur-charizard-blastoise-showcase/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg"
-        }
-    ],
     "Community Day": [
         {
             "title": "Flabébé Community Day",
@@ -375,6 +326,35 @@
             "end_time": "2025-09-30T19:00:00",
             "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-09-30/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg"
+        }
+    ],
+    "Raid Hour": [
+        {
+            "title": "Mega Latias and Mega Latios Raid Hour",
+            "category": "Raid Hour",
+            "is_local_time": true,
+            "start_time": "2025-09-17T18:00:00",
+            "end_time": "2025-09-17T19:00:00",
+            "article_url": "https://leekduck.com/events/raidhour20250917/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg"
+        },
+        {
+            "title": "Dialga (Origin Forme) Raid Hour",
+            "category": "Raid Hour",
+            "is_local_time": true,
+            "start_time": "2025-09-24T18:00:00",
+            "end_time": "2025-09-24T19:00:00",
+            "article_url": "https://leekduck.com/events/raidhour20250924/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg"
+        },
+        {
+            "title": "Dialga (Origin Forme) Raid Hour",
+            "category": "Raid Hour",
+            "is_local_time": true,
+            "start_time": "2025-10-01T18:00:00",
+            "end_time": "2025-10-01T19:00:00",
+            "article_url": "https://leekduck.com/events/raidhour20251001/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg"
         }
     ],
     "Raid Weekend": [
