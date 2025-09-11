@@ -1,161 +1,4 @@
 {
-    "GO Battle League": [
-        {
-            "title": "Great League and Retro Cup: Great League Edition | Tales of Transformation",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1756843200,
-            "end_time": 1757448000,
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_retro-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg"
-        },
-        {
-            "title": "Ultra League and Summer Cup: Great League Edition | Tales of Transformation",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1757448000,
-            "end_time": 1758052800,
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_ultra-league_summer-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg"
-        },
-        {
-            "title": "Master League: Mega Edition and Willpower Cup: Great League Edition | Tales of Transformation",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1758052800,
-            "end_time": 1758657600,
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_master-league-mega-edition_willpower-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg"
-        },
-        {
-            "title": "Great League, Ultra League, and Master League | Tales of Transformation",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1758657600,
-            "end_time": 1759262400,
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-1/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg"
-        },
-        {
-            "title": "Great League and Fantasy Cup: Great League Edition | Tales of Transformation",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1759262400,
-            "end_time": 1759867200,
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_fantasy-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg"
-        },
-        {
-            "title": "Ultra League and Jungle Cup: Great League Edition | Tales of Transformation",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1759867200,
-            "end_time": 1760472000,
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_ultra-league_jungle-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg"
-        },
-        {
-            "title": "Master Premier and Great League Remix | Tales of Transformation",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1760472000,
-            "end_time": 1761076800,
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_master-premier_great-league-remix/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg"
-        },
-        {
-            "title": "Great League, Ultra League, and Master League | Tales of Transformation",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1761076800,
-            "end_time": 1761681600,
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-2/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg"
-        },
-        {
-            "title": "Great League and Halloween Cup: Great League Edition | Tales of Transformation",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1761681600,
-            "end_time": 1762290000,
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_halloween-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg"
-        },
-        {
-            "title": "Ultra League and Jungle Cup: Great League Edition | Tales of Transformation",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1762290000,
-            "end_time": 1762894800,
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_ultra-league_jungle-cup-great-league-edition-2/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg"
-        },
-        {
-            "title": "Great League, Ultra League, and Master League | Tales of Transformation",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1762894800,
-            "end_time": 1763499600,
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-3/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg"
-        },
-        {
-            "title": "2025 Championship Series Cup and Master League: Mega Edition | Tales of Transformation",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1763499600,
-            "end_time": 1764104400,
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_2025-championship-series-cup_master-league-mega-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg"
-        },
-        {
-            "title": "Catch Cup: Tales of Transformation: Great Edition, Ultra League, and Master League | Tales of Transformation",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1764104400,
-            "end_time": 1764709200,
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_catch-cup-tales-of-transformation-great-edition_ultra-league_master-league/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg"
-        }
-    ],
-    "Pokémon Spotlight Hour": [
-        {
-            "title": "Trubbish Spotlight Hour",
-            "category": "Pokémon Spotlight Hour",
-            "is_local_time": true,
-            "start_time": "2025-09-09T18:00:00",
-            "end_time": "2025-09-09T19:00:00",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-09-09/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg"
-        },
-        {
-            "title": "Gothita Spotlight Hour",
-            "category": "Pokémon Spotlight Hour",
-            "is_local_time": true,
-            "start_time": "2025-09-16T18:00:00",
-            "end_time": "2025-09-16T19:00:00",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-09-16/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg"
-        },
-        {
-            "title": "Hoothoot Spotlight Hour",
-            "category": "Pokémon Spotlight Hour",
-            "is_local_time": true,
-            "start_time": "2025-09-23T18:00:00",
-            "end_time": "2025-09-23T19:00:00",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-09-23/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg"
-        },
-        {
-            "title": "Aron Spotlight Hour",
-            "category": "Pokémon Spotlight Hour",
-            "is_local_time": true,
-            "start_time": "2025-09-30T18:00:00",
-            "end_time": "2025-09-30T19:00:00",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-09-30/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg"
-        }
-    ],
     "Raid Hour": [
         {
             "title": "Palkia (Origin Forme) Raid Hour",
@@ -395,6 +238,145 @@
             "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg"
         }
     ],
+    "GO Battle League": [
+        {
+            "title": "Ultra League and Summer Cup: Great League Edition | Tales of Transformation",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1757448000,
+            "end_time": 1758052800,
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_ultra-league_summer-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg"
+        },
+        {
+            "title": "Master League: Mega Edition and Willpower Cup: Great League Edition | Tales of Transformation",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1758052800,
+            "end_time": 1758657600,
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_master-league-mega-edition_willpower-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg"
+        },
+        {
+            "title": "Great League, Ultra League, and Master League | Tales of Transformation",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1758657600,
+            "end_time": 1759262400,
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-1/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg"
+        },
+        {
+            "title": "Great League and Fantasy Cup: Great League Edition | Tales of Transformation",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1759262400,
+            "end_time": 1759867200,
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_fantasy-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg"
+        },
+        {
+            "title": "Ultra League and Jungle Cup: Great League Edition | Tales of Transformation",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1759867200,
+            "end_time": 1760472000,
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_ultra-league_jungle-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg"
+        },
+        {
+            "title": "Master Premier and Great League Remix | Tales of Transformation",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1760472000,
+            "end_time": 1761076800,
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_master-premier_great-league-remix/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg"
+        },
+        {
+            "title": "Great League, Ultra League, and Master League | Tales of Transformation",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1761076800,
+            "end_time": 1761681600,
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-2/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg"
+        },
+        {
+            "title": "Great League and Halloween Cup: Great League Edition | Tales of Transformation",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1761681600,
+            "end_time": 1762290000,
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_halloween-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg"
+        },
+        {
+            "title": "Ultra League and Jungle Cup: Great League Edition | Tales of Transformation",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1762290000,
+            "end_time": 1762894800,
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_ultra-league_jungle-cup-great-league-edition-2/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg"
+        },
+        {
+            "title": "Great League, Ultra League, and Master League | Tales of Transformation",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1762894800,
+            "end_time": 1763499600,
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-3/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg"
+        },
+        {
+            "title": "2025 Championship Series Cup and Master League: Mega Edition | Tales of Transformation",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1763499600,
+            "end_time": 1764104400,
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_2025-championship-series-cup_master-league-mega-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg"
+        },
+        {
+            "title": "Catch Cup: Tales of Transformation: Great Edition, Ultra League, and Master League | Tales of Transformation",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1764104400,
+            "end_time": 1764709200,
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_catch-cup-tales-of-transformation-great-edition_ultra-league_master-league/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg"
+        }
+    ],
+    "Pokémon Spotlight Hour": [
+        {
+            "title": "Gothita Spotlight Hour",
+            "category": "Pokémon Spotlight Hour",
+            "is_local_time": true,
+            "start_time": "2025-09-16T18:00:00",
+            "end_time": "2025-09-16T19:00:00",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-09-16/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg"
+        },
+        {
+            "title": "Hoothoot Spotlight Hour",
+            "category": "Pokémon Spotlight Hour",
+            "is_local_time": true,
+            "start_time": "2025-09-23T18:00:00",
+            "end_time": "2025-09-23T19:00:00",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-09-23/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg"
+        },
+        {
+            "title": "Aron Spotlight Hour",
+            "category": "Pokémon Spotlight Hour",
+            "is_local_time": true,
+            "start_time": "2025-09-30T18:00:00",
+            "end_time": "2025-09-30T19:00:00",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-09-30/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg"
+        }
+    ],
     "Raid Weekend": [
         {
             "title": "Shadow Groudon Raid Weekend",
@@ -455,13 +437,13 @@
     ],
     "Raid Day": [
         {
-            "title": "Mega Raid Day",
+            "title": "Mega Camerupt Raid Day",
             "category": "Raid Day",
             "is_local_time": true,
-            "start_time": "2025-09-28T10:00:00",
-            "end_time": "2025-09-28T20:00:00",
-            "article_url": "https://leekduck.com/events/mega-raid-day-september-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg"
+            "start_time": "2025-09-28T14:00:00",
+            "end_time": "2025-09-28T17:00:00",
+            "article_url": "https://leekduck.com/events/mega-camerupt-raid-day-september-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-28-mega-camerupt-raid-day-september-2025/mega-camerupt-raid-day.jpg?v2"
         }
     ],
     "GO Pass": [
