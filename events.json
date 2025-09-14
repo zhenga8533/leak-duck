@@ -104,6 +104,17 @@
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-07-trade-days-tales-of-transformation/trade-days.jpg"
         }
     ],
+    "PokéStop Showcase": [
+        {
+            "title": "Flabébé PokéStop Showcases",
+            "category": "PokéStop Showcase",
+            "is_local_time": true,
+            "start_time": "2025-09-13T10:00:00",
+            "end_time": "2025-09-14T20:00:00",
+            "article_url": "https://leekduck.com/events/flabebe-showcase/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg"
+        }
+    ],
     "Max Mondays": [
         {
             "title": "Dynamax Abra during Max Monday",
