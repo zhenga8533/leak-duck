@@ -19,6 +19,15 @@
             "end_time": "2025-09-07T20:00:00",
             "article_url": "https://leekduck.com/events/kanto-celebration-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-02-kanto-celebration-2025/kanto-celebration.jpg"
+        },
+        {
+            "title": "Pokémon Concierge Celebration",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-09-09T10:00:00",
+            "end_time": "2025-09-14T20:00:00",
+            "article_url": "https://leekduck.com/events/pokemon-concierge-celebration/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-09-pokemon-concierge-celebration/pokemon-concierge-celebration.jpg"
         }
     ],
     "PokéStop Showcase": [
@@ -38,6 +47,15 @@
             "start_time": "2025-09-08T10:00:00",
             "end_time": "2025-09-10T20:00:00",
             "article_url": "https://leekduck.com/events/venusaur-charizard-blastoise-showcase/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg"
+        },
+        {
+            "title": "Flabébé PokéStop Showcases",
+            "category": "PokéStop Showcase",
+            "is_local_time": true,
+            "start_time": "2025-09-13T10:00:00",
+            "end_time": "2025-09-14T20:00:00",
+            "article_url": "https://leekduck.com/events/flabebe-showcase/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg"
         }
     ],
@@ -94,6 +112,28 @@
             "end_time": "2025-09-10T19:00:00",
             "article_url": "https://leekduck.com/events/raidhour20250910/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg"
+        }
+    ],
+    "Community Day": [
+        {
+            "title": "Flabébé Community Day",
+            "category": "Community Day",
+            "is_local_time": true,
+            "start_time": "2025-09-14T14:00:00",
+            "end_time": "2025-09-14T17:00:00",
+            "article_url": "https://leekduck.com/events/september-communityday2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-14-september-communityday2025/september-cd-2025-flabebe.jpg"
+        }
+    ],
+    "Research": [
+        {
+            "title": "Pokémon Concierge Bonus Timed Research",
+            "category": "Research",
+            "is_local_time": true,
+            "start_time": "2025-09-09T00:00:00",
+            "end_time": "2025-09-14T20:00:00",
+            "article_url": "https://leekduck.com/events/pokemon-concierge-bonus-timed-research/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-09-pokemon-concierge-bonus-timed-research/swim-ring-psyduck-promo.jpg"
         }
     ]
 }

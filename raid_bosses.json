@@ -1,38 +1,56 @@
 {
     "Tier 1": [
         {
-            "name": "Pikachu",
+            "name": "Eevee",
             "tier": 1,
             "shiny_available": true,
             "cp_range": {
-                "min": 493,
-                "max": 536
+                "min": 565,
+                "max": 612
             },
             "boosted_cp_range": {
-                "min": 616,
-                "max": 670
+                "min": 707,
+                "max": 765
             },
             "types": [
-                "Electric"
+                "Normal"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm133.icon.png"
         },
         {
-            "name": "Magikarp",
+            "name": "Mudkip",
             "tier": 1,
             "shiny_available": true,
             "cp_range": {
-                "min": 132,
-                "max": 157
+                "min": 597,
+                "max": 644
             },
             "boosted_cp_range": {
-                "min": 165,
-                "max": 196
+                "min": 746,
+                "max": 805
             },
             "types": [
                 "Water"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm129.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm258.icon.png"
+        },
+        {
+            "name": "Wingull",
+            "tier": 1,
+            "shiny_available": true,
+            "cp_range": {
+                "min": 397,
+                "max": 437
+            },
+            "boosted_cp_range": {
+                "min": 497,
+                "max": 546
+            },
+            "types": [
+                "Water",
+                "Flying"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm278.icon.png"
         },
         {
             "name": "Shinx",
@@ -54,56 +72,58 @@
     ],
     "Tier 3": [
         {
-            "name": "Arcanine",
+            "name": "Skiploom",
             "tier": 3,
             "shiny_available": false,
             "cp_range": {
-                "min": 1652,
-                "max": 1731
+                "min": 513,
+                "max": 557
             },
             "boosted_cp_range": {
-                "min": 2066,
-                "max": 2164
+                "min": 641,
+                "max": 697
             },
             "types": [
-                "Fire"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm59.icon.png"
-        },
-        {
-            "name": "Dragonite",
-            "tier": 3,
-            "shiny_available": false,
-            "cp_range": {
-                "min": 2079,
-                "max": 2167
-            },
-            "boosted_cp_range": {
-                "min": 2599,
-                "max": 2709
-            },
-            "types": [
-                "Dragon",
+                "Grass",
                 "Flying"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm149.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm188.icon.png"
         },
         {
-            "name": "Luxray",
+            "name": "Graveler",
             "tier": 3,
             "shiny_available": false,
             "cp_range": {
-                "min": 1573,
-                "max": 1650
+                "min": 1023,
+                "max": 1084
             },
             "boosted_cp_range": {
-                "min": 1967,
-                "max": 2063
+                "min": 1278,
+                "max": 1355
             },
             "types": [
-                "Electric"
+                "Rock",
+                "Ground"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm405.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm75.icon.png"
+        },
+        {
+            "name": "Gyarados",
+            "tier": 3,
+            "shiny_available": true,
+            "cp_range": {
+                "min": 1855,
+                "max": 1937
+            },
+            "boosted_cp_range": {
+                "min": 2319,
+                "max": 2422
+            },
+            "types": [
+                "Water",
+                "Flying"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm130.icon.png"
         }
     ],
     "Tier 5": [
