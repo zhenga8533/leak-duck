@@ -401,13 +401,13 @@
     ],
     "Community Day": [
         {
-            "title": "October Community Day",
+            "title": "Solosis Community Day",
             "category": "Community Day",
             "is_local_time": true,
             "start_time": "2025-10-12T14:00:00",
             "end_time": "2025-10-12T17:00:00",
             "article_url": "https://leekduck.com/events/october-communityday2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg"
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-12-october-communityday2025/solosis-community-day-october.jpg"
         },
         {
             "title": "November Community Day",

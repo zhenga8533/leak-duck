@@ -36,9 +36,9 @@
             "slot": 3,
             "pokemons": [
                 {
-                    "name": "Giratina (Altered)",
+                    "name": "Tornadus (Incarnate)",
                     "shiny_available": false,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm487.fALTERED.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm641.fINCARNATE.icon.png"
                 }
             ],
             "is_encounter": true
@@ -49,9 +49,9 @@
             "slot": 1,
             "pokemons": [
                 {
-                    "name": "Cyndaquil",
+                    "name": "Larvitar",
                     "shiny_available": true,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm155.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm246.icon.png"
                 }
             ],
             "is_encounter": true
@@ -104,9 +104,9 @@
             "slot": 1,
             "pokemons": [
                 {
-                    "name": "Chikorita",
+                    "name": "Wobbuffet",
                     "shiny_available": true,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm152.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm202.icon.png"
                 }
             ],
             "is_encounter": true
@@ -159,9 +159,9 @@
             "slot": 1,
             "pokemons": [
                 {
-                    "name": "Totodile",
+                    "name": "Feebas",
                     "shiny_available": true,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm158.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm349.icon.png"
                 }
             ],
             "is_encounter": true
@@ -219,9 +219,9 @@
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm287.icon.png"
                 },
                 {
-                    "name": "Bidoof",
+                    "name": "Swablu",
                     "shiny_available": false,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm399.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm333.icon.png"
                 },
                 {
                     "name": "Bunnelby",
@@ -719,9 +719,9 @@
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm451.icon.png"
                 },
                 {
-                    "name": "Trubbish",
+                    "name": "Qwilfish",
                     "shiny_available": false,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm568.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm211.icon.png"
                 }
             ],
             "is_encounter": true
@@ -909,9 +909,9 @@
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm280.icon.png"
                 },
                 {
-                    "name": "Inkay",
+                    "name": "Baltoy",
                     "shiny_available": false,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm686.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm343.icon.png"
                 }
             ],
             "is_encounter": true
@@ -1159,9 +1159,9 @@
             "slot": 1,
             "pokemons": [
                 {
-                    "name": "Dratini",
-                    "shiny_available": true,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm147.icon.png"
+                    "name": "Deino",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm633.icon.png"
                 },
                 {
                     "name": "Bagon",
