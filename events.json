@@ -1,33 +1,4 @@
 {
-    "Max Mondays": [
-        {
-            "title": "Dynamax Abra during Max Monday",
-            "category": "Max Mondays",
-            "is_local_time": true,
-            "start_time": "2025-09-15T18:00:00",
-            "end_time": "2025-09-15T19:00:00",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-09-15/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg"
-        },
-        {
-            "title": "Dynamax Chansey during Max Monday",
-            "category": "Max Mondays",
-            "is_local_time": true,
-            "start_time": "2025-09-22T18:00:00",
-            "end_time": "2025-09-22T19:00:00",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-09-22/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg"
-        },
-        {
-            "title": "Dynamax Beldum during Max Monday",
-            "category": "Max Mondays",
-            "is_local_time": true,
-            "start_time": "2025-09-29T18:00:00",
-            "end_time": "2025-09-29T19:00:00",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-09-29/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg"
-        }
-    ],
     "Raid Battles": [
         {
             "title": "Palkia in 5-star Raid Battles",
@@ -328,6 +299,26 @@
             "end_time": "2025-09-21T22:00:00",
             "article_url": "https://leekduck.com/events/shadow-groudon-raid-weekend-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-20-shadow-groudon-raid-weekend-2025/groudon-shadow-raid-weekend-2025.jpg?v2"
+        }
+    ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Chansey during Max Monday",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-09-22T18:00:00",
+            "end_time": "2025-09-22T19:00:00",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-09-22/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg"
+        },
+        {
+            "title": "Dynamax Beldum during Max Monday",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-09-29T18:00:00",
+            "end_time": "2025-09-29T19:00:00",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-09-29/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg"
         }
     ],
     "City Safari": [

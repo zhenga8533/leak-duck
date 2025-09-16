@@ -68,6 +68,15 @@
             "end_time": "2025-09-08T19:00:00",
             "article_url": "https://leekduck.com/events/max-mondays-2025-09-08/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg"
+        },
+        {
+            "title": "Dynamax Abra during Max Monday",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-09-15T18:00:00",
+            "end_time": "2025-09-15T19:00:00",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-09-15/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg"
         }
     ],
     "Raid Battles": [

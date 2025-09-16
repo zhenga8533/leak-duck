@@ -206,7 +206,7 @@
         {
             "name": "Drowzee",
             "tier": 1,
-            "shiny_available": false,
+            "shiny_available": true,
             "cp_range": {
                 "min": 512,
                 "max": 594
@@ -296,7 +296,7 @@
         {
             "name": "Aerodactyl",
             "tier": 3,
-            "shiny_available": false,
+            "shiny_available": true,
             "cp_range": {
                 "min": 1456,
                 "max": 1590
