@@ -137,6 +137,15 @@
             "end_time": "2025-09-09T19:00:00",
             "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-09-09/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg"
+        },
+        {
+            "title": "Gothita Spotlight Hour",
+            "category": "Pokémon Spotlight Hour",
+            "is_local_time": true,
+            "start_time": "2025-09-16T18:00:00",
+            "end_time": "2025-09-16T19:00:00",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-09-16/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg"
         }
     ],
     "Raid Hour": [
