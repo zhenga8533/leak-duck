@@ -341,6 +341,15 @@
             "end_time": "2025-09-28T17:00:00",
             "article_url": "https://leekduck.com/events/mega-camerupt-raid-day-september-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-28-mega-camerupt-raid-day-september-2025/mega-camerupt-raid-day.jpg?v2"
+        },
+        {
+            "title": "Mega Metagross Raid Day",
+            "category": "Raid Day",
+            "is_local_time": true,
+            "start_time": "2025-10-04T14:00:00",
+            "end_time": "2025-10-04T17:00:00",
+            "article_url": "https://leekduck.com/events/mega-metagross-raid-day-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-04-mega-metagross-raid-day-october-2025/mega-metagross-raid-day.jpg"
         }
     ],
     "GO Pass": [
