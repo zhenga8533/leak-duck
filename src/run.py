@@ -1,5 +1,17 @@
+import concurrent.futures
+
 from archiver import EventArchiver
 from scrapers import EggScraper, EventScraper, RaidBossScraper, ResearchScraper, RocketLineupScraper
+
+
+def run_scraper(scraper_class):
+    try:
+        print(f"--- Running {scraper_class.__name__} ---")
+        scraper_instance = scraper_class()
+        scraper_instance.run()
+        return f"Successfully ran {scraper_class.__name__}"
+    except Exception as e:
+        return f"!!! ERROR running {scraper_class.__name__}: {e} !!!"
 
 
 def main():
@@ -8,13 +20,10 @@ def main():
 
     scrapers_to_run = [RaidBossScraper, ResearchScraper, RocketLineupScraper, EggScraper, EventScraper]
 
-    for scraper_class in scrapers_to_run:
-        try:
-            print(f"--- Running {scraper_class.__name__} ---")
-            scraper_instance = scraper_class()
-            scraper_instance.run()
-        except Exception as e:
-            print(f"!!! ERROR running {scraper_class.__name__}: {e} !!!")
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+        results = executor.map(run_scraper, scrapers_to_run)
+        for result in results:
+            print(result)
 
     print("--- All scrapers finished ---")
 

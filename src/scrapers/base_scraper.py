@@ -11,14 +11,18 @@ class BaseScraper(ABC):
     def __init__(self, url, file_name):
         self.url = url
         self.raw_html_path = os.path.join("html", f"{file_name}.html")
-
-        json_dir = "." if os.getenv("CI") else "json"
-        if not os.path.exists(json_dir) and json_dir != ".":
-            os.makedirs(json_dir)
-
-        self.json_path = os.path.join(json_dir, f"{file_name}.json")
+        self.json_path = os.path.join("json" if not os.getenv("CI") else ".", f"{file_name}.json")
+        self.cache_duration = 3600  # 1 hour
 
     def _fetch_html(self):
+        # Check for cached file in local environment
+        if not os.getenv("CI") and os.path.exists(self.raw_html_path):
+            file_mod_time = os.path.getmtime(self.raw_html_path)
+            if time.time() - file_mod_time < self.cache_duration:
+                print(f"Using cached HTML for {self.url}")
+                with open(self.raw_html_path, "r", encoding="utf-8") as f:
+                    return BeautifulSoup(f.read(), "lxml")
+
         retries = 3
         delay = 5
         for attempt in range(retries):
@@ -35,7 +39,7 @@ class BaseScraper(ABC):
                         f.write(response.text)
                     print(f"Saved raw HTML to {self.raw_html_path}")
 
-                return BeautifulSoup(response.content, "html.parser")
+                return BeautifulSoup(response.content, "lxml")
             except requests.exceptions.RequestException as e:
                 print(f"Error fetching {self.url}: {e}")
                 if attempt < retries - 1:
@@ -47,9 +51,9 @@ class BaseScraper(ABC):
         return None
 
     def save_to_json(self, data):
-        if data is None or not data:
-            print(f"No data found for {self.json_path}. Saving an empty file.")
-            data = {}
+        json_dir = os.path.dirname(self.json_path)
+        if not os.path.exists(json_dir):
+            os.makedirs(json_dir)
 
         print(f"Saving data to {self.json_path}...")
         with open(self.json_path, "w", encoding="utf-8") as f:
@@ -66,4 +70,4 @@ class BaseScraper(ABC):
             data = self.parse(soup)
             self.save_to_json(data)
         else:
-            self.save_to_json(None)
+            self.save_to_json({})
