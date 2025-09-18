@@ -4,8 +4,8 @@ from .base_scraper import BaseScraper
 
 
 class EggScraper(BaseScraper):
-    def __init__(self):
-        super().__init__("https://leekduck.com/eggs/", "egg_pool")
+    def __init__(self, url, file_name, scraper_settings):
+        super().__init__(url, file_name, scraper_settings)
 
     def parse(self, soup):
         egg_pool = {}

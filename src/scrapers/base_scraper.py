@@ -8,23 +8,16 @@ from bs4 import BeautifulSoup
 
 
 class BaseScraper(ABC):
-    def __init__(self, url, file_name):
+    def __init__(self, url, file_name, scraper_settings):
         self.url = url
         self.raw_html_path = os.path.join("html", f"{file_name}.html")
         self.json_path = os.path.join("json" if not os.getenv("CI") else ".", f"{file_name}.json")
-        self.cache_duration = 3600  # 1 hour
+        self.scraper_settings = scraper_settings
 
     def _fetch_html(self):
-        # Check for cached file in local environment
-        if not os.getenv("CI") and os.path.exists(self.raw_html_path):
-            file_mod_time = os.path.getmtime(self.raw_html_path)
-            if time.time() - file_mod_time < self.cache_duration:
-                print(f"Using cached HTML for {self.url}")
-                with open(self.raw_html_path, "r", encoding="utf-8") as f:
-                    return BeautifulSoup(f.read(), "lxml")
+        retries = self.scraper_settings.get("retries", 3)
+        delay = self.scraper_settings.get("delay", 5)
 
-        retries = 3
-        delay = 5
         for attempt in range(retries):
             print(f"Fetching HTML from {self.url} (Attempt {attempt + 1}/{retries})...")
             try:

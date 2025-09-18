@@ -4,8 +4,8 @@ from .base_scraper import BaseScraper
 
 
 class ResearchScraper(BaseScraper):
-    def __init__(self):
-        super().__init__("https://leekduck.com/research/", "research_tasks")
+    def __init__(self, url, file_name, scraper_settings):
+        super().__init__(url, file_name, scraper_settings)
 
     def parse(self, soup):
         research_data = {}

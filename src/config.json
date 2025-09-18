@@ -1,0 +1,38 @@
+{
+  "github": {
+    "user": "zhenga8533",
+    "repo": "leak-duck"
+  },
+  "scraper_settings": {
+    "retries": 3,
+    "delay": 5
+  },
+  "scrapers": {
+    "RaidBossScraper": {
+      "url": "https://leekduck.com/boss/",
+      "file_name": "raid_bosses",
+      "enabled": true
+    },
+    "ResearchScraper": {
+      "url": "https://leekduck.com/research/",
+      "file_name": "research_tasks",
+      "enabled": true
+    },
+    "RocketLineupScraper": {
+      "url": "https://leekduck.com/rocket-lineups/",
+      "file_name": "rocket_lineups",
+      "enabled": true
+    },
+    "EggScraper": {
+      "url": "https://leekduck.com/eggs/",
+      "file_name": "egg_pool",
+      "enabled": true
+    },
+    "EventScraper": {
+      "url": "https://leekduck.com/events/",
+      "file_name": "events",
+      "enabled": true,
+      "check_existing": true
+    }
+  }
+}

@@ -3,14 +3,34 @@ import datetime
 import re
 
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString
 
 from .base_scraper import BaseScraper
 
 
 class EventScraper(BaseScraper):
-    def __init__(self):
-        super().__init__("https://leekduck.com/events/", "events")
+    def __init__(self, url, file_name, scraper_settings, check_existing_events=False):
+        super().__init__(url, file_name, scraper_settings)
+        self.check_existing_events = check_existing_events
+        self.existing_event_urls = set()
+        if self.check_existing_events:
+            self._fetch_existing_events()
+
+    def _fetch_existing_events(self):
+        """
+        Fetches the current events.json from the data branch to avoid re-scraping existing events.
+        """
+        url = "https://raw.githubusercontent.com/zhenga8533/leak-duck/data/events.json"
+        try:
+            response = requests.get(url, timeout=15)
+            response.raise_for_status()
+            data = response.json()
+            for category in data.values():
+                for event in category:
+                    self.existing_event_urls.add(event["article_url"])
+            print(f"Found {len(self.existing_event_urls)} existing events.")
+        except (requests.exceptions.RequestException, ValueError) as e:
+            print(f"Could not fetch existing events: {e}")
 
     def _process_time_data(self, date_string, is_local):
         if not date_string or "calculating" in date_string.lower():
@@ -46,7 +66,7 @@ class EventScraper(BaseScraper):
             raids_header = soup.find("h2", id="raids")
             if raids_header:
                 next_element = raids_header.find_next_sibling("ul", class_="pkmn-list-flex")
-                if next_element:
+                if next_element and not isinstance(next_element, NavigableString):
                     for li in next_element.find_all("li", class_="pkmn-list-item"):
                         name_div = li.find("div", class_="pkmn-name")
                         if name_div:
@@ -58,7 +78,7 @@ class EventScraper(BaseScraper):
             shiny_header = soup.find("h2", id="shiny")
             if shiny_header:
                 next_element = shiny_header.find_next_sibling("ul", class_="pkmn-list-flex")
-                if next_element:
+                if next_element and not isinstance(next_element, NavigableString):
                     for li in next_element.find_all("li", class_="pkmn-list-item"):
                         name_div = li.find("div", class_="pkmn-name")
                         if name_div:
@@ -69,8 +89,8 @@ class EventScraper(BaseScraper):
             bonuses = []
             bonuses_header = soup.find("h2", string=re.compile(r"Event Bonuses", re.I))
             if bonuses_header:
-                next_element = bonuses_header.find_next_sibling()
-                if next_element and next_element.name == "ul":
+                next_element = bonuses_header.find_next_sibling("ul")
+                if next_element and not isinstance(next_element, NavigableString):
                     for li in next_element.find_all("li"):
                         bonuses.append(li.get_text(strip=True))
             event_details["bonuses"] = bonuses
@@ -79,7 +99,7 @@ class EventScraper(BaseScraper):
 
         except requests.exceptions.RequestException as e:
             print(f"Error fetching event page {url}: {e}")
-            return {"article_url": url}  # Return the URL to merge data later
+            return {"article_url": url}
 
     def parse(self, soup):
         events_to_scrape = []
@@ -96,6 +116,11 @@ class EventScraper(BaseScraper):
                 continue
 
             article_url = "https://leekduck.com" + link["href"]
+
+            if self.check_existing_events and article_url in self.existing_event_urls:
+                print(f"Skipping already scraped event: {article_url}")
+                continue
+
             events_to_scrape.append(
                 {
                     "title": title_element.get_text(strip=True),
@@ -132,9 +157,7 @@ class EventScraper(BaseScraper):
         all_events_data = {event["article_url"]: event for event in events_to_scrape}
 
         with concurrent.futures.ThreadPoolExecutor() as executor:
-            # Create a list of URLs to scrape
             urls_to_scrape = [event["article_url"] for event in events_to_scrape]
-            # Map the executor to the scraping function and URLs
             results = executor.map(self._scrape_event_page, urls_to_scrape)
             for result in results:
                 if result and result.get("article_url") in all_events_data:
