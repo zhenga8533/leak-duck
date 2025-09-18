@@ -1,8 +1,8 @@
 import concurrent.futures
-import datetime
-import re
 
 import requests
+
+from src.utils import clean_banner_url, process_time_data
 
 from .base_scraper import BaseScraper
 from .event_page_scraper import EventPageScraper
@@ -37,22 +37,6 @@ class EventScraper(BaseScraper):
         except (requests.exceptions.RequestException, ValueError) as e:
             print(f"Could not fetch existing events: {e}")
 
-    def _process_time_data(self, date_string, is_local):
-        if not date_string or "calculating" in date_string.lower():
-            return None
-        try:
-            if is_local:
-                return date_string[:19]
-            dt_object = datetime.datetime.fromisoformat(date_string)
-            return int(dt_object.timestamp())
-        except (ValueError, TypeError, IndexError):
-            return None
-
-    def _clean_banner_url(self, url):
-        if not url:
-            return None
-        return re.sub(r"cdn-cgi/image/.*?\/(?=assets)", "", url)
-
     def parse(self, soup):
         events_to_scrape = []
         event_links = soup.select("a.event-item-link")
@@ -77,13 +61,13 @@ class EventScraper(BaseScraper):
                     "title": title_element.get_text(strip=True),
                     "article_url": article_url,
                     "banner_url": (
-                        self._clean_banner_url(image_element["src"].strip())
+                        clean_banner_url(image_element["src"].strip())
                         if image_element and "src" in image_element.attrs
                         else None
                     ),
                     "category": category_element.get_text(strip=True) if category_element else "Event",
                     "start_time": (
-                        self._process_time_data(
+                        process_time_data(
                             time_period_element.get("data-event-start-date-check")
                             or time_period_element.get("data-event-start-date"),
                             time_period_element.get("data-event-local-time") == "true",
@@ -92,7 +76,7 @@ class EventScraper(BaseScraper):
                         else None
                     ),
                     "end_time": (
-                        self._process_time_data(
+                        process_time_data(
                             time_period_element.get("data-event-end-date"),
                             time_period_element.get("data-event-local-time") == "true",
                         )

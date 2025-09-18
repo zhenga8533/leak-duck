@@ -1,3 +1,4 @@
+import datetime
 import re
 
 
@@ -35,3 +36,21 @@ def parse_pokemon_list(container):
             pokemon_list.append({"name": name, "shiny_available": is_shiny, "asset_url": asset_url})
 
     return pokemon_list
+
+
+def process_time_data(date_string, is_local):
+    if not date_string or "calculating" in date_string.lower():
+        return None
+    try:
+        if is_local:
+            return date_string[:19]
+        dt_object = datetime.datetime.fromisoformat(date_string)
+        return int(dt_object.timestamp())
+    except (ValueError, TypeError, IndexError):
+        return None
+
+
+def clean_banner_url(url):
+    if not url:
+        return None
+    return re.sub(r"cdn-cgi/image/.*?\/(?=assets)", "", url)
