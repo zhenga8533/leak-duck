@@ -1,5 +1,7 @@
 import re
 
+from src.utils import parse_cp_range
+
 from .base_scraper import BaseScraper
 
 
@@ -45,21 +47,16 @@ class ResearchScraper(BaseScraper):
                     if reward_type == "encounter":
                         is_shiny = reward_element.find("img", class_="shiny-icon") is not None
                         cp_values_element = reward_element.find("span", class_="cp-values")
-                        max_cp, min_cp = None, None
-                        if cp_values_element:
-                            max_cp_text = cp_values_element.find("span", class_="max-cp").get_text(strip=True)
-                            min_cp_text = cp_values_element.find("span", class_="min-cp").get_text(strip=True)
-                            max_cp_match = re.search(r"\d+", max_cp_text)
-                            min_cp_match = re.search(r"\d+", min_cp_text)
-                            max_cp = int(max_cp_match.group()) if max_cp_match else None
-                            min_cp = int(min_cp_match.group()) if min_cp_match else None
+
+                        cp_text = cp_values_element.get_text(strip=True) if cp_values_element else ""
+                        cp_range = parse_cp_range(cp_text)
 
                         rewards_list.append(
                             {
                                 "type": "encounter",
                                 "name": label_text,
                                 "shiny_available": is_shiny,
-                                "cp_range": {"max": max_cp, "min": min_cp} if max_cp else None,
+                                "cp_range": cp_range,
                                 "asset_url": asset_url,
                             }
                         )

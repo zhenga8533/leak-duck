@@ -1,20 +1,13 @@
 import re
 
+from src.utils import parse_cp_range
+
 from .base_scraper import BaseScraper
 
 
 class RaidBossScraper(BaseScraper):
     def __init__(self, url, file_name, scraper_settings):
         super().__init__(url, file_name, scraper_settings)
-
-    def _parse_cp_range(self, cp_string):
-        if not cp_string or "-" not in cp_string:
-            return None
-
-        numbers = re.findall(r"\d+", cp_string)
-        if len(numbers) == 2:
-            return {"min": int(numbers[0]), "max": int(numbers[1])}
-        return None
 
     def parse(self, soup):
         raid_data = {}
@@ -55,8 +48,8 @@ class RaidBossScraper(BaseScraper):
                     "name": name,
                     "tier": tier_value,
                     "shiny_available": is_shiny,
-                    "cp_range": self._parse_cp_range(cp_range_str),
-                    "boosted_cp_range": self._parse_cp_range(boosted_cp_str),
+                    "cp_range": parse_cp_range(cp_range_str),
+                    "boosted_cp_range": parse_cp_range(boosted_cp_str),
                     "types": types,
                     "asset_url": asset_url,
                 }

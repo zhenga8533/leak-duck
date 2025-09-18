@@ -1,8 +1,12 @@
 import concurrent.futures
 import json
+import os
+import sys
 
-import scrapers
-from archiver import EventArchiver
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+from src import scrapers
+from src.archiver import EventArchiver
 
 
 def load_config():

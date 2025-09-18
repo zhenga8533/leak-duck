@@ -1,3 +1,5 @@
+from src.utils import parse_pokemon_list
+
 from .base_scraper import BaseScraper
 
 
@@ -18,23 +20,12 @@ class RocketLineupScraper(BaseScraper):
             lineups[leader_name] = []
 
             slots = profile.select(".lineup-info .slot")
-
             for i, slot in enumerate(slots, 1):
-                pokemon_in_slot = []
-                pokemon_elements = slot.find_all("span", class_="shadow-pokemon")
-
-                for p in pokemon_elements:
-                    pokemon_name = p["data-pokemon"]
-                    is_shiny = p.find("svg", class_="shiny-icon") is not None
-                    asset_url = p.select_one("img.pokemon-image")["src"]
-
-                    pokemon_in_slot.append({"name": pokemon_name, "shiny_available": is_shiny, "asset_url": asset_url})
+                pokemon_in_slot = parse_pokemon_list(slot)
 
                 if pokemon_in_slot:
                     is_encounter_slot = "encounter" in slot.get("class", [])
-
                     lineups[leader_name].append(
                         {"slot": i, "pokemons": pokemon_in_slot, "is_encounter": is_encounter_slot}
                     )
-
         return lineups
