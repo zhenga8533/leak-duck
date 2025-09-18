@@ -26,6 +26,8 @@ def run_scraper(scraper_info):
         }
         if scraper_class_name == "EventScraper":
             scraper_args["check_existing_events"] = config["scrapers"]["EventScraper"].get("check_existing", False)
+            scraper_args["github_user"] = config["github"]["user"]
+            scraper_args["github_repo"] = config["github"]["repo"]
 
         scraper_instance = scraper_class(**scraper_args)
         scraper_instance.run()
