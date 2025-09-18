@@ -60,12 +60,13 @@
         },
         {
             "title": "Psyduck, Arcanine, Shinx, and Sealeo PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/psyduck-arcanine-shinx-sealeo-showcase/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
             "category": "PokéStop Showcase",
-            "is_local_time": true,
             "start_time": "2025-09-15T10:00:00",
             "end_time": "2025-09-17T20:00:00",
-            "article_url": "https://leekduck.com/events/psyduck-arcanine-shinx-sealeo-showcase/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg"
+            "is_local_time": true,
+            "description": "There will be PokéStop Showcases featuring Psyduck, Arcanine, Hisuian Arcanine, Shinx, and Sealeo. Top the leaderboard to win rewards including Premium Items!"
         }
     ],
     "Max Mondays": [
@@ -169,12 +170,13 @@
         },
         {
             "title": "Mega Latias and Mega Latios Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20250917/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
             "category": "Raid Hour",
-            "is_local_time": true,
             "start_time": "2025-09-17T18:00:00",
             "end_time": "2025-09-17T19:00:00",
-            "article_url": "https://leekduck.com/events/raidhour20250917/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg"
+            "is_local_time": true,
+            "description": "A Raid Hour featuring Mega Latias and Mega Latios is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of Mega Raids."
         }
     ],
     "Community Day": [
