@@ -62,52 +62,60 @@ class EventScraper(BaseScraper):
 
             event_details = {"article_url": url}
             content = soup.find("div", class_="page-content")
-            if not content:
+
+            if not content or isinstance(content, NavigableString):
                 return event_details
 
-            # --- Data Extraction Logic ---
-
-            # 1. Scrape Main Description
             description_div = content.find("div", class_="event-description")
-            if description_div:
+            if description_div and not isinstance(description_div, NavigableString):
                 description_texts = [p.get_text(strip=True) for p in description_div.find_all("p", recursive=False)]
                 event_details["description"] = "\n".join(description_texts)
 
-            # 2. Iterate Through Main Sections
-            main_sections = content.find_all("h2", class_="event-section-header")
+            if isinstance(content, NavigableString):
+                main_sections = []
+            else:
+                main_sections = content.find_all("h2", class_="event-section-header")
             for section in main_sections:
                 section_id = section.get("id")
                 if not section_id:
                     continue
 
-                # Find all content between this header and the next main header
                 next_element = section.find_next_sibling()
-                while next_element and not (
-                    next_element.name == "h2" and "event-section-header" in next_element.get("class", [])
-                ):
+                while next_element:
+                    # FIX: Check for NavigableString before accessing any attributes.
+                    if isinstance(next_element, NavigableString):
+                        next_element = next_element.find_next_sibling()
+                        continue
+
+                    # Now that we know it's a Tag, we can safely access its attributes.
+                    if next_element.name == "h2" and "event-section-header" in next_element.get("class", []):
+                        break
+
                     # Scrape Pokémon Lists
                     if next_element.name == "ul" and "pkmn-list-flex" in next_element.get("class", []):
-                        pokemon_list = set()
-                        for li in next_element.find_all("li", class_="pkmn-list-item"):
-                            name_div = li.find("div", class_="pkmn-name")
-                            if name_div:
-                                pokemon_list.add(name_div.get_text(strip=True))
+                        pokemon_list = {
+                            li.find("div", class_="pkmn-name").get_text(strip=True)
+                            for li in next_element.find_all("li", class_="pkmn-list-item")
+                            if li.find("div", class_="pkmn-name")
+                        }
                         if pokemon_list:
                             event_details.setdefault(section_id, []).extend(sorted(list(pokemon_list)))
 
                     # Scrape Bonus Lists
                     if next_element.name == "div" and "bonus-list" in next_element.get("class", []):
-                        bonuses = set()
-                        for item in next_element.find_all("div", class_="bonus-text"):
-                            bonuses.add(item.get_text(strip=True).strip("*"))
+                        bonuses = {
+                            item.get_text(strip=True) for item in next_element.find_all("div", class_="bonus-text")
+                        }
                         if bonuses:
-                            event_details.setdefault(section_id, []).extend(sorted(list(bonuses)))
+                            event_details.setdefault("bonuses", []).extend(sorted(list(bonuses)))
 
                     next_element = next_element.find_next_sibling()
 
-                # Clean up duplicates within the section
                 if section_id in event_details:
                     event_details[section_id] = sorted(list(set(event_details[section_id])))
+
+            if "bonuses" in event_details:
+                event_details["bonuses"] = sorted(list(set(event_details["bonuses"])))
 
             return event_details
 
