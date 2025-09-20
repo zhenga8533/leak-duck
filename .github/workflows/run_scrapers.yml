@@ -23,17 +23,39 @@ jobs:
           python-version: "3.13"
 
       - name: Install dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y google-chrome-stable
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Run archiver and scrapers
         run: python src/run.py
 
       - name: Commit and push JSON to data branch
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Automated data update"
-          file_pattern: "*.json archives/"
-          branch: "data"
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Temporarily move all new data out of the way
+          mkdir -p ./temp_data
+          if ls *.json 1> /dev/null 2>&1; then
+            mv *.json ./temp_data/
+          fi
+          if [ -d "./archives" ]; then
+            mv archives ./temp_data/
+          fi
+
+          # Prepare the data branch
+          git fetch
+          git checkout -f data
+
+          # Move the new data back, overwriting old files if they exist
+          if [ -d "./temp_data" ]; then
+            cp -r ./temp_data/* .
+            rm -rf ./temp_data
+          fi
+
+          # Specifically add only the data files and folders
+          git add *.json
+          git add archives/
+
+          # Commit and push
+          git commit -m "Automated data update" || echo "No changes to commit"
+          git push origin data
