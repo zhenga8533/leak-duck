@@ -17,7 +17,6 @@ class EventScraper(BaseScraper):
         self.github_user = github_user
         self.github_repo = github_repo
         self.existing_event_urls = set()
-        self.existing_events_data = {}
         if self.check_existing_events:
             self._fetch_existing_events()
 
@@ -31,14 +30,12 @@ class EventScraper(BaseScraper):
             response = requests.get(data_url, timeout=15)
             response.raise_for_status()
             data = response.json()
-            self.existing_events_data = data
             for category in data.values():
                 for event in category:
                     self.existing_event_urls.add(event["article_url"])
             print(f"Found {len(self.existing_event_urls)} existing events.")
         except (requests.exceptions.RequestException, ValueError) as e:
             print(f"Could not fetch existing events: {e}")
-            self.existing_events_data = {}
 
     # A new function to scrape a single event page safely
     def _scrape_single_event(self, url):
@@ -88,18 +85,11 @@ class EventScraper(BaseScraper):
                     if result and result.get("article_url") in all_events_data:
                         all_events_data[result["article_url"]].update(result)
 
-        new_events_by_category = {}
+        events_by_category = {}
         for event in all_events_data.values():
             category = event["category"]
-            if category not in new_events_by_category:
-                new_events_by_category[category] = []
-            new_events_by_category[category].append(event)
+            if category not in events_by_category:
+                events_by_category[category] = []
+            events_by_category[category].append(event)
 
-        # Merge new events with existing events
-        merged_events = self.existing_events_data.copy()
-        for category, events in new_events_by_category.items():
-            if category not in merged_events:
-                merged_events[category] = []
-            merged_events[category].extend(events)
-
-        return merged_events
+        return events_by_category

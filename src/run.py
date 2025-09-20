@@ -10,9 +10,7 @@ from src.archiver import EventArchiver
 
 
 def load_config():
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    config_path = os.path.join(script_dir, "config.json")
-    with open(config_path, "r") as f:
+    with open("config.json", "r") as f:
         return json.load(f)
 
 
@@ -24,6 +22,7 @@ def run_scraper(scraper_info):
         print(f"--- Running {scraper_class_name} ---")
         scraper_class = getattr(scrapers, scraper_class_name)
 
+        # Prepare arguments for the scraper
         scraper_args = {
             "url": config["scrapers"][scraper_class_name]["url"],
             "file_name": config["scrapers"][scraper_class_name]["file_name"],
