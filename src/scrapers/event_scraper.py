@@ -2,7 +2,7 @@ import concurrent.futures
 
 import requests
 
-from src.utils import clean_banner_url, process_time_data
+from src.utils import clean_banner_url
 
 from .base_scraper import BaseScraper
 from .event_page_scraper import EventPageScraper
@@ -37,13 +37,18 @@ class EventScraper(BaseScraper):
         except (requests.exceptions.RequestException, ValueError) as e:
             print(f"Could not fetch existing events: {e}")
 
+    # A new function to scrape a single event page safely
+    def _scrape_single_event(self, url):
+        scraper = EventPageScraper()
+        result = scraper.scrape(url)
+        scraper.close()
+        return result
+
     def parse(self, soup):
         events_to_scrape = []
         event_links = soup.select("a.event-item-link")
 
         for link in event_links:
-            wrapper = link.find_parent("span", class_="event-header-item-wrapper")
-            time_period_element = wrapper.find("h5", class_="event-header-time-period") if wrapper else None
             title_element = link.select_one("div.event-text h2")
             image_element = link.select_one(".event-img-wrapper img")
             category_element = link.select_one(".event-item-wrapper > p")
@@ -66,36 +71,16 @@ class EventScraper(BaseScraper):
                         else None
                     ),
                     "category": category_element.get_text(strip=True) if category_element else "Event",
-                    "start_time": (
-                        process_time_data(
-                            time_period_element.get("data-event-start-date-check")
-                            or time_period_element.get("data-event-start-date"),
-                            time_period_element.get("data-event-local-time") == "true",
-                        )
-                        if time_period_element
-                        else None
-                    ),
-                    "end_time": (
-                        process_time_data(
-                            time_period_element.get("data-event-end-date"),
-                            time_period_element.get("data-event-local-time") == "true",
-                        )
-                        if time_period_element
-                        else None
-                    ),
-                    "is_local_time": (
-                        time_period_element.get("data-event-local-time") == "true" if time_period_element else False
-                    ),
                 }
             )
 
         all_events_data = {event["article_url"]: event for event in events_to_scrape}
 
         if events_to_scrape:
-            event_page_scraper = EventPageScraper()
+            # The executor now calls the new helper function for thread-safety
             with concurrent.futures.ThreadPoolExecutor() as executor:
                 urls_to_scrape = [event["article_url"] for event in events_to_scrape]
-                results = executor.map(event_page_scraper.scrape, urls_to_scrape)
+                results = executor.map(self._scrape_single_event, urls_to_scrape)
                 for result in results:
                     if result and result.get("article_url") in all_events_data:
                         all_events_data[result["article_url"]].update(result)
