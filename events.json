@@ -1,67 +1,13 @@
 {
-    "Raid Hour": [
-        {
-            "title": "Mega Latias and Mega Latios Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20250917/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "start_time": "2025-09-17T18:00:00",
-            "end_time": "2025-09-17T19:00:00",
-            "is_local_time": true,
-            "description": "A Raid Hour featuring Mega Latias and Mega Latios is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of Mega Raids."
-        },
-        {
-            "title": "Dialga (Origin Forme) Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20250924/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "start_time": "2025-09-24T18:00:00",
-            "end_time": null,
-            "is_local_time": true,
-            "description": "A Raid Hour featuring Dialga (Origin Forme) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids.\nOrigin Forme Dialga caught during Raid Hour may know the Charged Attack Roar of Time."
-        },
-        {
-            "title": "Dialga (Origin Forme) Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20251001/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "start_time": "2025-10-01T18:00:00",
-            "end_time": null,
-            "is_local_time": true,
-            "description": "A Raid Hour featuring Dialga (Origin Forme) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids.\nOrigin Forme Dialga caught during Raid Hour may know the Charged Attack Roar of Time."
-        }
-    ],
-    "PokéStop Showcase": [
-        {
-            "title": "Psyduck, Arcanine, Shinx, and Sealeo PokéStop Showcases",
-            "article_url": "https://leekduck.com/events/psyduck-arcanine-shinx-sealeo-showcase/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "start_time": "2025-09-15T10:00:00",
-            "end_time": "2025-09-17T20:00:00",
-            "is_local_time": true,
-            "description": "There will be PokéStop Showcases featuring Psyduck, Arcanine, Hisuian Arcanine, Shinx, and Sealeo. Top the leaderboard to win rewards including Premium Items!"
-        },
-        {
-            "title": "Indeedee PokéStop Showcases",
-            "article_url": "https://leekduck.com/events/indeedee-showcase/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "start_time": "2025-09-20T10:00:00",
-            "end_time": null,
-            "is_local_time": true,
-            "description": "There will be PokéStop Showcases featuring Indeedee (Male) and Indeedee (Female). Top the leaderboard to win rewards including Premium Items!"
-        }
-    ],
     "Event": [
         {
             "title": "Psychic Spectacular: Taken Over",
             "article_url": "https://leekduck.com/events/psychic-spectacular-taken-over-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-16-psychic-spectacular-taken-over-2025/psychic-spectacular-taken-over-2025.jpg",
             "category": "Event",
+            "is_local_time": true,
             "start_time": "2025-09-16T10:00:00",
             "end_time": "2025-09-21T20:00:00",
-            "is_local_time": true,
             "description": "The Psychic Spectacular: Taken Over event arrives, featuring Indeedee’s debut! Face Team GO Rocket, save Shadow Incarnate Forme Tornadus, and enjoy special bonuses throughout the event!",
             "bonuses": [
                 "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
@@ -129,9 +75,9 @@
             "article_url": "https://leekduck.com/events/completely-normal-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-23-completely-normal-2025/completely-normal.jpg",
             "category": "Event",
-            "start_time": "2025-09-23T10:00:00",
-            "end_time": null,
             "is_local_time": true,
+            "start_time": "2025-09-23T10:00:00",
+            "end_time": "2025-09-27T20:00:00",
             "description": "The Land Snake Pokémon Dudunsparce will make its Pokémon GO debut! Enjoy event bonuses, wild encounters, and more during this completely normal event.",
             "bonuses": [
                 "2× Candy for catching Pokémon",
@@ -156,9 +102,9 @@
             "article_url": "https://leekduck.com/events/steel-skyline-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-30-steel-skyline-2025/steel-skyline.jpg",
             "category": "Event",
-            "start_time": "2025-09-30T10:00:00",
-            "end_time": null,
             "is_local_time": true,
+            "start_time": "2025-09-30T10:00:00",
+            "end_time": "2025-10-07T20:00:00",
             "description": "Dynamax Duraludon makes its Pokémon GO debut during Steel Skyline! Complete Global Challenges, encounter Steel-type Pokémon, and participate in Max Battles.",
             "features": [
                 "Duraludon"
@@ -194,9 +140,9 @@
             "article_url": "https://leekduck.com/events/xp-celebration-event-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-08-25-xp-celebration-event-2025/xp-event.jpg",
             "category": "Event",
+            "is_local_time": true,
             "start_time": "2025-08-25T13:00:00",
             "end_time": "2025-10-14T23:59:00",
-            "is_local_time": true,
             "description": "Prepare for Pokémon GO’s new leveling journey with massive XP bonuses and exclusive Timed Research!\nThis event is designed to help Trainers prepare for the upcoming level cap increase from 50 to 80, launching onOctober 15, 2025.",
             "bonuses": [
                 "+3,000 XP from winning Max Battles",
@@ -209,9 +155,9 @@
             "article_url": "https://leekduck.com/events/go-battle-weekend-tales-of-transformation/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
             "category": "Event",
-            "start_time": "2025-10-25T00:00:00",
-            "end_time": null,
             "is_local_time": true,
+            "start_time": "2025-10-25T00:00:00",
+            "end_time": "2025-10-26T23:59:00",
             "description": "The following leagues will be active."
         },
         {
@@ -219,9 +165,9 @@
             "article_url": "https://leekduck.com/events/trade-days-tales-of-transformation/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-07-trade-days-tales-of-transformation/trade-days.jpg",
             "category": "Event",
-            "start_time": "2025-09-07T00:00:00",
-            "end_time": "2025-11-30T23:59:59",
             "is_local_time": true,
+            "start_time": "2025-09-07T00:00:00",
+            "end_time": "2025-11-30T23:59:00",
             "description": "Enjoy trade bonuses every Sunday throughout Tales of Transformation!\nOn Sundays from September 7 to November 30, 2025, Trainers will get a pile of trade bonuses, including one additional Special Trade!",
             "bonuses": [
                 "-10% Stardust cost for trades",
@@ -231,15 +177,27 @@
             ]
         }
     ],
+    "PokéStop Showcase": [
+        {
+            "title": "Indeedee PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/indeedee-showcase/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "is_local_time": true,
+            "start_time": "2025-09-20T10:00:00",
+            "end_time": "2025-09-21T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Indeedee (Male) and Indeedee (Female). Top the leaderboard to win rewards including Premium Items!"
+        }
+    ],
     "Raid Weekend": [
         {
             "title": "Shadow Groudon Raid Weekend",
             "article_url": "https://leekduck.com/events/shadow-groudon-raid-weekend-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-20-shadow-groudon-raid-weekend-2025/groudon-shadow-raid-weekend-2025.jpg?v2",
             "category": "Raid Weekend",
-            "start_time": "2025-09-20T06:00:00",
-            "end_time": null,
             "is_local_time": true,
+            "start_time": "2025-09-20T06:00:00",
+            "end_time": "2025-09-21T22:00:00",
             "description": "Band together and save Shadow Groudon from Team GO Rocket during a Shadow Raid Weekend event!",
             "bonuses": [
                 "2× Stardust from Raid Battles",
@@ -258,9 +216,9 @@
             "article_url": "https://leekduck.com/events/max-mondays-2025-09-22/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
             "category": "Max Mondays",
-            "start_time": "2025-09-22T18:00:00",
-            "end_time": null,
             "is_local_time": true,
+            "start_time": "2025-09-22T18:00:00",
+            "end_time": "2025-09-22T19:00:00",
             "description": "These Dynamax Pokémon may appear in Max Battles throughout Delightful Days. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOnSeptember 22, 2025, the featured Dynamax Pokémon isChansey."
         },
         {
@@ -268,9 +226,9 @@
             "article_url": "https://leekduck.com/events/max-mondays-2025-09-29/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
             "category": "Max Mondays",
-            "start_time": "2025-09-29T18:00:00",
-            "end_time": null,
             "is_local_time": true,
+            "start_time": "2025-09-29T18:00:00",
+            "end_time": "2025-09-29T19:00:00",
             "description": "These Dynamax Pokémon may appear in Max Battles throughout Delightful Days. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOnSeptember 29, 2025, the featured Dynamax Pokémon isBeldum."
         }
     ],
@@ -280,9 +238,9 @@
             "article_url": "https://leekduck.com/events/mega-psychic-dragon-in-mega-raids-september-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
             "category": "Raid Battles",
+            "is_local_time": true,
             "start_time": "2025-09-16T10:00:00",
             "end_time": "2025-09-23T10:00:00",
-            "is_local_time": true,
             "description": "Mega Gardevoir, Mega Latias, Mega Latios, and Mega Gallade return to Mega Raids on September 16, 2025, at 10 am local time.",
             "raids": [
                 "Mega Gallade",
@@ -306,9 +264,9 @@
             "article_url": "https://leekduck.com/events/mega-kangaskhan-lopunny-in-mega-raids-september-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
             "category": "Raid Battles",
-            "start_time": "2025-09-23T10:00:00",
-            "end_time": null,
             "is_local_time": true,
+            "start_time": "2025-09-23T10:00:00",
+            "end_time": "2025-09-30T10:00:00",
             "description": "Mega Kangaskhan and Mega Lopunny return to Mega Raids on September 23, 2025, at 10 am local time.",
             "raids": [
                 "Mega Kangaskhan",
@@ -326,9 +284,9 @@
             "article_url": "https://leekduck.com/events/dialga-in-5-star-raid-battles-september-october-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/dialgaraids.jpg",
             "category": "Raid Battles",
-            "start_time": "2025-09-23T10:00:00",
-            "end_time": null,
             "is_local_time": true,
+            "start_time": "2025-09-23T10:00:00",
+            "end_time": "2025-10-07T10:00:00",
             "description": "Dialga will be in five-star raid battles from September 23, 2025 to October 7, 2025.\nThere will also be a Raid Hour featuring Origin Forme Dialga from 6:00 pm to 7:00 pm local time on the following dates:",
             "raids": [
                 "Dialga"
@@ -342,9 +300,9 @@
             "article_url": "https://leekduck.com/events/mega-steel-fighting-in-mega-raids-september-october-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
             "category": "Raid Battles",
-            "start_time": "2025-09-30T10:00:00",
-            "end_time": null,
             "is_local_time": true,
+            "start_time": "2025-09-30T10:00:00",
+            "end_time": "2025-10-07T10:00:00",
             "description": "Mega Steelix, Mega Scizor, and Mega Lucario return to Mega Raids on September 30, 2025, at 10 am local time.",
             "raids": [
                 "Mega Lucario",
@@ -367,9 +325,9 @@
             "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_master-league-mega-edition_willpower-cup-great-league-edition/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
             "category": "GO Battle League",
+            "is_local_time": false,
             "start_time": 1758052800,
             "end_time": 1758657600,
-            "is_local_time": false,
             "description": "The Master League: Mega Edition and Willpower Cup: Great League Edition will run from September 16, 2025, at 1:00 p.m. to September 23, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\nThe following Pokémon will not be allowed."
         },
         {
@@ -377,9 +335,9 @@
             "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-1/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
             "category": "GO Battle League",
-            "start_time": 1758657600,
-            "end_time": null,
             "is_local_time": false,
+            "start_time": 1758657600,
+            "end_time": 1759262400,
             "description": "The Great League, Ultra League, and Master League will run from September 23, 2025, at 1:00 p.m. to September 30, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
         },
         {
@@ -387,9 +345,9 @@
             "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_fantasy-cup-great-league-edition/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
             "category": "GO Battle League",
-            "start_time": 1759262400,
-            "end_time": null,
             "is_local_time": false,
+            "start_time": 1759262400,
+            "end_time": 1759867200,
             "description": "The Great League and Fantasy Cup: Great League Edition will run from September 30, 2025, at 1:00 p.m. to October 7, 2025, at 1:00 p.m. PT."
         },
         {
@@ -397,9 +355,9 @@
             "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_ultra-league_jungle-cup-great-league-edition/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
             "category": "GO Battle League",
-            "start_time": 1759867200,
-            "end_time": null,
             "is_local_time": false,
+            "start_time": 1759867200,
+            "end_time": 1760472000,
             "description": "The Ultra League and Jungle Cup: Great League Edition will run from October 7, 2025, at 1:00 p.m. to October 14, 2025, at 1:00 p.m. PT.\nThe following Pokémon will not be allowed."
         },
         {
@@ -407,9 +365,9 @@
             "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_master-premier_great-league-remix/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
             "category": "GO Battle League",
-            "start_time": 1760472000,
-            "end_time": null,
             "is_local_time": false,
+            "start_time": 1760472000,
+            "end_time": 1761076800,
             "description": "The Master Premier and Great League Remix will run from October 14, 2025, at 1:00 p.m. to October 21, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\nCheck back later for more details."
         },
         {
@@ -417,9 +375,9 @@
             "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-2/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
             "category": "GO Battle League",
-            "start_time": 1761076800,
-            "end_time": null,
             "is_local_time": false,
+            "start_time": 1761076800,
+            "end_time": 1761681600,
             "description": "The Great League, Ultra League, and Master League will run from October 21, 2025, at 1:00 p.m. to October 28, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
         },
         {
@@ -427,9 +385,9 @@
             "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_halloween-cup-great-league-edition/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
             "category": "GO Battle League",
-            "start_time": 1761681600,
-            "end_time": null,
             "is_local_time": false,
+            "start_time": 1761681600,
+            "end_time": 1762290000,
             "description": "The Great League and Halloween Cup: Great League Edition will run from October 28, 2025, at 1:00 p.m. to November 4, 2025, at 1:00 p.m. PT."
         },
         {
@@ -437,9 +395,9 @@
             "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_ultra-league_jungle-cup-great-league-edition-2/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
             "category": "GO Battle League",
-            "start_time": 1762290000,
-            "end_time": null,
             "is_local_time": false,
+            "start_time": 1762290000,
+            "end_time": 1762894800,
             "description": "The Ultra League and Jungle Cup: Great League Edition will run from November 4, 2025, at 1:00 p.m. to November 11, 2025, at 1:00 p.m. PT.\nThe following Pokémon will not be allowed."
         },
         {
@@ -447,9 +405,9 @@
             "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-3/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
             "category": "GO Battle League",
-            "start_time": 1762894800,
-            "end_time": null,
             "is_local_time": false,
+            "start_time": 1762894800,
+            "end_time": 1763499600,
             "description": "The Great League, Ultra League, and Master League will run from November 11, 2025, at 1:00 p.m. to November 18, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
         },
         {
@@ -457,9 +415,9 @@
             "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_2025-championship-series-cup_master-league-mega-edition/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
             "category": "GO Battle League",
-            "start_time": 1763499600,
-            "end_time": null,
             "is_local_time": false,
+            "start_time": 1763499600,
+            "end_time": 1764104400,
             "description": "The 2025 Championship Series Cup and Master League: Mega Edition will run from November 18, 2025, at 1:00 p.m. to November 25, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\nThe following Pokémon will not be allowed."
         },
         {
@@ -467,9 +425,9 @@
             "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_catch-cup-tales-of-transformation-great-edition_ultra-league_master-league/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
             "category": "GO Battle League",
-            "start_time": 1764104400,
-            "end_time": null,
             "is_local_time": false,
+            "start_time": 1764104400,
+            "end_time": 1764709200,
             "description": "The Catch Cup: Tales of Transformation: Great Edition, Ultra League, and Master League will run from November 25, 2025, at 1:00 p.m. to December 2, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
         }
     ],
@@ -479,9 +437,9 @@
             "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-09-23/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
             "category": "Pokémon Spotlight Hour",
-            "start_time": "2025-09-23T18:00:00",
-            "end_time": null,
             "is_local_time": true,
+            "start_time": "2025-09-23T18:00:00",
+            "end_time": "2025-09-23T19:00:00",
             "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of September.\nSeptember 23: The featured Pokémon isHoothootand the special bonus is2× Catch Candy.",
             "spawns": [
                 "Hoothoot"
@@ -492,13 +450,35 @@
             "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-09-30/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
             "category": "Pokémon Spotlight Hour",
-            "start_time": "2025-09-30T18:00:00",
-            "end_time": null,
             "is_local_time": true,
+            "start_time": "2025-09-30T18:00:00",
+            "end_time": "2025-09-30T19:00:00",
             "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of September.\nSeptember 30: The featured Pokémon isAronand the special bonus is2× Transfer Candy.",
             "spawns": [
                 "Aron"
             ]
+        }
+    ],
+    "Raid Hour": [
+        {
+            "title": "Dialga (Origin Forme) Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20250924/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "is_local_time": true,
+            "start_time": "2025-09-24T18:00:00",
+            "end_time": "2025-09-24T19:00:00",
+            "description": "A Raid Hour featuring Dialga (Origin Forme) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids.\nOrigin Forme Dialga caught during Raid Hour may know the Charged Attack Roar of Time."
+        },
+        {
+            "title": "Dialga (Origin Forme) Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20251001/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "is_local_time": true,
+            "start_time": "2025-10-01T18:00:00",
+            "end_time": "2025-10-01T19:00:00",
+            "description": "A Raid Hour featuring Dialga (Origin Forme) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids.\nOrigin Forme Dialga caught during Raid Hour may know the Charged Attack Roar of Time."
         }
     ],
     "City Safari": [
@@ -507,9 +487,9 @@
             "article_url": "https://leekduck.com/events/pokemon-go-city-safari-bangkok-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-27-pokemon-go-city-safari-bangkok-2025/city-safari-bangkok-2025.jpg",
             "category": "City Safari",
-            "start_time": "2025-09-27T10:00:00",
-            "end_time": null,
             "is_local_time": true,
+            "start_time": "2025-09-27T10:00:00",
+            "end_time": "2025-09-28T18:00:00",
             "description": "Pokémon GO City Safari is coming to Bangkok, Thailand, on September 27 and 28, 2025! Set off on a citywide adventure as you discover the vibrant stories, new friends, and exciting Pokémon waiting for you in Bangkok!\nWhether you’re a resident of Bangkok or a first-time visitor, your Pokémon GO City Safari will take you across the city in an all-new way—from historic landmarks to local favorites, get ready for a taste of the city with Pokémon GO by your side!\nOne-day Tickets are ฿285 (including any applicable taxes and fees) on either September 27, 2025 or September 28, 2025, from 10 am to 6 pm ICT.",
             "bonuses": [
                 "1 additional Candy XL awarded for catching Pokémon in five-star raids and Mega Raids (Trainers level 31+)",
@@ -575,9 +555,9 @@
             "article_url": "https://leekduck.com/events/pokemon-go-city-safari-amsterdam-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-27-pokemon-go-city-safari-amsterdam-2025/city-safari-amsterdam-2025.jpg",
             "category": "City Safari",
-            "start_time": "2025-09-27T10:00:00",
-            "end_time": null,
             "is_local_time": true,
+            "start_time": "2025-09-27T10:00:00",
+            "end_time": "2025-09-28T18:00:00",
             "description": "Pokémon GO City Safari is coming to Amsterdam, the Netherlands, on September 27 and 28, 2025! Set off on a citywide adventure as you discover the vibrant stories, new friends, and exciting Pokémon waiting for you in Amsterdam!\nWhether you’re a resident of Amsterdam or a first-time visitor, your Pokémon GO City Safari will take you across the city in an all-new way—from historic landmarks to local favorites, get ready for a taste of the city with Pokémon GO by your side!\nOne-day Tickets are €10 (including any applicable taxes and fees) on either September 27, 2025 or September 28, 2025, from 10 am to 6 pm CEST.",
             "bonuses": [
                 "1 additional Candy XL awarded for catching Pokémon in five-star raids and Mega Raids (Trainers level 31+)",
@@ -643,9 +623,9 @@
             "article_url": "https://leekduck.com/events/pokemon-go-city-safari-valencia-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-27-pokemon-go-city-safari-valencia-2025/city-safari-valencia-2025.jpg",
             "category": "City Safari",
-            "start_time": "2025-09-27T10:00:00",
-            "end_time": null,
             "is_local_time": true,
+            "start_time": "2025-09-27T10:00:00",
+            "end_time": "2025-09-28T18:00:00",
             "description": "Pokémon GO City Safari is coming to Valencia, Spain, on September 27 and 28, 2025! Set off on a citywide adventure as you discover the vibrant stories, new friends, and exciting Pokémon waiting for you in Valencia!\nWhether you’re a resident of Valencia or a first-time visitor, your Pokémon GO City Safari will take you across the city in an all-new way—from historic landmarks to local favorites, get ready for a taste of the city with Pokémon GO by your side!\nOne-day Tickets are €10 (including any applicable taxes and fees) on either September 27, 2025 or September 28, 2025, from 10 am to 6 pm CEST.",
             "bonuses": [
                 "1 additional Candy XL awarded for catching Pokémon in five-star raids and Mega Raids (Trainers level 31+)",
@@ -711,9 +691,9 @@
             "article_url": "https://leekduck.com/events/pokemon-go-city-safari-cancun-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-27-pokemon-go-city-safari-cancun-2025/city-safari-cancun-2025.jpg",
             "category": "City Safari",
-            "start_time": "2025-09-27T10:00:00",
-            "end_time": null,
             "is_local_time": true,
+            "start_time": "2025-09-27T10:00:00",
+            "end_time": "2025-09-28T18:00:00",
             "description": "Pokémon GO City Safari is coming to Cancún, Mexico, on September 27 and 28, 2025! Set off on a citywide adventure as you discover the vibrant stories, new friends, and exciting Pokémon waiting for you in Cancún!\nWhether you’re a resident of Cancún or a first-time visitor, your Pokémon GO City Safari will take you across the city in an all-new way—from historic landmarks to local favorites, get ready for a taste of the city with Pokémon GO by your side!\nOne-day Tickets are MX$190 (including any applicable taxes and fees) on either September 27, 2025 or September 28, 2025, from 10 am to 6 pm EST.",
             "bonuses": [
                 "1 additional Candy XL awarded for catching Pokémon in five-star raids and Mega Raids (Trainers level 31+)",
@@ -779,9 +759,9 @@
             "article_url": "https://leekduck.com/events/pokemon-go-city-safari-vancouver-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-27-pokemon-go-city-safari-vancouver-2025/city-safari-vancouver-2025.jpg",
             "category": "City Safari",
-            "start_time": "2025-09-27T10:00:00",
-            "end_time": null,
             "is_local_time": true,
+            "start_time": "2025-09-27T10:00:00",
+            "end_time": "2025-09-28T18:00:00",
             "description": "Pokémon GO City Safari is coming to Vancouver, Canada, on September 27 and 28, 2025! Set off on a citywide adventure as you discover the vibrant stories, new friends, and exciting Pokémon waiting for you in Vancouver!\nWhether you’re a resident of Vancouver or a first-time visitor, your Pokémon GO City Safari will take you across the city in an all-new way—from historic landmarks to local favorites, get ready for a taste of the city with Pokémon GO by your side!\nOne-day Tickets are CA$14 (including any applicable taxes and fees) on either September 27, 2025 or September 28, 2025, from 10 am to 6 pm PDT.",
             "bonuses": [
                 "1 additional Candy XL awarded for catching Pokémon in five-star raids and Mega Raids (Trainers level 31+)",
@@ -849,9 +829,9 @@
             "article_url": "https://leekduck.com/events/mega-camerupt-raid-day-september-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-28-mega-camerupt-raid-day-september-2025/mega-camerupt-raid-day.jpg?v2",
             "category": "Raid Day",
-            "start_time": "2025-09-28T14:00:00",
-            "end_time": null,
             "is_local_time": true,
+            "start_time": "2025-09-28T14:00:00",
+            "end_time": "2025-09-28T17:00:00",
             "description": "Mega Camerupt charges in for its Pokémon GO debut!",
             "bonuses": [
                 "2× Stardust from Raid Battles",
@@ -878,9 +858,9 @@
             "article_url": "https://leekduck.com/events/mega-metagross-raid-day-october-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-04-mega-metagross-raid-day-october-2025/mega-metagross-raid-day.jpg",
             "category": "Raid Day",
-            "start_time": "2025-10-04T14:00:00",
-            "end_time": null,
             "is_local_time": true,
+            "start_time": "2025-10-04T14:00:00",
+            "end_time": "2025-10-04T17:00:00",
             "description": "Link up for a battle of the minds on Mega Metagross Raid Day!",
             "bonuses": [
                 "2× Stardust from Raid Battles",
@@ -909,9 +889,9 @@
             "article_url": "https://leekduck.com/events/go-pass-september-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-02-go-pass-september-2025/go-pass-september-2025.jpg",
             "category": "GO Pass",
+            "is_local_time": true,
             "start_time": "2025-09-02T10:00:00",
             "end_time": "2025-10-07T10:00:00",
-            "is_local_time": true,
             "description": "Cobalion shines in the September GO Pass!\nFrom Tuesday, September 2, at 10:00 a.m. to Tuesday, October 7, at 10:00 a.m. local time, the new GO Pass and GO Pass Deluxe for September will be available in Pokémon GO!",
             "bonuses": [
                 "2× Daily Adventure Incense duration",
@@ -931,9 +911,9 @@
             "article_url": "https://leekduck.com/events/october-communityday2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-12-october-communityday2025/solosis-community-day-october.jpg",
             "category": "Community Day",
-            "start_time": "2025-10-12T14:00:00",
-            "end_time": null,
             "is_local_time": true,
+            "start_time": "2025-10-12T14:00:00",
+            "end_time": "2025-10-12T17:00:00",
             "description": "Solosis, the Cell Pokémon, will be featured during October Community Day!",
             "bonuses": [
                 "1-hour Lures***",
@@ -963,9 +943,9 @@
             "article_url": "https://leekduck.com/events/november-communityday2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
             "category": "Community Day",
-            "start_time": "2025-11-30T14:00:00",
-            "end_time": null,
             "is_local_time": true,
+            "start_time": "2025-11-30T14:00:00",
+            "end_time": "2025-11-30T17:00:00",
             "description": "November Community Day is on November 30, 2025. Stay tuned for the announcement of the featured Pokémon."
         }
     ],
@@ -975,9 +955,9 @@
             "article_url": "https://leekduck.com/events/pokemon-go-wild-area-2025-nagasaki-japan/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-07-pokemon-go-wild-area-2025-nagasaki-japan/wild-area-2025-nagasaki-key-art.jpg",
             "category": "Wild Area",
-            "start_time": 1762473600,
-            "end_time": null,
             "is_local_time": false,
+            "start_time": 1762473600,
+            "end_time": 1762675200,
             "description": "In this next chapter of Pokémon GO Wild Area, get ready to test your skills once again as you encounter Dark- and Fairy-type Pokémon, including Grimmsnarl, the Bulk Up Pokémon! Plus, exceptionally powerful Pokémon known as mighty Pokémon are appearing in the wild—use GO Wild Area–exclusive GO Safari Balls to improve your odds of catching these rare Pokémon.\nAll event gameplay is exclusive to ticket holders.\nTickets for Pokémon GO Wild Area: Nagasaki are now available on theNiantic events portal.\n(including applicable taxes and fees)\nLocation:A citywide experience across Nagasaki City, JapanDates:November 7, 8, or 9, 2025Time:9:00 a.m. – 5:00 p.m. JST\nTickets for Pokémon GO Wild Area: Nagasaki include one day of event gameplay, and attendees may purchase add-ons that extend the gameplay for an additional day. One-day tickets are ¥3,600 (or the equivalent pricing tier in your local currency, including applicable taxes and fees). Event gameplay will be available only at the date, time, and location specified on your ticket.\nNote:Tickets to this event are nonrefundable (subject to applicable law and the exceptions set forth in the Terms of Service). Tickets are first come, first served and are available for purchase while supplies last.",
             "bonuses": [
                 "1 additional Candy XL for catching Pokémon in Max Battles (Trainers level 31+)",
@@ -1126,9 +1106,9 @@
             "article_url": "https://leekduck.com/events/pokemon-go-wild-area-2025-global/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-15-pokemon-go-wild-area-2025-global/wild-area-2025-global-key-art.jpg",
             "category": "Wild Area",
-            "start_time": "2025-11-15T10:00:00",
-            "end_time": null,
             "is_local_time": true,
+            "start_time": "2025-11-15T10:00:00",
+            "end_time": "2025-11-16T18:00:00",
             "description": "Trainers around the world can gear up for a worldwide adventure during Pokémon GO Wild Area: Global, available in-game for two days only!\nLooking to enhance your GO Wild Area weekend with exclusive Special Research, additional bonuses, and an increased chance of encountering Shiny Pokémon? Purchase a global event ticket from the Pokémon GO Web Store!\nTickets for Pokémon GO Wild Area: Global are available now in the in-game Shop andPokémon Go Web Storefor$11.99 USD.\nTrainers who purchase their Pokémon GO Wild Area: Global ticket on the Pokémon GO Web Store will receive a special avatar item—the Flower Crown!\nYou can purchase your ticket on the web store until the last day of the event to receive this avatar item.\nFor details on the in-person event in Nagasaki, Japan,click here.",
             "bonuses": [
                 "1/2 Hatch Distance for Eggs placed in Incubators during the event",
@@ -1260,9 +1240,9 @@
             "article_url": "https://leekduck.com/events/season-20-tales-of-transformation/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-02-season-20-tales-of-transformation/season-20-tales-of-transformation.jpg",
             "category": "Season",
+            "is_local_time": true,
             "start_time": "2025-09-02T10:00:00",
             "end_time": "2025-12-02T10:00:00",
-            "is_local_time": true,
             "description": "Welcome to the next Pokémon GO Season: Tales of Transformation!",
             "bonuses": [
                 "Guaranteed Candy XL when trading Pokémon (Level 31+)",
