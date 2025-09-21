@@ -5,7 +5,7 @@
 
 A Python-based web scraper that automatically collects and updates Pokémon GO data from [leekduck.com](https://leekduck.com). This project uses GitHub Actions to run on a schedule and pushes the structured JSON data to a dedicated `data` branch.
 
------
+---
 
 ## About The Project
 
@@ -13,22 +13,22 @@ This project provides a reliable, automated way to access up-to-date information
 
 The scraped data is automatically committed and pushed to the `data` branch of this repository, making it easy to use as a free, simple API for your own projects.
 
------
+---
 
 ## Features
 
-  - **Automated Scraping**: Runs automatically every 12 hours using GitHub Actions.
-  - **Comprehensive Data**: Scrapes a wide range of Pokémon GO data, including:
-      - **Raid Bosses**: Current Pokémon in all raid tiers.
-      - **Events**: A categorized list of all current and upcoming in-game events.
-      - **Field Research**: All available research tasks and their possible rewards.
-      - **Team GO Rocket**: The complete lineups for Giovanni, Leaders, and Grunts.
-      - **Egg Pool**: The current list of Pokémon hatching from each egg distance.
-  - **Data Archiving**: Automatically archives past events to a separate file for historical data.
-  - **Resilient**: Includes retry logic to handle network errors gracefully.
-  - **Organized**: A clean and modular project structure that is easy to understand and extend.
+- **Automated Scraping**: Runs automatically every 12 hours using GitHub Actions.
+- **Comprehensive Data**: Scrapes a wide range of Pokémon GO data, including:
+  - **Raid Bosses**: Current Pokémon in all raid tiers.
+  - **Events**: A categorized list of all current and upcoming in-game events.
+  - **Field Research**: All available research tasks and their possible rewards.
+  - **Team GO Rocket**: The complete lineups for Giovanni, Leaders, and Grunts.
+  - **Egg Pool**: The current list of Pokémon hatching from each egg distance.
+- **Data Archiving**: Automatically archives past events to a separate file for historical data.
+- **Resilient**: Includes retry logic with configurable delay and timeout settings to handle network errors gracefully.
+- **Organized**: A clean and modular project structure that is easy to understand and extend.
 
------
+---
 
 ## API & Documentation
 
@@ -38,7 +38,7 @@ The raw JSON files can be used as simple, free API endpoints for your projects.
 
 The wiki includes a full breakdown of the data structure for each file, field descriptions, and direct links to the JSON endpoints.
 
------
+---
 
 ## Data Output
 
@@ -48,13 +48,13 @@ The scraped data is automatically committed and pushed to the `data` branch of t
 
 The following files are generated:
 
-  - `raid_bosses.json` - All current Pokémon in Tier 1, 3, 5, Mega, and Shadow Raids.
-  - `research_tasks.json` - All available Field Research tasks and their possible rewards.
-  - `rocket_lineups.json` - The complete lineups for Team GO Rocket Leaders and Grunts.
-  - `egg_pool.json` - The current list of Pokémon hatching from each egg distance.
-  - `events.json`- All current and upcoming events.
-  - `archives/archive_YYYY.json` - Historical event data, organized by year.
-      - *Note: Automated archiving began on September 19, 2025.*
+- `raid_bosses.json` - All current Pokémon in Tier 1, 3, 5, Mega, and Shadow Raids.
+- `research_tasks.json` - All available Field Research tasks and their possible rewards.
+- `rocket_lineups.json` - The complete lineups for Team GO Rocket Leaders and Grunts.
+- `egg_pool.json` - The current list of Pokémon hatching from each egg distance.
+- `events.json`- All current and upcoming events.
+- `archives/archive_YYYY.json` - Historical event data, organized by year.
+  - _Note: Automated archiving of past events is handled by the script._
 
 ### Example Data (`raid_bosses.json`)
 
@@ -74,13 +74,13 @@ The following files are generated:
         "max": 2850
       },
       "types": ["Water", "Dragon"],
-      "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm484.icon.png"
+      "asset_url": "[https://cdn.leekduck.com/assets/img/pokemon_icons/pm484.icon.png](https://cdn.leekduck.com/assets/img/pokemon_icons/pm484.icon.png)"
     }
   ]
 }
 ```
 
------
+---
 
 ## Getting Started
 
@@ -88,15 +88,15 @@ To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 
-  - Python 3.13
-  - pip
+- Python 3.13 (or as specified in the `.python-version` file)
+- pip
 
 ### Installation & Local Usage
 
 1.  **Clone the repository:**
 
     ```sh
-    git clone https://github.com/zhenga8533/leak-duck.git
+    git clone [https://github.com/zhenga8533/leak-duck.git](https://github.com/zhenga8533/leak-duck.git)
     cd leak-duck
     ```
 
@@ -126,24 +126,24 @@ To get a local copy up and running, follow these simple steps.
 
     When run locally, the script will create two folders in your project root: `html/` and `json/`. These folders are included in the `.gitignore` and will not be committed to your repository.
 
------
+---
 
 ## Automation with GitHub Actions
 
 This repository is configured to run the scraper automatically using GitHub Actions.
 
-  - **Workflow file:** `.github/workflows/run_scrapers.yml`
-  - **Trigger:** The workflow runs on a schedule (every 12 hours) and can also be triggered manually from the "Actions" tab in GitHub.
-  - **Process:**
-    1.  The action checks out the `main` branch to get the latest scraper code.
-    2.  It installs the Python dependencies.
-    3.  It runs the `src/run.py` script, which generates the JSON files.
-    4.  The action then checks out the `data` branch, adds the new JSON files, and commits them.
-    5.  Finally, it pushes the updated data files directly to the `data` branch.
+- **Workflow file:** `.github/workflows/run_scrapers.yml`
+- **Trigger:** The workflow runs on a schedule (every 12 hours) and can also be triggered manually from the "Actions" tab in GitHub.
+- **Process:**
+  1.  The action checks out the `main` branch to get the latest scraper code.
+  2.  It installs the Python dependencies (using a cache for speed).
+  3.  It runs the `src/run.py` script, which generates the JSON files.
+  4.  The action then checks out the `data` branch, adds the new JSON files, and commits them.
+  5.  Finally, it pushes the updated data files directly to the `data` branch.
 
 **Note:** For the GitHub Action to work, you must **manually create the `data` branch** as a clean, orphan branch in your repository first.
 
------
+---
 
 ## Project Structure
 
@@ -168,12 +168,13 @@ leak-duck/
 │   ├── run.py
 │   └── utils.py
 ├── .gitignore
+├── .python-version
 ├── LICENSE
 ├── README.md
 └── requirements.txt
 ```
 
------
+---
 
 ## Contributing
 
@@ -187,15 +188,15 @@ If you have a suggestion that would make this better, please fork the repo and c
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
------
+---
 
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
------
+---
 
 ## Acknowledgments
 
-  - All data is sourced from the fantastic resources at [leekduck.com](https://leekduck.com).
-  - **Disclaimer**: This project is for educational purposes and is not affiliated with Leek Duck or Niantic.
+- All data is sourced from the fantastic resources at [leekduck.com](https://leekduck.com).
+- **Disclaimer**: This project is for educational purposes and is not affiliated with Leek Duck or Niantic.
