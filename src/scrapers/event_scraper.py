@@ -1,4 +1,5 @@
 import concurrent.futures
+from functools import partial
 from typing import Any, Dict, List, Optional, Set
 
 import requests
@@ -8,6 +9,11 @@ from src.utils import clean_banner_url
 
 from .base_scraper import BaseScraper
 from .event_page_scraper import EventPageScraper
+
+
+def scrape_single_event_page(url: str, scraper: EventPageScraper) -> Optional[Dict[str, Any]]:
+    """Helper function to scrape a single event page with a shared scraper instance."""
+    return scraper.scrape(url)
 
 
 class EventScraper(BaseScraper):
@@ -36,7 +42,8 @@ class EventScraper(BaseScraper):
 
         data_url = f"https://raw.githubusercontent.com/{self.github_user}/{self.github_repo}/data/events.json"
         try:
-            response = requests.get(data_url, timeout=15)
+            timeout = self.scraper_settings.get("timeout", 15)
+            response = requests.get(data_url, timeout=timeout)
             response.raise_for_status()
             data = response.json()
             self.existing_events_data = data
@@ -47,12 +54,6 @@ class EventScraper(BaseScraper):
         except (requests.exceptions.RequestException, ValueError) as e:
             print(f"Could not fetch existing events: {e}")
             self.existing_events_data = {}
-
-    def _scrape_single_event(self, url: str) -> Optional[Dict[str, Any]]:
-        scraper = EventPageScraper()
-        result = scraper.scrape(url)
-        scraper.close()
-        return result
 
     def parse(self, soup: BeautifulSoup) -> Dict[str, List[Dict[str, Any]]]:
         events_to_scrape: List[Dict[str, Any]] = []
@@ -87,12 +88,17 @@ class EventScraper(BaseScraper):
         all_events_data: Dict[str, Dict[str, Any]] = {event["article_url"]: event for event in events_to_scrape}
 
         if events_to_scrape:
-            with concurrent.futures.ThreadPoolExecutor() as executor:
-                urls_to_scrape = [event["article_url"] for event in events_to_scrape]
-                results = executor.map(self._scrape_single_event, urls_to_scrape)
-                for result in results:
-                    if result and result.get("article_url") in all_events_data:
-                        all_events_data[result["article_url"]].update(result)
+            page_scraper = EventPageScraper()
+            try:
+                with concurrent.futures.ThreadPoolExecutor() as executor:
+                    urls_to_scrape = [event["article_url"] for event in events_to_scrape]
+                    scrape_func = partial(scrape_single_event_page, scraper=page_scraper)
+                    results = executor.map(scrape_func, urls_to_scrape)
+                    for result in results:
+                        if result and result.get("article_url") in all_events_data:
+                            all_events_data[result["article_url"]].update(result)
+            finally:
+                page_scraper.close()
 
         new_events_by_category: Dict[str, List[Dict[str, Any]]] = {}
         for event in all_events_data.values():
