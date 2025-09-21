@@ -1,14 +1,18 @@
+from typing import Any, Dict
+
+from bs4 import BeautifulSoup
+
 from src.utils import parse_pokemon_list
 
 from .base_scraper import BaseScraper
 
 
 class RocketLineupScraper(BaseScraper):
-    def __init__(self, url, file_name, scraper_settings):
+    def __init__(self, url: str, file_name: str, scraper_settings: Dict[str, Any]):
         super().__init__(url, file_name, scraper_settings)
 
-    def parse(self, soup):
-        lineups = {}
+    def parse(self, soup: BeautifulSoup) -> Dict[str, Any]:
+        lineups: Dict[str, Any] = {}
         rocket_profiles = soup.find_all("div", class_="rocket-profile")
 
         for profile in rocket_profiles:

@@ -1,6 +1,8 @@
 import concurrent.futures
+from typing import Any, Dict, List, Optional, Set
 
 import requests
+from bs4 import BeautifulSoup
 
 from src.utils import clean_banner_url
 
@@ -10,14 +12,20 @@ from .event_page_scraper import EventPageScraper
 
 class EventScraper(BaseScraper):
     def __init__(
-        self, url, file_name, scraper_settings, check_existing_events=False, github_user=None, github_repo=None
+        self,
+        url: str,
+        file_name: str,
+        scraper_settings: Dict[str, Any],
+        check_existing_events: bool = False,
+        github_user: Optional[str] = None,
+        github_repo: Optional[str] = None,
     ):
         super().__init__(url, file_name, scraper_settings)
         self.check_existing_events = check_existing_events
         self.github_user = github_user
         self.github_repo = github_repo
-        self.existing_event_urls = set()
-        self.existing_events_data = {}
+        self.existing_event_urls: Set[str] = set()
+        self.existing_events_data: Dict[str, List[Dict[str, Any]]] = {}
         if self.check_existing_events:
             self._fetch_existing_events()
 
@@ -40,15 +48,14 @@ class EventScraper(BaseScraper):
             print(f"Could not fetch existing events: {e}")
             self.existing_events_data = {}
 
-    # A new function to scrape a single event page safely
-    def _scrape_single_event(self, url):
+    def _scrape_single_event(self, url: str) -> Optional[Dict[str, Any]]:
         scraper = EventPageScraper()
         result = scraper.scrape(url)
         scraper.close()
         return result
 
-    def parse(self, soup):
-        events_to_scrape = []
+    def parse(self, soup: BeautifulSoup) -> Dict[str, List[Dict[str, Any]]]:
+        events_to_scrape: List[Dict[str, Any]] = []
         event_links = soup.select("a.event-item-link")
 
         for link in event_links:
@@ -77,10 +84,9 @@ class EventScraper(BaseScraper):
                 }
             )
 
-        all_events_data = {event["article_url"]: event for event in events_to_scrape}
+        all_events_data: Dict[str, Dict[str, Any]] = {event["article_url"]: event for event in events_to_scrape}
 
         if events_to_scrape:
-            # The executor now calls the new helper function for thread-safety
             with concurrent.futures.ThreadPoolExecutor() as executor:
                 urls_to_scrape = [event["article_url"] for event in events_to_scrape]
                 results = executor.map(self._scrape_single_event, urls_to_scrape)
@@ -88,14 +94,13 @@ class EventScraper(BaseScraper):
                     if result and result.get("article_url") in all_events_data:
                         all_events_data[result["article_url"]].update(result)
 
-        new_events_by_category = {}
+        new_events_by_category: Dict[str, List[Dict[str, Any]]] = {}
         for event in all_events_data.values():
             category = event["category"]
             if category not in new_events_by_category:
                 new_events_by_category[category] = []
             new_events_by_category[category].append(event)
 
-        # Merge new events with existing events
         merged_events = self.existing_events_data.copy()
         for category, events in new_events_by_category.items():
             if category not in merged_events:

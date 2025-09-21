@@ -1,4 +1,7 @@
 import re
+from typing import Any, Dict, List
+
+from bs4 import BeautifulSoup
 
 from src.utils import parse_cp_range
 
@@ -6,11 +9,11 @@ from .base_scraper import BaseScraper
 
 
 class ResearchScraper(BaseScraper):
-    def __init__(self, url, file_name, scraper_settings):
+    def __init__(self, url: str, file_name: str, scraper_settings: Dict[str, Any]):
         super().__init__(url, file_name, scraper_settings)
 
-    def parse(self, soup):
-        research_data = {}
+    def parse(self, soup: BeautifulSoup) -> Dict[str, Any]:
+        research_data: Dict[str, Any] = {}
         task_categories = soup.find_all("div", class_="task-category")
 
         for category in task_categories:
@@ -29,7 +32,7 @@ class ResearchScraper(BaseScraper):
                     continue
 
                 task_description = task_text_element.get_text(strip=True)
-                rewards_list = []
+                rewards_list: List[Dict[str, Any]] = []
 
                 reward_elements = item.select("ul.reward-list > li.reward")
 

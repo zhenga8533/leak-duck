@@ -1,5 +1,4 @@
-import datetime
-import re
+from typing import Any, Dict, Optional
 
 from bs4 import BeautifulSoup
 from bs4.element import NavigableString
@@ -7,6 +6,7 @@ from selenium import webdriver
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
+from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
@@ -17,7 +17,7 @@ class EventPageScraper:
     def __init__(self):
         self.driver = self.get_driver()
 
-    def get_driver(self):
+    def get_driver(self) -> WebDriver:
         options = webdriver.ChromeOptions()
         options.add_argument("--headless")
         options.add_argument("--disable-gpu")
@@ -27,7 +27,7 @@ class EventPageScraper:
         service = Service()
         return webdriver.Chrome(service=service, options=options)
 
-    def fetch_dynamic_html(self, url):
+    def fetch_dynamic_html(self, url: str) -> str:
         self.driver.get(url)
         WebDriverWait(self.driver, 10).until(
             EC.presence_of_element_located(
@@ -39,16 +39,16 @@ class EventPageScraper:
         )
         return self.driver.page_source
 
-    def close(self):
+    def close(self) -> None:
         self.driver.quit()
 
-    def scrape(self, url):
+    def scrape(self, url: str) -> Dict[str, Any]:
         try:
             print(f"Scraping dynamic event page: {url}")
             html_content = self.fetch_dynamic_html(url)
             soup = BeautifulSoup(html_content, "lxml")
 
-            event_details = {"article_url": url}
+            event_details: Dict[str, Any] = {"article_url": url}
             content = soup.find("div", class_="page-content")
 
             if not content or isinstance(content, NavigableString):

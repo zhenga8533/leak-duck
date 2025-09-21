@@ -1,4 +1,7 @@
 import re
+from typing import Any, Dict
+
+from bs4 import BeautifulSoup
 
 from src.utils import parse_cp_range
 
@@ -6,11 +9,11 @@ from .base_scraper import BaseScraper
 
 
 class RaidBossScraper(BaseScraper):
-    def __init__(self, url, file_name, scraper_settings):
+    def __init__(self, url: str, file_name: str, scraper_settings: Dict[str, Any]):
         super().__init__(url, file_name, scraper_settings)
 
-    def parse(self, soup):
-        raid_data = {}
+    def parse(self, soup: BeautifulSoup) -> Dict[str, Any]:
+        raid_data: Dict[str, Any] = {}
         tier_sections = soup.select(".raid-bosses .tier, .shadow-raid-bosses .tier")
 
         for section in tier_sections:
