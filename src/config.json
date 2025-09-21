@@ -33,7 +33,7 @@
       "url": "https://leekduck.com/events/",
       "file_name": "events",
       "enabled": true,
-      "check_existing": false
+      "check_existing": true
     }
   }
 }
