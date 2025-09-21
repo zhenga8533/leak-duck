@@ -17,11 +17,12 @@ class BaseScraper(ABC):
     def _fetch_html(self):
         retries = self.scraper_settings.get("retries", 3)
         delay = self.scraper_settings.get("delay", 5)
+        timeout = self.scraper_settings.get("timeout", 15)
 
         for attempt in range(retries):
             print(f"Fetching HTML from {self.url} (Attempt {attempt + 1}/{retries})...")
             try:
-                response = requests.get(self.url, timeout=15)
+                response = requests.get(self.url, timeout=timeout)
                 response.raise_for_status()
 
                 if not os.getenv("CI"):

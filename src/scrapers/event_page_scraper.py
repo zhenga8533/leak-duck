@@ -4,10 +4,13 @@ import re
 from bs4 import BeautifulSoup
 from bs4.element import NavigableString
 from selenium import webdriver
+from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
+
+from src.utils import process_time_data
 
 
 class EventPageScraper:
@@ -59,8 +62,8 @@ class EventPageScraper:
             is_local = not (start_date_element and "data-event-page-date" in start_date_element.attrs)
             event_details["is_local_time"] = is_local
 
-            event_details["start_time"] = self.process_time_data(start_date_element, start_time_element, is_local)
-            event_details["end_time"] = self.process_time_data(end_date_element, end_time_element, is_local)
+            event_details["start_time"] = process_time_data(start_date_element, start_time_element, is_local)
+            event_details["end_time"] = process_time_data(end_date_element, end_time_element, is_local)
 
             description_div = content.find("div", class_="event-description")
             if description_div and not isinstance(description_div, NavigableString):
@@ -108,29 +111,12 @@ class EventPageScraper:
 
             return event_details
 
+        except TimeoutException as e:
+            print(f"Timeout error scraping event page {url}: {e}")
+            return {"article_url": url, "error": "TimeoutException"}
+        except AttributeError as e:
+            print(f"Attribute error scraping event page {url}: {e}")
+            return {"article_url": url, "error": "AttributeError"}
         except Exception as e:
-            print(f"Error scraping event page {url}: {e}")
-            return {"article_url": url}
-
-    def process_time_data(self, date_element, time_element, is_local):
-        if is_local:
-            if date_element and time_element:
-                raw_date_str = date_element.get_text(strip=True)
-                raw_time_str = time_element.get_text(strip=True)
-                date_str = re.sub(r"\s+", " ", raw_date_str).replace(",", "").strip()
-                time_str = re.sub(r"\s+", " ", raw_time_str).replace("at", "").replace("Local Time", "").strip()
-                datetime_str = f"{date_str} {time_str}"
-                try:
-                    dt_object = datetime.datetime.strptime(datetime_str, "%A %B %d %Y %I:%M %p")
-                    return dt_object.isoformat()
-                except ValueError:
-                    return None
-        else:
-            if date_element and "data-event-page-date" in date_element.attrs:
-                iso_string = date_element["data-event-page-date"]
-                try:
-                    dt_object = datetime.datetime.fromisoformat(iso_string)
-                    return int(dt_object.timestamp())
-                except (ValueError, TypeError):
-                    return None
-        return None
+            print(f"An unexpected error occurred while scraping {url}: {e}")
+            return {"article_url": url, "error": str(e)}

@@ -39,14 +39,14 @@ def parse_pokemon_list(container):
 
 
 def process_time_data(date_element, time_element, is_local):
-    print(f"Processing time data: is_local={is_local}, date_element={date_element}, time_element={time_element}")
     if is_local:
         if date_element and time_element:
-            date_str = date_element.get_text(strip=True).replace(",", "").strip()
-            time_str = time_element.get_text(strip=True).replace("at", "").replace("Local Time", "").strip()
+            raw_date_str = date_element.get_text(strip=True)
+            raw_time_str = time_element.get_text(strip=True)
+            date_str = re.sub(r"\s+", " ", raw_date_str).replace(",", "").strip()
+            time_str = re.sub(r"\s+", " ", raw_time_str).replace("at", "").replace("Local Time", "").strip()
             datetime_str = f"{date_str} {time_str}"
             try:
-                # The format string matches the HTML's text content
                 dt_object = datetime.strptime(datetime_str, "%A %B %d %Y %I:%M %p")
                 return dt_object.isoformat()
             except ValueError:
@@ -55,7 +55,6 @@ def process_time_data(date_element, time_element, is_local):
         if date_element and "data-event-page-date" in date_element.attrs:
             iso_string = date_element["data-event-page-date"]
             try:
-                # fromisoformat handles the standardized timestamp
                 dt_object = datetime.fromisoformat(iso_string)
                 return int(dt_object.timestamp())
             except (ValueError, TypeError):

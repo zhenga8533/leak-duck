@@ -5,7 +5,8 @@
   },
   "scraper_settings": {
     "retries": 3,
-    "delay": 5
+    "delay": 5,
+    "timeout": 15
   },
   "scrapers": {
     "RaidBossScraper": {
