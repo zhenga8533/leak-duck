@@ -1,8 +1,11 @@
 import re
 from datetime import datetime
+from typing import Any, Dict, List, Optional
+
+from bs4.element import Tag
 
 
-def parse_cp_range(cp_string):
+def parse_cp_range(cp_string: str) -> Optional[Dict[str, int]]:
     """
     A helper function to parse a CP range string (e.g., "2190 - 2280").
     """
@@ -15,7 +18,7 @@ def parse_cp_range(cp_string):
     return None
 
 
-def parse_pokemon_list(container):
+def parse_pokemon_list(container: Tag) -> List[Dict[str, Any]]:
     """
     A generic helper to parse lists of Pokémon from a containing element.
     It intelligently finds the name, shiny status, and asset URL.
@@ -38,7 +41,7 @@ def parse_pokemon_list(container):
     return pokemon_list
 
 
-def process_time_data(date_element, time_element, is_local):
+def process_time_data(date_element: Optional[Tag], time_element: Optional[Tag], is_local: bool) -> Optional[str | int]:
     if is_local:
         if date_element and time_element:
             raw_date_str = date_element.get_text(strip=True)
@@ -55,14 +58,14 @@ def process_time_data(date_element, time_element, is_local):
         if date_element and "data-event-page-date" in date_element.attrs:
             iso_string = date_element["data-event-page-date"]
             try:
-                dt_object = datetime.fromisoformat(iso_string)
+                dt_object = datetime.fromisoformat(str(iso_string))
                 return int(dt_object.timestamp())
             except (ValueError, TypeError):
                 return None
     return None
 
 
-def clean_banner_url(url):
+def clean_banner_url(url: Optional[str]) -> Optional[str]:
     if not url:
         return None
     return re.sub(r"cdn-cgi/image/.*?\/(?=assets)", "", url)

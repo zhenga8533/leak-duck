@@ -2,19 +2,20 @@ import json
 import os
 import time
 from abc import ABC, abstractmethod
+from typing import Any, Dict, List, Optional
 
 import requests
 from bs4 import BeautifulSoup
 
 
 class BaseScraper(ABC):
-    def __init__(self, url, file_name, scraper_settings):
+    def __init__(self, url: str, file_name: str, scraper_settings: Dict[str, Any]):
         self.url = url
         self.raw_html_path = os.path.join("html", f"{file_name}.html")
         self.json_path = os.path.join("json" if not os.getenv("CI") else ".", f"{file_name}.json")
         self.scraper_settings = scraper_settings
 
-    def _fetch_html(self):
+    def _fetch_html(self) -> Optional[BeautifulSoup]:
         retries = self.scraper_settings.get("retries", 3)
         delay = self.scraper_settings.get("delay", 5)
         timeout = self.scraper_settings.get("timeout", 15)
@@ -44,7 +45,7 @@ class BaseScraper(ABC):
                     return None
         return None
 
-    def save_to_json(self, data):
+    def save_to_json(self, data: Dict[Any, Any] | List[Any]):
         json_dir = os.path.dirname(self.json_path)
         if not os.path.exists(json_dir):
             os.makedirs(json_dir)
@@ -55,7 +56,7 @@ class BaseScraper(ABC):
         print(f"Successfully saved {self.json_path}")
 
     @abstractmethod
-    def parse(self, soup) -> dict | list:
+    def parse(self, soup: BeautifulSoup) -> Dict[Any, Any] | List[Any]:
         pass
 
     def run(self):
