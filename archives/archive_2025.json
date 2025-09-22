@@ -28,6 +28,76 @@
             "end_time": "2025-09-14T20:00:00",
             "article_url": "https://leekduck.com/events/pokemon-concierge-celebration/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-09-pokemon-concierge-celebration/pokemon-concierge-celebration.jpg"
+        },
+        {
+            "title": "Psychic Spectacular: Taken Over",
+            "article_url": "https://leekduck.com/events/psychic-spectacular-taken-over-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-16-psychic-spectacular-taken-over-2025/psychic-spectacular-taken-over-2025.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-09-16T10:00:00",
+            "end_time": "2025-09-21T20:00:00",
+            "description": "The Psychic Spectacular: Taken Over event arrives, featuring Indeedee’s debut! Face Team GO Rocket, save Shadow Incarnate Forme Tornadus, and enjoy special bonuses throughout the event!",
+            "bonuses": [
+                "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
+                "Additional Candy for Nice Throws or better",
+                "Increased chance for Candy XL for Nice Throws or better for Trainers level 31 and up",
+                "Lunatone and Solrock will both appear in the wild during the event, regardless of your location",
+                "Pokémon caught via one-star and three-star Shadow Raids during the event will have a wider variance of Attack, Defense, and HP*",
+                "Team GO Rocket will appear more frequently at PokéStops and in balloons* **",
+                "You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration*"
+            ],
+            "features": [
+                "Indeedee (Female)",
+                "Indeedee (Male)",
+                "Tornadus (Incarnate)"
+            ],
+            "shadow": [
+                "Baltoy",
+                "Deino",
+                "Feebas",
+                "Larvitar",
+                "Qwilfish",
+                "Swablu",
+                "Wobbuffet"
+            ],
+            "spawns": [
+                "Abra",
+                "Beldum",
+                "Elgyem",
+                "Galarian Slowpoke",
+                "Inkay",
+                "Lunatone",
+                "Solrock",
+                "Spoink"
+            ],
+            "eggs": [
+                "Chingling",
+                "Espurr",
+                "Indeedee (Female)",
+                "Indeedee (Male)",
+                "Smoochum"
+            ],
+            "raids": [
+                "Aerodactyl",
+                "Alolan Raichu",
+                "Bagon",
+                "Drowzee",
+                "Espurr",
+                "Galarian Ponyta",
+                "Galarian Slowpoke",
+                "Girafarig",
+                "Hisuian Braviary",
+                "Ralts",
+                "Sableye",
+                "Scyther",
+                "Snover",
+                "Wyrdeer"
+            ],
+            "shiny": [
+                "Indeedee (Female)",
+                "Indeedee (Male)"
+            ]
         }
     ],
     "PokéStop Showcase": [
@@ -67,6 +137,16 @@
             "end_time": "2025-09-17T20:00:00",
             "is_local_time": true,
             "description": "There will be PokéStop Showcases featuring Psyduck, Arcanine, Hisuian Arcanine, Shinx, and Sealeo. Top the leaderboard to win rewards including Premium Items!"
+        },
+        {
+            "title": "Indeedee PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/indeedee-showcase/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "is_local_time": true,
+            "start_time": "2025-09-20T10:00:00",
+            "end_time": "2025-09-21T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Indeedee (Male) and Indeedee (Female). Top the leaderboard to win rewards including Premium Items!"
         }
     ],
     "Max Mondays": [
@@ -199,6 +279,27 @@
             "end_time": "2025-09-14T20:00:00",
             "article_url": "https://leekduck.com/events/pokemon-concierge-bonus-timed-research/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-09-pokemon-concierge-bonus-timed-research/swim-ring-psyduck-promo.jpg"
+        }
+    ],
+    "Raid Weekend": [
+        {
+            "title": "Shadow Groudon Raid Weekend",
+            "article_url": "https://leekduck.com/events/shadow-groudon-raid-weekend-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-20-shadow-groudon-raid-weekend-2025/groudon-shadow-raid-weekend-2025.jpg?v2",
+            "category": "Raid Weekend",
+            "is_local_time": true,
+            "start_time": "2025-09-20T06:00:00",
+            "end_time": "2025-09-21T22:00:00",
+            "description": "Band together and save Shadow Groudon from Team GO Rocket during a Shadow Raid Weekend event!",
+            "bonuses": [
+                "2× Stardust from Raid Battles",
+                "50% more XP from Raid Battles",
+                "Five additional Raid Passes per day from spinning Photo Discs at Gyms (for a daily total of seven)",
+                "One additional Raid Pass per day from spinning Photo Discs at Gyms (for a daily total of two)"
+            ],
+            "features": [
+                "Groudon"
+            ]
         }
     ]
 }
