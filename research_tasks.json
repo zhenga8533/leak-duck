@@ -1,25 +1,70 @@
 {
-    "Psychic Spectacular: Taken Over Tasks": [
+    "Completely Normal Tasks": [
         {
-            "task": "Catch 3 Solrock or Lunatone",
+            "task": "Catch 5 Normal-type Pokémon",
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Starmie",
-                    "shiny_available": false,
+                    "name": "Lickitung",
+                    "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm121.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm108.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Dunsparce",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm206.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Miltank",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm241.icon.png"
                 }
             ]
         },
         {
-            "task": "Defeat a Team GO Rocket Grunt",
+            "task": "Make 5 Great Curveball Throws in a row",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Spinda 4",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm327.f03.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Spinda 5",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm327.f04.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Spin 2 PokéStops or Gyms",
             "rewards": [
                 {
                     "type": "item",
-                    "name": "Mysterious Component",
-                    "quantity": 1,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Mysterious Component.png"
+                    "name": "XP",
+                    "quantity": 1000,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/icons/xp.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Poké Ball",
+                    "quantity": 10,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Poke Ball.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Pinap Berry",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Pinap Berry.png"
                 }
             ]
         },
@@ -27,27 +72,18 @@
             "task": "Evolve a Pokémon",
             "rewards": [
                 {
-                    "type": "item",
-                    "name": "Stardust",
-                    "quantity": 1200,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
-                }
-            ]
-        },
-        {
-            "task": "Purify 3 Shadow Pokémon",
-            "rewards": [
-                {
-                    "type": "item",
-                    "name": "Fast TM",
-                    "quantity": 1,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Fast TM.png"
+                    "type": "encounter",
+                    "name": "Dunsparce",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm206.icon.png"
                 },
                 {
-                    "type": "item",
-                    "name": "Charged TM",
-                    "quantity": 1,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Charged TM.png"
+                    "type": "encounter",
+                    "name": "Audino",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm531.icon.png"
                 }
             ]
         }
