@@ -167,6 +167,16 @@
             "end_time": "2025-09-15T19:00:00",
             "article_url": "https://leekduck.com/events/max-mondays-2025-09-15/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg"
+        },
+        {
+            "title": "Dynamax Chansey during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-09-22/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-09-22T18:00:00",
+            "end_time": "2025-09-22T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Delightful Days. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOnSeptember 22, 2025, the featured Dynamax Pokémon isChansey."
         }
     ],
     "Raid Battles": [
