@@ -1,111 +1,111 @@
 {
     "Tier 1": [
         {
-            "name": "Galarian Ponyta",
+            "name": "Pidgey",
             "tier": 1,
             "shiny_available": true,
             "cp_range": {
-                "min": 911,
-                "max": 969
+                "min": 352,
+                "max": 388
             },
             "boosted_cp_range": {
-                "min": 1139,
-                "max": 1212
-            },
-            "types": [
-                "Psychic"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm77.fGALARIAN.icon.png"
-        },
-        {
-            "name": "Galarian Slowpoke",
-            "tier": 1,
-            "shiny_available": true,
-            "cp_range": {
-                "min": 650,
-                "max": 700
-            },
-            "boosted_cp_range": {
-                "min": 812,
-                "max": 876
-            },
-            "types": [
-                "Psychic"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm79.fGALARIAN.icon.png"
-        },
-        {
-            "name": "Girafarig",
-            "tier": 1,
-            "shiny_available": true,
-            "cp_range": {
-                "min": 1105,
-                "max": 1169
-            },
-            "boosted_cp_range": {
-                "min": 1381,
-                "max": 1462
+                "min": 440,
+                "max": 486
             },
             "types": [
                 "Normal",
-                "Psychic"
+                "Flying"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm203.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm16.icon.png"
         },
         {
-            "name": "Espurr",
+            "name": "Porygon",
             "tier": 1,
             "shiny_available": true,
             "cp_range": {
-                "min": 669,
-                "max": 719
+                "min": 924,
+                "max": 982
             },
             "boosted_cp_range": {
-                "min": 837,
-                "max": 899
+                "min": 1155,
+                "max": 1228
             },
             "types": [
-                "Psychic"
+                "Normal"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm677.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm137.icon.png"
+        },
+        {
+            "name": "Zigzagoon",
+            "tier": 1,
+            "shiny_available": true,
+            "cp_range": {
+                "min": 258,
+                "max": 290
+            },
+            "boosted_cp_range": {
+                "min": 323,
+                "max": 363
+            },
+            "types": [
+                "Normal"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm263.icon.png"
+        },
+        {
+            "name": "Galarian Zigzagoon",
+            "tier": 1,
+            "shiny_available": true,
+            "cp_range": {
+                "min": 258,
+                "max": 290
+            },
+            "boosted_cp_range": {
+                "min": 323,
+                "max": 363
+            },
+            "types": [
+                "Dark",
+                "Normal"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm263.fGALARIAN.icon.png"
         }
     ],
     "Tier 3": [
         {
-            "name": "Alolan Raichu",
+            "name": "Snorlax",
             "tier": 3,
             "shiny_available": true,
             "cp_range": {
-                "min": 1238,
-                "max": 1306
+                "min": 1760,
+                "max": 1843
             },
             "boosted_cp_range": {
-                "min": 1548,
-                "max": 1633
+                "min": 2201,
+                "max": 2304
             },
             "types": [
-                "Electric",
-                "Psychic"
+                "Normal"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm26.fALOLA.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm143.icon.png"
         },
         {
-            "name": "Hisuian Braviary",
+            "name": "Drampa",
             "tier": 3,
             "shiny_available": true,
             "cp_range": {
-                "min": 1531,
-                "max": 1608
+                "min": 1588,
+                "max": 1665
             },
             "boosted_cp_range": {
-                "min": 1914,
-                "max": 2010
+                "min": 1985,
+                "max": 2081
             },
             "types": [
-                "Psychic",
-                "Flying"
+                "Normal",
+                "Dragon"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm628.fHISUIAN.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm780.icon.png"
         },
         {
             "name": "Wyrdeer",
@@ -128,78 +128,59 @@
     ],
     "Tier 5": [
         {
-            "name": "Mega Latias",
+            "name": "Dialga",
             "tier": 5,
             "shiny_available": true,
             "cp_range": {
-                "min": 1921,
-                "max": 2006
+                "min": 2217,
+                "max": 2307
             },
             "boosted_cp_range": {
-                "min": 2402,
-                "max": 2507
+                "min": 2771,
+                "max": 2884
             },
             "types": [
-                "Dragon",
-                "Psychic"
+                "Steel",
+                "Dragon"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm380.fMEGA.icon.png"
-        },
-        {
-            "name": "Mega Latios",
-            "tier": 5,
-            "shiny_available": true,
-            "cp_range": {
-                "min": 2090,
-                "max": 2178
-            },
-            "boosted_cp_range": {
-                "min": 2613,
-                "max": 2723
-            },
-            "types": [
-                "Dragon",
-                "Psychic"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm381.fMEGA.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm483.icon.png"
         }
     ],
     "Mega": [
         {
-            "name": "Mega Gardevoir",
+            "name": "Mega Kangaskhan",
             "tier": "Mega",
             "shiny_available": true,
             "cp_range": {
-                "min": 1688,
-                "max": 1767
+                "min": 1405,
+                "max": 1477
             },
             "boosted_cp_range": {
-                "min": 2110,
-                "max": 2209
+                "min": 1757,
+                "max": 1847
             },
             "types": [
-                "Psychic",
-                "Fairy"
+                "Normal"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm282.fMEGA.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm115.fMEGA.icon.png"
         },
         {
-            "name": "Mega Gallade",
+            "name": "Mega Lopunny",
             "tier": "Mega",
-            "shiny_available": false,
+            "shiny_available": true,
             "cp_range": {
-                "min": 1688,
-                "max": 1767
+                "min": 1112,
+                "max": 1177
             },
             "boosted_cp_range": {
-                "min": 2110,
-                "max": 2209
+                "min": 1391,
+                "max": 1471
             },
             "types": [
-                "Psychic",
+                "Normal",
                 "Fighting"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm475.fMEGA.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm428.fMEGA.icon.png"
         }
     ],
     "Shadow Tier 1": [

@@ -206,6 +206,32 @@
             "end_time": "2025-09-16T10:00:00",
             "article_url": "https://leekduck.com/events/mega-pidgeot-gyarados-in-mega-raids-september-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg"
+        },
+        {
+            "title": "Mega Gardevoir, Latias, Latios, and Gallade in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-psychic-dragon-in-mega-raids-september-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-09-16T10:00:00",
+            "end_time": "2025-09-23T10:00:00",
+            "description": "Mega Gardevoir, Mega Latias, Mega Latios, and Mega Gallade return to Mega Raids on September 16, 2025, at 10 am local time.",
+            "raids": [
+                "Mega Gallade",
+                "Mega Gardevoir",
+                "Mega Latias",
+                "Mega Latios"
+            ],
+            "shiny": [
+                "Gallade",
+                "Gardevoir",
+                "Latias",
+                "Latios",
+                "Mega Gallade",
+                "Mega Gardevoir",
+                "Mega Latias",
+                "Mega Latios"
+            ]
         }
     ],
     "GO Battle League": [
@@ -226,6 +252,16 @@
             "end_time": 1758052800,
             "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_ultra-league_summer-cup-great-league-edition/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg"
+        },
+        {
+            "title": "Master League: Mega Edition and Willpower Cup: Great League Edition | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_master-league-mega-edition_willpower-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1758052800,
+            "end_time": 1758657600,
+            "description": "The Master League: Mega Edition and Willpower Cup: Great League Edition will run from September 16, 2025, at 1:00 p.m. to September 23, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\nThe following Pokémon will not be allowed."
         }
     ],
     "Pokémon Spotlight Hour": [
