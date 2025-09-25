@@ -207,6 +207,69 @@
                 "Pumpkaboo (Average)",
                 "Smoliv"
             ]
+        },
+        {
+            "title": "Pokémon Legends: Z-A Celebration Event",
+            "article_url": "https://leekduck.com/events/pokemon-legends-za-celebration-event-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-10-21T10:00:00",
+            "end_time": "2025-10-28T10:00:00",
+            "description": "Genesect, Genesect (Douse), and Genesect (Shock) will be in five-star raid battles from October 21, 2025 to October 28, 2025.\nThere will also be a Raid Hour featuring Genesect from 6:00 pm to 7:00 pm local time on the following dates:",
+            "raids": [
+                "Genesect",
+                "Genesect (Douse)",
+                "Genesect (Shock)"
+            ],
+            "shiny": [
+                "Genesect",
+                "Genesect (Douse)",
+                "Genesect (Shock)"
+            ]
+        },
+        {
+            "title": "Halloween 2025 Part I",
+            "article_url": "https://leekduck.com/events/halloween-2025-part-i/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-10-21T10:00:00",
+            "end_time": "2025-10-28T10:00:00",
+            "description": "Genesect, Genesect (Douse), and Genesect (Shock) will be in five-star raid battles from October 21, 2025 to October 28, 2025.\nThere will also be a Raid Hour featuring Genesect from 6:00 pm to 7:00 pm local time on the following dates:",
+            "raids": [
+                "Genesect",
+                "Genesect (Douse)",
+                "Genesect (Shock)"
+            ],
+            "shiny": [
+                "Genesect",
+                "Genesect (Douse)",
+                "Genesect (Shock)"
+            ]
+        },
+        {
+            "title": "Halloween 2025 Part II",
+            "article_url": "https://leekduck.com/events/halloween-2025-part-ii/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-10-29T18:00:00",
+            "end_time": "2025-10-29T19:00:00",
+            "description": "A Raid Hour featuring Giratina (Origin Forme) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids.",
+            "raids": [
+                "Mega Banette",
+                "Mega Gengar",
+                "Mega Sableye"
+            ],
+            "shiny": [
+                "Banette",
+                "Gengar",
+                "Mega Banette",
+                "Mega Gengar",
+                "Mega Sableye",
+                "Sableye"
+            ]
         }
     ],
     "PokéStop Showcase": [
@@ -272,6 +335,89 @@
             "start_time": "2025-09-29T18:00:00",
             "end_time": "2025-09-29T19:00:00",
             "description": "These Dynamax Pokémon may appear in Max Battles throughout Delightful Days. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOnSeptember 29, 2025, the featured Dynamax Pokémon isBeldum."
+        },
+        {
+            "title": "Dynamax Drilbur during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-10-06/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-10-14T10:00:00",
+            "end_time": "2025-10-21T10:00:00",
+            "description": "Mega Mawile and Mega Salamence return to Mega Raids on October 14, 2025, at 10 am local time.",
+            "raids": [
+                "Mega Mawile",
+                "Mega Salamence"
+            ],
+            "shiny": [
+                "Mawile",
+                "Mega Mawile",
+                "Mega Salamence",
+                "Salamence"
+            ]
+        },
+        {
+            "title": "Dynamax Bounsweet during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-10-13/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-10-14T10:00:00",
+            "end_time": "2025-10-21T10:00:00",
+            "description": "Mega Mawile and Mega Salamence return to Mega Raids on October 14, 2025, at 10 am local time.",
+            "raids": [
+                "Mega Mawile",
+                "Mega Salamence"
+            ],
+            "shiny": [
+                "Mawile",
+                "Mega Mawile",
+                "Mega Salamence",
+                "Salamence"
+            ]
+        },
+        {
+            "title": "Dynamax Gastly during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-10-20/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-10-21T10:00:00",
+            "end_time": "2025-10-28T10:00:00",
+            "description": "Genesect, Genesect (Douse), and Genesect (Shock) will be in five-star raid battles from October 21, 2025 to October 28, 2025.\nThere will also be a Raid Hour featuring Genesect from 6:00 pm to 7:00 pm local time on the following dates:",
+            "raids": [
+                "Genesect",
+                "Genesect (Douse)",
+                "Genesect (Shock)"
+            ],
+            "shiny": [
+                "Genesect",
+                "Genesect (Douse)",
+                "Genesect (Shock)"
+            ]
+        },
+        {
+            "title": "Dynamax Woobat during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-10-27/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-10-29T18:00:00",
+            "end_time": "2025-10-29T19:00:00",
+            "description": "A Raid Hour featuring Giratina (Origin Forme) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids.",
+            "raids": [
+                "Mega Banette",
+                "Mega Gengar",
+                "Mega Sableye"
+            ],
+            "shiny": [
+                "Banette",
+                "Gengar",
+                "Mega Banette",
+                "Mega Gengar",
+                "Mega Sableye",
+                "Sableye"
+            ]
         }
     ],
     "Raid Battles": [
@@ -358,6 +504,172 @@
                 "Mega Steelix",
                 "Scizor",
                 "Steelix"
+            ]
+        },
+        {
+            "title": "Deoxys (Normal & Defense Forme) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/deoxys-normal-defense-in-5-star-raid-battles-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/deoxys-all-formes.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-14T10:00:00",
+            "end_time": "2025-10-21T10:00:00",
+            "description": "Mega Mawile and Mega Salamence return to Mega Raids on October 14, 2025, at 10 am local time.",
+            "raids": [
+                "Mega Mawile",
+                "Mega Salamence"
+            ],
+            "shiny": [
+                "Mawile",
+                "Mega Mawile",
+                "Mega Salamence",
+                "Salamence"
+            ]
+        },
+        {
+            "title": "Mega Sceptile, Mega Blaziken, and Mega Swampert in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-sceptile-mega-blaziken-mega-swampert-in-mega-raids-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-14T10:00:00",
+            "end_time": "2025-10-21T10:00:00",
+            "description": "Mega Mawile and Mega Salamence return to Mega Raids on October 14, 2025, at 10 am local time.",
+            "raids": [
+                "Mega Mawile",
+                "Mega Salamence"
+            ],
+            "shiny": [
+                "Mawile",
+                "Mega Mawile",
+                "Mega Salamence",
+                "Salamence"
+            ]
+        },
+        {
+            "title": "Deoxys (Attack & Speed Forme) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/deoxys-attack-speed-in-5-star-raid-battles-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/deoxys-all-formes.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-14T10:00:00",
+            "end_time": "2025-10-21T10:00:00",
+            "description": "Mega Mawile and Mega Salamence return to Mega Raids on October 14, 2025, at 10 am local time.",
+            "raids": [
+                "Mega Mawile",
+                "Mega Salamence"
+            ],
+            "shiny": [
+                "Mawile",
+                "Mega Mawile",
+                "Mega Salamence",
+                "Salamence"
+            ]
+        },
+        {
+            "title": "Mega Mawile and Mega Salamence in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-mawile-mega-salamence-in-mega-raids-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-14T10:00:00",
+            "end_time": "2025-10-21T10:00:00",
+            "description": "Mega Mawile and Mega Salamence return to Mega Raids on October 14, 2025, at 10 am local time.",
+            "raids": [
+                "Mega Mawile",
+                "Mega Salamence"
+            ],
+            "shiny": [
+                "Mawile",
+                "Mega Mawile",
+                "Mega Salamence",
+                "Salamence"
+            ]
+        },
+        {
+            "title": "Genesect (Douse & Shock Drive) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/genesect-douse-shock-in-5-star-raid-battles-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/genesect.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-21T10:00:00",
+            "end_time": "2025-10-28T10:00:00",
+            "description": "Genesect, Genesect (Douse), and Genesect (Shock) will be in five-star raid battles from October 21, 2025 to October 28, 2025.\nThere will also be a Raid Hour featuring Genesect from 6:00 pm to 7:00 pm local time on the following dates:",
+            "raids": [
+                "Genesect",
+                "Genesect (Douse)",
+                "Genesect (Shock)"
+            ],
+            "shiny": [
+                "Genesect",
+                "Genesect (Douse)",
+                "Genesect (Shock)"
+            ]
+        },
+        {
+            "title": "Mega Houndoom and Mega Absol in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-houndoom-mega-absol-in-mega-raids-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-21T10:00:00",
+            "end_time": "2025-10-28T10:00:00",
+            "description": "Genesect, Genesect (Douse), and Genesect (Shock) will be in five-star raid battles from October 21, 2025 to October 28, 2025.\nThere will also be a Raid Hour featuring Genesect from 6:00 pm to 7:00 pm local time on the following dates:",
+            "raids": [
+                "Genesect",
+                "Genesect (Douse)",
+                "Genesect (Shock)"
+            ],
+            "shiny": [
+                "Genesect",
+                "Genesect (Douse)",
+                "Genesect (Shock)"
+            ]
+        },
+        {
+            "title": "Giratina (Altered Forme) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/giratina-altered-in-5-star-raid-battles-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/giratinaaltered.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-29T18:00:00",
+            "end_time": "2025-10-29T19:00:00",
+            "description": "A Raid Hour featuring Giratina (Origin Forme) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids.",
+            "raids": [
+                "Mega Banette",
+                "Mega Gengar",
+                "Mega Sableye"
+            ],
+            "shiny": [
+                "Banette",
+                "Gengar",
+                "Mega Banette",
+                "Mega Gengar",
+                "Mega Sableye",
+                "Sableye"
+            ]
+        },
+        {
+            "title": "Mega Gengar, Mega Sableye, and Mega Banette in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-gengar-mega-sableye-mega-banette-in-mega-raids-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-29T18:00:00",
+            "end_time": "2025-10-29T19:00:00",
+            "description": "A Raid Hour featuring Giratina (Origin Forme) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids.",
+            "raids": [
+                "Mega Banette",
+                "Mega Gengar",
+                "Mega Sableye"
+            ],
+            "shiny": [
+                "Banette",
+                "Gengar",
+                "Mega Banette",
+                "Mega Gengar",
+                "Mega Sableye",
+                "Sableye"
             ]
         }
     ],
@@ -499,6 +811,79 @@
             "spawns": [
                 "Aron"
             ]
+        },
+        {
+            "title": "Ferroseed Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-10-07/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "is_local_time": true,
+            "start_time": "2025-10-14T10:00:00",
+            "end_time": "2025-10-21T10:00:00",
+            "description": "Mega Mawile and Mega Salamence return to Mega Raids on October 14, 2025, at 10 am local time.",
+            "raids": [
+                "Mega Mawile",
+                "Mega Salamence"
+            ],
+            "shiny": [
+                "Mawile",
+                "Mega Mawile",
+                "Mega Salamence",
+                "Salamence"
+            ]
+        },
+        {
+            "title": "Petilil Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-10-14/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "is_local_time": true,
+            "start_time": "2025-10-21T10:00:00",
+            "end_time": "2025-10-28T10:00:00",
+            "description": "Genesect, Genesect (Douse), and Genesect (Shock) will be in five-star raid battles from October 21, 2025 to October 28, 2025.\nThere will also be a Raid Hour featuring Genesect from 6:00 pm to 7:00 pm local time on the following dates:",
+            "raids": [
+                "Genesect",
+                "Genesect (Douse)",
+                "Genesect (Shock)"
+            ],
+            "shiny": [
+                "Genesect",
+                "Genesect (Douse)",
+                "Genesect (Shock)"
+            ]
+        },
+        {
+            "title": "Gastly Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-10-21/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "is_local_time": true,
+            "start_time": "2025-10-29T18:00:00",
+            "end_time": "2025-10-29T19:00:00",
+            "description": "A Raid Hour featuring Giratina (Origin Forme) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Sinistea Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-10-28/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "is_local_time": true,
+            "start_time": "2025-10-29T18:00:00",
+            "end_time": "2025-10-29T19:00:00",
+            "description": "A Raid Hour featuring Giratina (Origin Forme) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids.",
+            "raids": [
+                "Mega Banette",
+                "Mega Gengar",
+                "Mega Sableye"
+            ],
+            "shiny": [
+                "Banette",
+                "Gengar",
+                "Mega Banette",
+                "Mega Gengar",
+                "Mega Sableye",
+                "Sableye"
+            ]
         }
     ],
     "Raid Hour": [
@@ -521,6 +906,79 @@
             "start_time": "2025-10-01T18:00:00",
             "end_time": "2025-10-01T19:00:00",
             "description": "A Raid Hour featuring Dialga (Origin Forme) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids.\nOrigin Forme Dialga caught during Raid Hour may know the Charged Attack Roar of Time."
+        },
+        {
+            "title": "Deoxys (Normal & Defense Forme) Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20251008/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "is_local_time": true,
+            "start_time": "2025-10-14T10:00:00",
+            "end_time": "2025-10-21T10:00:00",
+            "description": "Mega Mawile and Mega Salamence return to Mega Raids on October 14, 2025, at 10 am local time.",
+            "raids": [
+                "Mega Mawile",
+                "Mega Salamence"
+            ],
+            "shiny": [
+                "Mawile",
+                "Mega Mawile",
+                "Mega Salamence",
+                "Salamence"
+            ]
+        },
+        {
+            "title": "Deoxys (Attack & Speed Forme) Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20251015/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "is_local_time": true,
+            "start_time": "2025-10-21T10:00:00",
+            "end_time": "2025-10-28T10:00:00",
+            "description": "Genesect, Genesect (Douse), and Genesect (Shock) will be in five-star raid battles from October 21, 2025 to October 28, 2025.\nThere will also be a Raid Hour featuring Genesect from 6:00 pm to 7:00 pm local time on the following dates:",
+            "raids": [
+                "Genesect",
+                "Genesect (Douse)",
+                "Genesect (Shock)"
+            ],
+            "shiny": [
+                "Genesect",
+                "Genesect (Douse)",
+                "Genesect (Shock)"
+            ]
+        },
+        {
+            "title": "Genesect Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20251022/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "is_local_time": true,
+            "start_time": "2025-10-29T18:00:00",
+            "end_time": "2025-10-29T19:00:00",
+            "description": "A Raid Hour featuring Giratina (Origin Forme) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Giratina (Origin Forme) Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20251029/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "is_local_time": true,
+            "start_time": "2025-10-29T18:00:00",
+            "end_time": "2025-10-29T19:00:00",
+            "description": "A Raid Hour featuring Giratina (Origin Forme) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids.",
+            "raids": [
+                "Mega Banette",
+                "Mega Gengar",
+                "Mega Sableye"
+            ],
+            "shiny": [
+                "Banette",
+                "Gengar",
+                "Mega Banette",
+                "Mega Gengar",
+                "Mega Sableye",
+                "Sableye"
+            ]
         }
     ],
     "City Safari": [
@@ -922,6 +1380,26 @@
             "shiny": [
                 "Mega Metagross",
                 "Metagross"
+            ]
+        },
+        {
+            "title": "Mega Raid Day",
+            "article_url": "https://leekduck.com/events/mega-raid-day-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Day",
+            "is_local_time": true,
+            "start_time": "2025-10-21T10:00:00",
+            "end_time": "2025-10-28T10:00:00",
+            "description": "Genesect, Genesect (Douse), and Genesect (Shock) will be in five-star raid battles from October 21, 2025 to October 28, 2025.\nThere will also be a Raid Hour featuring Genesect from 6:00 pm to 7:00 pm local time on the following dates:",
+            "raids": [
+                "Genesect",
+                "Genesect (Douse)",
+                "Genesect (Shock)"
+            ],
+            "shiny": [
+                "Genesect",
+                "Genesect (Douse)",
+                "Genesect (Shock)"
             ]
         }
     ],
