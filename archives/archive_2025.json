@@ -98,6 +98,33 @@
                 "Indeedee (Female)",
                 "Indeedee (Male)"
             ]
+        },
+        {
+            "title": "Completely Normal",
+            "article_url": "https://leekduck.com/events/completely-normal-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-23-completely-normal-2025/completely-normal.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-09-23T10:00:00",
+            "end_time": "2025-09-27T20:00:00",
+            "description": "The Land Snake Pokémon Dudunsparce will make its Pokémon GO debut! Enjoy event bonuses, wild encounters, and more during this completely normal event.",
+            "bonuses": [
+                "2× Candy for catching Pokémon",
+                "2× XP for evolving Pokémon",
+                "Increased chance to encounter Ditto",
+                "Increased chance to encounter Shiny Dunsparce"
+            ],
+            "features": [
+                "Ditto",
+                "Dudunsparce",
+                "Dunsparce"
+            ],
+            "spawns": [
+                "Audino",
+                "Buneary",
+                "Dunsparce",
+                "Sentret"
+            ]
         }
     ],
     "PokéStop Showcase": [
