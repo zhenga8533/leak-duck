@@ -302,6 +302,16 @@
             "start_time": "2025-09-27T10:00:00",
             "end_time": "2025-09-28T20:00:00",
             "description": "There will be PokéStop Showcases featuring Camerupt and Dudunsparce. Top the leaderboard to win rewards including Premium Items!"
+        },
+        {
+            "title": "Steel-type PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/steel-type-showcases-2025-09-29/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "is_local_time": true,
+            "start_time": "2025-09-29T10:00:00",
+            "end_time": "2025-10-01T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Steel-type Pokémon. Top the leaderboard to win rewards including Premium Items!"
         }
     ],
     "Raid Weekend": [
