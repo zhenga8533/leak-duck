@@ -1,4 +1,3 @@
-import concurrent.futures
 import json
 import os
 import sys
@@ -31,7 +30,9 @@ def run_scraper(scraper_info: Dict[str, Any]) -> str:
             "scraper_settings": config["scraper_settings"],
         }
         if scraper_class_name == "EventScraper":
-            scraper_args["check_existing_events"] = config["scrapers"]["EventScraper"].get("check_existing", False)
+            scraper_args["check_existing_events"] = config["scrapers"][
+                "EventScraper"
+            ].get("check_existing", False)
             scraper_args["github_user"] = config["github"]["user"]
             scraper_args["github_repo"] = config["github"]["repo"]
 
@@ -45,17 +46,20 @@ def run_scraper(scraper_info: Dict[str, Any]) -> str:
 def main():
     config = load_config()
 
-    archiver = EventArchiver(user=config["github"]["user"], repo=config["github"]["repo"])
+    archiver = EventArchiver(
+        user=config["github"]["user"], repo=config["github"]["repo"]
+    )
     archiver.run()
 
     scrapers_to_run: List[Dict[str, Any]] = [
-        {"class_name": name, "config": config} for name, settings in config["scrapers"].items() if settings["enabled"]
+        {"class_name": name, "config": config}
+        for name, settings in config["scrapers"].items()
+        if settings["enabled"]
     ]
 
-    with concurrent.futures.ThreadPoolExecutor() as executor:
-        results = executor.map(run_scraper, scrapers_to_run)
-        for result in results:
-            print(result)
+    for scraper in scrapers_to_run:
+        result = run_scraper(scraper)
+        print(result)
 
     print("--- All scrapers finished ---")
 
