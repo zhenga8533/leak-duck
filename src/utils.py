@@ -1,7 +1,7 @@
 import os
 import re
 from datetime import datetime
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Optional, Union
 
 from bs4.element import Tag
 
@@ -50,7 +50,11 @@ def parse_pokemon_list(container: Tag) -> List[Dict[str, Any]]:
         is_shiny = p.find("svg", class_="shiny-icon") is not None
 
         asset_url_element = p.select_one("img.pokemon-image, .icon img, .boss-img img")
-        asset_url = asset_url_element["src"] if asset_url_element else None
+        asset_url = (
+            asset_url_element["src"]
+            if asset_url_element and asset_url_element.has_attr("src")
+            else None
+        )
 
         if name != "Unknown":
             pokemon_list.append(
@@ -62,7 +66,7 @@ def parse_pokemon_list(container: Tag) -> List[Dict[str, Any]]:
 
 def process_time_data(
     date_element: Optional[Tag], time_element: Optional[Tag], is_local: bool
-) -> Optional[str | int]:
+) -> Optional[Union[str, int]]:
     if is_local:
         if date_element and time_element:
             raw_date_str = date_element.get_text(strip=True)

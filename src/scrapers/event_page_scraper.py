@@ -3,7 +3,7 @@ from typing import Any, Dict
 from urllib.parse import quote_plus
 
 from bs4 import BeautifulSoup
-from bs4.element import NavigableString
+from bs4.element import NavigableString, Tag
 from selenium import webdriver
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.chrome.service import Service
@@ -17,7 +17,7 @@ from src.utils import process_time_data, save_html
 
 class EventPageScraper:
     def __init__(self):
-        self.driver = self.get_driver()
+        self.driver: WebDriver = self.get_driver()
 
     def get_driver(self) -> WebDriver:
         options = webdriver.ChromeOptions()
@@ -66,7 +66,7 @@ class EventPageScraper:
             event_details: Dict[str, Any] = {"article_url": url}
             content = soup.find("div", class_="page-content")
 
-            if not content or isinstance(content, NavigableString):
+            if not isinstance(content, Tag):
                 return event_details
 
             start_date_element = soup.find("span", id="event-date-start")
@@ -75,7 +75,7 @@ class EventPageScraper:
             end_time_element = soup.find("span", id="event-time-end")
 
             is_local = not (
-                start_date_element
+                isinstance(start_date_element, Tag)
                 and "data-event-page-date" in start_date_element.attrs
             )
             event_details["is_local_time"] = is_local
@@ -88,7 +88,7 @@ class EventPageScraper:
             )
 
             description_div = content.find("div", class_="event-description")
-            if description_div and not isinstance(description_div, NavigableString):
+            if isinstance(description_div, Tag):
                 description_texts = [
                     p.get_text(strip=True)
                     for p in description_div.find_all("p", recursive=False)
@@ -97,40 +97,43 @@ class EventPageScraper:
 
             main_sections = content.find_all("h2", class_="event-section-header")
             for section in main_sections:
-                section_id = section.get("id")
-                if not section_id:
+                section_id_val = section.get("id")
+                if not section_id_val or not isinstance(section_id_val, str):
                     continue
+                section_id = section_id_val
 
                 next_element = section.find_next_sibling()
-                while next_element:
-                    if isinstance(next_element, NavigableString):
-                        next_element = next_element.find_next_sibling()
-                        continue
-
+                while isinstance(next_element, Tag):
+                    classes = next_element.get("class")
                     if (
                         next_element.name == "h2"
-                        and "event-section-header" in next_element.get("class", [])
+                        and classes is not None
+                        and "event-section-header" in classes
                     ):
                         break
 
+                    classes = next_element.get("class")
                     if (
                         next_element.name == "ul"
-                        and "pkmn-list-flex" in next_element.get("class", [])
+                        and classes is not None
+                        and "pkmn-list" in classes
                     ):
-                        pokemon_list = {
-                            li.find("div", class_="pkmn-name").get_text(strip=True)
-                            for li in next_element.find_all(
-                                "li", class_="pkmn-list-item"
-                            )
-                            if li.find("div", class_="pkmn-name")
-                        }
+                        pokemon_list = set()
+                        for li in next_element.find_all("li", class_="pkmn-list-item"):
+                            pkmn_name_div = li.find("div", class_="pkmn-name")
+                            if pkmn_name_div:
+                                pokemon_list.add(pkmn_name_div.get_text(strip=True))
+
                         if pokemon_list:
                             event_details.setdefault(section_id, []).extend(
                                 sorted(list(pokemon_list))
                             )
 
-                    if next_element.name == "div" and "bonus-list" in next_element.get(
-                        "class", []
+                    classes = next_element.get("class")
+                    if (
+                        next_element.name == "div"
+                        and classes is not None
+                        and "bonus-list" in classes
                     ):
                         bonuses = {
                             item.get_text(strip=True)

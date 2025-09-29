@@ -38,20 +38,34 @@ class ResearchScraper(BaseScraper):
 
                 for reward_element in reward_elements:
                     reward_type = reward_element.get("data-reward-type", "unknown")
-                    reward_label_element = reward_element.find("span", class_="reward-label")
+                    reward_label_element = reward_element.find(
+                        "span", class_="reward-label"
+                    )
                     image_element = reward_element.find("img", class_="reward-image")
-                    asset_url = image_element["src"] if image_element else None
 
                     if not reward_label_element:
                         continue
 
+                    asset_url = (
+                        image_element["src"]
+                        if image_element and image_element.has_attr("src")
+                        else None
+                    )
                     label_text = reward_label_element.get_text(strip=True)
 
                     if reward_type == "encounter":
-                        is_shiny = reward_element.find("img", class_="shiny-icon") is not None
-                        cp_values_element = reward_element.find("span", class_="cp-values")
+                        is_shiny = (
+                            reward_element.find("img", class_="shiny-icon") is not None
+                        )
+                        cp_values_element = reward_element.find(
+                            "span", class_="cp-values"
+                        )
 
-                        cp_text = cp_values_element.get_text(strip=True) if cp_values_element else ""
+                        cp_text = (
+                            cp_values_element.get_text(strip=True)
+                            if cp_values_element
+                            else ""
+                        )
                         cp_range = parse_cp_range(cp_text)
 
                         rewards_list.append(
@@ -65,7 +79,11 @@ class ResearchScraper(BaseScraper):
                         )
                     else:
                         quantity_element = reward_element.find("div", class_="quantity")
-                        quantity = quantity_element.get_text(strip=True).replace("×", "") if quantity_element else "1"
+                        quantity = (
+                            quantity_element.get_text(strip=True).replace("×", "")
+                            if quantity_element
+                            else "1"
+                        )
 
                         rewards_list.append(
                             {
@@ -77,6 +95,8 @@ class ResearchScraper(BaseScraper):
                         )
 
                 if rewards_list:
-                    research_data[category_title].append({"task": task_description, "rewards": rewards_list})
+                    research_data[category_title].append(
+                        {"task": task_description, "rewards": rewards_list}
+                    )
 
         return research_data
