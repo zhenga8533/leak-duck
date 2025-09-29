@@ -35,17 +35,32 @@ class RaidBossScraper(BaseScraper):
                 is_shiny = card.find("svg", class_="shiny-icon") is not None
 
                 tier_match = re.search(r"\d+", tier_name)
-                tier_value = int(tier_match.group(0)) if tier_match else tier_name
+                tier_value: Any = int(tier_match.group(0)) if tier_match else tier_name
 
                 cp_range_element = card.find("div", class_="cp-range")
-                cp_range_str = cp_range_element.get_text(strip=True) if cp_range_element else ""
+                cp_range_str = (
+                    cp_range_element.get_text(strip=True) if cp_range_element else ""
+                )
 
                 boosted_cp_element = card.find("div", class_="boosted-cp-row")
-                boosted_cp_str = boosted_cp_element.get_text(strip=True) if boosted_cp_element else ""
+                boosted_cp_str = (
+                    boosted_cp_element.get_text(strip=True)
+                    if boosted_cp_element
+                    else ""
+                )
 
-                types = [t["title"] for t in card.select(".boss-type .type img")]
+                types = [
+                    t["title"]
+                    for t in card.select(".boss-type .type img")
+                    if t.has_attr("title")
+                ]
 
-                asset_url = card.select_one(".boss-img img")["src"]
+                asset_url_element = card.select_one(".boss-img img")
+                asset_url = (
+                    asset_url_element["src"]
+                    if asset_url_element and asset_url_element.has_attr("src")
+                    else None
+                )
 
                 boss_info = {
                     "name": name,

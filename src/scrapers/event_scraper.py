@@ -1,9 +1,7 @@
-import concurrent.futures
-from functools import partial
 from typing import Any, Dict, List, Optional, Set
 
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Tag
 
 from src.utils import clean_banner_url
 
@@ -11,7 +9,9 @@ from .base_scraper import BaseScraper
 from .event_page_scraper import EventPageScraper
 
 
-def scrape_single_event_page(url: str, scraper: EventPageScraper) -> Optional[Dict[str, Any]]:
+def scrape_single_event_page(
+    url: str, scraper: EventPageScraper
+) -> Optional[Dict[str, Any]]:
     """Helper function to scrape a single event page with a shared scraper instance."""
     return scraper.scrape(url)
 
@@ -37,7 +37,9 @@ class EventScraper(BaseScraper):
 
     def _fetch_existing_events(self):
         if not self.github_user or not self.github_repo:
-            print("GitHub user or repo not configured. Skipping check for existing events.")
+            print(
+                "GitHub user or repo not configured. Skipping check for existing events."
+            )
             return
 
         data_url = f"https://raw.githubusercontent.com/{self.github_user}/{self.github_repo}/data/events.json"
@@ -60,49 +62,58 @@ class EventScraper(BaseScraper):
         event_links = soup.select("a.event-item-link")
 
         for link in event_links:
-            title_element = link.select_one("div.event-text h2")
-            image_element = link.select_one(".event-img-wrapper img")
-            category_element = link.select_one(".event-item-wrapper > p")
+            href = link.get("href")
+            if not href:
+                continue
 
+            title_element = link.select_one("div.event-text h2")
             if not title_element:
                 continue
 
-            article_url = "https://leekduck.com" + link["href"]
+            image_element = link.select_one(".event-img-wrapper img")
+            category_element = link.select_one(".event-item-wrapper > p")
+
+            article_url = "https://leekduck.com" + str(href)
 
             if self.check_existing_events and article_url in self.existing_event_urls:
                 continue
+
+            banner_url = None
+            if isinstance(image_element, Tag) and image_element.has_attr("src"):
+                banner_url = clean_banner_url(str(image_element["src"]).strip())
 
             events_to_scrape.append(
                 {
                     "title": title_element.get_text(strip=True),
                     "article_url": article_url,
-                    "banner_url": (
-                        clean_banner_url(image_element["src"].strip())
-                        if image_element and "src" in image_element.attrs
-                        else None
+                    "banner_url": banner_url,
+                    "category": (
+                        category_element.get_text(strip=True)
+                        if category_element
+                        else "Event"
                     ),
-                    "category": category_element.get_text(strip=True) if category_element else "Event",
                 }
             )
 
-        all_events_data: Dict[str, Dict[str, Any]] = {event["article_url"]: event for event in events_to_scrape}
+        all_events_data: Dict[str, Dict[str, Any]] = {
+            event["article_url"]: event for event in events_to_scrape
+        }
 
         if events_to_scrape:
             page_scraper = EventPageScraper()
             try:
-                with concurrent.futures.ThreadPoolExecutor() as executor:
-                    urls_to_scrape = [event["article_url"] for event in events_to_scrape]
-                    scrape_func = partial(scrape_single_event_page, scraper=page_scraper)
-                    results = executor.map(scrape_func, urls_to_scrape)
-                    for result in results:
-                        if result and result.get("article_url") in all_events_data:
-                            all_events_data[result["article_url"]].update(result)
+                for event in events_to_scrape:
+                    result = scrape_single_event_page(
+                        event["article_url"], page_scraper
+                    )
+                    if result and result.get("article_url") in all_events_data:
+                        all_events_data[result["article_url"]].update(result)
             finally:
                 page_scraper.close()
 
         new_events_by_category: Dict[str, List[Dict[str, Any]]] = {}
         for event in all_events_data.values():
-            category = event["category"]
+            category = event.get("category", "Event")
             if category not in new_events_by_category:
                 new_events_by_category[category] = []
             new_events_by_category[category].append(event)

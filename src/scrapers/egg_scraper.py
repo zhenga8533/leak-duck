@@ -1,7 +1,7 @@
 import re
 from typing import Any, Dict
 
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Tag
 
 from src.utils import parse_pokemon_list
 
@@ -18,7 +18,7 @@ class EggScraper(BaseScraper):
 
         for title_element in egg_group_titles:
             egg_grid = title_element.find_next_sibling("ul", class_="egg-grid")
-            if not egg_grid:
+            if not isinstance(egg_grid, Tag):
                 continue
 
             egg_group_name = title_element.get_text(strip=True)
@@ -29,9 +29,13 @@ class EggScraper(BaseScraper):
 
             for pokemon in pokemon_data:
                 pokemon["hatch_distance"] = hatch_distance
-                card = egg_grid.find("span", class_="name", string=pokemon["name"]).find_parent("li")
-                if card:
-                    pokemon["rarity_tier"] = len(card.select("div.rarity > svg.mini-egg"))
+                name_span = egg_grid.find("span", class_="name", string=pokemon["name"])
+                if name_span:
+                    card = name_span.find_parent("li")
+                    if card:
+                        pokemon["rarity_tier"] = len(
+                            card.select("div.rarity > svg.mini-egg")
+                        )
 
             egg_pool[egg_group_name] = pokemon_data
 

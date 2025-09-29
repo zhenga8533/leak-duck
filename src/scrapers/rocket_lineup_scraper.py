@@ -28,8 +28,13 @@ class RocketLineupScraper(BaseScraper):
                 pokemon_in_slot = parse_pokemon_list(slot)
 
                 if pokemon_in_slot:
-                    is_encounter_slot = "encounter" in slot.get("class", [])
+                    classes = slot.get("class")
+                    is_encounter_slot = classes is not None and "encounter" in classes
                     lineups[leader_name].append(
-                        {"slot": i, "pokemons": pokemon_in_slot, "is_encounter": is_encounter_slot}
+                        {
+                            "slot": i,
+                            "pokemons": pokemon_in_slot,
+                            "is_encounter": is_encounter_slot,
+                        }
                     )
         return lineups

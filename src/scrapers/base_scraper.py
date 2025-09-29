@@ -7,12 +7,16 @@ from typing import Any, Dict, List, Optional
 import requests
 from bs4 import BeautifulSoup
 
+from src.utils import save_html
+
 
 class BaseScraper(ABC):
     def __init__(self, url: str, file_name: str, scraper_settings: Dict[str, Any]):
         self.url = url
         self.raw_html_path = os.path.join("html", f"{file_name}.html")
-        self.json_path = os.path.join("json" if not os.getenv("CI") else ".", f"{file_name}.json")
+        self.json_path = os.path.join(
+            "json" if not os.getenv("CI") else ".", f"{file_name}.json"
+        )
         self.scraper_settings = scraper_settings
 
     def _fetch_html(self) -> Optional[BeautifulSoup]:
@@ -26,13 +30,7 @@ class BaseScraper(ABC):
                 response = requests.get(self.url, timeout=timeout)
                 response.raise_for_status()
 
-                if not os.getenv("CI"):
-                    html_dir = os.path.dirname(self.raw_html_path)
-                    if not os.path.exists(html_dir):
-                        os.makedirs(html_dir)
-                    with open(self.raw_html_path, "w", encoding="utf-8") as f:
-                        f.write(response.text)
-                    print(f"Saved raw HTML to {self.raw_html_path}")
+                save_html(response.text, self.raw_html_path)
 
                 return BeautifulSoup(response.content, "lxml")
             except requests.exceptions.RequestException as e:
