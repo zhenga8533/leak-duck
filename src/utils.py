@@ -1,8 +1,20 @@
+import os
 import re
 from datetime import datetime
 from typing import Any, Dict, List, Optional
 
 from bs4.element import Tag
+
+
+def save_html(content: str, path: str):
+    """Utility function to save HTML content to a specified path."""
+    if not os.getenv("CI"):
+        html_dir = os.path.dirname(path)
+        if not os.path.exists(html_dir):
+            os.makedirs(html_dir)
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(content)
+        print(f"Saved raw HTML to {path}")
 
 
 def parse_cp_range(cp_string: str) -> Optional[Dict[str, int]]:
@@ -14,7 +26,10 @@ def parse_cp_range(cp_string: str) -> Optional[Dict[str, int]]:
 
     numbers = re.findall(r"\d+", cp_string)
     if len(numbers) == 2:
-        return {"min": min(int(numbers[0]), int(numbers[1])), "max": max(int(numbers[0]), int(numbers[1]))}
+        return {
+            "min": min(int(numbers[0]), int(numbers[1])),
+            "max": max(int(numbers[0]), int(numbers[1])),
+        }
     return None
 
 
@@ -28,7 +43,9 @@ def parse_pokemon_list(container: Tag) -> List[Dict[str, Any]]:
 
     for p in pokemon_elements:
         name_element = p.find("span", class_="name") or p.find("p", class_="name")
-        name = p.get("data-pokemon") or (name_element.get_text(strip=True) if name_element else "Unknown")
+        name = p.get("data-pokemon") or (
+            name_element.get_text(strip=True) if name_element else "Unknown"
+        )
 
         is_shiny = p.find("svg", class_="shiny-icon") is not None
 
@@ -36,18 +53,27 @@ def parse_pokemon_list(container: Tag) -> List[Dict[str, Any]]:
         asset_url = asset_url_element["src"] if asset_url_element else None
 
         if name != "Unknown":
-            pokemon_list.append({"name": name, "shiny_available": is_shiny, "asset_url": asset_url})
+            pokemon_list.append(
+                {"name": name, "shiny_available": is_shiny, "asset_url": asset_url}
+            )
 
     return pokemon_list
 
 
-def process_time_data(date_element: Optional[Tag], time_element: Optional[Tag], is_local: bool) -> Optional[str | int]:
+def process_time_data(
+    date_element: Optional[Tag], time_element: Optional[Tag], is_local: bool
+) -> Optional[str | int]:
     if is_local:
         if date_element and time_element:
             raw_date_str = date_element.get_text(strip=True)
             raw_time_str = time_element.get_text(strip=True)
             date_str = re.sub(r"\s+", " ", raw_date_str).replace(",", "").strip()
-            time_str = re.sub(r"\s+", " ", raw_time_str).replace("at", "").replace("Local Time", "").strip()
+            time_str = (
+                re.sub(r"\s+", " ", raw_time_str)
+                .replace("at", "")
+                .replace("Local Time", "")
+                .strip()
+            )
             datetime_str = f"{date_str} {time_str}"
             try:
                 dt_object = datetime.strptime(datetime_str, "%A %B %d %Y %I:%M %p")

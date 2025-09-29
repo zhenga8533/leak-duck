@@ -1,5 +1,6 @@
 import os
 from typing import Any, Dict
+from urllib.parse import quote_plus
 
 from bs4 import BeautifulSoup
 from bs4.element import NavigableString
@@ -11,7 +12,7 @@ from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
-from src.utils import process_time_data
+from src.utils import process_time_data, save_html
 
 
 class EventPageScraper:
@@ -57,6 +58,9 @@ class EventPageScraper:
         try:
             print(f"Scraping dynamic event page: {url}")
             html_content = self.fetch_dynamic_html(url)
+            html_path = os.path.join("html", f"event_page_{quote_plus(url)}.html")
+            save_html(html_content, html_path)
+
             soup = BeautifulSoup(html_content, "lxml")
 
             event_details: Dict[str, Any] = {"article_url": url}
@@ -70,15 +74,25 @@ class EventPageScraper:
             end_date_element = soup.find("span", id="event-date-end")
             end_time_element = soup.find("span", id="event-time-end")
 
-            is_local = not (start_date_element and "data-event-page-date" in start_date_element.attrs)
+            is_local = not (
+                start_date_element
+                and "data-event-page-date" in start_date_element.attrs
+            )
             event_details["is_local_time"] = is_local
 
-            event_details["start_time"] = process_time_data(start_date_element, start_time_element, is_local)
-            event_details["end_time"] = process_time_data(end_date_element, end_time_element, is_local)
+            event_details["start_time"] = process_time_data(
+                start_date_element, start_time_element, is_local
+            )
+            event_details["end_time"] = process_time_data(
+                end_date_element, end_time_element, is_local
+            )
 
             description_div = content.find("div", class_="event-description")
             if description_div and not isinstance(description_div, NavigableString):
-                description_texts = [p.get_text(strip=True) for p in description_div.find_all("p", recursive=False)]
+                description_texts = [
+                    p.get_text(strip=True)
+                    for p in description_div.find_all("p", recursive=False)
+                ]
                 event_details["description"] = "\n".join(description_texts)
 
             main_sections = content.find_all("h2", class_="event-section-header")
@@ -93,29 +107,48 @@ class EventPageScraper:
                         next_element = next_element.find_next_sibling()
                         continue
 
-                    if next_element.name == "h2" and "event-section-header" in next_element.get("class", []):
+                    if (
+                        next_element.name == "h2"
+                        and "event-section-header" in next_element.get("class", [])
+                    ):
                         break
 
-                    if next_element.name == "ul" and "pkmn-list-flex" in next_element.get("class", []):
+                    if (
+                        next_element.name == "ul"
+                        and "pkmn-list-flex" in next_element.get("class", [])
+                    ):
                         pokemon_list = {
                             li.find("div", class_="pkmn-name").get_text(strip=True)
-                            for li in next_element.find_all("li", class_="pkmn-list-item")
+                            for li in next_element.find_all(
+                                "li", class_="pkmn-list-item"
+                            )
                             if li.find("div", class_="pkmn-name")
                         }
                         if pokemon_list:
-                            event_details.setdefault(section_id, []).extend(sorted(list(pokemon_list)))
+                            event_details.setdefault(section_id, []).extend(
+                                sorted(list(pokemon_list))
+                            )
 
-                    if next_element.name == "div" and "bonus-list" in next_element.get("class", []):
+                    if next_element.name == "div" and "bonus-list" in next_element.get(
+                        "class", []
+                    ):
                         bonuses = {
-                            item.get_text(strip=True) for item in next_element.find_all("div", class_="bonus-text")
+                            item.get_text(strip=True)
+                            for item in next_element.find_all(
+                                "div", class_="bonus-text"
+                            )
                         }
                         if bonuses:
-                            event_details.setdefault("bonuses", []).extend(sorted(list(bonuses)))
+                            event_details.setdefault("bonuses", []).extend(
+                                sorted(list(bonuses))
+                            )
 
                     next_element = next_element.find_next_sibling()
 
                 if section_id in event_details:
-                    event_details[section_id] = sorted(list(set(event_details[section_id])))
+                    event_details[section_id] = sorted(
+                        list(set(event_details[section_id]))
+                    )
 
             if "bonuses" in event_details:
                 event_details["bonuses"] = sorted(list(set(event_details["bonuses"])))
