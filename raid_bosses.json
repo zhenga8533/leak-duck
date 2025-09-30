@@ -1,129 +1,131 @@
 {
     "Tier 1": [
         {
-            "name": "Pidgey",
+            "name": "Alolan Sandshrew",
+            "tier": 1,
+            "shiny_available": true,
+            "cp_range": {
+                "min": 688,
+                "max": 739
+            },
+            "boosted_cp_range": {
+                "min": 860,
+                "max": 924
+            },
+            "types": [
+                "Ice",
+                "Steel"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm27.fALOLA.icon.png"
+        },
+        {
+            "name": "Alolan Diglett",
             "tier": 1,
             "shiny_available": true,
             "cp_range": {
                 "min": 352,
-                "max": 388
+                "max": 389
             },
             "boosted_cp_range": {
                 "min": 440,
                 "max": 486
             },
             "types": [
-                "Normal",
-                "Flying"
+                "Ground",
+                "Steel"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm16.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm50.fALOLA.icon.png"
         },
         {
-            "name": "Porygon",
+            "name": "Galarian Meowth",
             "tier": 1,
             "shiny_available": true,
             "cp_range": {
-                "min": 924,
-                "max": 982
+                "min": 546,
+                "max": 591
             },
             "boosted_cp_range": {
-                "min": 1155,
-                "max": 1228
+                "min": 682,
+                "max": 739
             },
             "types": [
-                "Normal"
+                "Steel"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm137.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm52.fGALARIAN.icon.png"
         },
         {
-            "name": "Zigzagoon",
+            "name": "Honedge",
             "tier": 1,
-            "shiny_available": true,
+            "shiny_available": false,
             "cp_range": {
-                "min": 258,
-                "max": 290
+                "min": 742,
+                "max": 794
             },
             "boosted_cp_range": {
-                "min": 323,
-                "max": 363
+                "min": 927,
+                "max": 993
             },
             "types": [
-                "Normal"
+                "Steel",
+                "Ghost"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm263.icon.png"
-        },
-        {
-            "name": "Galarian Zigzagoon",
-            "tier": 1,
-            "shiny_available": true,
-            "cp_range": {
-                "min": 258,
-                "max": 290
-            },
-            "boosted_cp_range": {
-                "min": 323,
-                "max": 363
-            },
-            "types": [
-                "Dark",
-                "Normal"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm263.fGALARIAN.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm679.icon.png"
         }
     ],
     "Tier 3": [
         {
-            "name": "Snorlax",
+            "name": "Magneton",
             "tier": 3,
-            "shiny_available": true,
+            "shiny_available": false,
             "cp_range": {
-                "min": 1760,
-                "max": 1843
+                "min": 1348,
+                "max": 1420
             },
             "boosted_cp_range": {
-                "min": 2201,
-                "max": 2304
+                "min": 1686,
+                "max": 1775
             },
             "types": [
-                "Normal"
+                "Electric",
+                "Steel"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm143.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm82.icon.png"
         },
         {
-            "name": "Drampa",
+            "name": "Lairon",
             "tier": 3,
-            "shiny_available": true,
+            "shiny_available": false,
             "cp_range": {
-                "min": 1588,
-                "max": 1665
+                "min": 1110,
+                "max": 1174
             },
             "boosted_cp_range": {
-                "min": 1985,
-                "max": 2081
+                "min": 1388,
+                "max": 1468
             },
             "types": [
-                "Normal",
-                "Dragon"
+                "Steel",
+                "Rock"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm780.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm305.icon.png"
         },
         {
-            "name": "Wyrdeer",
+            "name": "Excadrill",
             "tier": 3,
-            "shiny_available": true,
+            "shiny_available": false,
             "cp_range": {
-                "min": 1486,
-                "max": 1561
+                "min": 1770,
+                "max": 1853
             },
             "boosted_cp_range": {
-                "min": 1858,
-                "max": 1952
+                "min": 2212,
+                "max": 2317
             },
             "types": [
-                "Normal",
-                "Psychic"
+                "Ground",
+                "Steel"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm899.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm530.icon.png"
         }
     ],
     "Tier 5": [
@@ -148,39 +150,58 @@
     ],
     "Mega": [
         {
-            "name": "Mega Kangaskhan",
+            "name": "Mega Steelix",
             "tier": "Mega",
             "shiny_available": true,
             "cp_range": {
-                "min": 1405,
-                "max": 1477
+                "min": 1308,
+                "max": 1379
             },
             "boosted_cp_range": {
-                "min": 1757,
-                "max": 1847
+                "min": 1635,
+                "max": 1724
             },
             "types": [
-                "Normal"
+                "Steel",
+                "Ground"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm115.fMEGA.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm208.fMEGA.icon.png"
         },
         {
-            "name": "Mega Lopunny",
+            "name": "Mega Scizor",
             "tier": "Mega",
             "shiny_available": true,
             "cp_range": {
-                "min": 1112,
-                "max": 1177
+                "min": 1636,
+                "max": 1714
             },
             "boosted_cp_range": {
-                "min": 1391,
-                "max": 1471
+                "min": 2046,
+                "max": 2143
             },
             "types": [
-                "Normal",
-                "Fighting"
+                "Bug",
+                "Steel"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm428.fMEGA.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm212.fMEGA.icon.png"
+        },
+        {
+            "name": "Mega Lucario",
+            "tier": "Mega",
+            "shiny_available": false,
+            "cp_range": {
+                "min": 1469,
+                "max": 1544
+            },
+            "boosted_cp_range": {
+                "min": 1837,
+                "max": 1930
+            },
+            "types": [
+                "Fighting",
+                "Steel"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm448.fMEGA.icon.png"
         }
     ],
     "Shadow Tier 1": [

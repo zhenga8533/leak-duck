@@ -1,89 +1,76 @@
 {
-    "Completely Normal Tasks": [
+    "Steel Skyline Tasks": [
         {
-            "task": "Catch 5 Normal-type Pokémon",
+            "task": "Catch 5 Pokémon",
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Lickitung",
+                    "name": "Magnemite",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm108.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm81.icon.png"
                 },
                 {
                     "type": "encounter",
-                    "name": "Dunsparce",
+                    "name": "Drilbur",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm206.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Miltank",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm241.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm529.icon.png"
                 }
             ]
         },
         {
-            "task": "Make 5 Great Curveball Throws in a row",
+            "task": "Make 5 Nice Throws",
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Spinda 4",
+                    "name": "Alolan Grimer",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm327.f03.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Spinda 5",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm327.f04.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm88.fALOLA.icon.png"
                 }
             ]
         },
         {
-            "task": "Spin 2 PokéStops or Gyms",
+            "task": "Make 3 Excellent Throws",
             "rewards": [
                 {
-                    "type": "item",
-                    "name": "XP",
-                    "quantity": 1000,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/icons/xp.png"
+                    "type": "encounter",
+                    "name": "Skarmory",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm227.icon.png"
                 },
                 {
-                    "type": "item",
-                    "name": "Poké Ball",
-                    "quantity": 10,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Poke Ball.png"
-                },
-                {
-                    "type": "item",
-                    "name": "Pinap Berry",
-                    "quantity": 5,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Pinap Berry.png"
+                    "type": "encounter",
+                    "name": "Bronzor",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm436.icon.png"
                 }
             ]
         },
         {
-            "task": "Evolve a Pokémon",
+            "task": "Transfer 10 Pokémon",
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Dunsparce",
+                    "name": "Trubbish",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm206.icon.png"
-                },
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm568.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Win 3 Dynamax Battles",
+            "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Audino",
-                    "shiny_available": true,
+                    "name": "Dynamax Duraludon",
+                    "shiny_available": false,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm531.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm884.icon.png"
                 }
             ]
         }
