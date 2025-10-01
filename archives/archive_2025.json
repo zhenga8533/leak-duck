@@ -391,6 +391,16 @@
             "spawns": [
                 "Hoothoot"
             ]
+        },
+        {
+            "title": "Aron Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-09-30/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "is_local_time": true,
+            "start_time": "2025-09-30T18:00:00",
+            "end_time": "2025-09-30T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of September.\nSeptember 30: The featured Pokémon isAronand the special bonus is2× Transfer Candy."
         }
     ],
     "Raid Hour": [
