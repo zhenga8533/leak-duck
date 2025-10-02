@@ -334,21 +334,22 @@
     ],
     "Shadow Tier 5": [
         {
-            "name": "Regigigas",
+            "name": "Latias",
             "tier": 5,
             "shiny_available": true,
             "cp_range": {
-                "min": 2315,
-                "max": 2483
+                "min": 1855,
+                "max": 2006
             },
             "boosted_cp_range": {
-                "min": 2894,
-                "max": 3104
+                "min": 2320,
+                "max": 2507
             },
             "types": [
-                "Normal"
+                "Dragon",
+                "Psychic"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm486.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm380.icon.png"
         }
     ]
 }

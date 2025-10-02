@@ -223,6 +223,16 @@
             "start_time": "2025-09-27T10:00:00",
             "end_time": "2025-09-28T20:00:00",
             "description": "There will be PokéStop Showcases featuring Camerupt and Dudunsparce. Top the leaderboard to win rewards including Premium Items!"
+        },
+        {
+            "title": "Steel-type PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/steel-type-showcases-2025-09-29/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "is_local_time": true,
+            "start_time": "2025-09-29T10:00:00",
+            "end_time": "2025-10-01T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Steel-type Pokémon. Top the leaderboard to win rewards including Premium Items!"
         }
     ],
     "Max Mondays": [
@@ -431,6 +441,16 @@
             "is_local_time": true,
             "start_time": "2025-09-24T18:00:00",
             "end_time": "2025-09-24T19:00:00",
+            "description": "A Raid Hour featuring Dialga (Origin Forme) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids.\nOrigin Forme Dialga caught during Raid Hour may know the Charged Attack Roar of Time."
+        },
+        {
+            "title": "Dialga (Origin Forme) Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20251001/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "is_local_time": true,
+            "start_time": "2025-10-01T18:00:00",
+            "end_time": "2025-10-01T19:00:00",
             "description": "A Raid Hour featuring Dialga (Origin Forme) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids.\nOrigin Forme Dialga caught during Raid Hour may know the Charged Attack Roar of Time."
         }
     ],
