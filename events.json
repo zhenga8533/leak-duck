@@ -1,270 +1,4 @@
 {
-    "Raid Battles": [
-        {
-            "title": "Mega Kangaskhan and Mega Lopunny in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-kangaskhan-lopunny-in-mega-raids-september-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-09-23T10:00:00",
-            "end_time": "2025-09-30T10:00:00",
-            "description": "Mega Kangaskhan and Mega Lopunny return to Mega Raids on September 23, 2025, at 10 am local time."
-        },
-        {
-            "title": "Dialga in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/dialga-in-5-star-raid-battles-september-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/dialgaraids.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-09-23T10:00:00",
-            "end_time": "2025-10-07T10:00:00",
-            "description": "Dialga will be in five-star raid battles from September 23, 2025 to October 7, 2025.\nThere will also be a Raid Hour featuring Origin Forme Dialga from 6:00 pm to 7:00 pm local time on the following dates:"
-        },
-        {
-            "title": "Mega Steelix, Scizor, and Lucario in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-steel-fighting-in-mega-raids-september-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-09-30T10:00:00",
-            "end_time": "2025-10-07T10:00:00",
-            "description": "Mega Steelix, Mega Scizor, and Mega Lucario return to Mega Raids on September 30, 2025, at 10 am local time."
-        },
-        {
-            "title": "Deoxys (Normal & Defense Forme) in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/deoxys-normal-defense-in-5-star-raid-battles-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/deoxys-all-formes.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-10-07T10:00:00",
-            "end_time": "2025-10-14T10:00:00",
-            "description": "Deoxys (Normal) and Deoxys (Defense) will be in five-star raid battles from October 7, 2025 to October 14, 2025.\nThere will also be a Raid Hour featuring Deoxys (Normal & Defense Forme) from 6:00 pm to 7:00 pm local time on the following dates:"
-        },
-        {
-            "title": "Mega Sceptile, Mega Blaziken, and Mega Swampert in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-sceptile-mega-blaziken-mega-swampert-in-mega-raids-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-10-07T10:00:00",
-            "end_time": "2025-10-14T10:00:00",
-            "description": "Mega Sceptile, Mega Blaziken, and Mega Swampert return to Mega Raids on October 7, 2025, at 10 am local time."
-        },
-        {
-            "title": "Deoxys (Attack & Speed Forme) in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/deoxys-attack-speed-in-5-star-raid-battles-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/deoxys-all-formes.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-10-14T10:00:00",
-            "end_time": "2025-10-21T10:00:00",
-            "description": "Deoxys (Attack) and Deoxys (Speed) will be in five-star raid battles from October 14, 2025 to October 21, 2025.\nThere will also be a Raid Hour featuring Deoxys (Attack & Speed Forme) from 6:00 pm to 7:00 pm local time on the following dates:"
-        },
-        {
-            "title": "Mega Mawile and Mega Salamence in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-mawile-mega-salamence-in-mega-raids-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-10-14T10:00:00",
-            "end_time": "2025-10-21T10:00:00",
-            "description": "Mega Mawile and Mega Salamence return to Mega Raids on October 14, 2025, at 10 am local time."
-        },
-        {
-            "title": "Genesect (Douse & Shock Drive) in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/genesect-douse-shock-in-5-star-raid-battles-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/genesect.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-10-21T10:00:00",
-            "end_time": "2025-10-28T10:00:00",
-            "description": "Genesect, Genesect (Douse), and Genesect (Shock) will be in five-star raid battles from October 21, 2025 to October 28, 2025.\nThere will also be a Raid Hour featuring Genesect from 6:00 pm to 7:00 pm local time on the following dates:"
-        },
-        {
-            "title": "Mega Houndoom and Mega Absol in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-houndoom-mega-absol-in-mega-raids-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-10-21T10:00:00",
-            "end_time": "2025-10-28T10:00:00",
-            "description": "Mega Houndoom and Mega Absol return to Mega Raids on October 21, 2025, at 10 am local time."
-        },
-        {
-            "title": "Giratina (Altered Forme) in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/giratina-altered-in-5-star-raid-battles-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/giratinaaltered.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-10-28T10:00:00",
-            "end_time": "2025-11-04T10:00:00",
-            "description": "Giratina (Altered) will be in five-star raid battles from October 28, 2025 to November 4, 2025.\nThere will also be a Raid Hour featuring Giratina (Altered Forme) from 6:00 pm to 7:00 pm local time on the following dates:"
-        },
-        {
-            "title": "Mega Gengar, Mega Sableye, and Mega Banette in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-gengar-mega-sableye-mega-banette-in-mega-raids-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-10-28T10:00:00",
-            "end_time": "2025-11-04T10:00:00",
-            "description": "Mega Gengar, Mega Sableye, and Mega Banette return to Mega Raids on October 28, 2025, at 10 am local time."
-        }
-    ],
-    "GO Battle League": [
-        {
-            "title": "Great League, Ultra League, and Master League | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-1/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1758657600,
-            "end_time": 1759262400,
-            "description": "The Great League, Ultra League, and Master League will run from September 23, 2025, at 1:00 p.m. to September 30, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
-        },
-        {
-            "title": "Great League and Fantasy Cup: Great League Edition | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_fantasy-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1759262400,
-            "end_time": 1759867200,
-            "description": "The Great League and Fantasy Cup: Great League Edition will run from September 30, 2025, at 1:00 p.m. to October 7, 2025, at 1:00 p.m. PT."
-        },
-        {
-            "title": "Ultra League and Jungle Cup: Great League Edition | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_ultra-league_jungle-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1759867200,
-            "end_time": 1760472000,
-            "description": "The Ultra League and Jungle Cup: Great League Edition will run from October 7, 2025, at 1:00 p.m. to October 14, 2025, at 1:00 p.m. PT.\nThe following Pokémon will not be allowed."
-        },
-        {
-            "title": "Master Premier and Great League Remix | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_master-premier_great-league-remix/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1760472000,
-            "end_time": 1761076800,
-            "description": "The Master Premier and Great League Remix will run from October 14, 2025, at 1:00 p.m. to October 21, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\nCheck back later for more details."
-        },
-        {
-            "title": "Great League, Ultra League, and Master League | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-2/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1761076800,
-            "end_time": 1761681600,
-            "description": "The Great League, Ultra League, and Master League will run from October 21, 2025, at 1:00 p.m. to October 28, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
-        },
-        {
-            "title": "Great League and Halloween Cup: Great League Edition | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_halloween-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1761681600,
-            "end_time": 1762290000,
-            "description": "The Great League and Halloween Cup: Great League Edition will run from October 28, 2025, at 1:00 p.m. to November 4, 2025, at 1:00 p.m. PT."
-        },
-        {
-            "title": "Ultra League and Jungle Cup: Great League Edition | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_ultra-league_jungle-cup-great-league-edition-2/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1762290000,
-            "end_time": 1762894800,
-            "description": "The Ultra League and Jungle Cup: Great League Edition will run from November 4, 2025, at 1:00 p.m. to November 11, 2025, at 1:00 p.m. PT.\nThe following Pokémon will not be allowed."
-        },
-        {
-            "title": "Great League, Ultra League, and Master League | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-3/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1762894800,
-            "end_time": 1763499600,
-            "description": "The Great League, Ultra League, and Master League will run from November 11, 2025, at 1:00 p.m. to November 18, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
-        },
-        {
-            "title": "2025 Championship Series Cup and Master League: Mega Edition | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_2025-championship-series-cup_master-league-mega-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1763499600,
-            "end_time": 1764104400,
-            "description": "The 2025 Championship Series Cup and Master League: Mega Edition will run from November 18, 2025, at 1:00 p.m. to November 25, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\nThe following Pokémon will not be allowed."
-        },
-        {
-            "title": "Catch Cup: Tales of Transformation: Great Edition, Ultra League, and Master League | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_catch-cup-tales-of-transformation-great-edition_ultra-league_master-league/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1764104400,
-            "end_time": 1764709200,
-            "description": "The Catch Cup: Tales of Transformation: Great Edition, Ultra League, and Master League will run from November 25, 2025, at 1:00 p.m. to December 2, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
-        }
-    ],
-    "Pokémon Spotlight Hour": [
-        {
-            "title": "Aron Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-09-30/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "is_local_time": true,
-            "start_time": "2025-09-30T18:00:00",
-            "end_time": "2025-09-30T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of September.\nSeptember 30: The featured Pokémon isAronand the special bonus is2× Transfer Candy."
-        },
-        {
-            "title": "Ferroseed Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-10-07/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "is_local_time": true,
-            "start_time": "2025-10-07T18:00:00",
-            "end_time": "2025-10-07T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of October.\nOctober 7: The featured Pokémon isFerroseedand the special bonus is2× Evolution XP."
-        },
-        {
-            "title": "Petilil Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-10-14/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "is_local_time": true,
-            "start_time": "2025-10-14T18:00:00",
-            "end_time": "2025-10-14T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of October.\nOctober 14: The featured Pokémon isPetililand the special bonus is2× Catch Stardust."
-        },
-        {
-            "title": "Gastly Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-10-21/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "is_local_time": true,
-            "start_time": "2025-10-21T18:00:00",
-            "end_time": "2025-10-21T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of October.\nGastly may award Gengar Mega Energy when caught during Spotlight Hour.\nOctober 21: The featured Pokémon isGastlyand the special bonus is2× Catch XP."
-        },
-        {
-            "title": "Sinistea Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-10-28/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "is_local_time": true,
-            "start_time": "2025-10-28T18:00:00",
-            "end_time": "2025-10-28T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of October.\nOctober 28: The featured Pokémon isSinisteaand the special bonus is2× Catch Candy."
-        }
-    ],
     "Raid Hour": [
         {
             "title": "Dialga (Origin Forme) Raid Hour",
@@ -432,6 +166,262 @@
                 "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
                 "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
             ]
+        },
+        {
+            "title": "GO Pass: October",
+            "article_url": "https://leekduck.com/events/go-pass-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-07-go-pass-october-2025/go-pass-october-2025.jpg",
+            "category": "GO Pass",
+            "is_local_time": true,
+            "start_time": "2025-10-07T10:00:00",
+            "end_time": "2025-11-04T10:00:00",
+            "description": "No tricks, just treats! Earn PokéCoins for progressing in GO Pass: October!\nTrainers, Get ready for a special treat this Halloween season during Pokémon GO’s Tales of Transformation! Bonus PokéCoins will be available to earn during this month’s GO Pass on both the free track and the paid GO Pass Deluxe track. Check out this exciting bonus and more in GO Pass: October!\nFrom Tuesday, October 7, at 10:00 a.m. to Tuesday, November 4, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for October will be available in Pokémon GO!",
+            "bonuses": [
+                "2× Daily Adventure Incense duration",
+                "2× Stardust and XP from hatching Eggs",
+                "Hold up to 30 Gifts in your Item Bag",
+                "Hold up to 40 Gifts in your Item Bag",
+                "Open up to 40 Gifts per day",
+                "Open up to 50 Gifts per day",
+                "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
+            ]
+        }
+    ],
+    "Raid Battles": [
+        {
+            "title": "Dialga in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/dialga-in-5-star-raid-battles-september-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/dialgaraids.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-09-23T10:00:00",
+            "end_time": "2025-10-07T10:00:00",
+            "description": "Dialga will be in five-star raid battles from September 23, 2025 to October 7, 2025.\nThere will also be a Raid Hour featuring Origin Forme Dialga from 6:00 pm to 7:00 pm local time on the following dates:"
+        },
+        {
+            "title": "Mega Steelix, Scizor, and Lucario in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-steel-fighting-in-mega-raids-september-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-09-30T10:00:00",
+            "end_time": "2025-10-07T10:00:00",
+            "description": "Mega Steelix, Mega Scizor, and Mega Lucario return to Mega Raids on September 30, 2025, at 10 am local time."
+        },
+        {
+            "title": "Deoxys (Normal & Defense Forme) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/deoxys-normal-defense-in-5-star-raid-battles-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/deoxys-all-formes.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-07T10:00:00",
+            "end_time": "2025-10-14T10:00:00",
+            "description": "Deoxys (Normal) and Deoxys (Defense) will be in five-star raid battles from October 7, 2025 to October 14, 2025.\nThere will also be a Raid Hour featuring Deoxys (Normal & Defense Forme) from 6:00 pm to 7:00 pm local time on the following dates:"
+        },
+        {
+            "title": "Mega Sceptile, Mega Blaziken, and Mega Swampert in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-sceptile-mega-blaziken-mega-swampert-in-mega-raids-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-07T10:00:00",
+            "end_time": "2025-10-14T10:00:00",
+            "description": "Mega Sceptile, Mega Blaziken, and Mega Swampert return to Mega Raids on October 7, 2025, at 10 am local time."
+        },
+        {
+            "title": "Deoxys (Attack & Speed Forme) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/deoxys-attack-speed-in-5-star-raid-battles-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/deoxys-all-formes.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-14T10:00:00",
+            "end_time": "2025-10-21T10:00:00",
+            "description": "Deoxys (Attack) and Deoxys (Speed) will be in five-star raid battles from October 14, 2025 to October 21, 2025.\nThere will also be a Raid Hour featuring Deoxys (Attack & Speed Forme) from 6:00 pm to 7:00 pm local time on the following dates:"
+        },
+        {
+            "title": "Mega Mawile and Mega Salamence in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-mawile-mega-salamence-in-mega-raids-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-14T10:00:00",
+            "end_time": "2025-10-21T10:00:00",
+            "description": "Mega Mawile and Mega Salamence return to Mega Raids on October 14, 2025, at 10 am local time."
+        },
+        {
+            "title": "Genesect (Douse & Shock Drive) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/genesect-douse-shock-in-5-star-raid-battles-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/genesect.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-21T10:00:00",
+            "end_time": "2025-10-28T10:00:00",
+            "description": "Genesect, Genesect (Douse), and Genesect (Shock) will be in five-star raid battles from October 21, 2025 to October 28, 2025.\nThere will also be a Raid Hour featuring Genesect from 6:00 pm to 7:00 pm local time on the following dates:"
+        },
+        {
+            "title": "Mega Houndoom and Mega Absol in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-houndoom-mega-absol-in-mega-raids-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-21T10:00:00",
+            "end_time": "2025-10-28T10:00:00",
+            "description": "Mega Houndoom and Mega Absol return to Mega Raids on October 21, 2025, at 10 am local time."
+        },
+        {
+            "title": "Giratina (Altered Forme) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/giratina-altered-in-5-star-raid-battles-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/giratinaaltered.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-28T10:00:00",
+            "end_time": "2025-11-04T10:00:00",
+            "description": "Giratina (Altered) will be in five-star raid battles from October 28, 2025 to November 4, 2025.\nThere will also be a Raid Hour featuring Giratina (Altered Forme) from 6:00 pm to 7:00 pm local time on the following dates:"
+        },
+        {
+            "title": "Mega Gengar, Mega Sableye, and Mega Banette in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-gengar-mega-sableye-mega-banette-in-mega-raids-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-28T10:00:00",
+            "end_time": "2025-11-04T10:00:00",
+            "description": "Mega Gengar, Mega Sableye, and Mega Banette return to Mega Raids on October 28, 2025, at 10 am local time."
+        }
+    ],
+    "GO Battle League": [
+        {
+            "title": "Great League and Fantasy Cup: Great League Edition | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_fantasy-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1759262400,
+            "end_time": 1759867200,
+            "description": "The Great League and Fantasy Cup: Great League Edition will run from September 30, 2025, at 1:00 p.m. to October 7, 2025, at 1:00 p.m. PT."
+        },
+        {
+            "title": "Ultra League and Jungle Cup: Great League Edition | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_ultra-league_jungle-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1759867200,
+            "end_time": 1760472000,
+            "description": "The Ultra League and Jungle Cup: Great League Edition will run from October 7, 2025, at 1:00 p.m. to October 14, 2025, at 1:00 p.m. PT.\nThe following Pokémon will not be allowed."
+        },
+        {
+            "title": "Master Premier and Great League Remix | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_master-premier_great-league-remix/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1760472000,
+            "end_time": 1761076800,
+            "description": "The Master Premier and Great League Remix will run from October 14, 2025, at 1:00 p.m. to October 21, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\nCheck back later for more details."
+        },
+        {
+            "title": "Great League, Ultra League, and Master League | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-2/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1761076800,
+            "end_time": 1761681600,
+            "description": "The Great League, Ultra League, and Master League will run from October 21, 2025, at 1:00 p.m. to October 28, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
+        },
+        {
+            "title": "Great League and Halloween Cup: Great League Edition | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_halloween-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1761681600,
+            "end_time": 1762290000,
+            "description": "The Great League and Halloween Cup: Great League Edition will run from October 28, 2025, at 1:00 p.m. to November 4, 2025, at 1:00 p.m. PT."
+        },
+        {
+            "title": "Ultra League and Jungle Cup: Great League Edition | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_ultra-league_jungle-cup-great-league-edition-2/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1762290000,
+            "end_time": 1762894800,
+            "description": "The Ultra League and Jungle Cup: Great League Edition will run from November 4, 2025, at 1:00 p.m. to November 11, 2025, at 1:00 p.m. PT.\nThe following Pokémon will not be allowed."
+        },
+        {
+            "title": "Great League, Ultra League, and Master League | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-3/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1762894800,
+            "end_time": 1763499600,
+            "description": "The Great League, Ultra League, and Master League will run from November 11, 2025, at 1:00 p.m. to November 18, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
+        },
+        {
+            "title": "2025 Championship Series Cup and Master League: Mega Edition | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_2025-championship-series-cup_master-league-mega-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1763499600,
+            "end_time": 1764104400,
+            "description": "The 2025 Championship Series Cup and Master League: Mega Edition will run from November 18, 2025, at 1:00 p.m. to November 25, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\nThe following Pokémon will not be allowed."
+        },
+        {
+            "title": "Catch Cup: Tales of Transformation: Great Edition, Ultra League, and Master League | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_catch-cup-tales-of-transformation-great-edition_ultra-league_master-league/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1764104400,
+            "end_time": 1764709200,
+            "description": "The Catch Cup: Tales of Transformation: Great Edition, Ultra League, and Master League will run from November 25, 2025, at 1:00 p.m. to December 2, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
+        }
+    ],
+    "Pokémon Spotlight Hour": [
+        {
+            "title": "Ferroseed Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-10-07/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "is_local_time": true,
+            "start_time": "2025-10-07T18:00:00",
+            "end_time": "2025-10-07T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of October.\nOctober 7: The featured Pokémon isFerroseedand the special bonus is2× Evolution XP."
+        },
+        {
+            "title": "Petilil Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-10-14/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "is_local_time": true,
+            "start_time": "2025-10-14T18:00:00",
+            "end_time": "2025-10-14T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of October.\nOctober 14: The featured Pokémon isPetililand the special bonus is2× Catch Stardust."
+        },
+        {
+            "title": "Gastly Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-10-21/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "is_local_time": true,
+            "start_time": "2025-10-21T18:00:00",
+            "end_time": "2025-10-21T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of October.\nGastly may award Gengar Mega Energy when caught during Spotlight Hour.\nOctober 21: The featured Pokémon isGastlyand the special bonus is2× Catch XP."
+        },
+        {
+            "title": "Sinistea Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-10-28/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "is_local_time": true,
+            "start_time": "2025-10-28T18:00:00",
+            "end_time": "2025-10-28T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of October.\nOctober 28: The featured Pokémon isSinisteaand the special bonus is2× Catch Candy."
         }
     ],
     "Event": [
