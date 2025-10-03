@@ -1,16 +1,4 @@
 {
-    "PokéStop Showcase": [
-        {
-            "title": "Steel-type PokéStop Showcases",
-            "article_url": "https://leekduck.com/events/steel-type-showcases-2025-09-29/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "is_local_time": true,
-            "start_time": "2025-09-29T10:00:00",
-            "end_time": "2025-10-01T20:00:00",
-            "description": "There will be PokéStop Showcases featuring Steel-type Pokémon. Top the leaderboard to win rewards including Premium Items!"
-        }
-    ],
     "Raid Day": [
         {
             "title": "Mega Metagross Raid Day",
@@ -39,20 +27,19 @@
             "is_local_time": true,
             "start_time": "2025-10-18T14:00:00",
             "end_time": "2025-10-18T17:00:00",
-            "description": "The Mega Rayquaza Raid Day event will take place on October 18, 2025 from 2 pm to 5 pm. Stay tuned for more details."
+            "description": "Soar to new heights on Mega Rayquaza Raid Day!",
+            "bonuses": [
+                "2× Stardust from Raid Battles",
+                "50% more XP from Raid Battles",
+                "Increased chance of encountering Shiny Rayquaza from Mega Raids",
+                "Increased chance to get Rare Candy XL from Raid Battles",
+                "Receive up to eight additional free Raid Passes from spinning Gym Photo Discs (for a total of 14)",
+                "Receive up to five additional free Raid Passes from spinning Gym Photo Discs (for a total of six)",
+                "Remote Raid Pass limit increased to 20 from Friday, October 17, at 5:00 p.m. to Saturday, October 18, 2025, at 8:00 p.m. PDT"
+            ]
         }
     ],
     "Max Mondays": [
-        {
-            "title": "Dynamax Beldum during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-09-29/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "is_local_time": true,
-            "start_time": "2025-09-29T18:00:00",
-            "end_time": "2025-10-05T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Delightful Days. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOnSeptember 29, 2025, the featured Dynamax Pokémon isBeldum."
-        },
         {
             "title": "Dynamax Drilbur during Max Monday",
             "article_url": "https://leekduck.com/events/max-mondays-2025-10-06/",
@@ -422,12 +409,15 @@
         {
             "title": "Pokémon Legends: Z-A Celebration Event",
             "article_url": "https://leekduck.com/events/pokemon-legends-za-celebration-event-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-16-pokemon-legends-za-celebration-event-2025/pokemon-legends-za-celebration-event.jpg",
             "category": "Event",
             "is_local_time": true,
             "start_time": "2025-10-16T10:00:00",
             "end_time": "2025-10-20T20:00:00",
-            "description": "The Pokémon Legends: Z-A Celebration Event event will take place from October 16, 2025 at 10 am to October 20, 2025 at 8 pm. Stay tuned for more details."
+            "description": "Celebrate the release of Pokémon Legends: Z-A with a Pokémon GO event!\nExperience Lumiose City in the Kalos region in a new adventure with Pokémon Legends: Z-A! In celebration of the release of this game, Mega Raids will appear more often in Pokémon GO. Chikorita, Totodile, and Tepig will appear in Timed Research, and avatar items inspired by Lumiose City Pokémon Trainers will be available in the shop.",
+            "bonuses": [
+                "Mega Raids will appear more frequently"
+            ]
         },
         {
             "title": "GO Battle Weekend: Tales of Transformation",
