@@ -188,7 +188,7 @@
         {
             "name": "Mega Lucario",
             "tier": "Mega",
-            "shiny_available": false,
+            "shiny_available": true,
             "cp_range": {
                 "min": 1469,
                 "max": 1544
