@@ -39,6 +39,18 @@
             ]
         }
     ],
+    "PokéStop Showcase": [
+        {
+            "title": "Metagross and Duraludon PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-metagross-duraludon-2025-10-04/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "is_local_time": true,
+            "start_time": "2025-10-04T10:00:00",
+            "end_time": "2025-10-05T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Metagross and Duraludon. Top the leaderboard to win rewards including Premium Items!"
+        }
+    ],
     "Max Mondays": [
         {
             "title": "Dynamax Drilbur during Max Monday",
