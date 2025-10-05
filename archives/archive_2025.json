@@ -37,6 +37,25 @@
                 "Camerupt",
                 "Mega Camerupt"
             ]
+        },
+        {
+            "title": "Mega Metagross Raid Day",
+            "article_url": "https://leekduck.com/events/mega-metagross-raid-day-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-04-mega-metagross-raid-day-october-2025/mega-metagross-raid-day.jpg",
+            "category": "Raid Day",
+            "is_local_time": true,
+            "start_time": "2025-10-04T14:00:00",
+            "end_time": "2025-10-04T17:00:00",
+            "description": "Link up for a battle of the minds on Mega Metagross Raid Day!",
+            "bonuses": [
+                "2× Stardust from Raid Battles",
+                "5,000 XP from Raid Battles",
+                "Increased chance of encountering Shiny Metagross from Mega Raids",
+                "Increased chance to get Rare Candy XL from Raid Battles",
+                "Receive up to eight additional free Raid Passes from spinning Gym Photo Discs (for a total of 14)",
+                "Receive up to five additional free Raid Passes from spinning Gym Photo Discs (for a total of six)",
+                "Remote Raid Pass limit increased to 20 from Friday, October 3, at 5:00 p.m. to Saturday, October 4, 2025, at 8:00 p.m. PDT"
+            ]
         }
     ],
     "Event": [
