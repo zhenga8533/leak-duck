@@ -1,44 +1,4 @@
 {
-    "Raid Day": [
-        {
-            "title": "Mega Metagross Raid Day",
-            "article_url": "https://leekduck.com/events/mega-metagross-raid-day-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-04-mega-metagross-raid-day-october-2025/mega-metagross-raid-day.jpg",
-            "category": "Raid Day",
-            "is_local_time": true,
-            "start_time": "2025-10-04T14:00:00",
-            "end_time": "2025-10-04T17:00:00",
-            "description": "Link up for a battle of the minds on Mega Metagross Raid Day!",
-            "bonuses": [
-                "2× Stardust from Raid Battles",
-                "5,000 XP from Raid Battles",
-                "Increased chance of encountering Shiny Metagross from Mega Raids",
-                "Increased chance to get Rare Candy XL from Raid Battles",
-                "Receive up to eight additional free Raid Passes from spinning Gym Photo Discs (for a total of 14)",
-                "Receive up to five additional free Raid Passes from spinning Gym Photo Discs (for a total of six)",
-                "Remote Raid Pass limit increased to 20 from Friday, October 3, at 5:00 p.m. to Saturday, October 4, 2025, at 8:00 p.m. PDT"
-            ]
-        },
-        {
-            "title": "Mega Rayquaza Raid Day",
-            "article_url": "https://leekduck.com/events/mega-rayquaza-raid-day-november-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-18-mega-rayquaza-raid-day-november-2025/mega-rayquaza-raid-day.jpg",
-            "category": "Raid Day",
-            "is_local_time": true,
-            "start_time": "2025-10-18T14:00:00",
-            "end_time": "2025-10-18T17:00:00",
-            "description": "Soar to new heights on Mega Rayquaza Raid Day!",
-            "bonuses": [
-                "2× Stardust from Raid Battles",
-                "50% more XP from Raid Battles",
-                "Increased chance of encountering Shiny Rayquaza from Mega Raids",
-                "Increased chance to get Rare Candy XL from Raid Battles",
-                "Receive up to eight additional free Raid Passes from spinning Gym Photo Discs (for a total of 14)",
-                "Receive up to five additional free Raid Passes from spinning Gym Photo Discs (for a total of six)",
-                "Remote Raid Pass limit increased to 20 from Friday, October 17, at 5:00 p.m. to Saturday, October 18, 2025, at 8:00 p.m. PDT"
-            ]
-        }
-    ],
     "PokéStop Showcase": [
         {
             "title": "Metagross and Duraludon PokéStop Showcases",
@@ -550,6 +510,27 @@
             "start_time": "2025-11-30T14:00:00",
             "end_time": "2025-11-30T17:00:00",
             "description": "November Community Day is on November 30, 2025. Stay tuned for the announcement of the featured Pokémon."
+        }
+    ],
+    "Raid Day": [
+        {
+            "title": "Mega Rayquaza Raid Day",
+            "article_url": "https://leekduck.com/events/mega-rayquaza-raid-day-november-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-18-mega-rayquaza-raid-day-november-2025/mega-rayquaza-raid-day.jpg",
+            "category": "Raid Day",
+            "is_local_time": true,
+            "start_time": "2025-10-18T14:00:00",
+            "end_time": "2025-10-18T17:00:00",
+            "description": "Soar to new heights on Mega Rayquaza Raid Day!",
+            "bonuses": [
+                "2× Stardust from Raid Battles",
+                "50% more XP from Raid Battles",
+                "Increased chance of encountering Shiny Rayquaza from Mega Raids",
+                "Increased chance to get Rare Candy XL from Raid Battles",
+                "Receive up to eight additional free Raid Passes from spinning Gym Photo Discs (for a total of 14)",
+                "Receive up to five additional free Raid Passes from spinning Gym Photo Discs (for a total of six)",
+                "Remote Raid Pass limit increased to 20 from Friday, October 17, at 5:00 p.m. to Saturday, October 18, 2025, at 8:00 p.m. PDT"
+            ]
         }
     ],
     "Wild Area": [
