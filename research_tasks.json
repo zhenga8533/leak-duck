@@ -1613,15 +1613,9 @@
             "rewards": [
                 {
                     "type": "resource",
-                    "name": "Alakazam Mega Energy",
+                    "name": "Audino Mega Energy",
                     "quantity": 20,
-                    "asset_url": "/assets/img/mega_energy/Alakazam Mega Energy.png"
-                },
-                {
-                    "type": "resource",
-                    "name": "Slowbro Mega Energy",
-                    "quantity": 20,
-                    "asset_url": "/assets/img/mega_energy/Slowbro Mega Energy.png"
+                    "asset_url": "/assets/img/mega_energy/Audino Mega Energy.png"
                 }
             ]
         },
