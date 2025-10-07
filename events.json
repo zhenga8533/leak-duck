@@ -63,6 +63,25 @@
             ]
         },
         {
+            "title": "GO Pass: Halloween 2025",
+            "article_url": "https://leekduck.com/events/go-pass-halloween-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-21-go-pass-halloween-2025/go-pass-halloween-2025.jpg",
+            "category": "GO Pass",
+            "is_local_time": true,
+            "start_time": "2025-10-21T10:00:00",
+            "end_time": "2025-11-02T20:00:00",
+            "description": "Happy haunts arrive for GO Pass: Halloween 2025!\nFrom Tuesday, October 21, at 10:00 a.m. to Sunday, November 2, at 8:00 p.m. local time, the GO Pass and GO Pass Deluxe for Halloween Part I and Part II will be available in Pokémon GO!",
+            "bonuses": [
+                "2× Candy for transferring Pokémon",
+                "2× Catch Candy",
+                "3× Candy for transferring Pokémon",
+                "3× Catch Candy",
+                "Even greater chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
+                "Increased chance for Trainers level 31 and up to receive Candy XL for catching Pokémon with Nice, Great, and Excellent Throws",
+                "Increased chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon"
+            ]
+        },
+        {
             "title": "GO Pass: October",
             "article_url": "https://leekduck.com/events/go-pass-october-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-07-go-pass-october-2025/go-pass-october-2025.jpg",
@@ -392,12 +411,21 @@
         {
             "title": "Halloween 2025 Part I",
             "article_url": "https://leekduck.com/events/halloween-2025-part-i/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-21-halloween-2025-part-i/halloween-2025-part-i.jpg",
             "category": "Event",
             "is_local_time": true,
             "start_time": "2025-10-21T10:00:00",
-            "end_time": "2025-10-27T20:00:00",
-            "description": "The Halloween 2025 Part I event will take place from October 21, 2025 at 10 am to October 27, 2025 at 8 pm. Stay tuned for more details."
+            "end_time": "2025-10-27T10:00:00",
+            "description": "Have a haunted Halloween tea party with Poltchageist, Sinistcha, and more in Pokémon GO!\nPoltchageist and Sinistcha make their Pokémon GO debuts, and for the first time, you can encounter Shiny Sinistea!",
+            "bonuses": [
+                "2× Candy for transferring Pokémon",
+                "2× Catch Candy",
+                "GO Pass Deluxe: 3× Candy for transferring Pokémon",
+                "GO Pass Deluxe: 3× Catch Candy",
+                "GO Pass Deluxe: Even greater chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
+                "Increased chance for Trainers level 31 and up to receive Candy XL for catching Pokémon with Nice, Great, and Excellent Throws",
+                "Increased chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon"
+            ]
         },
         {
             "title": "Halloween 2025 Part II",
