@@ -1,209 +1,4 @@
 {
-    "Max Mondays": [
-        {
-            "title": "Dynamax Drilbur during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-10-06/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "is_local_time": true,
-            "start_time": "2025-10-06T18:00:00",
-            "end_time": "2025-10-06T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Delightful Days. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOnOctober 6, 2025, the featured Dynamax Pokémon isDrilbur."
-        },
-        {
-            "title": "Dynamax Bounsweet during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-10-13/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "is_local_time": true,
-            "start_time": "2025-10-13T18:00:00",
-            "end_time": "2025-10-13T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Delightful Days. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOnOctober 13, 2025, the featured Dynamax Pokémon isBounsweet."
-        },
-        {
-            "title": "Dynamax Gastly during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-10-20/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "is_local_time": true,
-            "start_time": "2025-10-20T18:00:00",
-            "end_time": "2025-10-20T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Delightful Days. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOnOctober 20, 2025, the featured Dynamax Pokémon isGastly."
-        },
-        {
-            "title": "Dynamax Woobat during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-10-27/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "is_local_time": true,
-            "start_time": "2025-10-27T18:00:00",
-            "end_time": "2025-10-27T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Delightful Days. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOnOctober 27, 2025, the featured Dynamax Pokémon isWoobat."
-        }
-    ],
-    "GO Pass": [
-        {
-            "title": "GO Pass: September",
-            "article_url": "https://leekduck.com/events/go-pass-september-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-02-go-pass-september-2025/go-pass-september-2025.jpg",
-            "category": "GO Pass",
-            "is_local_time": true,
-            "start_time": "2025-09-02T10:00:00",
-            "end_time": "2025-10-07T10:00:00",
-            "description": "Cobalion shines in the September GO Pass!\nFrom Tuesday, September 2, at 10:00 a.m. to Tuesday, October 7, at 10:00 a.m. local time, the new GO Pass and GO Pass Deluxe for September will be available in Pokémon GO!",
-            "bonuses": [
-                "2× Daily Adventure Incense duration",
-                "2× Stardust and XP from hatching Eggs",
-                "Hold up to 30 Gifts in your Item Bag",
-                "Hold up to 40 Gifts in your Item Bag",
-                "Open up to 40 Gifts per day",
-                "Open up to 50 Gifts per day",
-                "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
-                "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
-            ]
-        },
-        {
-            "title": "GO Pass: Halloween 2025",
-            "article_url": "https://leekduck.com/events/go-pass-halloween-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-21-go-pass-halloween-2025/go-pass-halloween-2025.jpg",
-            "category": "GO Pass",
-            "is_local_time": true,
-            "start_time": "2025-10-21T10:00:00",
-            "end_time": "2025-11-02T20:00:00",
-            "description": "Happy haunts arrive for GO Pass: Halloween 2025!\nFrom Tuesday, October 21, at 10:00 a.m. to Sunday, November 2, at 8:00 p.m. local time, the GO Pass and GO Pass Deluxe for Halloween Part I and Part II will be available in Pokémon GO!",
-            "bonuses": [
-                "2× Candy for transferring Pokémon",
-                "2× Catch Candy",
-                "3× Candy for transferring Pokémon",
-                "3× Catch Candy",
-                "Even greater chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
-                "Increased chance for Trainers level 31 and up to receive Candy XL for catching Pokémon with Nice, Great, and Excellent Throws",
-                "Increased chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon"
-            ]
-        },
-        {
-            "title": "GO Pass: October",
-            "article_url": "https://leekduck.com/events/go-pass-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-07-go-pass-october-2025/go-pass-october-2025.jpg",
-            "category": "GO Pass",
-            "is_local_time": true,
-            "start_time": "2025-10-07T10:00:00",
-            "end_time": "2025-11-04T10:00:00",
-            "description": "No tricks, just treats! Earn PokéCoins for progressing in GO Pass: October!\nTrainers, Get ready for a special treat this Halloween season during Pokémon GO’s Tales of Transformation! Bonus PokéCoins will be available to earn during this month’s GO Pass on both the free track and the paid GO Pass Deluxe track. Check out this exciting bonus and more in GO Pass: October!\nFrom Tuesday, October 7, at 10:00 a.m. to Tuesday, November 4, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for October will be available in Pokémon GO!",
-            "bonuses": [
-                "2× Daily Adventure Incense duration",
-                "2× Stardust and XP from hatching Eggs",
-                "Hold up to 30 Gifts in your Item Bag",
-                "Hold up to 40 Gifts in your Item Bag",
-                "Open up to 40 Gifts per day",
-                "Open up to 50 Gifts per day",
-                "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
-                "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
-            ]
-        }
-    ],
-    "Raid Battles": [
-        {
-            "title": "Dialga in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/dialga-in-5-star-raid-battles-september-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/dialgaraids.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-09-23T10:00:00",
-            "end_time": "2025-10-07T10:00:00",
-            "description": "Dialga will be in five-star raid battles from September 23, 2025 to October 7, 2025.\nThere will also be a Raid Hour featuring Origin Forme Dialga from 6:00 pm to 7:00 pm local time on the following dates:"
-        },
-        {
-            "title": "Mega Steelix, Scizor, and Lucario in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-steel-fighting-in-mega-raids-september-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-09-30T10:00:00",
-            "end_time": "2025-10-07T10:00:00",
-            "description": "Mega Steelix, Mega Scizor, and Mega Lucario return to Mega Raids on September 30, 2025, at 10 am local time."
-        },
-        {
-            "title": "Deoxys (Normal & Defense Forme) in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/deoxys-normal-defense-in-5-star-raid-battles-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/deoxys-all-formes.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-10-07T10:00:00",
-            "end_time": "2025-10-14T10:00:00",
-            "description": "Deoxys (Normal) and Deoxys (Defense) will be in five-star raid battles from October 7, 2025 to October 14, 2025.\nThere will also be a Raid Hour featuring Deoxys (Normal & Defense Forme) from 6:00 pm to 7:00 pm local time on the following dates:"
-        },
-        {
-            "title": "Mega Sceptile, Mega Blaziken, and Mega Swampert in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-sceptile-mega-blaziken-mega-swampert-in-mega-raids-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-10-07T10:00:00",
-            "end_time": "2025-10-14T10:00:00",
-            "description": "Mega Sceptile, Mega Blaziken, and Mega Swampert return to Mega Raids on October 7, 2025, at 10 am local time."
-        },
-        {
-            "title": "Deoxys (Attack & Speed Forme) in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/deoxys-attack-speed-in-5-star-raid-battles-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/deoxys-all-formes.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-10-14T10:00:00",
-            "end_time": "2025-10-21T10:00:00",
-            "description": "Deoxys (Attack) and Deoxys (Speed) will be in five-star raid battles from October 14, 2025 to October 21, 2025.\nThere will also be a Raid Hour featuring Deoxys (Attack & Speed Forme) from 6:00 pm to 7:00 pm local time on the following dates:"
-        },
-        {
-            "title": "Mega Mawile and Mega Salamence in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-mawile-mega-salamence-in-mega-raids-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-10-14T10:00:00",
-            "end_time": "2025-10-21T10:00:00",
-            "description": "Mega Mawile and Mega Salamence return to Mega Raids on October 14, 2025, at 10 am local time."
-        },
-        {
-            "title": "Genesect (Douse & Shock Drive) in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/genesect-douse-shock-in-5-star-raid-battles-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/genesect.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-10-21T10:00:00",
-            "end_time": "2025-10-28T10:00:00",
-            "description": "Genesect, Genesect (Douse), and Genesect (Shock) will be in five-star raid battles from October 21, 2025 to October 28, 2025.\nThere will also be a Raid Hour featuring Genesect from 6:00 pm to 7:00 pm local time on the following dates:"
-        },
-        {
-            "title": "Mega Houndoom and Mega Absol in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-houndoom-mega-absol-in-mega-raids-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-10-21T10:00:00",
-            "end_time": "2025-10-28T10:00:00",
-            "description": "Mega Houndoom and Mega Absol return to Mega Raids on October 21, 2025, at 10 am local time."
-        },
-        {
-            "title": "Giratina (Altered Forme) in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/giratina-altered-in-5-star-raid-battles-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/giratinaaltered.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-10-28T10:00:00",
-            "end_time": "2025-11-04T10:00:00",
-            "description": "Giratina (Altered) will be in five-star raid battles from October 28, 2025 to November 4, 2025.\nThere will also be a Raid Hour featuring Giratina (Altered Forme) from 6:00 pm to 7:00 pm local time on the following dates:"
-        },
-        {
-            "title": "Mega Gengar, Mega Sableye, and Mega Banette in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-gengar-mega-sableye-mega-banette-in-mega-raids-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-10-28T10:00:00",
-            "end_time": "2025-11-04T10:00:00",
-            "description": "Mega Gengar, Mega Sableye, and Mega Banette return to Mega Raids on October 28, 2025, at 10 am local time."
-        }
-    ],
     "GO Battle League": [
         {
             "title": "Great League and Fantasy Cup: Great League Edition | Tales of Transformation",
@@ -540,6 +335,120 @@
             "description": "November Community Day is on November 30, 2025. Stay tuned for the announcement of the featured Pokémon."
         }
     ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Bounsweet during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-10-13/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-10-13T18:00:00",
+            "end_time": "2025-10-13T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Delightful Days. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOnOctober 13, 2025, the featured Dynamax Pokémon isBounsweet."
+        },
+        {
+            "title": "Dynamax Gastly during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-10-20/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-10-20T18:00:00",
+            "end_time": "2025-10-20T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Delightful Days. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOnOctober 20, 2025, the featured Dynamax Pokémon isGastly."
+        },
+        {
+            "title": "Dynamax Woobat during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-10-27/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-10-27T18:00:00",
+            "end_time": "2025-10-27T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Delightful Days. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOnOctober 27, 2025, the featured Dynamax Pokémon isWoobat."
+        }
+    ],
+    "Raid Battles": [
+        {
+            "title": "Deoxys (Normal & Defense Forme) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/deoxys-normal-defense-in-5-star-raid-battles-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/deoxys-all-formes.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-07T10:00:00",
+            "end_time": "2025-10-14T10:00:00",
+            "description": "Deoxys (Normal) and Deoxys (Defense) will be in five-star raid battles from October 7, 2025 to October 14, 2025.\nThere will also be a Raid Hour featuring Deoxys (Normal & Defense Forme) from 6:00 pm to 7:00 pm local time on the following dates:"
+        },
+        {
+            "title": "Mega Sceptile, Mega Blaziken, and Mega Swampert in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-sceptile-mega-blaziken-mega-swampert-in-mega-raids-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-07T10:00:00",
+            "end_time": "2025-10-14T10:00:00",
+            "description": "Mega Sceptile, Mega Blaziken, and Mega Swampert return to Mega Raids on October 7, 2025, at 10 am local time."
+        },
+        {
+            "title": "Deoxys (Attack & Speed Forme) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/deoxys-attack-speed-in-5-star-raid-battles-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/deoxys-all-formes.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-14T10:00:00",
+            "end_time": "2025-10-21T10:00:00",
+            "description": "Deoxys (Attack) and Deoxys (Speed) will be in five-star raid battles from October 14, 2025 to October 21, 2025.\nThere will also be a Raid Hour featuring Deoxys (Attack & Speed Forme) from 6:00 pm to 7:00 pm local time on the following dates:"
+        },
+        {
+            "title": "Mega Mawile and Mega Salamence in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-mawile-mega-salamence-in-mega-raids-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-14T10:00:00",
+            "end_time": "2025-10-21T10:00:00",
+            "description": "Mega Mawile and Mega Salamence return to Mega Raids on October 14, 2025, at 10 am local time."
+        },
+        {
+            "title": "Genesect (Douse & Shock Drive) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/genesect-douse-shock-in-5-star-raid-battles-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/genesect.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-21T10:00:00",
+            "end_time": "2025-10-28T10:00:00",
+            "description": "Genesect, Genesect (Douse), and Genesect (Shock) will be in five-star raid battles from October 21, 2025 to October 28, 2025.\nThere will also be a Raid Hour featuring Genesect from 6:00 pm to 7:00 pm local time on the following dates:"
+        },
+        {
+            "title": "Mega Houndoom and Mega Absol in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-houndoom-mega-absol-in-mega-raids-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-21T10:00:00",
+            "end_time": "2025-10-28T10:00:00",
+            "description": "Mega Houndoom and Mega Absol return to Mega Raids on October 21, 2025, at 10 am local time."
+        },
+        {
+            "title": "Giratina (Altered Forme) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/giratina-altered-in-5-star-raid-battles-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/giratinaaltered.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-28T10:00:00",
+            "end_time": "2025-11-04T10:00:00",
+            "description": "Giratina (Altered) will be in five-star raid battles from October 28, 2025 to November 4, 2025.\nThere will also be a Raid Hour featuring Giratina (Altered Forme) from 6:00 pm to 7:00 pm local time on the following dates:"
+        },
+        {
+            "title": "Mega Gengar, Mega Sableye, and Mega Banette in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-gengar-mega-sableye-mega-banette-in-mega-raids-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-28T10:00:00",
+            "end_time": "2025-11-04T10:00:00",
+            "description": "Mega Gengar, Mega Sableye, and Mega Banette return to Mega Raids on October 28, 2025, at 10 am local time."
+        }
+    ],
     "Raid Day": [
         {
             "title": "Mega Rayquaza Raid Day",
@@ -558,6 +467,47 @@
                 "Receive up to eight additional free Raid Passes from spinning Gym Photo Discs (for a total of 14)",
                 "Receive up to five additional free Raid Passes from spinning Gym Photo Discs (for a total of six)",
                 "Remote Raid Pass limit increased to 20 from Friday, October 17, at 5:00 p.m. to Saturday, October 18, 2025, at 8:00 p.m. PDT"
+            ]
+        }
+    ],
+    "GO Pass": [
+        {
+            "title": "GO Pass: Halloween 2025",
+            "article_url": "https://leekduck.com/events/go-pass-halloween-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-21-go-pass-halloween-2025/go-pass-halloween-2025.jpg",
+            "category": "GO Pass",
+            "is_local_time": true,
+            "start_time": "2025-10-21T10:00:00",
+            "end_time": "2025-11-02T20:00:00",
+            "description": "Happy haunts arrive for GO Pass: Halloween 2025!\nFrom Tuesday, October 21, at 10:00 a.m. to Sunday, November 2, at 8:00 p.m. local time, the GO Pass and GO Pass Deluxe for Halloween Part I and Part II will be available in Pokémon GO!",
+            "bonuses": [
+                "2× Candy for transferring Pokémon",
+                "2× Catch Candy",
+                "3× Candy for transferring Pokémon",
+                "3× Catch Candy",
+                "Even greater chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
+                "Increased chance for Trainers level 31 and up to receive Candy XL for catching Pokémon with Nice, Great, and Excellent Throws",
+                "Increased chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon"
+            ]
+        },
+        {
+            "title": "GO Pass: October",
+            "article_url": "https://leekduck.com/events/go-pass-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-07-go-pass-october-2025/go-pass-october-2025.jpg",
+            "category": "GO Pass",
+            "is_local_time": true,
+            "start_time": "2025-10-07T10:00:00",
+            "end_time": "2025-11-04T10:00:00",
+            "description": "No tricks, just treats! Earn PokéCoins for progressing in GO Pass: October!\nTrainers, Get ready for a special treat this Halloween season during Pokémon GO’s Tales of Transformation! Bonus PokéCoins will be available to earn during this month’s GO Pass on both the free track and the paid GO Pass Deluxe track. Check out this exciting bonus and more in GO Pass: October!\nFrom Tuesday, October 7, at 10:00 a.m. to Tuesday, November 4, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for October will be available in Pokémon GO!",
+            "bonuses": [
+                "2× Daily Adventure Incense duration",
+                "2× Stardust and XP from hatching Eggs",
+                "Hold up to 30 Gifts in your Item Bag",
+                "Hold up to 40 Gifts in your Item Bag",
+                "Open up to 40 Gifts per day",
+                "Open up to 50 Gifts per day",
+                "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
             ]
         }
     ],
@@ -643,6 +593,92 @@
                 "Increased XP for seven-day PokéStop spin streak",
                 "Increased XP from going up a Friendship level",
                 "One additional Candy when trading Pokémon"
+            ]
+        }
+    ],
+    "City Safari": [
+        {
+            "title": "Sydney, Australia - Pokémon GO City Safari",
+            "article_url": "https://leekduck.com/events/pokemon-go-city-safari-sydney-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-13-pokemon-go-city-safari-sydney-2025/city-safari-sydney-2025.jpg?v2",
+            "category": "City Safari",
+            "is_local_time": false,
+            "start_time": 1765580400,
+            "end_time": 1765695600,
+            "description": "Pokémon GO City Safari is coming to Sydney, Australia, on December 13 and 14, 2025! Set off on a citywide adventure as you discover the vibrant stories, new friends, and exciting Pokémon waiting for you in Sydney!\nWhether you’re a resident of Sydney or a first-time visitor, your Pokémon GO City Safari will take you across the city in an all-new way—from historic landmarks to local favorites, get ready for a taste of the city with Pokémon GO by your side!\nOne-day Tickets are AU$19 (including any applicable taxes and fees) on either December 13, 2025 or December 14, 2025, from 10 am to 6 pm AEDT.",
+            "bonuses": [
+                "1 additional Candy XL awarded for catching Pokémon in five-star raids and Mega Raids (Trainers level 31+)",
+                "1/2 Egg Hatch Distance",
+                "1/2 Stardust Cost for trades within the city",
+                "2× Hatch Candy",
+                "2× Hatch Stardust",
+                "2× Hatch XP",
+                "3 additional Candy awarded for catching Pokémon in five-star raids and Mega Raids",
+                "Additional 5,000 XP from completed raids",
+                "An increased chance of encountering Shiny Pokémon",
+                "Lure Modules (excluding Golden Lures) activated during the event will last for four hours",
+                "Lure Modules activated during the event will last for four hours",
+                "Trades will require 50% less Stardust",
+                "Up to 12 free Raid Passes per day by spinning Photo Discs at Gyms",
+                "Up to five Special Trades can be made during the day on your ticket while in Sydney!",
+                "Up to five Special Trades daily within the city",
+                "Your buddy may find the City Safari–exclusive Tiny Compass souvenir"
+            ]
+        },
+        {
+            "title": "Buenos Aires, Argentina - Pokémon GO City Safari",
+            "article_url": "https://leekduck.com/events/pokemon-go-city-safari-buenos-aires-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-13-pokemon-go-city-safari-buenos-aires-2025/city-safari-buenos-aires-2025.jpg?v2",
+            "category": "City Safari",
+            "is_local_time": false,
+            "start_time": 1765630800,
+            "end_time": 1765746000,
+            "description": "Pokémon GO City Safari is coming to Buenos Aires, Argentina, on December 13 and 14, 2025! Set off on a citywide adventure as you discover the vibrant stories, new friends, and exciting Pokémon waiting for you in Buenos Aires!\nWhether you’re a resident of Buenos Aires or a first-time visitor, your Pokémon GO City Safari will take you across the city in an all-new way—from historic landmarks to local favorites, get ready for a taste of the city with Pokémon GO by your side!\nOne-day Tickets are ARS$13,000 (including any applicable taxes and fees) on either December 13, 2025 or December 14, 2025, from 10 am to 6 pm ART.",
+            "bonuses": [
+                "1 additional Candy XL awarded for catching Pokémon in five-star raids and Mega Raids (Trainers level 31+)",
+                "1/2 Egg Hatch Distance",
+                "1/2 Stardust Cost for trades within the city",
+                "2× Hatch Candy",
+                "2× Hatch Stardust",
+                "2× Hatch XP",
+                "3 additional Candy awarded for catching Pokémon in five-star raids and Mega Raids",
+                "Additional 5,000 XP from completed raids",
+                "An increased chance of encountering Shiny Pokémon",
+                "Lure Modules (excluding Golden Lures) activated during the event will last for four hours",
+                "Lure Modules activated during the event will last for four hours",
+                "Trades will require 50% less Stardust",
+                "Up to 12 free Raid Passes per day by spinning Photo Discs at Gyms",
+                "Up to five Special Trades can be made during the day on your ticket while in Buenos Aires!",
+                "Up to five Special Trades daily within the city",
+                "Your buddy may find the City Safari–exclusive Tiny Compass souvenir"
+            ]
+        },
+        {
+            "title": "Miami, USA - Pokémon GO City Safari",
+            "article_url": "https://leekduck.com/events/pokemon-go-city-safari-miami-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-13-pokemon-go-city-safari-miami-2025/city-safari-miami-2025.jpg?v2",
+            "category": "City Safari",
+            "is_local_time": false,
+            "start_time": 1765638000,
+            "end_time": 1765753200,
+            "description": "Pokémon GO City Safari is coming to Miami, USA, on December 13 and 14, 2025! Set off on a citywide adventure as you discover the vibrant stories, new friends, and exciting Pokémon waiting for you in Miami!\nWhether you’re a resident of Miami or a first-time visitor, your Pokémon GO City Safari will take you across the city in an all-new way—from historic landmarks to local favorites, get ready for a taste of the city with Pokémon GO by your side!\nOne-day Tickets are $10 (including any applicable taxes and fees) on either December 13, 2025 or December 14, 2025, from 10 am to 6 pm EST.",
+            "bonuses": [
+                "1 additional Candy XL awarded for catching Pokémon in five-star raids and Mega Raids (Trainers level 31+)",
+                "1/2 Egg Hatch Distance",
+                "1/2 Stardust Cost for trades within the city",
+                "2× Hatch Candy",
+                "2× Hatch Stardust",
+                "2× Hatch XP",
+                "3 additional Candy awarded for catching Pokémon in five-star raids and Mega Raids",
+                "Additional 5,000 XP from completed raids",
+                "An increased chance of encountering Shiny Pokémon",
+                "Lure Modules (excluding Golden Lures) activated during the event will last for four hours",
+                "Lure Modules activated during the event will last for four hours",
+                "Trades will require 50% less Stardust",
+                "Up to 12 free Raid Passes per day by spinning Photo Discs at Gyms",
+                "Up to five Special Trades can be made during the day on your ticket while in Miami!",
+                "Up to five Special Trades daily within the city",
+                "Your buddy may find the City Safari–exclusive Tiny Compass souvenir"
             ]
         }
     ]

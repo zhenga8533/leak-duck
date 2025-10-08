@@ -367,6 +367,26 @@
             "start_time": "2025-09-23T10:00:00",
             "end_time": "2025-09-30T10:00:00",
             "description": "Mega Kangaskhan and Mega Lopunny return to Mega Raids on September 23, 2025, at 10 am local time."
+        },
+        {
+            "title": "Dialga in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/dialga-in-5-star-raid-battles-september-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/dialgaraids.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-09-23T10:00:00",
+            "end_time": "2025-10-07T10:00:00",
+            "description": "Dialga will be in five-star raid battles from September 23, 2025 to October 7, 2025.\nThere will also be a Raid Hour featuring Origin Forme Dialga from 6:00 pm to 7:00 pm local time on the following dates:"
+        },
+        {
+            "title": "Mega Steelix, Scizor, and Lucario in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-steel-fighting-in-mega-raids-september-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-09-30T10:00:00",
+            "end_time": "2025-10-07T10:00:00",
+            "description": "Mega Steelix, Mega Scizor, and Mega Lucario return to Mega Raids on September 30, 2025, at 10 am local time."
         }
     ],
     "GO Battle League": [
@@ -407,6 +427,16 @@
             "start_time": 1758657600,
             "end_time": 1759262400,
             "description": "The Great League, Ultra League, and Master League will run from September 23, 2025, at 1:00 p.m. to September 30, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
+        },
+        {
+            "title": "Great League and Fantasy Cup: Great League Edition | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_fantasy-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1759262400,
+            "end_time": 1759867200,
+            "description": "The Great League and Fantasy Cup: Great League Edition will run from September 30, 2025, at 1:00 p.m. to October 7, 2025, at 1:00 p.m. PT."
         }
     ],
     "Pokémon Spotlight Hour": [
@@ -875,6 +905,28 @@
                 "Klink",
                 "Mudbray",
                 "Sigilyph"
+            ]
+        }
+    ],
+    "GO Pass": [
+        {
+            "title": "GO Pass: September",
+            "article_url": "https://leekduck.com/events/go-pass-september-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-02-go-pass-september-2025/go-pass-september-2025.jpg",
+            "category": "GO Pass",
+            "is_local_time": true,
+            "start_time": "2025-09-02T10:00:00",
+            "end_time": "2025-10-07T10:00:00",
+            "description": "Cobalion shines in the September GO Pass!\nFrom Tuesday, September 2, at 10:00 a.m. to Tuesday, October 7, at 10:00 a.m. local time, the new GO Pass and GO Pass Deluxe for September will be available in Pokémon GO!",
+            "bonuses": [
+                "2× Daily Adventure Incense duration",
+                "2× Stardust and XP from hatching Eggs",
+                "Hold up to 30 Gifts in your Item Bag",
+                "Hold up to 40 Gifts in your Item Bag",
+                "Open up to 40 Gifts per day",
+                "Open up to 50 Gifts per day",
+                "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
             ]
         }
     ]
