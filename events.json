@@ -1,96 +1,4 @@
 {
-    "GO Battle League": [
-        {
-            "title": "Great League and Fantasy Cup: Great League Edition | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_fantasy-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1759262400,
-            "end_time": 1759867200,
-            "description": "The Great League and Fantasy Cup: Great League Edition will run from September 30, 2025, at 1:00 p.m. to October 7, 2025, at 1:00 p.m. PT."
-        },
-        {
-            "title": "Ultra League and Jungle Cup: Great League Edition | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_ultra-league_jungle-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1759867200,
-            "end_time": 1760472000,
-            "description": "The Ultra League and Jungle Cup: Great League Edition will run from October 7, 2025, at 1:00 p.m. to October 14, 2025, at 1:00 p.m. PT.\nThe following Pokémon will not be allowed."
-        },
-        {
-            "title": "Master Premier and Great League Remix | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_master-premier_great-league-remix/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1760472000,
-            "end_time": 1761076800,
-            "description": "The Master Premier and Great League Remix will run from October 14, 2025, at 1:00 p.m. to October 21, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\nCheck back later for more details."
-        },
-        {
-            "title": "Great League, Ultra League, and Master League | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-2/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1761076800,
-            "end_time": 1761681600,
-            "description": "The Great League, Ultra League, and Master League will run from October 21, 2025, at 1:00 p.m. to October 28, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
-        },
-        {
-            "title": "Great League and Halloween Cup: Great League Edition | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_halloween-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1761681600,
-            "end_time": 1762290000,
-            "description": "The Great League and Halloween Cup: Great League Edition will run from October 28, 2025, at 1:00 p.m. to November 4, 2025, at 1:00 p.m. PT."
-        },
-        {
-            "title": "Ultra League and Jungle Cup: Great League Edition | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_ultra-league_jungle-cup-great-league-edition-2/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1762290000,
-            "end_time": 1762894800,
-            "description": "The Ultra League and Jungle Cup: Great League Edition will run from November 4, 2025, at 1:00 p.m. to November 11, 2025, at 1:00 p.m. PT.\nThe following Pokémon will not be allowed."
-        },
-        {
-            "title": "Great League, Ultra League, and Master League | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-3/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1762894800,
-            "end_time": 1763499600,
-            "description": "The Great League, Ultra League, and Master League will run from November 11, 2025, at 1:00 p.m. to November 18, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
-        },
-        {
-            "title": "2025 Championship Series Cup and Master League: Mega Edition | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_2025-championship-series-cup_master-league-mega-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1763499600,
-            "end_time": 1764104400,
-            "description": "The 2025 Championship Series Cup and Master League: Mega Edition will run from November 18, 2025, at 1:00 p.m. to November 25, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\nThe following Pokémon will not be allowed."
-        },
-        {
-            "title": "Catch Cup: Tales of Transformation: Great Edition, Ultra League, and Master League | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_catch-cup-tales-of-transformation-great-edition_ultra-league_master-league/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
-            "category": "GO Battle League",
-            "is_local_time": false,
-            "start_time": 1764104400,
-            "end_time": 1764709200,
-            "description": "The Catch Cup: Tales of Transformation: Great Edition, Ultra League, and Master League will run from November 25, 2025, at 1:00 p.m. to December 2, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
-        }
-    ],
     "Pokémon Spotlight Hour": [
         {
             "title": "Ferroseed Spotlight Hour",
@@ -447,6 +355,88 @@
             "start_time": "2025-10-28T10:00:00",
             "end_time": "2025-11-04T10:00:00",
             "description": "Mega Gengar, Mega Sableye, and Mega Banette return to Mega Raids on October 28, 2025, at 10 am local time."
+        }
+    ],
+    "GO Battle League": [
+        {
+            "title": "Ultra League and Jungle Cup: Great League Edition | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_ultra-league_jungle-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1759867200,
+            "end_time": 1760472000,
+            "description": "The Ultra League and Jungle Cup: Great League Edition will run from October 7, 2025, at 1:00 p.m. to October 14, 2025, at 1:00 p.m. PT.\nThe following Pokémon will not be allowed."
+        },
+        {
+            "title": "Master Premier and Great League Remix | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_master-premier_great-league-remix/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1760472000,
+            "end_time": 1761076800,
+            "description": "The Master Premier and Great League Remix will run from October 14, 2025, at 1:00 p.m. to October 21, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\nCheck back later for more details."
+        },
+        {
+            "title": "Great League, Ultra League, and Master League | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-2/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1761076800,
+            "end_time": 1761681600,
+            "description": "The Great League, Ultra League, and Master League will run from October 21, 2025, at 1:00 p.m. to October 28, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
+        },
+        {
+            "title": "Great League and Halloween Cup: Great League Edition | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_halloween-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1761681600,
+            "end_time": 1762290000,
+            "description": "The Great League and Halloween Cup: Great League Edition will run from October 28, 2025, at 1:00 p.m. to November 4, 2025, at 1:00 p.m. PT."
+        },
+        {
+            "title": "Ultra League and Jungle Cup: Great League Edition | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_ultra-league_jungle-cup-great-league-edition-2/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1762290000,
+            "end_time": 1762894800,
+            "description": "The Ultra League and Jungle Cup: Great League Edition will run from November 4, 2025, at 1:00 p.m. to November 11, 2025, at 1:00 p.m. PT.\nThe following Pokémon will not be allowed."
+        },
+        {
+            "title": "Great League, Ultra League, and Master League | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-3/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1762894800,
+            "end_time": 1763499600,
+            "description": "The Great League, Ultra League, and Master League will run from November 11, 2025, at 1:00 p.m. to November 18, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
+        },
+        {
+            "title": "2025 Championship Series Cup and Master League: Mega Edition | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_2025-championship-series-cup_master-league-mega-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1763499600,
+            "end_time": 1764104400,
+            "description": "The 2025 Championship Series Cup and Master League: Mega Edition will run from November 18, 2025, at 1:00 p.m. to November 25, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\nThe following Pokémon will not be allowed."
+        },
+        {
+            "title": "Catch Cup: Tales of Transformation: Great Edition, Ultra League, and Master League | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_catch-cup-tales-of-transformation-great-edition_ultra-league_master-league/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1764104400,
+            "end_time": 1764709200,
+            "description": "The Catch Cup: Tales of Transformation: Great Edition, Ultra League, and Master League will run from November 25, 2025, at 1:00 p.m. to December 2, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
         }
     ],
     "Raid Day": [
