@@ -1,162 +1,4 @@
 {
-    "Pokémon Spotlight Hour": [
-        {
-            "title": "Ferroseed Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-10-07/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "is_local_time": true,
-            "start_time": "2025-10-07T18:00:00",
-            "end_time": "2025-10-07T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of October.\nOctober 7: The featured Pokémon isFerroseedand the special bonus is2× Evolution XP."
-        },
-        {
-            "title": "Petilil Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-10-14/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "is_local_time": true,
-            "start_time": "2025-10-14T18:00:00",
-            "end_time": "2025-10-14T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of October.\nOctober 14: The featured Pokémon isPetililand the special bonus is2× Catch Stardust."
-        },
-        {
-            "title": "Gastly Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-10-21/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "is_local_time": true,
-            "start_time": "2025-10-21T18:00:00",
-            "end_time": "2025-10-21T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of October.\nGastly may award Gengar Mega Energy when caught during Spotlight Hour.\nOctober 21: The featured Pokémon isGastlyand the special bonus is2× Catch XP."
-        },
-        {
-            "title": "Sinistea Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-10-28/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "is_local_time": true,
-            "start_time": "2025-10-28T18:00:00",
-            "end_time": "2025-10-28T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of October.\nOctober 28: The featured Pokémon isSinisteaand the special bonus is2× Catch Candy."
-        }
-    ],
-    "Event": [
-        {
-            "title": "Steel Skyline",
-            "article_url": "https://leekduck.com/events/steel-skyline-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-30-steel-skyline-2025/steel-skyline.jpg",
-            "category": "Event",
-            "is_local_time": true,
-            "start_time": "2025-09-30T10:00:00",
-            "end_time": "2025-10-07T20:00:00",
-            "description": "Dynamax Duraludon makes its Pokémon GO debut during Steel Skyline! Complete Global Challenges, encounter Steel-type Pokémon, and participate in Max Battles.",
-            "bonuses": [
-                "Additional 5,000 XP from winning raids",
-                "Additional Candy for successfully catching Pokémon with Nice, Great, and Excellent Throws",
-                "Increased chance for Trainers level 31 and up to receive Candy XL for catching Pokémon with Nice, Great, and Excellent Throws",
-                "One guaranteed Rare Candy XL from winning in-person Max Battles"
-            ]
-        },
-        {
-            "title": "XP Celebration",
-            "article_url": "https://leekduck.com/events/xp-celebration-event-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-08-25-xp-celebration-event-2025/xp-event.jpg",
-            "category": "Event",
-            "is_local_time": true,
-            "start_time": "2025-08-25T13:00:00",
-            "end_time": "2025-10-14T23:59:00",
-            "description": "Prepare for Pokémon GO’s new leveling journey with massive XP bonuses and exclusive Timed Research!\nThis event is designed to help Trainers prepare for the upcoming level cap increase from 50 to 80, launching onOctober 15, 2025.",
-            "bonuses": [
-                "+3,000 XP from winning Max Battles",
-                "+3,000 XP from winning raids",
-                "2× Catch XP from Nice, Great, and Excellent Throws"
-            ]
-        },
-        {
-            "title": "Harvest Festival",
-            "article_url": "https://leekduck.com/events/harvest-festival-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-10-harvest-festival-2025/harvest-festival-2025.jpg",
-            "category": "Event",
-            "is_local_time": true,
-            "start_time": "2025-10-10T10:00:00",
-            "end_time": "2025-10-16T20:00:00",
-            "description": "The Harvest Festival returns to Pokémon GO, featuring the debut of Dipplin and Hydrapple! Discover Syrupy Apples and enjoy special bonuses throughout the event!",
-            "bonuses": [
-                "2× Candy for catching Pokémon with Pinap Berries and Silver Pinap Berries",
-                "Increased chance for apples to appear at PokéStops with an active Mossy Lure Module",
-                "Increased chance to encounter Shiny Pumpkaboo and Shiny Smoliv"
-            ]
-        },
-        {
-            "title": "Pokémon Legends: Z-A Celebration Event",
-            "article_url": "https://leekduck.com/events/pokemon-legends-za-celebration-event-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-16-pokemon-legends-za-celebration-event-2025/pokemon-legends-za-celebration-event.jpg",
-            "category": "Event",
-            "is_local_time": true,
-            "start_time": "2025-10-16T10:00:00",
-            "end_time": "2025-10-20T20:00:00",
-            "description": "Celebrate the release of Pokémon Legends: Z-A with a Pokémon GO event!\nExperience Lumiose City in the Kalos region in a new adventure with Pokémon Legends: Z-A! In celebration of the release of this game, Mega Raids will appear more often in Pokémon GO. Chikorita, Totodile, and Tepig will appear in Timed Research, and avatar items inspired by Lumiose City Pokémon Trainers will be available in the shop.",
-            "bonuses": [
-                "Mega Raids will appear more frequently"
-            ]
-        },
-        {
-            "title": "GO Battle Weekend: Tales of Transformation",
-            "article_url": "https://leekduck.com/events/go-battle-weekend-tales-of-transformation/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
-            "category": "Event",
-            "is_local_time": true,
-            "start_time": "2025-10-25T00:00:00",
-            "end_time": "2025-10-26T23:59:00",
-            "description": "The following leagues will be active."
-        },
-        {
-            "title": "Halloween 2025 Part I",
-            "article_url": "https://leekduck.com/events/halloween-2025-part-i/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-21-halloween-2025-part-i/halloween-2025-part-i.jpg",
-            "category": "Event",
-            "is_local_time": true,
-            "start_time": "2025-10-21T10:00:00",
-            "end_time": "2025-10-27T10:00:00",
-            "description": "Have a haunted Halloween tea party with Poltchageist, Sinistcha, and more in Pokémon GO!\nPoltchageist and Sinistcha make their Pokémon GO debuts, and for the first time, you can encounter Shiny Sinistea!",
-            "bonuses": [
-                "2× Candy for transferring Pokémon",
-                "2× Catch Candy",
-                "GO Pass Deluxe: 3× Candy for transferring Pokémon",
-                "GO Pass Deluxe: 3× Catch Candy",
-                "GO Pass Deluxe: Even greater chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
-                "Increased chance for Trainers level 31 and up to receive Candy XL for catching Pokémon with Nice, Great, and Excellent Throws",
-                "Increased chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon"
-            ]
-        },
-        {
-            "title": "Halloween 2025 Part II",
-            "article_url": "https://leekduck.com/events/halloween-2025-part-ii/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "is_local_time": true,
-            "start_time": "2025-10-27T10:00:00",
-            "end_time": "2025-11-02T20:00:00",
-            "description": "The Halloween 2025 Part II event will take place from October 27, 2025 at 10 am to November 2, 2025 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Trade Days | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/trade-days-tales-of-transformation/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-07-trade-days-tales-of-transformation/trade-days.jpg",
-            "category": "Event",
-            "is_local_time": true,
-            "start_time": "2025-09-07T00:00:00",
-            "end_time": "2025-11-30T23:59:00",
-            "description": "Enjoy trade bonuses every Sunday throughout Tales of Transformation!\nOn Sundays from September 7 to November 30, 2025, Trainers will get a pile of trade bonuses, including one additional Special Trade!",
-            "bonuses": [
-                "-10% Stardust cost for trades",
-                "Earn two Candy XL from trades",
-                "Increased chance of Lucky Trade for any trade",
-                "One additional Special Trade"
-            ]
-        }
-    ],
     "Raid Hour": [
         {
             "title": "Deoxys (Normal & Defense Forme) Raid Hour",
@@ -439,6 +281,149 @@
             "description": "The Catch Cup: Tales of Transformation: Great Edition, Ultra League, and Master League will run from November 25, 2025, at 1:00 p.m. to December 2, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
         }
     ],
+    "Pokémon Spotlight Hour": [
+        {
+            "title": "Petilil Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-10-14/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "is_local_time": true,
+            "start_time": "2025-10-14T18:00:00",
+            "end_time": "2025-10-14T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of October.\nOctober 14: The featured Pokémon isPetililand the special bonus is2× Catch Stardust."
+        },
+        {
+            "title": "Gastly Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-10-21/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "is_local_time": true,
+            "start_time": "2025-10-21T18:00:00",
+            "end_time": "2025-10-21T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of October.\nGastly may award Gengar Mega Energy when caught during Spotlight Hour.\nOctober 21: The featured Pokémon isGastlyand the special bonus is2× Catch XP."
+        },
+        {
+            "title": "Sinistea Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-10-28/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "is_local_time": true,
+            "start_time": "2025-10-28T18:00:00",
+            "end_time": "2025-10-28T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of October.\nOctober 28: The featured Pokémon isSinisteaand the special bonus is2× Catch Candy."
+        }
+    ],
+    "Event": [
+        {
+            "title": "XP Celebration",
+            "article_url": "https://leekduck.com/events/xp-celebration-event-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-08-25-xp-celebration-event-2025/xp-event.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-08-25T13:00:00",
+            "end_time": "2025-10-14T23:59:00",
+            "description": "Prepare for Pokémon GO’s new leveling journey with massive XP bonuses and exclusive Timed Research!\nThis event is designed to help Trainers prepare for the upcoming level cap increase from 50 to 80, launching onOctober 15, 2025.",
+            "bonuses": [
+                "+3,000 XP from winning Max Battles",
+                "+3,000 XP from winning raids",
+                "2× Catch XP from Nice, Great, and Excellent Throws"
+            ]
+        },
+        {
+            "title": "Harvest Festival",
+            "article_url": "https://leekduck.com/events/harvest-festival-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-10-harvest-festival-2025/harvest-festival-2025.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-10-10T10:00:00",
+            "end_time": "2025-10-16T20:00:00",
+            "description": "The Harvest Festival returns to Pokémon GO, featuring the debut of Dipplin and Hydrapple! Discover Syrupy Apples and enjoy special bonuses throughout the event!",
+            "bonuses": [
+                "2× Candy for catching Pokémon with Pinap Berries and Silver Pinap Berries",
+                "Increased chance for apples to appear at PokéStops with an active Mossy Lure Module",
+                "Increased chance to encounter Shiny Pumpkaboo and Shiny Smoliv"
+            ]
+        },
+        {
+            "title": "Pokémon Legends: Z-A Celebration Event",
+            "article_url": "https://leekduck.com/events/pokemon-legends-za-celebration-event-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-16-pokemon-legends-za-celebration-event-2025/pokemon-legends-za-celebration-event.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-10-16T10:00:00",
+            "end_time": "2025-10-20T20:00:00",
+            "description": "Celebrate the release of Pokémon Legends: Z-A with a Pokémon GO event!\nExperience Lumiose City in the Kalos region in a new adventure with Pokémon Legends: Z-A! In celebration of the release of this game, Mega Raids will appear more often in Pokémon GO. Chikorita, Totodile, and Tepig will appear in Timed Research, and avatar items inspired by Lumiose City Pokémon Trainers will be available in the shop.",
+            "bonuses": [
+                "Mega Raids will appear more frequently"
+            ]
+        },
+        {
+            "title": "GO Battle Weekend: Tales of Transformation",
+            "article_url": "https://leekduck.com/events/go-battle-weekend-tales-of-transformation/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-10-25T00:00:00",
+            "end_time": "2025-10-26T23:59:00",
+            "description": "The following leagues will be active."
+        },
+        {
+            "title": "Halloween 2025 Part I",
+            "article_url": "https://leekduck.com/events/halloween-2025-part-i/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-21-halloween-2025-part-i/halloween-2025-part-i.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-10-21T10:00:00",
+            "end_time": "2025-10-27T10:00:00",
+            "description": "Have a haunted Halloween tea party with Poltchageist, Sinistcha, and more in Pokémon GO!\nPoltchageist and Sinistcha make their Pokémon GO debuts, and for the first time, you can encounter Shiny Sinistea!",
+            "bonuses": [
+                "2× Candy for transferring Pokémon",
+                "2× Catch Candy",
+                "GO Pass Deluxe: 3× Candy for transferring Pokémon",
+                "GO Pass Deluxe: 3× Catch Candy",
+                "GO Pass Deluxe: Even greater chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
+                "Increased chance for Trainers level 31 and up to receive Candy XL for catching Pokémon with Nice, Great, and Excellent Throws",
+                "Increased chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon"
+            ]
+        },
+        {
+            "title": "Halloween 2025 Part II",
+            "article_url": "https://leekduck.com/events/halloween-2025-part-ii/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-27-halloween-2025-part-ii/halloween-2025-part-ii.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-10-27T10:00:00",
+            "end_time": "2025-11-02T20:00:00",
+            "description": "Costumed Teddiursa and costumed Noibat join the party in Halloween 2025 Part II!\nThe Halloween 2025 Part II event will take place from October 27, 2025 at 10 am to November 2, 2025 at 8 pm.",
+            "bonuses": [
+                "2× Candy for transferring Pokémon",
+                "2× Catch Candy",
+                "GO Pass Deluxe: 3× Candy for transferring Pokémon",
+                "GO Pass Deluxe: 3× Catch Candy",
+                "GO Pass Deluxe: Even greater chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
+                "Increased chance for Trainers level 31 and up to receive Candy XL for catching Pokémon with Nice, Great, and Excellent Throws",
+                "Increased chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
+                "Increased chance to encounter Shiny costumed Pokémon in raids",
+                "On October 31, costumed Pokémon will have a small chance to give Rare Candy or Rare Candy XL when caught with Nice Throws or better"
+            ]
+        },
+        {
+            "title": "Trade Days | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/trade-days-tales-of-transformation/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-07-trade-days-tales-of-transformation/trade-days.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-09-07T00:00:00",
+            "end_time": "2025-11-30T23:59:00",
+            "description": "Enjoy trade bonuses every Sunday throughout Tales of Transformation!\nOn Sundays from September 7 to November 30, 2025, Trainers will get a pile of trade bonuses, including one additional Special Trade!",
+            "bonuses": [
+                "-10% Stardust cost for trades",
+                "Earn two Candy XL from trades",
+                "Increased chance of Lucky Trade for any trade",
+                "One additional Special Trade"
+            ]
+        }
+    ],
     "Raid Day": [
         {
             "title": "Mega Rayquaza Raid Day",
@@ -457,6 +442,30 @@
                 "Receive up to eight additional free Raid Passes from spinning Gym Photo Discs (for a total of 14)",
                 "Receive up to five additional free Raid Passes from spinning Gym Photo Discs (for a total of six)",
                 "Remote Raid Pass limit increased to 20 from Friday, October 17, at 5:00 p.m. to Saturday, October 18, 2025, at 8:00 p.m. PDT"
+            ]
+        }
+    ],
+    "Max Battles": [
+        {
+            "title": "Gigantamax Garbodor Max Battle Day",
+            "article_url": "https://leekduck.com/events/gigantamax-garbodor-max-battle-day/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-01-gigantamax-garbodor-max-battle-day/gigantamax-garbodor-max-battle-day.jpg",
+            "category": "Max Battles",
+            "is_local_time": true,
+            "start_time": "2025-11-01T14:00:00",
+            "end_time": "2025-11-01T17:00:00",
+            "description": "Find trash and treasure during Gigantamax Garbodor Max Battle Day!",
+            "bonuses": [
+                "1/4 adventuring distance to receive Max Particles*",
+                "2× Max Particles from exploring*",
+                "2× XP from Max Battles",
+                "8× Max Particles from Power Spots",
+                "All Power Spots will host Gigantamax Battles",
+                "From October 31 at 5:00 p.m. to November 1 at 8:00 p.m. PDT (GMT −7), the daily Remote Raid limit will increase from 10 to 20",
+                "Max Particle collection limit increased to 1,600",
+                "Max Particle collection limit increased to 5,600",
+                "Power Spots will refresh more frequently",
+                "Two additional Special Trades"
             ]
         }
     ],
