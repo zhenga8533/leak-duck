@@ -1,58 +1,4 @@
 {
-    "Raid Hour": [
-        {
-            "title": "Deoxys (Normal & Defense Forme) Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20251008/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "is_local_time": true,
-            "start_time": "2025-10-08T18:00:00",
-            "end_time": "2025-10-08T19:00:00",
-            "description": "A Raid Hour featuring Deoxys (Normal & Defense Forme) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
-        },
-        {
-            "title": "Deoxys (Attack & Speed Forme) Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20251015/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "is_local_time": true,
-            "start_time": "2025-10-15T18:00:00",
-            "end_time": "2025-10-15T19:00:00",
-            "description": "A Raid Hour featuring Deoxys (Attack & Speed Forme) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
-        },
-        {
-            "title": "Genesect Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20251022/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "is_local_time": true,
-            "start_time": "2025-10-22T18:00:00",
-            "end_time": "2025-10-22T19:00:00",
-            "description": "A Raid Hour featuring Genesect, Genesect (Douse), and Genesect (Shock Drive) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
-        },
-        {
-            "title": "Giratina (Origin Forme) Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20251029/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "is_local_time": true,
-            "start_time": "2025-10-29T18:00:00",
-            "end_time": "2025-10-29T19:00:00",
-            "description": "A Raid Hour featuring Giratina (Origin Forme) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
-        }
-    ],
-    "PokéStop Showcase": [
-        {
-            "title": "Duraludon PokéStop Showcase",
-            "article_url": "https://leekduck.com/events/pokemon-showcase-duraludon-2025-10-06/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "is_local_time": true,
-            "start_time": "2025-10-06T10:00:00",
-            "end_time": "2025-10-08T20:00:00",
-            "description": "There will be PokéStop Showcases featuring Duraludon. Top the leaderboard to win rewards including Premium Items!"
-        }
-    ],
     "Community Day": [
         {
             "title": "Solosis Community Day",
@@ -422,6 +368,38 @@
                 "Increased chance of Lucky Trade for any trade",
                 "One additional Special Trade"
             ]
+        }
+    ],
+    "Raid Hour": [
+        {
+            "title": "Deoxys (Attack & Speed Forme) Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20251015/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "is_local_time": true,
+            "start_time": "2025-10-15T18:00:00",
+            "end_time": "2025-10-15T19:00:00",
+            "description": "A Raid Hour featuring Deoxys (Attack & Speed Forme) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Genesect Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20251022/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "is_local_time": true,
+            "start_time": "2025-10-22T18:00:00",
+            "end_time": "2025-10-22T19:00:00",
+            "description": "A Raid Hour featuring Genesect, Genesect (Douse), and Genesect (Shock Drive) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Giratina (Origin Forme) Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20251029/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "is_local_time": true,
+            "start_time": "2025-10-29T18:00:00",
+            "end_time": "2025-10-29T19:00:00",
+            "description": "A Raid Hour featuring Giratina (Origin Forme) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
         }
     ],
     "Raid Day": [

@@ -278,6 +278,16 @@
             "start_time": "2025-10-04T10:00:00",
             "end_time": "2025-10-05T20:00:00",
             "description": "There will be PokéStop Showcases featuring Metagross and Duraludon. Top the leaderboard to win rewards including Premium Items!"
+        },
+        {
+            "title": "Duraludon PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-duraludon-2025-10-06/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "is_local_time": true,
+            "start_time": "2025-10-06T10:00:00",
+            "end_time": "2025-10-08T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Duraludon. Top the leaderboard to win rewards including Premium Items!"
         }
     ],
     "Max Mondays": [
@@ -547,6 +557,16 @@
             "start_time": "2025-10-01T18:00:00",
             "end_time": "2025-10-01T19:00:00",
             "description": "A Raid Hour featuring Dialga (Origin Forme) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids.\nOrigin Forme Dialga caught during Raid Hour may know the Charged Attack Roar of Time."
+        },
+        {
+            "title": "Deoxys (Normal & Defense Forme) Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20251008/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "is_local_time": true,
+            "start_time": "2025-10-08T18:00:00",
+            "end_time": "2025-10-08T19:00:00",
+            "description": "A Raid Hour featuring Deoxys (Normal & Defense Forme) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
         }
     ],
     "Community Day": [
