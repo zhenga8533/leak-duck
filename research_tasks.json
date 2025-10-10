@@ -1,4 +1,96 @@
 {
+    "Harvest Festival Tasks": [
+        {
+            "task": "Catch 10 Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Smoliv",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm928.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 15 Grass-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Applin",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm840.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Use 5 Berries to help catch Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Pumpkaboo (Small)",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm710.fSMALL.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pumpkaboo (Average)",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm710.fAVERAGE.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pumpkaboo (Large)",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm710.fLARGE.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pumpkaboo (Super)",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm710.fSUPER.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Use 10 Berries to help catch Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Pumpkaboo (Small)",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm710.fSMALL.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pumpkaboo (Average)",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm710.fAVERAGE.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pumpkaboo (Large)",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm710.fLARGE.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pumpkaboo (Super)",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm710.fSUPER.icon.png"
+                }
+            ]
+        }
+    ],
     "Catching Tasks": [
         {
             "task": "Catch 7 Pokémon",
@@ -31,17 +123,10 @@
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Abra",
+                    "name": "Audino",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm63.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Slowpoke",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm79.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm531.icon.png"
                 },
                 {
                     "type": "item",
