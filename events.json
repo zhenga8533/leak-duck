@@ -16,6 +16,7 @@
                 "3-hour Incense**",
                 "3x Catch Stardust",
                 "Increased Spawns",
+                "New: 2x Catch XP",
                 "One additional Special Trade can be made for a maximum of three for the day*",
                 "Trades made will require 50% less Stardust*"
             ]
@@ -29,6 +30,15 @@
             "start_time": "2025-11-30T14:00:00",
             "end_time": "2025-11-30T17:00:00",
             "description": "November Community Day is on November 30, 2025. Stay tuned for the announcement of the featured Pokémon."
+        }
+    ],
+    "PokéStop Showcase": [
+        {
+            "title": "Solosis PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-solosis-2025-10-11/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "error": "TimeoutException"
         }
     ],
     "Max Mondays": [
