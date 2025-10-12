@@ -38,7 +38,10 @@
             "article_url": "https://leekduck.com/events/pokemon-showcase-solosis-2025-10-11/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
             "category": "PokéStop Showcase",
-            "error": "TimeoutException"
+            "is_local_time": true,
+            "start_time": "2025-10-11T10:00:00",
+            "end_time": "2025-10-12T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Solosis. Top the leaderboard to win rewards including Premium Items!"
         }
     ],
     "Max Mondays": [
