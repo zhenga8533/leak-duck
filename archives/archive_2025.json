@@ -288,6 +288,16 @@
             "start_time": "2025-10-06T10:00:00",
             "end_time": "2025-10-08T20:00:00",
             "description": "There will be PokéStop Showcases featuring Duraludon. Top the leaderboard to win rewards including Premium Items!"
+        },
+        {
+            "title": "Solosis PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-solosis-2025-10-11/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "is_local_time": true,
+            "start_time": "2025-10-11T10:00:00",
+            "end_time": "2025-10-12T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Solosis. Top the leaderboard to win rewards including Premium Items!"
         }
     ],
     "Max Mondays": [
@@ -578,6 +588,27 @@
             "end_time": "2025-09-14T17:00:00",
             "article_url": "https://leekduck.com/events/september-communityday2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-14-september-communityday2025/september-cd-2025-flabebe.jpg"
+        },
+        {
+            "title": "Solosis Community Day",
+            "article_url": "https://leekduck.com/events/october-communityday2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-12-october-communityday2025/solosis-community-day-october.jpg",
+            "category": "Community Day",
+            "is_local_time": true,
+            "start_time": "2025-10-12T14:00:00",
+            "end_time": "2025-10-12T17:00:00",
+            "description": "Solosis, the Cell Pokémon, will be featured during October Community Day!",
+            "bonuses": [
+                "1-hour Lures***",
+                "2x Catch Candy",
+                "2x Chance to receive Candy XL from catching Pokémon",
+                "3-hour Incense**",
+                "3x Catch Stardust",
+                "Increased Spawns",
+                "New: 2x Catch XP",
+                "One additional Special Trade can be made for a maximum of three for the day*",
+                "Trades made will require 50% less Stardust*"
+            ]
         }
     ],
     "Research": [
