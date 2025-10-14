@@ -338,6 +338,16 @@
             "start_time": "2025-10-06T18:00:00",
             "end_time": "2025-10-06T19:00:00",
             "description": "These Dynamax Pokémon may appear in Max Battles throughout Delightful Days. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOnOctober 6, 2025, the featured Dynamax Pokémon isDrilbur."
+        },
+        {
+            "title": "Dynamax Bounsweet during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-10-13/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-10-13T18:00:00",
+            "end_time": "2025-10-13T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Delightful Days. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOnOctober 13, 2025, the featured Dynamax Pokémon isBounsweet."
         }
     ],
     "Raid Battles": [
