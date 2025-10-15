@@ -433,6 +433,26 @@
             "start_time": "2025-09-30T10:00:00",
             "end_time": "2025-10-07T10:00:00",
             "description": "Mega Steelix, Mega Scizor, and Mega Lucario return to Mega Raids on September 30, 2025, at 10 am local time."
+        },
+        {
+            "title": "Deoxys (Normal & Defense Forme) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/deoxys-normal-defense-in-5-star-raid-battles-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/deoxys-all-formes.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-07T10:00:00",
+            "end_time": "2025-10-14T10:00:00",
+            "description": "Deoxys (Normal) and Deoxys (Defense) will be in five-star raid battles from October 7, 2025 to October 14, 2025.\nThere will also be a Raid Hour featuring Deoxys (Normal & Defense Forme) from 6:00 pm to 7:00 pm local time on the following dates:"
+        },
+        {
+            "title": "Mega Sceptile, Mega Blaziken, and Mega Swampert in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-sceptile-mega-blaziken-mega-swampert-in-mega-raids-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-07T10:00:00",
+            "end_time": "2025-10-14T10:00:00",
+            "description": "Mega Sceptile, Mega Blaziken, and Mega Swampert return to Mega Raids on October 7, 2025, at 10 am local time."
         }
     ],
     "GO Battle League": [
@@ -483,6 +503,16 @@
             "start_time": 1759262400,
             "end_time": 1759867200,
             "description": "The Great League and Fantasy Cup: Great League Edition will run from September 30, 2025, at 1:00 p.m. to October 7, 2025, at 1:00 p.m. PT."
+        },
+        {
+            "title": "Ultra League and Jungle Cup: Great League Edition | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_ultra-league_jungle-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1759867200,
+            "end_time": 1760472000,
+            "description": "The Ultra League and Jungle Cup: Great League Edition will run from October 7, 2025, at 1:00 p.m. to October 14, 2025, at 1:00 p.m. PT.\nThe following Pokémon will not be allowed."
         }
     ],
     "Pokémon Spotlight Hour": [

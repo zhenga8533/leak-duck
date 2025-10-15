@@ -290,6 +290,22 @@
             ]
         },
         {
+            "title": "Into the Wild",
+            "article_url": "https://leekduck.com/events/into-the-wild-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-10-into-the-wild-2025/into-the-wild-2025.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-11-10T10:00:00",
+            "end_time": "2025-11-14T20:00:00",
+            "description": "It’s time to venture back Into the Wild for a Dark- and Fairy-type tale! Something is stirring deep in the wild…Are you ready to discover what lies ahead during the Into the Wild event?",
+            "bonuses": [
+                "No Remote Raid limit from Saturday, November 15, to Sunday, November 16, 2025",
+                "Remote Raid limit increased to 30 from Monday, November 10, to Friday, November 14, 2025",
+                "Trainers can receive special event stickers from PokéStops and Gifts",
+                "You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration"
+            ]
+        },
+        {
             "title": "Trade Days | Tales of Transformation",
             "article_url": "https://leekduck.com/events/trade-days-tales-of-transformation/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-07-trade-days-tales-of-transformation/trade-days.jpg",
@@ -455,6 +471,25 @@
                 "Open up to 50 Gifts per day",
                 "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
                 "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
+            ]
+        },
+        {
+            "title": "GO Pass: Into the Wild",
+            "article_url": "https://leekduck.com/events/go-pass-into-the-wild/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-10-go-pass-into-the-wild/go-pass-into-the-wild.jpg",
+            "category": "GO Pass",
+            "is_local_time": true,
+            "start_time": "2025-11-10T10:00:00",
+            "end_time": "2025-11-16T18:00:00",
+            "description": "Before Pokémon GO Wild Area: Global kicks off around the world, take this chance to sharpen your skills and prepare for your big adventure! Hyper Training is back with the debut of the Silver Bottle Cap!\nFrom Monday, November 10, at 10:00 a.m. to Sunday, November 16, at 6:00 p.m. local time, the GO Pass and the GO Pass Deluxe for Into the Wild will be available in Pokémon GO!",
+            "bonuses": [
+                "+1 Candy XL from Max Battles",
+                "+1 Candy XL from raids",
+                "+1 Candy from Max Battles",
+                "+1 Candy from raids",
+                "2× Incense Duration",
+                "5,000 additional XP from completed Max Battles",
+                "5,000 additional XP from completed raids"
             ]
         }
     ],
