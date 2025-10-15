@@ -189,6 +189,21 @@
                 "Increased chance for Trainers level 31 and up to receive Candy XL for catching Pokémon with Nice, Great, and Excellent Throws",
                 "One guaranteed Rare Candy XL from winning in-person Max Battles"
             ]
+        },
+        {
+            "title": "XP Celebration",
+            "article_url": "https://leekduck.com/events/xp-celebration-event-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-08-25-xp-celebration-event-2025/xp-event.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-08-25T13:00:00",
+            "end_time": "2025-10-14T23:59:00",
+            "description": "Prepare for Pokémon GO’s new leveling journey with massive XP bonuses and exclusive Timed Research!\nThis event is designed to help Trainers prepare for the upcoming level cap increase from 50 to 80, launching onOctober 15, 2025.",
+            "bonuses": [
+                "+3,000 XP from winning Max Battles",
+                "+3,000 XP from winning raids",
+                "2× Catch XP from Nice, Great, and Excellent Throws"
+            ]
         }
     ],
     "PokéStop Showcase": [
@@ -566,6 +581,16 @@
             "start_time": "2025-10-07T18:00:00",
             "end_time": "2025-10-07T19:00:00",
             "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of October.\nOctober 7: The featured Pokémon isFerroseedand the special bonus is2× Evolution XP."
+        },
+        {
+            "title": "Petilil Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-10-14/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "is_local_time": true,
+            "start_time": "2025-10-14T18:00:00",
+            "end_time": "2025-10-14T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of October.\nOctober 14: The featured Pokémon isPetililand the special bonus is2× Catch Stardust."
         }
     ],
     "Raid Hour": [
