@@ -204,6 +204,21 @@
                 "+3,000 XP from winning raids",
                 "2× Catch XP from Nice, Great, and Excellent Throws"
             ]
+        },
+        {
+            "title": "Harvest Festival",
+            "article_url": "https://leekduck.com/events/harvest-festival-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-10-harvest-festival-2025/harvest-festival-2025.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-10-10T10:00:00",
+            "end_time": "2025-10-16T20:00:00",
+            "description": "The Harvest Festival returns to Pokémon GO, featuring the debut of Dipplin and Hydrapple! Discover Syrupy Apples and enjoy special bonuses throughout the event!",
+            "bonuses": [
+                "2× Candy for catching Pokémon with Pinap Berries and Silver Pinap Berries",
+                "Increased chance for apples to appear at PokéStops with an active Mossy Lure Module",
+                "Increased chance to encounter Shiny Pumpkaboo and Shiny Smoliv"
+            ]
         }
     ],
     "PokéStop Showcase": [
