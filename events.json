@@ -1,20 +1,60 @@
 {
-    "Event": [
+    "Raid Day": [
         {
-            "title": "Harvest Festival",
-            "article_url": "https://leekduck.com/events/harvest-festival-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-10-harvest-festival-2025/harvest-festival-2025.jpg",
-            "category": "Event",
+            "title": "Mega Rayquaza Raid Day",
+            "article_url": "https://leekduck.com/events/mega-rayquaza-raid-day-november-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-18-mega-rayquaza-raid-day-november-2025/mega-rayquaza-raid-day.jpg",
+            "category": "Raid Day",
             "is_local_time": true,
-            "start_time": "2025-10-10T10:00:00",
-            "end_time": "2025-10-16T20:00:00",
-            "description": "The Harvest Festival returns to Pokémon GO, featuring the debut of Dipplin and Hydrapple! Discover Syrupy Apples and enjoy special bonuses throughout the event!",
+            "start_time": "2025-10-18T14:00:00",
+            "end_time": "2025-10-18T17:00:00",
+            "description": "Soar to new heights on Mega Rayquaza Raid Day!",
             "bonuses": [
-                "2× Candy for catching Pokémon with Pinap Berries and Silver Pinap Berries",
-                "Increased chance for apples to appear at PokéStops with an active Mossy Lure Module",
-                "Increased chance to encounter Shiny Pumpkaboo and Shiny Smoliv"
+                "2× Stardust from Raid Battles",
+                "50% more XP from Raid Battles",
+                "Increased chance of encountering Shiny Rayquaza from Mega Raids",
+                "Increased chance to get Rare Candy XL from Raid Battles",
+                "Receive up to eight additional free Raid Passes from spinning Gym Photo Discs (for a total of 14)",
+                "Receive up to five additional free Raid Passes from spinning Gym Photo Discs (for a total of six)",
+                "Remote Raid Pass limit increased to 20 from Friday, October 17, at 5:00 p.m. to Saturday, October 18, 2025, at 8:00 p.m. PDT"
             ]
+        }
+    ],
+    "PokéStop Showcase": [
+        {
+            "title": "Rayquaza PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-rayquaza-2025-10-18/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "is_local_time": true,
+            "start_time": "2025-10-18T10:00:00",
+            "end_time": "2025-10-19T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Rayquaza. Top the leaderboard to win rewards including Premium Items!"
+        }
+    ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Gastly during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-10-20/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-10-20T18:00:00",
+            "end_time": "2025-10-20T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Delightful Days. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOnOctober 20, 2025, the featured Dynamax Pokémon isGastly."
         },
+        {
+            "title": "Dynamax Woobat during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-10-27/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-10-27T18:00:00",
+            "end_time": "2025-10-27T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Delightful Days. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOnOctober 27, 2025, the featured Dynamax Pokémon isWoobat."
+        }
+    ],
+    "Event": [
         {
             "title": "Pokémon Legends: Z-A Celebration Event",
             "article_url": "https://leekduck.com/events/pokemon-legends-za-celebration-event-2025/",
@@ -109,49 +149,6 @@
                 "Increased chance of Lucky Trade for any trade",
                 "One additional Special Trade"
             ]
-        }
-    ],
-    "Raid Day": [
-        {
-            "title": "Mega Rayquaza Raid Day",
-            "article_url": "https://leekduck.com/events/mega-rayquaza-raid-day-november-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-18-mega-rayquaza-raid-day-november-2025/mega-rayquaza-raid-day.jpg",
-            "category": "Raid Day",
-            "is_local_time": true,
-            "start_time": "2025-10-18T14:00:00",
-            "end_time": "2025-10-18T17:00:00",
-            "description": "Soar to new heights on Mega Rayquaza Raid Day!",
-            "bonuses": [
-                "2× Stardust from Raid Battles",
-                "50% more XP from Raid Battles",
-                "Increased chance of encountering Shiny Rayquaza from Mega Raids",
-                "Increased chance to get Rare Candy XL from Raid Battles",
-                "Receive up to eight additional free Raid Passes from spinning Gym Photo Discs (for a total of 14)",
-                "Receive up to five additional free Raid Passes from spinning Gym Photo Discs (for a total of six)",
-                "Remote Raid Pass limit increased to 20 from Friday, October 17, at 5:00 p.m. to Saturday, October 18, 2025, at 8:00 p.m. PDT"
-            ]
-        }
-    ],
-    "Max Mondays": [
-        {
-            "title": "Dynamax Gastly during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-10-20/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "is_local_time": true,
-            "start_time": "2025-10-20T18:00:00",
-            "end_time": "2025-10-20T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Delightful Days. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOnOctober 20, 2025, the featured Dynamax Pokémon isGastly."
-        },
-        {
-            "title": "Dynamax Woobat during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-10-27/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "is_local_time": true,
-            "start_time": "2025-10-27T18:00:00",
-            "end_time": "2025-10-27T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Delightful Days. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOnOctober 27, 2025, the featured Dynamax Pokémon isWoobat."
         }
     ],
     "Raid Battles": [
