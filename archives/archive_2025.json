@@ -357,6 +357,16 @@
             "start_time": "2025-10-13T10:00:00",
             "end_time": "2025-10-15T20:00:00",
             "description": "There will be PokéStop Showcases featuring Pumpkaboo, Gourgeist, and Applin. Top the leaderboard to win rewards including Premium Items!"
+        },
+        {
+            "title": "Rayquaza PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-rayquaza-2025-10-18/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "is_local_time": true,
+            "start_time": "2025-10-18T10:00:00",
+            "end_time": "2025-10-19T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Rayquaza. Top the leaderboard to win rewards including Premium Items!"
         }
     ],
     "Max Mondays": [
