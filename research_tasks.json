@@ -1,92 +1,113 @@
 {
-    "Harvest Festival Tasks": [
+    "Pokémon GO Halloween 2025 Part I Tasks": [
         {
-            "task": "Catch 10 Pokémon",
+            "task": "Catch 10 Ghost- or Dark-type Pokémon",
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Smoliv",
+                    "name": "Yamask",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm928.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm562.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Litwick",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm607.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Phantump",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm708.icon.png"
                 }
             ]
         },
         {
-            "task": "Catch 15 Grass-type Pokémon",
+            "task": "Evolve 3 Dark-type Pokémon",
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Applin",
+                    "name": "Zorua",
                     "shiny_available": false,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm840.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm570.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Vullaby",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm629.icon.png"
                 }
             ]
         },
         {
-            "task": "Use 5 Berries to help catch Pokémon",
+            "task": "Evolve 3 Ghost-type Pokémon",
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Pumpkaboo (Small)",
+                    "name": "Sableye",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm710.fSMALL.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm302.icon.png"
                 },
                 {
                     "type": "encounter",
-                    "name": "Pumpkaboo (Average)",
-                    "shiny_available": true,
+                    "name": "Hisuian Zorua",
+                    "shiny_available": false,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm710.fAVERAGE.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Pumpkaboo (Large)",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm710.fLARGE.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Pumpkaboo (Super)",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm710.fSUPER.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm570.fHISUIAN.icon.png"
                 }
             ]
         },
         {
-            "task": "Use 10 Berries to help catch Pokémon",
+            "task": "Power up Pokémon 10 times",
+            "rewards": [
+                {
+                    "type": "resource",
+                    "name": "Gengar Mega Energy",
+                    "quantity": 25,
+                    "asset_url": "/assets/img/mega_energy/Gengar Mega Energy.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Houndoom Mega Energy",
+                    "quantity": 25,
+                    "asset_url": "/assets/img/mega_energy/Houndoom Mega Energy.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Sableye Mega Energy",
+                    "quantity": 25,
+                    "asset_url": "/assets/img/mega_energy/Sableye Mega Energy.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Banette Mega Energy",
+                    "quantity": 25,
+                    "asset_url": "/assets/img/mega_energy/Banette Mega Energy.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Absol Mega Energy",
+                    "quantity": 25,
+                    "asset_url": "/assets/img/mega_energy/Absol Mega Energy.png"
+                }
+            ]
+        },
+        {
+            "task": "Win 3 raids",
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Pumpkaboo (Small)",
+                    "name": "Spiritomb",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm710.fSMALL.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Pumpkaboo (Average)",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm710.fAVERAGE.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Pumpkaboo (Large)",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm710.fLARGE.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Pumpkaboo (Super)",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm710.fSUPER.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm442.icon.png"
                 }
             ]
         }

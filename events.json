@@ -19,6 +19,56 @@
             "start_time": "2025-10-27T18:00:00",
             "end_time": "2025-10-27T19:00:00",
             "description": "These Dynamax Pokémon may appear in Max Battles throughout Delightful Days. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOnOctober 27, 2025, the featured Dynamax Pokémon isWoobat."
+        },
+        {
+            "title": "Dynamax Inkay during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-11-03/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-11-03T18:00:00",
+            "end_time": "2025-11-03T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOnNovember 3, 2025, the featured Dynamax Pokémon isInkay."
+        },
+        {
+            "title": "Dynamax Ralts during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-11-10/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-11-10T18:00:00",
+            "end_time": "2025-11-10T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOnNovember 10, 2025, the featured Dynamax Pokémon isRalts."
+        },
+        {
+            "title": "Dynamax Toxtricity during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-11-17/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-11-17T18:00:00",
+            "end_time": "2025-11-17T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOnNovember 17, 2025, the featured Dynamax Pokémon areToxtricity (Amped) and Toxtricity (Low Key)."
+        },
+        {
+            "title": "Dynamax Eevee during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-11-24/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-11-24T18:00:00",
+            "end_time": "2025-11-24T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOnNovember 24, 2025, the featured Dynamax Pokémon isEevee."
+        },
+        {
+            "title": "Dynamax Darumaka during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-12-01/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-12-01T18:00:00",
+            "end_time": "2025-12-01T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOnDecember 1, 2025, the featured Dynamax Pokémon isDarumaka."
         }
     ],
     "Event": [
@@ -46,7 +96,7 @@
             "description": "The following leagues will be active."
         },
         {
-            "title": "Halloween 2025 Part I",
+            "title": "Pokémon GO Halloween 2025 Part I",
             "article_url": "https://leekduck.com/events/halloween-2025-part-i/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-21-halloween-2025-part-i/halloween-2025-part-i.jpg",
             "category": "Event",
@@ -65,14 +115,14 @@
             ]
         },
         {
-            "title": "Halloween 2025 Part II",
+            "title": "Pokémon GO Halloween 2025 Part II",
             "article_url": "https://leekduck.com/events/halloween-2025-part-ii/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-27-halloween-2025-part-ii/halloween-2025-part-ii.jpg",
             "category": "Event",
             "is_local_time": true,
             "start_time": "2025-10-27T10:00:00",
             "end_time": "2025-11-02T20:00:00",
-            "description": "Costumed Teddiursa and costumed Noibat join the party in Halloween 2025 Part II!\nThe Halloween 2025 Part II event will take place from October 27, 2025 at 10 am to November 2, 2025 at 8 pm.",
+            "description": "Costumed Teddiursa and costumed Noibat join the party in Halloween 2025 Part II!\nThe Pokémon GO Halloween 2025 Part II event will take place from October 27, 2025 at 10 am to November 2, 2025 at 8 pm.",
             "bonuses": [
                 "2× Candy for transferring Pokémon",
                 "2× Catch Candy",
@@ -83,6 +133,21 @@
                 "Increased chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
                 "Increased chance to encounter Shiny costumed Pokémon in raids",
                 "On October 31, costumed Pokémon will have a small chance to give Rare Candy or Rare Candy XL when caught with Nice Throws or better"
+            ]
+        },
+        {
+            "title": "Enchanted Hollow",
+            "article_url": "https://leekduck.com/events/enchanted-hollow-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-04-enchanted-hollow-2025/enchanted-hollow-2025.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-11-04T10:00:00",
+            "end_time": "2025-11-09T20:00:00",
+            "description": "Tangle with Tarountula and Spidops during the Enchanted Hollow event!",
+            "bonuses": [
+                "2× Lure Module duration",
+                "2× XP for spinning PokéStops",
+                "Increased chance of encountering Shiny Paras and Shiny Stantler"
             ]
         },
         {
@@ -100,6 +165,56 @@
                 "Trainers can receive special event stickers from PokéStops and Gifts",
                 "You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration"
             ]
+        },
+        {
+            "title": "GO Wild Area Global 2025",
+            "article_url": "https://leekduck.com/events/go-wild-area-global-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-11-15T10:00:00",
+            "end_time": "2025-11-16T20:00:00",
+            "description": "The GO Wild Area Global 2025 event will take place from November 15, 2025 at 10 am to November 16, 2025 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "High Voltage",
+            "article_url": "https://leekduck.com/events/high-voltage-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-11-18T10:00:00",
+            "end_time": "2025-11-22T20:00:00",
+            "description": "The High Voltage event will take place from November 18, 2025 at 10 am to November 22, 2025 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Dynamax Max Battle Weekend",
+            "article_url": "https://leekduck.com/events/dynamax-max-battle-weekend-2025-1/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-11-21T10:00:00",
+            "end_time": "2025-11-24T20:00:00",
+            "description": "The Dynamax Max Battle Weekend event will take place from November 21, 2025 at 10 am to November 24, 2025 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Final Justice",
+            "article_url": "https://leekduck.com/events/final-justice-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-11-25T10:00:00",
+            "end_time": "2025-11-30T20:00:00",
+            "description": "The Final Justice event will take place from November 25, 2025 at 10 am to November 30, 2025 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Dynamax Max Battle Weekend",
+            "article_url": "https://leekduck.com/events/dynamax-max-battle-weekend-2025-2/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-11-29T10:00:00",
+            "end_time": "2025-11-30T20:00:00",
+            "description": "The Dynamax Max Battle Weekend event will take place from November 29, 2025 at 10 am to November 30, 2025 at 8 pm. Stay tuned for more details."
         },
         {
             "title": "Trade Days | Tales of Transformation",
@@ -132,7 +247,7 @@
         {
             "title": "Mega Mawile and Mega Salamence in Mega Raids",
             "article_url": "https://leekduck.com/events/mega-mawile-mega-salamence-in-mega-raids-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
             "category": "Raid Battles",
             "is_local_time": true,
             "start_time": "2025-10-14T10:00:00",
@@ -152,7 +267,7 @@
         {
             "title": "Mega Houndoom and Mega Absol in Mega Raids",
             "article_url": "https://leekduck.com/events/mega-houndoom-mega-absol-in-mega-raids-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
             "category": "Raid Battles",
             "is_local_time": true,
             "start_time": "2025-10-21T10:00:00",
@@ -172,12 +287,92 @@
         {
             "title": "Mega Gengar, Mega Sableye, and Mega Banette in Mega Raids",
             "article_url": "https://leekduck.com/events/mega-gengar-mega-sableye-mega-banette-in-mega-raids-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
             "category": "Raid Battles",
             "is_local_time": true,
             "start_time": "2025-10-28T10:00:00",
             "end_time": "2025-11-04T10:00:00",
             "description": "Mega Gengar, Mega Sableye, and Mega Banette return to Mega Raids on October 28, 2025, at 10 am local time."
+        },
+        {
+            "title": "Mega Beedrill, Mega Pinsir, and Mega Heracross in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-beedrill-pinsir-heracross-in-mega-raids-november-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-11-04T10:00:00",
+            "end_time": "2025-11-11T10:00:00",
+            "description": "Mega Beedrill, Mega Pinsir, and Mega Heracross return to Mega Raids on November 4, 2025, at 10 am local time."
+        },
+        {
+            "title": "Raikou, Entei, and Suicune in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/raikou-entei-suicune-in-5-star-raid-battles-november-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-11-04T10:00:00",
+            "end_time": "2025-11-11T10:00:00",
+            "description": "Raikou, Entei, and Suicune will be in five-star raid battles from November 4, 2025 to November 11, 2025.\nThere will also be a Raid Hour featuring Raikou, Entei, and Suicune from 6:00 pm to 7:00 pm local time on the following dates:"
+        },
+        {
+            "title": "Mega Tyranitar and Mega Altaria in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-tyranitar-altaria-in-mega-raids-november-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-11-11T10:00:00",
+            "end_time": "2025-11-18T10:00:00",
+            "description": "Mega Tyranitar and Mega Altaria return to Mega Raids on November 11, 2025, at 10 am local time."
+        },
+        {
+            "title": "Heatran in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/heatran-in-5-star-raid-battles-november-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-11-18T10:00:00",
+            "end_time": "2025-11-25T10:00:00",
+            "description": "Heatran will be in five-star raid battles from November 18, 2025 to November 25, 2025.\nThere will also be a Raid Hour featuring Heatran from 6:00 pm to 7:00 pm local time on the following dates:"
+        },
+        {
+            "title": "Mega Ampharos and Mega Manectric in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-ampharos-manectric-in-mega-raids-november-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-11-18T10:00:00",
+            "end_time": "2025-11-25T10:00:00",
+            "description": "Mega Ampharos and Mega Manectric return to Mega Raids on November 18, 2025, at 10 am local time."
+        },
+        {
+            "title": "Cobalion, Terrakion, and Virizion in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/cobalion-terrakion-virizion-in-5-star-raid-battles-november-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-11-25T10:00:00",
+            "end_time": "2025-12-02T10:00:00",
+            "description": "Cobalion, Terrakion, and Virizion will be in five-star raid battles from November 25, 2025 to December 2, 2025.\nThere will also be a Raid Hour featuring Cobalion, Terrakion, and Virizion from 6:00 pm to 7:00 pm local time on the following dates:"
+        },
+        {
+            "title": "Mega Aerodactyl, Mega Medicham, and Mega Garchomp in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-aerodactyl-medicham-garchomp-in-mega-raids-november-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-11-25T10:00:00",
+            "end_time": "2025-12-02T10:00:00",
+            "description": "Mega Aerodactyl, Mega Medicham, and Mega Garchomp return to Mega Raids on November 25, 2025, at 10 am local time."
+        },
+        {
+            "title": "Shadow Latios in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-latios-in-shadow-raids-november-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-11-02T06:00:00",
+            "end_time": "2025-12-02T22:00:00",
+            "description": "Shadow Latios will return to Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Latios!\nShadow Latios will appear in five-star Shadow Raids every weekend from November 2 to December 2:"
         }
     ],
     "GO Battle League": [
@@ -272,6 +467,46 @@
             "start_time": "2025-10-28T18:00:00",
             "end_time": "2025-10-28T19:00:00",
             "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of October.\nOctober 28: The featured Pokémon isSinisteaand the special bonus is2× Catch Candy."
+        },
+        {
+            "title": "Weedle Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-11-04/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "is_local_time": true,
+            "start_time": "2025-11-04T18:00:00",
+            "end_time": "2025-11-04T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of November.\nNovember 4: The featured Pokémon isWeedleand the special bonus is2× Transfer Candy."
+        },
+        {
+            "title": "Morelull Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-11-11/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "is_local_time": true,
+            "start_time": "2025-11-11T18:00:00",
+            "end_time": "2025-11-11T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of November.\nNovember 11: The featured Pokémon isMorelulland the special bonus is2× Evolution XP."
+        },
+        {
+            "title": "Sableye Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-11-18/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "is_local_time": true,
+            "start_time": "2025-11-18T18:00:00",
+            "end_time": "2025-11-18T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of November.\nNovember 18: The featured Pokémon isSableyeand the special bonus is2× Catch Stardust."
+        },
+        {
+            "title": "Scraggy Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-11-25/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "is_local_time": true,
+            "start_time": "2025-11-25T18:00:00",
+            "end_time": "2025-11-25T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of November.\nNovember 25: The featured Pokémon isScraggyand the special bonus is2× Catch XP."
         }
     ],
     "Raid Hour": [
@@ -294,6 +529,36 @@
             "start_time": "2025-10-29T18:00:00",
             "end_time": "2025-10-29T19:00:00",
             "description": "A Raid Hour featuring Giratina (Origin Forme) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Raikou, Entei, and Suicune Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20251105/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "is_local_time": true,
+            "start_time": "2025-11-05T18:00:00",
+            "end_time": "2025-11-05T19:00:00",
+            "description": "A Raid Hour featuring Raikou, Entei, and Suicune is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Heatran Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20251119/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "is_local_time": true,
+            "start_time": "2025-11-19T18:00:00",
+            "end_time": "2025-11-19T19:00:00",
+            "description": "A Raid Hour featuring Heatran is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Cobalion, Terrakion, and Virizion Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20251126/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "is_local_time": true,
+            "start_time": "2025-11-26T18:00:00",
+            "end_time": "2025-11-26T19:00:00",
+            "description": "A Raid Hour featuring Cobalion, Terrakion, and Virizion is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
         }
     ],
     "PokéStop Showcase": [
@@ -302,7 +567,10 @@
             "article_url": "https://leekduck.com/events/pokemon-showcase-ghost-type-sinistea-2025-10-22/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
             "category": "PokéStop Showcase",
-            "error": "TimeoutException"
+            "is_local_time": true,
+            "start_time": "2025-10-20T10:00:00",
+            "end_time": "2025-10-22T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Ghost-type Pokémon and Sinistea. Top the leaderboard to win rewards including Premium Items!"
         }
     ],
     "Max Battles": [
