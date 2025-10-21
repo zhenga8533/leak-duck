@@ -32,7 +32,7 @@
                 {
                     "type": "encounter",
                     "name": "Zorua",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm570.icon.png"
                 },
