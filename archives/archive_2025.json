@@ -545,6 +545,26 @@
             "start_time": "2025-10-07T10:00:00",
             "end_time": "2025-10-14T10:00:00",
             "description": "Mega Sceptile, Mega Blaziken, and Mega Swampert return to Mega Raids on October 7, 2025, at 10 am local time."
+        },
+        {
+            "title": "Deoxys (Attack & Speed Forme) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/deoxys-attack-speed-in-5-star-raid-battles-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/deoxys-all-formes.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-14T10:00:00",
+            "end_time": "2025-10-21T10:00:00",
+            "description": "Deoxys (Attack) and Deoxys (Speed) will be in five-star raid battles from October 14, 2025 to October 21, 2025.\nThere will also be a Raid Hour featuring Deoxys (Attack & Speed Forme) from 6:00 pm to 7:00 pm local time on the following dates:"
+        },
+        {
+            "title": "Mega Mawile and Mega Salamence in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-mawile-mega-salamence-in-mega-raids-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-14T10:00:00",
+            "end_time": "2025-10-21T10:00:00",
+            "description": "Mega Mawile and Mega Salamence return to Mega Raids on October 14, 2025, at 10 am local time."
         }
     ],
     "GO Battle League": [
@@ -605,6 +625,16 @@
             "start_time": 1759867200,
             "end_time": 1760472000,
             "description": "The Ultra League and Jungle Cup: Great League Edition will run from October 7, 2025, at 1:00 p.m. to October 14, 2025, at 1:00 p.m. PT.\nThe following Pokémon will not be allowed."
+        },
+        {
+            "title": "Master Premier and Great League Remix | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_master-premier_great-league-remix/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1760472000,
+            "end_time": 1761076800,
+            "description": "The Master Premier and Great League Remix will run from October 14, 2025, at 1:00 p.m. to October 21, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\nCheck back later for more details."
         }
     ],
     "Pokémon Spotlight Hour": [
