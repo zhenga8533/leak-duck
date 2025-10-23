@@ -105,7 +105,7 @@ class EventPageScraper:
         description_div = content.find("div", class_="event-description")
         if isinstance(description_div, Tag):
             description_texts = [
-                p.get_text(strip=True)
+                p.get_text(separator=" ", strip=True)
                 for p in description_div.find_all("p", recursive=False)
             ]
             event_details["description"] = "\n".join(description_texts)
