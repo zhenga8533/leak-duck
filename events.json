@@ -1,4 +1,16 @@
 {
+    "PokéStop Showcase": [
+        {
+            "title": "Poltchageist and Ghost-type Pokémon PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-poltchageist-ghost-type-2025-10-25/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "is_local_time": true,
+            "start_time": "2025-10-25T10:00:00",
+            "end_time": "2025-10-26T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Poltchageist and Ghost-type Pokémon. Top the leaderboard to win rewards including Premium Items!\n- Poltchageist"
+        }
+    ],
     "Event": [
         {
             "title": "GO Battle Weekend: Tales of Transformation",
@@ -265,7 +277,7 @@
         {
             "title": "Raikou, Entei, and Suicune in 5-star Raid Battles",
             "article_url": "https://leekduck.com/events/raikou-entei-suicune-in-5-star-raid-battles-november-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/ultrabonusbeasts.jpg",
             "category": "Raid Battles",
             "is_local_time": true,
             "start_time": "2025-11-04T10:00:00",
@@ -285,7 +297,7 @@
         {
             "title": "Heatran in 5-star Raid Battles",
             "article_url": "https://leekduck.com/events/heatran-in-5-star-raid-battles-november-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/heatran-raids.jpg",
             "category": "Raid Battles",
             "is_local_time": true,
             "start_time": "2025-11-18T10:00:00",
@@ -305,7 +317,7 @@
         {
             "title": "Cobalion, Terrakion, and Virizion in 5-star Raid Battles",
             "article_url": "https://leekduck.com/events/cobalion-terrakion-virizion-in-5-star-raid-battles-november-december-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/swordsofjustice.jpg",
             "category": "Raid Battles",
             "is_local_time": true,
             "start_time": "2025-11-25T10:00:00",
