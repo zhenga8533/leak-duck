@@ -500,6 +500,16 @@
             "start_time": "2025-10-20T18:00:00",
             "end_time": "2025-10-20T19:00:00",
             "description": "These Dynamax Pokémon may appear in Max Battles throughout Delightful Days. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOnOctober 20, 2025, the featured Dynamax Pokémon isGastly."
+        },
+        {
+            "title": "Dynamax Woobat during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-10-27/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-10-27T18:00:00",
+            "end_time": "2025-10-27T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Delightful Days. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn October 27, 2025, the featured Dynamax Pokémon is Woobat.\n- Woobat"
         }
     ],
     "Raid Battles": [
