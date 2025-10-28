@@ -251,6 +251,46 @@
             "bonuses": [
                 "Mega Raids will appear more frequently"
             ]
+        },
+        {
+            "title": "GO Battle Weekend: Tales of Transformation",
+            "article_url": "https://leekduck.com/events/go-battle-weekend-tales-of-transformation/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-10-25T00:00:00",
+            "end_time": "2025-10-26T23:59:00",
+            "bonuses": [
+                "4× Stardust from win rewards. (This does not include end-of-set rewards.)",
+                "Free battle-themed Timed Research will be available. Rewards include glasses for your avatar inspired by Clemont.",
+                "Pokémon encountered via GO Battle League rewards will have a wider variance of Attack, Defense, and HP.",
+                "The maximum number of sets you can play per day will increase from five to 20—for a total of 100 battles—from 12:00 a.m. to 11:59 p.m. local time."
+            ],
+            "active-leagues": [
+                "The following leagues will be active.",
+                "Great League",
+                "Ultra League",
+                "Master League"
+            ]
+        },
+        {
+            "title": "Pokémon GO Halloween 2025 Part I",
+            "article_url": "https://leekduck.com/events/halloween-2025-part-i/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-21-halloween-2025-part-i/halloween-2025-part-i.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-10-21T10:00:00",
+            "end_time": "2025-10-27T10:00:00",
+            "description": "Have a haunted Halloween tea party with Poltchageist, Sinistcha, and more in Pokémon GO!\nPoltchageist and Sinistcha make their Pokémon GO debuts, and for the first time, you can encounter Shiny Sinistea!",
+            "bonuses": [
+                "2× Candy for transferring Pokémon",
+                "2× Catch Candy",
+                "GO Pass Deluxe: 3× Candy for transferring Pokémon",
+                "GO Pass Deluxe: 3× Catch Candy",
+                "GO Pass Deluxe: Even greater chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
+                "Increased chance for Trainers level 31 and up to receive Candy XL for catching Pokémon with Nice, Great, and Excellent Throws",
+                "Increased chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon"
+            ]
         }
     ],
     "PokéStop Showcase": [
@@ -390,6 +430,16 @@
             "start_time": "2025-10-20T10:00:00",
             "end_time": "2025-10-22T20:00:00",
             "description": "There will be PokéStop Showcases featuring Ghost-type Pokémon and Sinistea. Top the leaderboard to win rewards including Premium Items!"
+        },
+        {
+            "title": "Poltchageist and Ghost-type Pokémon PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-poltchageist-ghost-type-2025-10-25/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "is_local_time": true,
+            "start_time": "2025-10-25T10:00:00",
+            "end_time": "2025-10-26T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Poltchageist and Ghost-type Pokémon. Top the leaderboard to win rewards including Premium Items!\n- Poltchageist"
         }
     ],
     "Max Mondays": [

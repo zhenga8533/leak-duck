@@ -1,4 +1,98 @@
 {
+    "Pokémon GO Halloween 2025 Part II Tasks": [
+        {
+            "task": "Catch 10 Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Halloween Mischief Pikachu",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.cHALLOWEEN_2021_NOEVOLVE.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Froakie wearing a Pokémon Halloween costume",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm656.cFALL_2024.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Rowlet wearing a Pokémon Halloween costume",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm722.cFALL_2024.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Evolve 3 Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Teddiursa wearing a witch hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/Witch Hat Teddiursa.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Noibat wearing a headband",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/Headband Noibat.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Pokémon 10 times",
+            "rewards": [
+                {
+                    "type": "resource",
+                    "name": "Gengar Mega Energy",
+                    "quantity": 25,
+                    "asset_url": "/assets/img/mega_energy/Gengar Mega Energy.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Houndoom Mega Energy",
+                    "quantity": 25,
+                    "asset_url": "/assets/img/mega_energy/Houndoom Mega Energy.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Sableye Mega Energy",
+                    "quantity": 25,
+                    "asset_url": "/assets/img/mega_energy/Sableye Mega Energy.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Banette Mega Energy",
+                    "quantity": 25,
+                    "asset_url": "/assets/img/mega_energy/Banette Mega Energy.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Absol Mega Energy",
+                    "quantity": 25,
+                    "asset_url": "/assets/img/mega_energy/Absol Mega Energy.png"
+                }
+            ]
+        },
+        {
+            "task": "Win 3 raids",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Spiritomb",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm442.icon.png"
+                }
+            ]
+        }
+    ],
     "Pokémon GO Halloween 2025 Part I Tasks": [
         {
             "task": "Catch 10 Ghost- or Dark-type Pokémon",
