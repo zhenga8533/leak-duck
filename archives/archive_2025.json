@@ -635,6 +635,26 @@
             "start_time": "2025-10-14T10:00:00",
             "end_time": "2025-10-21T10:00:00",
             "description": "Mega Mawile and Mega Salamence return to Mega Raids on October 14, 2025, at 10 am local time."
+        },
+        {
+            "title": "Genesect (Douse & Shock Drive) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/genesect-douse-shock-in-5-star-raid-battles-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/genesect.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-21T10:00:00",
+            "end_time": "2025-10-28T10:00:00",
+            "description": "Genesect, Genesect (Douse), and Genesect (Shock) will be in five-star raid battles from October 21, 2025 to October 28, 2025.\nThere will also be a Raid Hour featuring Genesect from 6:00 pm to 7:00 pm local time on the following dates:\n- October 22"
+        },
+        {
+            "title": "Mega Houndoom and Mega Absol in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-houndoom-mega-absol-in-mega-raids-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-21T10:00:00",
+            "end_time": "2025-10-28T10:00:00",
+            "description": "Mega Houndoom and Mega Absol return to Mega Raids on October 21, 2025, at 10 am local time."
         }
     ],
     "GO Battle League": [
@@ -705,6 +725,25 @@
             "start_time": 1760472000,
             "end_time": 1761076800,
             "description": "The Master Premier and Great League Remix will run from October 14, 2025, at 1:00 p.m. to October 21, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\nCheck back later for more details."
+        },
+        {
+            "title": "Great League, Ultra League, and Master League | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-2/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1761076800,
+            "end_time": 1761681600,
+            "great-league": [
+                "Pokémon must be at or below 1,500 CP to enter."
+            ],
+            "ultra-league": [
+                "Pokémon must be at or below 2,500 CP to enter."
+            ],
+            "master-league": [
+                "All Pokémon are eligible."
+            ],
+            "description": "The Great League, Ultra League, and Master League will run from October 21, 2025, at 1:00 p.m. to October 28, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
         }
     ],
     "Pokémon Spotlight Hour": [

@@ -1,216 +1,4 @@
 {
-    "Event": [
-        {
-            "title": "GO Battle Weekend: Tales of Transformation",
-            "article_url": "https://leekduck.com/events/go-battle-weekend-tales-of-transformation/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
-            "category": "Event",
-            "is_local_time": true,
-            "start_time": "2025-10-25T00:00:00",
-            "end_time": "2025-10-26T23:59:00",
-            "bonuses": [
-                "4× Stardust from win rewards. (This does not include end-of-set rewards.)",
-                "Free battle-themed Timed Research will be available. Rewards include glasses for your avatar inspired by Clemont.",
-                "Pokémon encountered via GO Battle League rewards will have a wider variance of Attack, Defense, and HP.",
-                "The maximum number of sets you can play per day will increase from five to 20—for a total of 100 battles—from 12:00 a.m. to 11:59 p.m. local time."
-            ],
-            "active-leagues": [
-                "The following leagues will be active.",
-                "Great League",
-                "Ultra League",
-                "Master League"
-            ]
-        },
-        {
-            "title": "Pokémon GO Halloween 2025 Part I",
-            "article_url": "https://leekduck.com/events/halloween-2025-part-i/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-21-halloween-2025-part-i/halloween-2025-part-i.jpg",
-            "category": "Event",
-            "is_local_time": true,
-            "start_time": "2025-10-21T10:00:00",
-            "end_time": "2025-10-27T10:00:00",
-            "description": "Have a haunted Halloween tea party with Poltchageist, Sinistcha, and more in Pokémon GO!\nPoltchageist and Sinistcha make their Pokémon GO debuts, and for the first time, you can encounter Shiny Sinistea!",
-            "bonuses": [
-                "2× Candy for transferring Pokémon",
-                "2× Catch Candy",
-                "GO Pass Deluxe: 3× Candy for transferring Pokémon",
-                "GO Pass Deluxe: 3× Catch Candy",
-                "GO Pass Deluxe: Even greater chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
-                "Increased chance for Trainers level 31 and up to receive Candy XL for catching Pokémon with Nice, Great, and Excellent Throws",
-                "Increased chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon"
-            ]
-        },
-        {
-            "title": "Pokémon GO Halloween 2025 Part II",
-            "article_url": "https://leekduck.com/events/halloween-2025-part-ii/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-27-halloween-2025-part-ii/halloween-2025-part-ii.jpg",
-            "category": "Event",
-            "is_local_time": true,
-            "start_time": "2025-10-27T10:00:00",
-            "end_time": "2025-11-02T20:00:00",
-            "description": "Costumed Teddiursa and costumed Noibat join the party in Halloween 2025 Part II!\nThe Pokémon GO Halloween 2025 Part II event will take place from October 27, 2025 at 10 am to November 2, 2025 at 8 pm.",
-            "bonuses": [
-                "2× Candy for transferring Pokémon",
-                "2× Catch Candy",
-                "GO Pass Deluxe: 3× Candy for transferring Pokémon",
-                "GO Pass Deluxe: 3× Catch Candy",
-                "GO Pass Deluxe: Even greater chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
-                "Increased chance for Trainers level 31 and up to receive Candy XL for catching Pokémon with Nice, Great, and Excellent Throws",
-                "Increased chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
-                "Increased chance to encounter Shiny costumed Pokémon in raids",
-                "On October 31, costumed Pokémon will have a small chance to give Rare Candy or Rare Candy XL when caught with Nice Throws or better"
-            ]
-        },
-        {
-            "title": "Enchanted Hollow",
-            "article_url": "https://leekduck.com/events/enchanted-hollow-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-04-enchanted-hollow-2025/enchanted-hollow-2025.jpg",
-            "category": "Event",
-            "is_local_time": true,
-            "start_time": "2025-11-04T10:00:00",
-            "end_time": "2025-11-09T20:00:00",
-            "description": "Tangle with Tarountula and Spidops during the Enchanted Hollow event!",
-            "bonuses": [
-                "2× Lure Module duration",
-                "2× XP for spinning PokéStops",
-                "Increased chance of encountering Shiny Paras and Shiny Stantler"
-            ]
-        },
-        {
-            "title": "Into the Wild",
-            "article_url": "https://leekduck.com/events/into-the-wild-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-10-into-the-wild-2025/into-the-wild-2025.jpg",
-            "category": "Event",
-            "is_local_time": true,
-            "start_time": "2025-11-10T10:00:00",
-            "end_time": "2025-11-14T20:00:00",
-            "description": "It’s time to venture back Into the Wild for a Dark- and Fairy-type tale! Something is stirring deep in the wild…Are you ready to discover what lies ahead during the Into the Wild event?",
-            "bonuses": [
-                "No Remote Raid limit from Saturday, November 15, to Sunday, November 16, 2025",
-                "Remote Raid limit increased to 30 from Monday, November 10, to Friday, November 14, 2025",
-                "Trainers can receive special event stickers from PokéStops and Gifts",
-                "You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration"
-            ]
-        },
-        {
-            "title": "High Voltage",
-            "article_url": "https://leekduck.com/events/high-voltage-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "is_local_time": true,
-            "start_time": "2025-11-18T10:00:00",
-            "end_time": "2025-11-22T20:00:00",
-            "description": "The High Voltage event will take place from November 18, 2025 at 10 am to November 22, 2025 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Dynamax Max Battle Weekend",
-            "article_url": "https://leekduck.com/events/dynamax-max-battle-weekend-2025-1/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "is_local_time": true,
-            "start_time": "2025-11-21T10:00:00",
-            "end_time": "2025-11-24T20:00:00",
-            "description": "The Dynamax Max Battle Weekend event will take place from November 21, 2025 at 10 am to November 24, 2025 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Final Justice",
-            "article_url": "https://leekduck.com/events/final-justice-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "is_local_time": true,
-            "start_time": "2025-11-25T10:00:00",
-            "end_time": "2025-11-30T20:00:00",
-            "description": "The Final Justice event will take place from November 25, 2025 at 10 am to November 30, 2025 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Dynamax Max Battle Weekend",
-            "article_url": "https://leekduck.com/events/dynamax-max-battle-weekend-2025-2/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "is_local_time": true,
-            "start_time": "2025-11-29T10:00:00",
-            "end_time": "2025-11-30T20:00:00",
-            "description": "The Dynamax Max Battle Weekend event will take place from November 29, 2025 at 10 am to November 30, 2025 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Trade Days | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/trade-days-tales-of-transformation/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-07-trade-days-tales-of-transformation/trade-days.jpg",
-            "category": "Event",
-            "is_local_time": true,
-            "start_time": "2025-09-07T00:00:00",
-            "end_time": "2025-11-30T23:59:00",
-            "description": "Enjoy trade bonuses every Sunday throughout Tales of Transformation!\nOn Sundays from September 7 to November 30, 2025, Trainers will get a pile of trade bonuses, including one additional Special Trade!",
-            "bonuses": [
-                "-10% Stardust cost for trades",
-                "Earn two Candy XL from trades",
-                "Increased chance of Lucky Trade for any trade",
-                "One additional Special Trade"
-            ]
-        }
-    ],
-    "Max Mondays": [
-        {
-            "title": "Dynamax Woobat during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-10-27/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "is_local_time": true,
-            "start_time": "2025-10-27T18:00:00",
-            "end_time": "2025-10-27T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Delightful Days. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn October 27, 2025, the featured Dynamax Pokémon is Woobat.\n- Woobat"
-        },
-        {
-            "title": "Dynamax Inkay during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-11-03/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "is_local_time": true,
-            "start_time": "2025-11-03T18:00:00",
-            "end_time": "2025-11-03T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn November 3, 2025, the featured Dynamax Pokémon is Inkay.\n- Inkay"
-        },
-        {
-            "title": "Dynamax Ralts during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-11-10/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "is_local_time": true,
-            "start_time": "2025-11-10T18:00:00",
-            "end_time": "2025-11-10T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn November 10, 2025, the featured Dynamax Pokémon is Ralts.\n- Ralts"
-        },
-        {
-            "title": "Dynamax Toxtricity during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-11-17/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "is_local_time": true,
-            "start_time": "2025-11-17T18:00:00",
-            "end_time": "2025-11-17T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn November 17, 2025, the featured Dynamax Pokémon are Toxtricity (Amped) and Toxtricity (Low Key)."
-        },
-        {
-            "title": "Dynamax Eevee during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-11-24/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "is_local_time": true,
-            "start_time": "2025-11-24T18:00:00",
-            "end_time": "2025-11-24T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn November 24, 2025, the featured Dynamax Pokémon is Eevee.\n- Eevee"
-        },
-        {
-            "title": "Dynamax Darumaka during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-12-01/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "is_local_time": true,
-            "start_time": "2025-12-01T18:00:00",
-            "end_time": "2025-12-01T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 1, 2025, the featured Dynamax Pokémon is Darumaka.\n- Darumaka"
-        }
-    ],
     "Raid Battles": [
         {
             "title": "Genesect (Douse & Shock Drive) in 5-star Raid Battles",
@@ -561,7 +349,10 @@
             "article_url": "https://leekduck.com/events/pokemon-showcase-noibat-teddiursa-noivern-ursaluna-2025-10-27/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
             "category": "PokéStop Showcase",
-            "error": "TimeoutException"
+            "is_local_time": true,
+            "start_time": "2025-10-27T10:00:00",
+            "end_time": "2025-10-29T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Noibat, Teddiursa, Noivern, and Ursaluna. Top the leaderboard to win rewards including Premium Items!\n- Teddiursa\n- Noibat\n- Noivern\n- Ursaluna"
         }
     ],
     "Max Battles": [
@@ -646,6 +437,188 @@
                 "5,000 additional XP from completed Max Battles",
                 "5,000 additional XP from completed raids"
             ]
+        },
+        {
+            "title": "GO Pass: November",
+            "article_url": "https://leekduck.com/events/go-pass-november-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-04-go-pass-november-2025/go-pass-november-2025.jpg",
+            "category": "GO Pass",
+            "is_local_time": true,
+            "start_time": "2025-11-04T10:00:00",
+            "end_time": "2025-12-02T10:00:00",
+            "description": "The Lucky Trinket returns in GO Pass: November!\nFrom Tuesday, November 4, at 10:00 a.m. to Tuesday, December 2, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for November will be available in Pokémon GO!",
+            "bonuses": [
+                "2× Daily Adventure Incense duration",
+                "2× Stardust and XP from hatching Eggs",
+                "Hold up to 30 Gifts in your Item Bag",
+                "Hold up to 40 Gifts in your Item Bag",
+                "Open up to 40 Gifts per day",
+                "Open up to 50 Gifts per day",
+                "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
+            ]
+        }
+    ],
+    "Event": [
+        {
+            "title": "Pokémon GO Halloween 2025 Part II",
+            "article_url": "https://leekduck.com/events/halloween-2025-part-ii/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-27-halloween-2025-part-ii/halloween-2025-part-ii.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-10-27T10:00:00",
+            "end_time": "2025-11-02T20:00:00",
+            "description": "Costumed Teddiursa and costumed Noibat join the party in Halloween 2025 Part II!\nThe Pokémon GO Halloween 2025 Part II event will take place from October 27, 2025 at 10 am to November 2, 2025 at 8 pm.",
+            "bonuses": [
+                "2× Candy for transferring Pokémon",
+                "2× Catch Candy",
+                "GO Pass Deluxe: 3× Candy for transferring Pokémon",
+                "GO Pass Deluxe: 3× Catch Candy",
+                "GO Pass Deluxe: Even greater chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
+                "Increased chance for Trainers level 31 and up to receive Candy XL for catching Pokémon with Nice, Great, and Excellent Throws",
+                "Increased chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
+                "Increased chance to encounter Shiny costumed Pokémon in raids",
+                "On October 31, costumed Pokémon will have a small chance to give Rare Candy or Rare Candy XL when caught with Nice Throws or better"
+            ]
+        },
+        {
+            "title": "Enchanted Hollow",
+            "article_url": "https://leekduck.com/events/enchanted-hollow-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-04-enchanted-hollow-2025/enchanted-hollow-2025.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-11-04T10:00:00",
+            "end_time": "2025-11-09T20:00:00",
+            "description": "Tangle with Tarountula and Spidops during the Enchanted Hollow event!",
+            "bonuses": [
+                "2× Lure Module duration",
+                "2× XP for spinning PokéStops",
+                "Increased chance of encountering Shiny Paras and Shiny Stantler"
+            ]
+        },
+        {
+            "title": "Into the Wild",
+            "article_url": "https://leekduck.com/events/into-the-wild-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-10-into-the-wild-2025/into-the-wild-2025.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-11-10T10:00:00",
+            "end_time": "2025-11-14T20:00:00",
+            "description": "It’s time to venture back Into the Wild for a Dark- and Fairy-type tale! Something is stirring deep in the wild…Are you ready to discover what lies ahead during the Into the Wild event?",
+            "bonuses": [
+                "No Remote Raid limit from Saturday, November 15, to Sunday, November 16, 2025",
+                "Remote Raid limit increased to 30 from Monday, November 10, to Friday, November 14, 2025",
+                "Trainers can receive special event stickers from PokéStops and Gifts",
+                "You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration"
+            ]
+        },
+        {
+            "title": "High Voltage",
+            "article_url": "https://leekduck.com/events/high-voltage-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-11-18T10:00:00",
+            "end_time": "2025-11-22T20:00:00",
+            "description": "The High Voltage event will take place from November 18, 2025 at 10 am to November 22, 2025 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Dynamax Max Battle Weekend",
+            "article_url": "https://leekduck.com/events/dynamax-max-battle-weekend-2025-1/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-11-21T10:00:00",
+            "end_time": "2025-11-24T20:00:00",
+            "description": "The Dynamax Max Battle Weekend event will take place from November 21, 2025 at 10 am to November 24, 2025 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Final Justice",
+            "article_url": "https://leekduck.com/events/final-justice-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-11-25T10:00:00",
+            "end_time": "2025-11-30T20:00:00",
+            "description": "The Final Justice event will take place from November 25, 2025 at 10 am to November 30, 2025 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Dynamax Max Battle Weekend",
+            "article_url": "https://leekduck.com/events/dynamax-max-battle-weekend-2025-2/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-11-29T10:00:00",
+            "end_time": "2025-11-30T20:00:00",
+            "description": "The Dynamax Max Battle Weekend event will take place from November 29, 2025 at 10 am to November 30, 2025 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Trade Days | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/trade-days-tales-of-transformation/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-07-trade-days-tales-of-transformation/trade-days.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-09-07T00:00:00",
+            "end_time": "2025-11-30T23:59:00",
+            "description": "Enjoy trade bonuses every Sunday throughout Tales of Transformation!\nOn Sundays from September 7 to November 30, 2025, Trainers will get a pile of trade bonuses, including one additional Special Trade!",
+            "bonuses": [
+                "-10% Stardust cost for trades",
+                "Earn two Candy XL from trades",
+                "Increased chance of Lucky Trade for any trade",
+                "One additional Special Trade"
+            ]
+        }
+    ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Inkay during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-11-03/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-11-03T18:00:00",
+            "end_time": "2025-11-03T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn November 3, 2025, the featured Dynamax Pokémon is Inkay.\n- Inkay"
+        },
+        {
+            "title": "Dynamax Ralts during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-11-10/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-11-10T18:00:00",
+            "end_time": "2025-11-10T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn November 10, 2025, the featured Dynamax Pokémon is Ralts.\n- Ralts"
+        },
+        {
+            "title": "Dynamax Toxtricity during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-11-17/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-11-17T18:00:00",
+            "end_time": "2025-11-17T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn November 17, 2025, the featured Dynamax Pokémon are Toxtricity (Amped) and Toxtricity (Low Key)."
+        },
+        {
+            "title": "Dynamax Eevee during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-11-24/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-11-24T18:00:00",
+            "end_time": "2025-11-24T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn November 24, 2025, the featured Dynamax Pokémon is Eevee.\n- Eevee"
+        },
+        {
+            "title": "Dynamax Darumaka during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-12-01/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "is_local_time": true,
+            "start_time": "2025-12-01T18:00:00",
+            "end_time": "2025-12-01T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 1, 2025, the featured Dynamax Pokémon is Darumaka.\n- Darumaka"
         }
     ],
     "Wild Area": [
