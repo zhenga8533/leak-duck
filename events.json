@@ -1,58 +1,4 @@
 {
-    "Raid Hour": [
-        {
-            "title": "Giratina (Origin Forme) Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20251029/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "is_local_time": true,
-            "start_time": "2025-10-29T18:00:00",
-            "end_time": "2025-10-29T19:00:00",
-            "description": "A Raid Hour featuring Giratina (Origin Forme) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
-        },
-        {
-            "title": "Raikou, Entei, and Suicune Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20251105/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "is_local_time": true,
-            "start_time": "2025-11-05T18:00:00",
-            "end_time": "2025-11-05T19:00:00",
-            "description": "A Raid Hour featuring Raikou, Entei, and Suicune is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
-        },
-        {
-            "title": "Heatran Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20251119/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "is_local_time": true,
-            "start_time": "2025-11-19T18:00:00",
-            "end_time": "2025-11-19T19:00:00",
-            "description": "A Raid Hour featuring Heatran is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
-        },
-        {
-            "title": "Cobalion, Terrakion, and Virizion Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20251126/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "is_local_time": true,
-            "start_time": "2025-11-26T18:00:00",
-            "end_time": "2025-11-26T19:00:00",
-            "description": "A Raid Hour featuring Cobalion, Terrakion, and Virizion is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
-        }
-    ],
-    "PokéStop Showcase": [
-        {
-            "title": "Noibat, Teddiursa, Noivern, and Ursaluna PokéStop Showcases",
-            "article_url": "https://leekduck.com/events/pokemon-showcase-noibat-teddiursa-noivern-ursaluna-2025-10-27/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "is_local_time": true,
-            "start_time": "2025-10-27T10:00:00",
-            "end_time": "2025-10-29T20:00:00",
-            "description": "There will be PokéStop Showcases featuring Noibat, Teddiursa, Noivern, and Ursaluna. Top the leaderboard to win rewards including Premium Items!\n- Teddiursa\n- Noibat\n- Noivern\n- Ursaluna"
-        }
-    ],
     "Max Battles": [
         {
             "title": "Gigantamax Garbodor Max Battle Day",
@@ -265,6 +211,18 @@
                 "Increased chance of Lucky Trade for any trade",
                 "One additional Special Trade"
             ]
+        }
+    ],
+    "PokéStop Showcase": [
+        {
+            "title": "Garbodor, Polteageist, and Sinistcha PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-garbodor-polteageist-sinistcha-2025-11-01/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "is_local_time": true,
+            "start_time": "2025-11-01T10:00:00",
+            "end_time": "2025-11-02T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Garbodor, Polteageist, and Sinistcha. Top the leaderboard to win rewards including Premium Items!\n- Garbodor\n- Polteageist\n- Sinistcha"
         }
     ],
     "Max Mondays": [
@@ -570,6 +528,38 @@
             "start_time": "2025-11-25T18:00:00",
             "end_time": "2025-11-25T19:00:00",
             "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of November.\nNovember 25: The featured Pokémon is Scraggy and the special bonus is 2× Catch XP."
+        }
+    ],
+    "Raid Hour": [
+        {
+            "title": "Raikou, Entei, and Suicune Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20251105/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "is_local_time": true,
+            "start_time": "2025-11-05T18:00:00",
+            "end_time": "2025-11-05T19:00:00",
+            "description": "A Raid Hour featuring Raikou, Entei, and Suicune is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Heatran Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20251119/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "is_local_time": true,
+            "start_time": "2025-11-19T18:00:00",
+            "end_time": "2025-11-19T19:00:00",
+            "description": "A Raid Hour featuring Heatran is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Cobalion, Terrakion, and Virizion Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20251126/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "is_local_time": true,
+            "start_time": "2025-11-26T18:00:00",
+            "end_time": "2025-11-26T19:00:00",
+            "description": "A Raid Hour featuring Cobalion, Terrakion, and Virizion is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
         }
     ],
     "Wild Area": [
