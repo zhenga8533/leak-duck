@@ -1347,5 +1347,29 @@
                 "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
             ]
         }
+    ],
+    "Max Battles": [
+        {
+            "title": "Gigantamax Garbodor Max Battle Day",
+            "article_url": "https://leekduck.com/events/gigantamax-garbodor-max-battle-day/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-01-gigantamax-garbodor-max-battle-day/gigantamax-garbodor-max-battle-day.jpg",
+            "category": "Max Battles",
+            "is_local_time": true,
+            "start_time": "2025-11-01T14:00:00",
+            "end_time": "2025-11-01T17:00:00",
+            "description": "Find trash and treasure during Gigantamax Garbodor Max Battle Day!",
+            "bonuses": [
+                "1/4 adventuring distance to receive Max Particles*",
+                "2× Max Particles from exploring*",
+                "2× XP from Max Battles",
+                "8× Max Particles from Power Spots",
+                "All Power Spots will host Gigantamax Battles",
+                "From October 31 at 5:00 p.m. to November 1 at 8:00 p.m. PDT (GMT −7), the daily Remote Raid limit will increase from 10 to 20",
+                "Max Particle collection limit increased to 1,600",
+                "Max Particle collection limit increased to 5,600",
+                "Power Spots will refresh more frequently",
+                "Two additional Special Trades"
+            ]
+        }
     ]
 }
