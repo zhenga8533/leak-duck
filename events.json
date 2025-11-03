@@ -199,6 +199,16 @@
             "start_time": "2025-11-01T10:00:00",
             "end_time": "2025-11-02T20:00:00",
             "description": "There will be PokéStop Showcases featuring Garbodor, Polteageist, and Sinistcha. Top the leaderboard to win rewards including Premium Items!\n- Garbodor\n- Polteageist\n- Sinistcha"
+        },
+        {
+            "title": "Poison-type, Grass-type, and Bug-type PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-poison-grass-bug-type-2025-11-03/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "is_local_time": true,
+            "start_time": "2025-11-03T10:00:00",
+            "end_time": "2025-11-05T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Poison-type Pokémon, Grass-type Pokémon, and Bug-type Pokémon. Top the leaderboard to win rewards including Premium Items!"
         }
     ],
     "Max Mondays": [
