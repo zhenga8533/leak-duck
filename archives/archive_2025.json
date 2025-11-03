@@ -291,6 +291,27 @@
                 "Increased chance for Trainers level 31 and up to receive Candy XL for catching Pokémon with Nice, Great, and Excellent Throws",
                 "Increased chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon"
             ]
+        },
+        {
+            "title": "Pokémon GO Halloween 2025 Part II",
+            "article_url": "https://leekduck.com/events/halloween-2025-part-ii/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-27-halloween-2025-part-ii/halloween-2025-part-ii.jpg",
+            "category": "Event",
+            "is_local_time": true,
+            "start_time": "2025-10-27T10:00:00",
+            "end_time": "2025-11-02T20:00:00",
+            "description": "Costumed Teddiursa and costumed Noibat join the party in Halloween 2025 Part II!\nThe Pokémon GO Halloween 2025 Part II event will take place from October 27, 2025 at 10 am to November 2, 2025 at 8 pm.",
+            "bonuses": [
+                "2× Candy for transferring Pokémon",
+                "2× Catch Candy",
+                "GO Pass Deluxe: 3× Candy for transferring Pokémon",
+                "GO Pass Deluxe: 3× Catch Candy",
+                "GO Pass Deluxe: Even greater chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
+                "Increased chance for Trainers level 31 and up to receive Candy XL for catching Pokémon with Nice, Great, and Excellent Throws",
+                "Increased chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
+                "Increased chance to encounter Shiny costumed Pokémon in raids",
+                "On October 31, costumed Pokémon will have a small chance to give Rare Candy or Rare Candy XL when caught with Nice Throws or better"
+            ]
         }
     ],
     "PokéStop Showcase": [
@@ -450,6 +471,16 @@
             "start_time": "2025-10-27T10:00:00",
             "end_time": "2025-10-29T20:00:00",
             "description": "There will be PokéStop Showcases featuring Noibat, Teddiursa, Noivern, and Ursaluna. Top the leaderboard to win rewards including Premium Items!\n- Teddiursa\n- Noibat\n- Noivern\n- Ursaluna"
+        },
+        {
+            "title": "Garbodor, Polteageist, and Sinistcha PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-garbodor-polteageist-sinistcha-2025-11-01/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "is_local_time": true,
+            "start_time": "2025-11-01T10:00:00",
+            "end_time": "2025-11-02T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Garbodor, Polteageist, and Sinistcha. Top the leaderboard to win rewards including Premium Items!\n- Garbodor\n- Polteageist\n- Sinistcha"
         }
     ],
     "Max Mondays": [
@@ -1345,6 +1376,25 @@
                 "Open up to 50 Gifts per day",
                 "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
                 "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
+            ]
+        },
+        {
+            "title": "GO Pass: Halloween 2025",
+            "article_url": "https://leekduck.com/events/go-pass-halloween-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-21-go-pass-halloween-2025/go-pass-halloween-2025.jpg",
+            "category": "GO Pass",
+            "is_local_time": true,
+            "start_time": "2025-10-21T10:00:00",
+            "end_time": "2025-11-02T20:00:00",
+            "description": "Happy haunts arrive for GO Pass: Halloween 2025!\nFrom Tuesday, October 21, at 10:00 a.m. to Sunday, November 2, at 8:00 p.m. local time, the GO Pass and GO Pass Deluxe for Halloween Part I and Part II will be available in Pokémon GO!",
+            "bonuses": [
+                "2× Candy for transferring Pokémon",
+                "2× Catch Candy",
+                "3× Candy for transferring Pokémon",
+                "3× Catch Candy",
+                "Even greater chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
+                "Increased chance for Trainers level 31 and up to receive Candy XL for catching Pokémon with Nice, Great, and Excellent Throws",
+                "Increased chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon"
             ]
         }
     ],

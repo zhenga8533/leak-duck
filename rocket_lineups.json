@@ -514,9 +514,9 @@
             "slot": 1,
             "pokemons": [
                 {
-                    "name": "Hoppip",
+                    "name": "Phantump",
                     "shiny_available": false,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm187.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm708.icon.png"
                 },
                 {
                     "name": "Seedot",
@@ -1099,9 +1099,9 @@
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm92.icon.png"
                 },
                 {
-                    "name": "Golett",
+                    "name": "Yamask",
                     "shiny_available": false,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm622.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm562.icon.png"
                 },
                 {
                     "name": "Duskull",

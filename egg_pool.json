@@ -1,30 +1,30 @@
 {
     "2 km Eggs": [
         {
-            "name": "Charmander",
+            "name": "Squirtle",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm4.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm7.icon.png",
             "hatch_distance": 2,
             "rarity_tier": 1
         },
         {
-            "name": "Togepi",
+            "name": "Mudkip",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm175.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm258.icon.png",
             "hatch_distance": 2,
             "rarity_tier": 1
         },
         {
-            "name": "Torchic",
+            "name": "Bonsly",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm255.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm438.icon.png",
             "hatch_distance": 2,
             "rarity_tier": 1
         },
         {
-            "name": "Chingling",
+            "name": "Happiny",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm433.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm440.icon.png",
             "hatch_distance": 2,
             "rarity_tier": 1
         },
@@ -38,23 +38,23 @@
     ],
     "5 km Eggs": [
         {
-            "name": "Alolan Meowth",
+            "name": "Alolan Vulpix",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm52.fALOLA.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm37.fALOLA.icon.png",
             "hatch_distance": 5,
             "rarity_tier": 1
         },
         {
-            "name": "Budew",
+            "name": "Tyrogue",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm406.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm236.icon.png",
             "hatch_distance": 5,
             "rarity_tier": 1
         },
         {
-            "name": "Munchlax",
+            "name": "Mantyke",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm446.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm458.icon.png",
             "hatch_distance": 5,
             "rarity_tier": 1
         },
@@ -193,23 +193,16 @@
     ],
     "10 km Eggs": [
         {
-            "name": "Absol",
+            "name": "Larvitar",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm359.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm246.icon.png",
             "hatch_distance": 10,
             "rarity_tier": 1
         },
         {
-            "name": "Bagon",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm371.icon.png",
-            "hatch_distance": 10,
-            "rarity_tier": 1
-        },
-        {
-            "name": "Toxel",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm848.icon.png",
+            "name": "Sableye Toxel",
+            "shiny_available": false,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_000.png",
             "hatch_distance": 10,
             "rarity_tier": 1
         },
