@@ -1,243 +1,293 @@
 {
     "Tier 1": [
         {
-            "name": "Galarian Yamask",
+            "name": "Paras",
             "tier": 1,
             "shiny_available": true,
             "cp_range": {
-                "min": 516,
-                "max": 561
+                "min": 536,
+                "max": 581
             },
             "boosted_cp_range": {
-                "min": 646,
-                "max": 701
+                "min": 671,
+                "max": 727
             },
             "types": [
-                "Ground",
-                "Ghost"
+                "Bug",
+                "Grass"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm562.fGALARIAN.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm46.icon.png"
         },
         {
-            "name": "Sinistea",
+            "name": "Stantler",
             "tier": 1,
             "shiny_available": true,
             "cp_range": {
-                "min": 603,
-                "max": 650
+                "min": 1170,
+                "max": 1236
             },
             "boosted_cp_range": {
-                "min": 754,
-                "max": 813
+                "min": 1463,
+                "max": 1546
             },
             "types": [
-                "Ghost"
+                "Normal"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm854.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm234.icon.png"
         },
         {
-            "name": "Poltchageist",
+            "name": "Tarountula",
             "tier": 1,
             "shiny_available": false,
             "cp_range": {
-                "min": 603,
-                "max": 650
+                "min": 292,
+                "max": 326
             },
             "boosted_cp_range": {
-                "min": 754,
-                "max": 813
+                "min": 366,
+                "max": 408
             },
             "types": [
-                "Grass",
-                "Ghost"
+                "Bug"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm1012.fCOUNTERFEIT.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm917.icon.png"
         }
     ],
     "Tier 3": [
         {
-            "name": "Alolan Marowak",
+            "name": "Leavanny",
             "tier": 3,
-            "shiny_available": true,
+            "shiny_available": false,
             "cp_range": {
-                "min": 988,
-                "max": 1048
+                "min": 1402,
+                "max": 1474
             },
             "boosted_cp_range": {
-                "min": 1235,
-                "max": 1311
+                "min": 1753,
+                "max": 1843
             },
             "types": [
-                "Fire",
-                "Ghost"
+                "Bug",
+                "Grass"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm105.fALOLA.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm542.icon.png"
         },
         {
-            "name": "Hisuian Typhlosion",
+            "name": "Scolipede",
             "tier": 3,
-            "shiny_available": true,
+            "shiny_available": false,
             "cp_range": {
-                "min": 1632,
-                "max": 1710
+                "min": 1328,
+                "max": 1398
             },
             "boosted_cp_range": {
-                "min": 2041,
-                "max": 2138
+                "min": 1660,
+                "max": 1747
             },
             "types": [
-                "Fire",
-                "Ghost"
+                "Bug",
+                "Poison"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm157.fHISUIAN.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm545.icon.png"
         },
         {
-            "name": "Hisuian Samurott",
+            "name": "Drampa",
             "tier": 3,
             "shiny_available": true,
             "cp_range": {
-                "min": 1525,
-                "max": 1601
+                "min": 1588,
+                "max": 1665
             },
             "boosted_cp_range": {
-                "min": 1907,
-                "max": 2001
+                "min": 1985,
+                "max": 2081
             },
             "types": [
-                "Water",
-                "Dark"
+                "Normal",
+                "Dragon"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm503.fHISUIAN.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm780.icon.png"
         }
     ],
     "Tier 5": [
         {
-            "name": "Genesect",
+            "name": "Raikou",
             "tier": 5,
             "shiny_available": true,
             "cp_range": {
-                "min": 1833,
-                "max": 1916
+                "min": 1889,
+                "max": 1972
             },
             "boosted_cp_range": {
-                "min": 2292,
-                "max": 2395
+                "min": 2361,
+                "max": 2466
             },
             "types": [
-                "Bug",
-                "Steel"
+                "Electric"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm649.fNORMAL.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm243.icon.png"
         },
         {
-            "name": "Genesect (Douse)",
+            "name": "Entei",
             "tier": 5,
             "shiny_available": true,
             "cp_range": {
-                "min": 1833,
-                "max": 1916
+                "min": 1900,
+                "max": 1984
             },
             "boosted_cp_range": {
-                "min": 2292,
-                "max": 2395
+                "min": 2375,
+                "max": 2480
             },
             "types": [
-                "Bug",
-                "Steel"
+                "Fire"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm649.fDOUSE.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm244.icon.png"
         },
         {
-            "name": "Genesect (Shock)",
+            "name": "Suicune",
             "tier": 5,
             "shiny_available": true,
             "cp_range": {
-                "min": 1833,
-                "max": 1916
+                "min": 1627,
+                "max": 1704
             },
             "boosted_cp_range": {
-                "min": 2292,
-                "max": 2395
+                "min": 2033,
+                "max": 2130
             },
             "types": [
-                "Bug",
-                "Steel"
+                "Water"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm649.fSHOCK.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm245.icon.png"
         }
     ],
     "Mega": [
         {
-            "name": "Mega Houndoom",
+            "name": "Mega Beedrill",
             "tier": "Mega",
             "shiny_available": true,
             "cp_range": {
-                "min": 1432,
-                "max": 1505
+                "min": 994,
+                "max": 1054
             },
             "boosted_cp_range": {
-                "min": 1790,
-                "max": 1882
+                "min": 1242,
+                "max": 1318
             },
             "types": [
-                "Dark",
-                "Fire"
+                "Bug",
+                "Poison"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm229.fMEGA.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm15.fMEGA.icon.png"
         },
         {
-            "name": "Mega Absol",
+            "name": "Mega Pinsir",
             "tier": "Mega",
             "shiny_available": true,
             "cp_range": {
-                "min": 1370,
-                "max": 1443
+                "min": 1613,
+                "max": 1690
             },
             "boosted_cp_range": {
-                "min": 1712,
-                "max": 1805
+                "min": 2016,
+                "max": 2113
             },
             "types": [
-                "Dark"
+                "Bug",
+                "Flying"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm359.fMEGA.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm127.fMEGA.icon.png"
+        },
+        {
+            "name": "Mega Heracross",
+            "tier": "Mega",
+            "shiny_available": false,
+            "cp_range": {
+                "min": 1693,
+                "max": 1772
+            },
+            "boosted_cp_range": {
+                "min": 2116,
+                "max": 2215
+            },
+            "types": [
+                "Bug",
+                "Fighting"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm214.fMEGA.icon.png"
         }
     ],
     "Shadow Tier 1": [
         {
-            "name": "Yamask",
+            "name": "Drowzee",
             "tier": 1,
-            "shiny_available": false,
+            "shiny_available": true,
             "cp_range": {
-                "min": 482,
-                "max": 561
+                "min": 512,
+                "max": 594
             },
             "boosted_cp_range": {
-                "min": 603,
-                "max": 701
+                "min": 640,
+                "max": 743
             },
             "types": [
-                "Ghost"
+                "Psychic"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm562.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm96.icon.png"
         },
         {
-            "name": "Phantump",
+            "name": "Ralts",
+            "tier": 1,
+            "shiny_available": true,
+            "cp_range": {
+                "min": 250,
+                "max": 308
+            },
+            "boosted_cp_range": {
+                "min": 313,
+                "max": 385
+            },
+            "types": [
+                "Psychic",
+                "Fairy"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm280.icon.png"
+        },
+        {
+            "name": "Bagon",
+            "tier": 1,
+            "shiny_available": true,
+            "cp_range": {
+                "min": 575,
+                "max": 660
+            },
+            "boosted_cp_range": {
+                "min": 719,
+                "max": 826
+            },
+            "types": [
+                "Dragon"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm371.icon.png"
+        },
+        {
+            "name": "Snover",
             "tier": 1,
             "shiny_available": false,
             "cp_range": {
-                "min": 558,
-                "max": 642
+                "min": 577,
+                "max": 662
             },
             "boosted_cp_range": {
-                "min": 698,
-                "max": 802
+                "min": 721,
+                "max": 828
             },
             "types": [
-                "Ghost",
-                "Grass"
+                "Grass",
+                "Ice"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm708.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm459.icon.png"
         }
     ],
     "Shadow Tier 3": [
@@ -298,22 +348,22 @@
     ],
     "Shadow Tier 5": [
         {
-            "name": "Latias",
+            "name": "Latios",
             "tier": 5,
             "shiny_available": true,
             "cp_range": {
-                "min": 1855,
-                "max": 2006
+                "min": 2021,
+                "max": 2178
             },
             "boosted_cp_range": {
-                "min": 2320,
-                "max": 2507
+                "min": 2526,
+                "max": 2723
             },
             "types": [
                 "Dragon",
                 "Psychic"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm380.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm381.icon.png"
         }
     ]
 }
