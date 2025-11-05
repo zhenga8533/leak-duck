@@ -1,5 +1,70 @@
 {
-    "Enchanted Hallow Tasks": [],
+    "Enchanted Hollow Tasks": [
+        {
+            "task": "Catch 10 Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Cottonee",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm546.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Petilil",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm548.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Karrablast",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm588.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Shelmet",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm616.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 15 Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Paras",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm46.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Stantler",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm234.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Win 2 raids",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Drampa",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm780.icon.png"
+                }
+            ]
+        }
+    ],
     "Catching Tasks": [
         {
             "task": "Catch 7 Pokémon",
@@ -1535,17 +1600,6 @@
         },
         {
             "task": "Power up Pokémon 10 times",
-            "rewards": [
-                {
-                    "type": "resource",
-                    "name": "Audino Mega Energy",
-                    "quantity": 20,
-                    "asset_url": "/assets/img/mega_energy/Audino Mega Energy.png"
-                }
-            ]
-        },
-        {
-            "task": "Power up Pokémon 20 times",
             "rewards": [
                 {
                     "type": "resource",

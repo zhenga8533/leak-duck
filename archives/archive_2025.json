@@ -706,6 +706,26 @@
             "start_time": "2025-10-21T10:00:00",
             "end_time": "2025-10-28T10:00:00",
             "description": "Mega Houndoom and Mega Absol return to Mega Raids on October 21, 2025, at 10 am local time."
+        },
+        {
+            "title": "Giratina (Altered Forme) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/giratina-altered-in-5-star-raid-battles-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/giratinaaltered.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-28T10:00:00",
+            "end_time": "2025-11-04T10:00:00",
+            "description": "Giratina (Altered) will be in five-star raid battles from October 28, 2025 to November 4, 2025.\nThere will also be a Raid Hour featuring Giratina (Origin Forme) from 6:00 pm to 7:00 pm local time on the following dates:\n- October 29"
+        },
+        {
+            "title": "Mega Gengar, Mega Sableye, and Mega Banette in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-gengar-mega-sableye-mega-banette-in-mega-raids-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-10-28T10:00:00",
+            "end_time": "2025-11-04T10:00:00",
+            "description": "Mega Gengar, Mega Sableye, and Mega Banette return to Mega Raids on October 28, 2025, at 10 am local time."
         }
     ],
     "GO Battle League": [
@@ -795,6 +815,23 @@
                 "All Pokémon are eligible."
             ],
             "description": "The Great League, Ultra League, and Master League will run from October 21, 2025, at 1:00 p.m. to October 28, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
+        },
+        {
+            "title": "Great League and Halloween Cup: Great League Edition | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_halloween-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+            "category": "GO Battle League",
+            "is_local_time": false,
+            "start_time": 1761681600,
+            "end_time": 1762290000,
+            "great-league": [
+                "Pokémon must be at or below 1,500 CP to enter."
+            ],
+            "halloween-cup-great-league-edition": [
+                "Pokémon must be at or below 1,500 CP to enter.",
+                "Only Poison-, Bug-, Ghost-, Dark-, and Fairy-type Pokémon are eligible."
+            ],
+            "description": "The Great League and Halloween Cup: Great League Edition will run from October 28, 2025, at 1:00 p.m. to November 4, 2025, at 1:00 p.m. PT."
         }
     ],
     "Pokémon Spotlight Hour": [
@@ -1405,6 +1442,26 @@
                 "Even greater chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
                 "Increased chance for Trainers level 31 and up to receive Candy XL for catching Pokémon with Nice, Great, and Excellent Throws",
                 "Increased chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon"
+            ]
+        },
+        {
+            "title": "GO Pass: October",
+            "article_url": "https://leekduck.com/events/go-pass-october-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-07-go-pass-october-2025/go-pass-october-2025.jpg",
+            "category": "GO Pass",
+            "is_local_time": true,
+            "start_time": "2025-10-07T10:00:00",
+            "end_time": "2025-11-04T10:00:00",
+            "description": "No tricks, just treats! Earn PokéCoins for progressing in GO Pass: October!\nTrainers, Get ready for a special treat this Halloween season during Pokémon GO’s Tales of Transformation! Bonus PokéCoins will be available to earn during this month’s GO Pass on both the free track and the paid GO Pass Deluxe track. Check out this exciting bonus and more in GO Pass: October!\nFrom Tuesday, October 7, at 10:00 a.m. to Tuesday, November 4, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for October will be available in Pokémon GO!",
+            "bonuses": [
+                "2× Daily Adventure Incense duration",
+                "2× Stardust and XP from hatching Eggs",
+                "Hold up to 30 Gifts in your Item Bag",
+                "Hold up to 40 Gifts in your Item Bag",
+                "Open up to 40 Gifts per day",
+                "Open up to 50 Gifts per day",
+                "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
             ]
         }
     ],

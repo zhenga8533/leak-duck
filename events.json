@@ -1,167 +1,4 @@
 {
-    "GO Pass": [
-        {
-            "title": "GO Pass: October",
-            "article_url": "https://leekduck.com/events/go-pass-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-07-go-pass-october-2025/go-pass-october-2025.jpg",
-            "category": "GO Pass",
-            "is_local_time": true,
-            "start_time": "2025-10-07T10:00:00",
-            "end_time": "2025-11-04T10:00:00",
-            "description": "No tricks, just treats! Earn PokéCoins for progressing in GO Pass: October!\nTrainers, Get ready for a special treat this Halloween season during Pokémon GO’s Tales of Transformation! Bonus PokéCoins will be available to earn during this month’s GO Pass on both the free track and the paid GO Pass Deluxe track. Check out this exciting bonus and more in GO Pass: October!\nFrom Tuesday, October 7, at 10:00 a.m. to Tuesday, November 4, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for October will be available in Pokémon GO!",
-            "bonuses": [
-                "2× Daily Adventure Incense duration",
-                "2× Stardust and XP from hatching Eggs",
-                "Hold up to 30 Gifts in your Item Bag",
-                "Hold up to 40 Gifts in your Item Bag",
-                "Open up to 40 Gifts per day",
-                "Open up to 50 Gifts per day",
-                "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
-                "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
-            ]
-        },
-        {
-            "title": "GO Pass: Into the Wild",
-            "article_url": "https://leekduck.com/events/go-pass-into-the-wild/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-10-go-pass-into-the-wild/go-pass-into-the-wild.jpg",
-            "category": "GO Pass",
-            "is_local_time": true,
-            "start_time": "2025-11-10T10:00:00",
-            "end_time": "2025-11-16T18:00:00",
-            "description": "Before Pokémon GO Wild Area: Global kicks off around the world, take this chance to sharpen your skills and prepare for your big adventure! Hyper Training is back with the debut of the Silver Bottle Cap!\nFrom Monday, November 10, at 10:00 a.m. to Sunday, November 16, at 6:00 p.m. local time, the GO Pass and the GO Pass Deluxe for Into the Wild will be available in Pokémon GO!",
-            "bonuses": [
-                "+1 Candy XL from Max Battles",
-                "+1 Candy XL from raids",
-                "+1 Candy from Max Battles",
-                "+1 Candy from raids",
-                "2× Incense Duration",
-                "5,000 additional XP from completed Max Battles",
-                "5,000 additional XP from completed raids"
-            ]
-        },
-        {
-            "title": "GO Pass: November",
-            "article_url": "https://leekduck.com/events/go-pass-november-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-04-go-pass-november-2025/go-pass-november-2025.jpg",
-            "category": "GO Pass",
-            "is_local_time": true,
-            "start_time": "2025-11-04T10:00:00",
-            "end_time": "2025-12-02T10:00:00",
-            "description": "The Lucky Trinket returns in GO Pass: November!\nFrom Tuesday, November 4, at 10:00 a.m. to Tuesday, December 2, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for November will be available in Pokémon GO!",
-            "bonuses": [
-                "2× Daily Adventure Incense duration",
-                "2× Stardust and XP from hatching Eggs",
-                "Hold up to 30 Gifts in your Item Bag",
-                "Hold up to 40 Gifts in your Item Bag",
-                "Open up to 40 Gifts per day",
-                "Open up to 50 Gifts per day",
-                "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
-                "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
-            ]
-        }
-    ],
-    "Raid Battles": [
-        {
-            "title": "Giratina (Altered Forme) in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/giratina-altered-in-5-star-raid-battles-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/giratinaaltered.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-10-28T10:00:00",
-            "end_time": "2025-11-04T10:00:00",
-            "description": "Giratina (Altered) will be in five-star raid battles from October 28, 2025 to November 4, 2025.\nThere will also be a Raid Hour featuring Giratina (Origin Forme) from 6:00 pm to 7:00 pm local time on the following dates:\n- October 29"
-        },
-        {
-            "title": "Mega Gengar, Mega Sableye, and Mega Banette in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-gengar-mega-sableye-mega-banette-in-mega-raids-october-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-10-28T10:00:00",
-            "end_time": "2025-11-04T10:00:00",
-            "description": "Mega Gengar, Mega Sableye, and Mega Banette return to Mega Raids on October 28, 2025, at 10 am local time."
-        },
-        {
-            "title": "Mega Beedrill, Mega Pinsir, and Mega Heracross in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-beedrill-pinsir-heracross-in-mega-raids-november-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-11-04T10:00:00",
-            "end_time": "2025-11-11T10:00:00",
-            "description": "Mega Beedrill, Mega Pinsir, and Mega Heracross return to Mega Raids on November 4, 2025, at 10 am local time."
-        },
-        {
-            "title": "Raikou, Entei, and Suicune in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/raikou-entei-suicune-in-5-star-raid-battles-november-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/ultrabonusbeasts.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-11-04T10:00:00",
-            "end_time": "2025-11-11T10:00:00",
-            "description": "Raikou, Entei, and Suicune will be in five-star raid battles from November 4, 2025 to November 11, 2025.\nThere will also be a Raid Hour featuring Raikou, Entei, and Suicune from 6:00 pm to 7:00 pm local time on the following dates:\n- November 5"
-        },
-        {
-            "title": "Mega Tyranitar and Mega Altaria in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-tyranitar-altaria-in-mega-raids-november-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-11-11T10:00:00",
-            "end_time": "2025-11-18T10:00:00",
-            "description": "Mega Tyranitar and Mega Altaria return to Mega Raids on November 11, 2025, at 10 am local time."
-        },
-        {
-            "title": "Heatran in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/heatran-in-5-star-raid-battles-november-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/heatran-raids.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-11-18T10:00:00",
-            "end_time": "2025-11-25T10:00:00",
-            "description": "Heatran will be in five-star raid battles from November 18, 2025 to November 25, 2025.\nThere will also be a Raid Hour featuring Heatran from 6:00 pm to 7:00 pm local time on the following dates:\n- November 19"
-        },
-        {
-            "title": "Mega Ampharos and Mega Manectric in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-ampharos-manectric-in-mega-raids-november-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-11-18T10:00:00",
-            "end_time": "2025-11-25T10:00:00",
-            "description": "Mega Ampharos and Mega Manectric return to Mega Raids on November 18, 2025, at 10 am local time."
-        },
-        {
-            "title": "Cobalion, Terrakion, and Virizion in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/cobalion-terrakion-virizion-in-5-star-raid-battles-november-december-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/swordsofjustice.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-11-25T10:00:00",
-            "end_time": "2025-12-02T10:00:00",
-            "description": "Cobalion, Terrakion, and Virizion will be in five-star raid battles from November 25, 2025 to December 2, 2025.\nThere will also be a Raid Hour featuring Cobalion, Terrakion, and Virizion from 6:00 pm to 7:00 pm local time on the following dates:\n- November 26"
-        },
-        {
-            "title": "Mega Aerodactyl, Mega Medicham, and Mega Garchomp in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-aerodactyl-medicham-garchomp-in-mega-raids-november-december-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-11-25T10:00:00",
-            "end_time": "2025-12-02T10:00:00",
-            "description": "Mega Aerodactyl, Mega Medicham, and Mega Garchomp return to Mega Raids on November 25, 2025, at 10 am local time."
-        },
-        {
-            "title": "Shadow Latios in Shadow Raids",
-            "article_url": "https://leekduck.com/events/shadow-latios-in-shadow-raids-november-december-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "is_local_time": true,
-            "start_time": "2025-11-02T06:00:00",
-            "end_time": "2025-12-02T22:00:00",
-            "description": "Shadow Latios will return to Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Latios!\nShadow Latios will appear in five-star Shadow Raids every weekend from November 2 to December 2:\n- November 2\n- November 8 - November 9\n- November 15 - November 16\n- November 22 - November 23\n- November 29 - November 30"
-        }
-    ],
     "GO Battle League": [
         {
             "title": "Great League and Halloween Cup: Great League Edition | Tales of Transformation",
@@ -478,12 +315,17 @@
         {
             "title": "High Voltage",
             "article_url": "https://leekduck.com/events/high-voltage-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-18-high-voltage-2025/high-voltage-2025.jpg",
             "category": "Event",
             "is_local_time": true,
             "start_time": "2025-11-18T10:00:00",
             "end_time": "2025-11-22T20:00:00",
-            "description": "The High Voltage event will take place from November 18, 2025 at 10 am to November 22, 2025 at 8 pm. Stay tuned for more details."
+            "description": "Get ready for an electrifying High Voltage event in Pokémon GO!",
+            "bonuses": [
+                "2× Stardust for catching Pokémon",
+                "2× XP for successfully catching Pokémon with Nice Throws or better",
+                "Increased chance to encounter Shiny Emolga, Shiny Dedenne, and Shiny Togedemaru"
+            ]
         },
         {
             "title": "Dynamax Max Battle Weekend",
@@ -572,6 +414,129 @@
             "start_time": "2025-12-01T18:00:00",
             "end_time": "2025-12-01T19:00:00",
             "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 1, 2025, the featured Dynamax Pokémon is Darumaka.\n- Darumaka"
+        }
+    ],
+    "Raid Battles": [
+        {
+            "title": "Mega Beedrill, Mega Pinsir, and Mega Heracross in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-beedrill-pinsir-heracross-in-mega-raids-november-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-11-04T10:00:00",
+            "end_time": "2025-11-11T10:00:00",
+            "description": "Mega Beedrill, Mega Pinsir, and Mega Heracross return to Mega Raids on November 4, 2025, at 10 am local time."
+        },
+        {
+            "title": "Raikou, Entei, and Suicune in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/raikou-entei-suicune-in-5-star-raid-battles-november-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/ultrabonusbeasts.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-11-04T10:00:00",
+            "end_time": "2025-11-11T10:00:00",
+            "description": "Raikou, Entei, and Suicune will be in five-star raid battles from November 4, 2025 to November 11, 2025.\nThere will also be a Raid Hour featuring Raikou, Entei, and Suicune from 6:00 pm to 7:00 pm local time on the following dates:\n- November 5"
+        },
+        {
+            "title": "Mega Tyranitar and Mega Altaria in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-tyranitar-altaria-in-mega-raids-november-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-11-11T10:00:00",
+            "end_time": "2025-11-18T10:00:00",
+            "description": "Mega Tyranitar and Mega Altaria return to Mega Raids on November 11, 2025, at 10 am local time."
+        },
+        {
+            "title": "Heatran in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/heatran-in-5-star-raid-battles-november-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/heatran-raids.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-11-18T10:00:00",
+            "end_time": "2025-11-25T10:00:00",
+            "description": "Heatran will be in five-star raid battles from November 18, 2025 to November 25, 2025.\nThere will also be a Raid Hour featuring Heatran from 6:00 pm to 7:00 pm local time on the following dates:\n- November 19"
+        },
+        {
+            "title": "Mega Ampharos and Mega Manectric in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-ampharos-manectric-in-mega-raids-november-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-11-18T10:00:00",
+            "end_time": "2025-11-25T10:00:00",
+            "description": "Mega Ampharos and Mega Manectric return to Mega Raids on November 18, 2025, at 10 am local time."
+        },
+        {
+            "title": "Cobalion, Terrakion, and Virizion in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/cobalion-terrakion-virizion-in-5-star-raid-battles-november-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/swordsofjustice.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-11-25T10:00:00",
+            "end_time": "2025-12-02T10:00:00",
+            "description": "Cobalion, Terrakion, and Virizion will be in five-star raid battles from November 25, 2025 to December 2, 2025.\nThere will also be a Raid Hour featuring Cobalion, Terrakion, and Virizion from 6:00 pm to 7:00 pm local time on the following dates:\n- November 26"
+        },
+        {
+            "title": "Mega Aerodactyl, Mega Medicham, and Mega Garchomp in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-aerodactyl-medicham-garchomp-in-mega-raids-november-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-11-25T10:00:00",
+            "end_time": "2025-12-02T10:00:00",
+            "description": "Mega Aerodactyl, Mega Medicham, and Mega Garchomp return to Mega Raids on November 25, 2025, at 10 am local time."
+        },
+        {
+            "title": "Shadow Latios in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-latios-in-shadow-raids-november-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "is_local_time": true,
+            "start_time": "2025-11-02T06:00:00",
+            "end_time": "2025-12-02T22:00:00",
+            "description": "Shadow Latios will return to Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Latios!\nShadow Latios will appear in five-star Shadow Raids every weekend from November 2 to December 2:\n- November 2\n- November 8 - November 9\n- November 15 - November 16\n- November 22 - November 23\n- November 29 - November 30"
+        }
+    ],
+    "GO Pass": [
+        {
+            "title": "GO Pass: Into the Wild",
+            "article_url": "https://leekduck.com/events/go-pass-into-the-wild/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-10-go-pass-into-the-wild/go-pass-into-the-wild.jpg",
+            "category": "GO Pass",
+            "is_local_time": true,
+            "start_time": "2025-11-10T10:00:00",
+            "end_time": "2025-11-16T18:00:00",
+            "description": "Before Pokémon GO Wild Area: Global kicks off around the world, take this chance to sharpen your skills and prepare for your big adventure! Hyper Training is back with the debut of the Silver Bottle Cap!\nFrom Monday, November 10, at 10:00 a.m. to Sunday, November 16, at 6:00 p.m. local time, the GO Pass and the GO Pass Deluxe for Into the Wild will be available in Pokémon GO!",
+            "bonuses": [
+                "+1 Candy XL from Max Battles",
+                "+1 Candy XL from raids",
+                "+1 Candy from Max Battles",
+                "+1 Candy from raids",
+                "2× Incense Duration",
+                "5,000 additional XP from completed Max Battles",
+                "5,000 additional XP from completed raids"
+            ]
+        },
+        {
+            "title": "GO Pass: November",
+            "article_url": "https://leekduck.com/events/go-pass-november-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-04-go-pass-november-2025/go-pass-november-2025.jpg",
+            "category": "GO Pass",
+            "is_local_time": true,
+            "start_time": "2025-11-04T10:00:00",
+            "end_time": "2025-12-02T10:00:00",
+            "description": "The Lucky Trinket returns in GO Pass: November!\nFrom Tuesday, November 4, at 10:00 a.m. to Tuesday, December 2, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for November will be available in Pokémon GO!",
+            "bonuses": [
+                "2× Daily Adventure Incense duration",
+                "2× Stardust and XP from hatching Eggs",
+                "Hold up to 30 Gifts in your Item Bag",
+                "Hold up to 40 Gifts in your Item Bag",
+                "Open up to 40 Gifts per day",
+                "Open up to 50 Gifts per day",
+                "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
+            ]
         }
     ],
     "Community Day": [
