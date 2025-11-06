@@ -177,16 +177,6 @@
             ]
         },
         {
-            "title": "Dynamax Max Battle Weekend",
-            "article_url": "https://leekduck.com/events/dynamax-max-battle-weekend-2025-1/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "is_local_time": true,
-            "start_time": "2025-11-21T10:00:00",
-            "end_time": "2025-11-24T20:00:00",
-            "description": "The Dynamax Max Battle Weekend event will take place from November 21, 2025 at 10 am to November 24, 2025 at 8 pm. Stay tuned for more details."
-        },
-        {
             "title": "Final Justice",
             "article_url": "https://leekduck.com/events/final-justice-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
@@ -239,6 +229,7 @@
             "article_url": "https://leekduck.com/events/max-mondays-2025-11-17/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
             "category": "Max Mondays",
+            "error": "HTTPConnectionPool(host='localhost', port=36583): Read timed out. (read timeout=120)",
             "is_local_time": true,
             "start_time": "2025-11-17T18:00:00",
             "end_time": "2025-11-17T19:00:00",
@@ -291,6 +282,7 @@
             "article_url": "https://leekduck.com/events/mega-tyranitar-altaria-in-mega-raids-november-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
             "category": "Raid Battles",
+            "error": "HTTPConnectionPool(host='localhost', port=36583): Read timed out. (read timeout=120)",
             "is_local_time": true,
             "start_time": "2025-11-11T10:00:00",
             "end_time": "2025-11-18T10:00:00",
@@ -373,6 +365,7 @@
             "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-3/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
             "category": "GO Battle League",
+            "error": "HTTPConnectionPool(host='localhost', port=36583): Read timed out. (read timeout=120)",
             "is_local_time": false,
             "start_time": 1762894800,
             "end_time": 1763499600,
@@ -512,22 +505,38 @@
             ]
         }
     ],
+    "Max Battles": [
+        {
+            "title": "Dynamax Eevee Max Battle Weekend",
+            "article_url": "https://leekduck.com/events/dynamax-eevee-max-battle-weekend/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-21-dynamax-eevee-max-battle-weekend/dynamax-eevee-weekend.jpg",
+            "category": "Max Battles",
+            "is_local_time": true,
+            "start_time": "2025-11-21T06:00:00",
+            "end_time": "2025-11-24T21:00:00",
+            "description": "Dynamax Eevee makes its Pokémon GO debut!",
+            "bonuses": [
+                "1/2 Adventuring distance to receive Max Particles*",
+                "2× Max Particles from Power Spots",
+                "Power Spots will refresh more frequently"
+            ]
+        }
+    ],
     "Community Day": [
         {
             "title": "Pikipek Community Day",
             "article_url": "https://leekduck.com/events/november-communityday2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-30-november-communityday2025/pikipek-community-day-november.jpg?v2",
             "category": "Community Day",
             "is_local_time": true,
             "start_time": "2025-11-30T14:00:00",
             "end_time": "2025-11-30T17:00:00",
-            "description": "Pikipek, the Woodpecker Pokémon, will be featured during November Community Day!",
+            "description": "Pikipek, the Woodpecker Pokémon, will be featured during November Community Day!\nPlease note, November Community Day will be the last Community Day where the featured Pokémon can have a Seasonal Special Background.\nThe Pokémon GO Team says they’re trying out new things for Community Day and will reevaluate these changes for next Season and onward.",
             "bonuses": [
                 "1-hour Lures***",
                 "2x Catch Candy",
                 "2x Chance to receive Candy XL from catching Pokémon",
-                "3-hour Incense**",
-                "???",
+                "3x Catch XP 3-hour Incense**",
                 "Increased Spawns",
                 "One additional Special Trade can be made for a maximum of three for the day*",
                 "Trades made will require 50% less Stardust*"
