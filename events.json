@@ -179,6 +179,18 @@
             "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details."
         }
     ],
+    "PokéStop Showcase": [
+        {
+            "title": "Tarountula and Spidops PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-tarountula-spidops-2025-11-08/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "is_local_time": true,
+            "start_time": "2025-11-08T10:00:00",
+            "end_time": "2025-11-09T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Tarountula and Spidops. Top the leaderboard to win rewards including Premium Items!\n- Tarountula\n- Spidops"
+        }
+    ],
     "Max Mondays": [
         {
             "title": "Dynamax Ralts during Max Monday",
