@@ -5,84 +5,355 @@
             "article_url": "https://leekduck.com/events/pokemon-go-wild-area-2025-nagasaki-japan/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-07-pokemon-go-wild-area-2025-nagasaki-japan/wild-area-2025-nagasaki-key-art.jpg",
             "category": "Wild Area",
+            "details": {
+                "for-the-brave-adventure-awaits-around-every-cornerare-you-ready-to-venture-into-the-wild-area": [
+                    "In this next chapter of Pokémon GO Wild Area, get ready to test your skills once again as you encounter Dark- and Fairy-type Pokémon, including Grimmsnarl, the Bulk Up Pokémon! Plus, exceptionally powerful Pokémon known as mighty Pokémon are appearing in the wild—use GO Wild Area–exclusive GO Safari Balls to improve your odds of catching these rare Pokémon.",
+                    "All event gameplay is exclusive to ticket holders.",
+                    "Tickets for Pokémon GO Wild Area: Nagasaki are now available on the Niantic events portal."
+                ],
+                "live-event-ticket---3600": [
+                    "(including applicable taxes and fees)",
+                    "Location: A citywide experience across Nagasaki City, Japan Dates: November 7, 8, or 9, 2025 Time: 9:00 a.m. – 5:00 p.m. JST",
+                    "Tickets for Pokémon GO Wild Area: Nagasaki include one day of event gameplay, and attendees may purchase add-ons that extend the gameplay for an additional day. One-day tickets are ¥3,600 (or the equivalent pricing tier in your local currency, including applicable taxes and fees). Event gameplay will be available only at the date, time, and location specified on your ticket.",
+                    "Note: Tickets to this event are nonrefundable (subject to applicable law and the exceptions set forth in the Terms of Service). Tickets are first come, first served and are available for purchase while supplies last."
+                ],
+                "bonuses": [
+                    "1 additional Candy XL for catching Pokémon in Max Battles (Trainers level 31+)",
+                    "1 additional Candy for catching Pokémon in Max Battles",
+                    "1/2 Hatch Distance for Eggs placed in Incubators during the event",
+                    "1/2 Stardust cost for trades",
+                    "1/4 Egg Hatch Distance*",
+                    "2× Candy for catching Pokémon",
+                    "2× XP from completed Max Battles",
+                    "3 additional Candy XL for catching Pokémon in raids (Trainers level 31+)",
+                    "3/4 Max Particle cost for unlocking and powering up Max Moves",
+                    "3× Hatch Candy",
+                    "3× Hatch Stardust",
+                    "3× Hatch XP",
+                    "5,000 additional XP awarded for completed raids",
+                    "6 additional Candy for catching Pokémon in raids",
+                    "Daily Max Particle collection limit increased to 8,000",
+                    "Incense will last for two hours",
+                    "Increased Max Particles from Power Spots and exploration",
+                    "Increased chance of 5 km Eggs from spinning PokéStops and Gyms",
+                    "Increased chance of encountering Shiny Pokémon",
+                    "Lure Modules will last for two hours",
+                    "Three GO Snapshot surprise event encounters per day",
+                    "Up to 10 daily Raid Passes per day from spinning Photo Discs at Gyms",
+                    "Up to 18 daily Raid Passes per day from spinning Photo Discs at Gyms",
+                    "Up to 6 Special Trades can be made during your ticketed event day"
+                ],
+                "features": [
+                    "Corviknight",
+                    "Cresselia",
+                    "Darkrai",
+                    "Deino",
+                    "Grimmsnarl",
+                    "Hatenna",
+                    "Hatterene",
+                    "Hattrem",
+                    "Hydreigon",
+                    "Impidimp",
+                    "Morgrem",
+                    "Popplio",
+                    "Primarina",
+                    "Unown K",
+                    "Unown W",
+                    "Wilderness Cape Bewear"
+                ],
+                "spawns": [
+                    "Absol",
+                    "Alolan Grimer",
+                    "Alolan Meowth",
+                    "Alolan Ninetales",
+                    "Alolan Vulpix",
+                    "Ampharos",
+                    "Audino",
+                    "Azelf",
+                    "Cacnea",
+                    "Chansey",
+                    "Cherubi",
+                    "Clefairy",
+                    "Corviknight",
+                    "Cottonee",
+                    "Cutiefly",
+                    "Dedenne",
+                    "Deino",
+                    "Drapion",
+                    "Dreepy",
+                    "Espurr",
+                    "Feebas",
+                    "Foongus",
+                    "Galarian Ponyta",
+                    "Galarian Rapidash",
+                    "Galarian Weezing",
+                    "Galarian Zigzagoon",
+                    "Garchomp",
+                    "Gardevoir",
+                    "Gastly",
+                    "Golurk",
+                    "Granbull",
+                    "Hatenna",
+                    "Hatterene",
+                    "Honchkrow",
+                    "Hoothoot",
+                    "Houndoom",
+                    "Houndour",
+                    "Hydreigon",
+                    "Impidimp",
+                    "Inkay",
+                    "Jigglypuff",
+                    "Klefki",
+                    "Kricketot",
+                    "Marill",
+                    "Mawile",
+                    "Meowscarada",
+                    "Mesprit",
+                    "Murkrow",
+                    "Nincada",
+                    "Obstagoon",
+                    "Phantump",
+                    "Poochyena",
+                    "Popplio",
+                    "Primarina",
+                    "Ralts",
+                    "Scraggy",
+                    "Seedot",
+                    "Skitty",
+                    "Skorupi",
+                    "Smoliv",
+                    "Sneasel",
+                    "Snubbull",
+                    "Stunky",
+                    "Swablu",
+                    "Togetic",
+                    "Tyranitar",
+                    "Unown A",
+                    "Unown D",
+                    "Unown G",
+                    "Unown I",
+                    "Unown K",
+                    "Unown L",
+                    "Unown N",
+                    "Unown S",
+                    "Unown W",
+                    "Uxie",
+                    "Weavile",
+                    "Wigglytuff",
+                    "Wilderness Cape Bewear",
+                    "Zorua"
+                ],
+                "eggs": [
+                    "Carbink",
+                    "Impidimp",
+                    "Mime Jr.",
+                    "Pawniard",
+                    "Sandile",
+                    "Tinkatink"
+                ],
+                "raids": [
+                    "Cresselia",
+                    "Darkrai",
+                    "Gigantamax Grimmsnarl",
+                    "Wilderness Cape Bewear"
+                ],
+                "shiny": [
+                    "Grimmsnarl",
+                    "Hatenna",
+                    "Hatterene",
+                    "Hattrem",
+                    "Impidimp",
+                    "Morgrem",
+                    "Unown K",
+                    "Unown W"
+                ],
+                "moves": [
+                    "Absol",
+                    "Bewear",
+                    "Brionne",
+                    "Corviknight",
+                    "Corvisquire",
+                    "Floragato",
+                    "Gabite",
+                    "Galarian Linoone",
+                    "Galarian Ponyta",
+                    "Galarian Rapidash",
+                    "Garchomp",
+                    "Gardevoir",
+                    "Hydreigon",
+                    "Kirlia",
+                    "Meowscarada",
+                    "Obstagoon",
+                    "Primarina",
+                    "Stufful",
+                    "Wilderness Cape Bewear",
+                    "Zweilous"
+                ]
+            },
             "is_local_time": false,
             "start_time": 1762473600,
-            "end_time": 1762675200,
-            "for-the-brave-adventure-awaits-around-every-cornerare-you-ready-to-venture-into-the-wild-area": [
-                "In this next chapter of Pokémon GO Wild Area, get ready to test your skills once again as you encounter Dark- and Fairy-type Pokémon, including Grimmsnarl, the Bulk Up Pokémon! Plus, exceptionally powerful Pokémon known as mighty Pokémon are appearing in the wild—use GO Wild Area–exclusive GO Safari Balls to improve your odds of catching these rare Pokémon.",
-                "All event gameplay is exclusive to ticket holders.",
-                "Tickets for Pokémon GO Wild Area: Nagasaki are now available on the Niantic events portal."
-            ],
-            "live-event-ticket---3600": [
-                "(including applicable taxes and fees)",
-                "Location: A citywide experience across Nagasaki City, Japan Dates: November 7, 8, or 9, 2025 Time: 9:00 a.m. – 5:00 p.m. JST",
-                "Tickets for Pokémon GO Wild Area: Nagasaki include one day of event gameplay, and attendees may purchase add-ons that extend the gameplay for an additional day. One-day tickets are ¥3,600 (or the equivalent pricing tier in your local currency, including applicable taxes and fees). Event gameplay will be available only at the date, time, and location specified on your ticket.",
-                "Note: Tickets to this event are nonrefundable (subject to applicable law and the exceptions set forth in the Terms of Service). Tickets are first come, first served and are available for purchase while supplies last."
-            ],
-            "bonuses": [
-                "1 additional Candy XL for catching Pokémon in Max Battles (Trainers level 31+)",
-                "1 additional Candy for catching Pokémon in Max Battles",
-                "1/2 Hatch Distance for Eggs placed in Incubators during the event",
-                "1/2 Stardust cost for trades",
-                "1/4 Egg Hatch Distance*",
-                "2× Candy for catching Pokémon",
-                "2× XP from completed Max Battles",
-                "3 additional Candy XL for catching Pokémon in raids (Trainers level 31+)",
-                "3/4 Max Particle cost for unlocking and powering up Max Moves",
-                "3× Hatch Candy",
-                "3× Hatch Stardust",
-                "3× Hatch XP",
-                "5,000 additional XP awarded for completed raids",
-                "6 additional Candy for catching Pokémon in raids",
-                "Daily Max Particle collection limit increased to 8,000",
-                "Incense will last for two hours",
-                "Increased Max Particles from Power Spots and exploration",
-                "Increased chance of 5 km Eggs from spinning PokéStops and Gyms",
-                "Increased chance of encountering Shiny Pokémon",
-                "Lure Modules will last for two hours",
-                "Three GO Snapshot surprise event encounters per day",
-                "Up to 10 daily Raid Passes per day from spinning Photo Discs at Gyms",
-                "Up to 18 daily Raid Passes per day from spinning Photo Discs at Gyms",
-                "Up to 6 Special Trades can be made during your ticketed event day"
-            ]
+            "end_time": 1762675200
         },
         {
             "title": "Pokémon GO Wild Area: Global",
             "article_url": "https://leekduck.com/events/pokemon-go-wild-area-2025-global/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-15-pokemon-go-wild-area-2025-global/wild-area-2025-global-key-art.jpg",
             "category": "Wild Area",
+            "details": {
+                "for-the-brave-adventure-awaits-around-every-cornerare-you-ready-to-venture-into-the-wild-area": [
+                    "Trainers around the world can gear up for a worldwide adventure during Pokémon GO Wild Area: Global, available in-game for two days only!",
+                    "Looking to enhance your GO Wild Area weekend with exclusive Special Research, additional bonuses, and an increased chance of encountering Shiny Pokémon? Purchase a global event ticket from the Pokémon GO Web Store!"
+                ],
+                "event-tickets": [
+                    "Tickets for Pokémon GO Wild Area: Global are available now in the in-game Shop and Pokémon Go Web Store for $11.99 USD.",
+                    "Trainers who purchase their Pokémon GO Wild Area: Global ticket on the Pokémon GO Web Store will receive a special avatar item—the Flower Crown!",
+                    "You can purchase your ticket on the web store until the last day of the event to receive this avatar item."
+                ],
+                "pokmon-go-wild-area-nagasaki": [
+                    "For details on the in-person event in Nagasaki, Japan, click here."
+                ],
+                "bonuses": [
+                    "1/2 Hatch Distance for Eggs placed in Incubators during the event",
+                    "1/2 Stardust cost for trades",
+                    "2× Candy for catching Pokémon",
+                    "3/4 Max Particle cost for unlocking and powering up Max Moves",
+                    "Daily Max Particle collection limit increased to 1,600",
+                    "Daily Max Particle collection limit increased to 3,200",
+                    "Increased Max Particles from Power Spots and exploration**",
+                    "Increased chance of 5 km Eggs from spinning PokéStops and Photo Discs at Gyms",
+                    "Increased chance of encountering Shiny Pokémon*",
+                    "Lure Modules activated will last for two hours",
+                    "Six GO Snapshot surprise event encounters per day",
+                    "Three GO Snapshot surprise event encounters per day",
+                    "Up to six Special Trades per day",
+                    "Up to six free Raid Passes per day by spinning Photo Discs at Gyms",
+                    "Up to three free Raid Passes per day by spinning Photo Discs at Gyms"
+                ],
+                "features": [
+                    "Cresselia",
+                    "Darkrai",
+                    "Grimmsnarl",
+                    "Hatenna",
+                    "Hatterene",
+                    "Hattrem",
+                    "Impidimp",
+                    "Morgrem",
+                    "Unown W"
+                ],
+                "spawns": [
+                    "Absol",
+                    "Alolan Grimer",
+                    "Alolan Meowth",
+                    "Alolan Ninetales",
+                    "Alolan Vulpix",
+                    "Audino",
+                    "Azelf",
+                    "Cacnea",
+                    "Chansey",
+                    "Cherubi",
+                    "Clefairy",
+                    "Cottonee",
+                    "Cutiefly",
+                    "Dedenne",
+                    "Deino",
+                    "Drapion",
+                    "Dreepy",
+                    "Espurr",
+                    "Feebas",
+                    "Foongus",
+                    "Galarian Ponyta",
+                    "Galarian Rapidash",
+                    "Galarian Weezing",
+                    "Galarian Zigzagoon",
+                    "Garchomp",
+                    "Gardevoir",
+                    "Gastly",
+                    "Golurk",
+                    "Granbull",
+                    "Hatenna",
+                    "Hatterene",
+                    "Honchkrow",
+                    "Hoothoot",
+                    "Houndoom",
+                    "Houndour",
+                    "Impidimp",
+                    "Inkay",
+                    "Jigglypuff",
+                    "Klefki",
+                    "Kricketot",
+                    "Marill",
+                    "Mawile",
+                    "Meowscarada",
+                    "Mesprit",
+                    "Murkrow",
+                    "Nincada",
+                    "Obstagoon",
+                    "Phantump",
+                    "Poochyena",
+                    "Popplio",
+                    "Ralts",
+                    "Scraggy",
+                    "Seedot",
+                    "Skitty",
+                    "Skorupi",
+                    "Smoliv",
+                    "Sneasel",
+                    "Snubbull",
+                    "Stunky",
+                    "Swablu",
+                    "Togetic",
+                    "Tyranitar",
+                    "Unown D",
+                    "Unown I",
+                    "Unown L",
+                    "Unown W",
+                    "Uxie",
+                    "Weavile",
+                    "Wigglytuff",
+                    "Zorua"
+                ],
+                "eggs": [
+                    "Carbink",
+                    "Impidimp",
+                    "Mime Jr.",
+                    "Pawniard",
+                    "Sandile",
+                    "Tinkatink"
+                ],
+                "raids": [
+                    "Cresselia",
+                    "Darkrai",
+                    "Wilderness Cape Bewear"
+                ],
+                "shiny": [
+                    "Grimmsnarl",
+                    "Hatenna",
+                    "Hatterene",
+                    "Hattrem",
+                    "Impidimp",
+                    "Morgrem",
+                    "Unown W"
+                ],
+                "moves": [
+                    "Absol",
+                    "Bewear",
+                    "Floragato",
+                    "Gabite",
+                    "Galarian Linoone",
+                    "Galarian Ponyta",
+                    "Galarian Rapidash",
+                    "Garchomp",
+                    "Gardevoir",
+                    "Kirlia",
+                    "Meowscarada",
+                    "Obstagoon",
+                    "Stufful",
+                    "Wilderness Cape Bewear"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2025-11-15T10:00:00",
-            "end_time": "2025-11-16T18:00:00",
-            "for-the-brave-adventure-awaits-around-every-cornerare-you-ready-to-venture-into-the-wild-area": [
-                "Trainers around the world can gear up for a worldwide adventure during Pokémon GO Wild Area: Global, available in-game for two days only!",
-                "Looking to enhance your GO Wild Area weekend with exclusive Special Research, additional bonuses, and an increased chance of encountering Shiny Pokémon? Purchase a global event ticket from the Pokémon GO Web Store!"
-            ],
-            "event-tickets": [
-                "Tickets for Pokémon GO Wild Area: Global are available now in the in-game Shop and Pokémon Go Web Store for $11.99 USD.",
-                "Trainers who purchase their Pokémon GO Wild Area: Global ticket on the Pokémon GO Web Store will receive a special avatar item—the Flower Crown!",
-                "You can purchase your ticket on the web store until the last day of the event to receive this avatar item."
-            ],
-            "pokmon-go-wild-area-nagasaki": [
-                "For details on the in-person event in Nagasaki, Japan, click here."
-            ],
-            "bonuses": [
-                "1/2 Hatch Distance for Eggs placed in Incubators during the event",
-                "1/2 Stardust cost for trades",
-                "2× Candy for catching Pokémon",
-                "3/4 Max Particle cost for unlocking and powering up Max Moves",
-                "Daily Max Particle collection limit increased to 1,600",
-                "Daily Max Particle collection limit increased to 3,200",
-                "Increased Max Particles from Power Spots and exploration**",
-                "Increased chance of 5 km Eggs from spinning PokéStops and Photo Discs at Gyms",
-                "Increased chance of encountering Shiny Pokémon*",
-                "Lure Modules activated will last for two hours",
-                "Six GO Snapshot surprise event encounters per day",
-                "Three GO Snapshot surprise event encounters per day",
-                "Up to six Special Trades per day",
-                "Up to six free Raid Passes per day by spinning Photo Discs at Gyms",
-                "Up to three free Raid Passes per day by spinning Photo Discs at Gyms"
-            ]
+            "end_time": "2025-11-16T18:00:00"
         }
     ],
     "Event": [
@@ -91,52 +362,138 @@
             "article_url": "https://leekduck.com/events/enchanted-hollow-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-04-enchanted-hollow-2025/enchanted-hollow-2025.jpg",
             "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Lure Module duration",
+                    "2× XP for spinning PokéStops",
+                    "Increased chance of encountering Shiny Paras and Shiny Stantler"
+                ],
+                "features": [
+                    "Spidops",
+                    "Tarountula"
+                ],
+                "spawns": [
+                    "Cottonee",
+                    "Hoothoot",
+                    "Karrablast",
+                    "Morelull",
+                    "Nickit",
+                    "Paras",
+                    "Petilil",
+                    "Phantump",
+                    "Shelmet",
+                    "Skwovet",
+                    "Stantler",
+                    "Tarountula",
+                    "Wurmple"
+                ],
+                "raids": [
+                    "Drampa",
+                    "Leavanny",
+                    "Paras",
+                    "Scolipede",
+                    "Stantler",
+                    "Tarountula"
+                ],
+                "shiny": [
+                    "Paras",
+                    "Stantler"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2025-11-04T10:00:00",
             "end_time": "2025-11-09T20:00:00",
-            "description": "Tangle with Tarountula and Spidops during the Enchanted Hollow event!",
-            "bonuses": [
-                "2× Lure Module duration",
-                "2× XP for spinning PokéStops",
-                "Increased chance of encountering Shiny Paras and Shiny Stantler"
-            ]
+            "description": "Tangle with Tarountula and Spidops during the Enchanted Hollow event!"
         },
         {
             "title": "Into the Wild",
             "article_url": "https://leekduck.com/events/into-the-wild-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-10-into-the-wild-2025/into-the-wild-2025.jpg",
             "category": "Event",
+            "details": {
+                "bonuses": [
+                    "No Remote Raid limit from Saturday, November 15, to Sunday, November 16, 2025",
+                    "Remote Raid limit increased to 30 from Monday, November 10, to Friday, November 14, 2025",
+                    "Trainers can receive special event stickers from PokéStops and Gifts",
+                    "You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration"
+                ],
+                "spawns": [
+                    "Alolan Rattata",
+                    "Carbink",
+                    "Carvanha",
+                    "Cottonee",
+                    "Fidough",
+                    "Nickit",
+                    "Purrloin",
+                    "Sableye",
+                    "Scraggy",
+                    "Spritzee",
+                    "Swirlix"
+                ],
+                "raids": [
+                    "Ho-Oh",
+                    "Lugia",
+                    "Necrozma (Dawn Wings)",
+                    "Necrozma (Dusk Mane)",
+                    "Ralts",
+                    "Sableye",
+                    "Tapu Bulu",
+                    "Tapu Fini",
+                    "Tapu Koko",
+                    "Tapu Lele",
+                    "Toxtricity (Amped Form)",
+                    "Toxtricity (Low Key Form)"
+                ],
+                "moves": [
+                    "Tapu Bulu",
+                    "Tapu Fini",
+                    "Tapu Koko",
+                    "Tapu Lele"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2025-11-10T10:00:00",
             "end_time": "2025-11-14T20:00:00",
-            "description": "It’s time to venture back Into the Wild for a Dark- and Fairy-type tale! Something is stirring deep in the wild…Are you ready to discover what lies ahead during the Into the Wild event?",
-            "bonuses": [
-                "No Remote Raid limit from Saturday, November 15, to Sunday, November 16, 2025",
-                "Remote Raid limit increased to 30 from Monday, November 10, to Friday, November 14, 2025",
-                "Trainers can receive special event stickers from PokéStops and Gifts",
-                "You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration"
-            ]
+            "description": "It’s time to venture back Into the Wild for a Dark- and Fairy-type tale! Something is stirring deep in the wild…Are you ready to discover what lies ahead during the Into the Wild event?"
         },
         {
             "title": "High Voltage",
             "article_url": "https://leekduck.com/events/high-voltage-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-18-high-voltage-2025/high-voltage-2025.jpg",
             "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Stardust for catching Pokémon",
+                    "2× XP for successfully catching Pokémon with Nice Throws or better",
+                    "Increased chance to encounter Shiny Emolga, Shiny Dedenne, and Shiny Togedemaru"
+                ],
+                "features": [
+                    "Morpeko"
+                ],
+                "spawns": [
+                    "Dedenne",
+                    "Emolga",
+                    "Shinx",
+                    "Togedemaru"
+                ],
+                "shiny": [
+                    "Dedenne",
+                    "Emolga",
+                    "Morpeko",
+                    "Togedemaru"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2025-11-18T10:00:00",
             "end_time": "2025-11-22T20:00:00",
-            "description": "Get ready for an electrifying High Voltage event in Pokémon GO!",
-            "bonuses": [
-                "2× Stardust for catching Pokémon",
-                "2× XP for successfully catching Pokémon with Nice Throws or better",
-                "Increased chance to encounter Shiny Emolga, Shiny Dedenne, and Shiny Togedemaru"
-            ]
+            "description": "Get ready for an electrifying High Voltage event in Pokémon GO!"
         },
         {
             "title": "Final Justice",
             "article_url": "https://leekduck.com/events/final-justice-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
             "category": "Event",
+            "details": {},
             "is_local_time": true,
             "start_time": "2025-11-25T10:00:00",
             "end_time": "2025-11-30T20:00:00",
@@ -147,6 +504,7 @@
             "article_url": "https://leekduck.com/events/dynamax-max-battle-weekend-2025-2/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
             "category": "Event",
+            "details": {},
             "is_local_time": true,
             "start_time": "2025-11-29T10:00:00",
             "end_time": "2025-11-30T20:00:00",
@@ -157,22 +515,25 @@
             "article_url": "https://leekduck.com/events/trade-days-tales-of-transformation/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-07-trade-days-tales-of-transformation/trade-days.jpg",
             "category": "Event",
+            "details": {
+                "bonuses": [
+                    "-10% Stardust cost for trades",
+                    "Earn two Candy XL from trades",
+                    "Increased chance of Lucky Trade for any trade",
+                    "One additional Special Trade"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2025-09-07T00:00:00",
             "end_time": "2025-11-30T23:59:00",
-            "description": "Enjoy trade bonuses every Sunday throughout Tales of Transformation!\nOn Sundays from September 7 to November 30, 2025, Trainers will get a pile of trade bonuses, including one additional Special Trade!",
-            "bonuses": [
-                "-10% Stardust cost for trades",
-                "Earn two Candy XL from trades",
-                "Increased chance of Lucky Trade for any trade",
-                "One additional Special Trade"
-            ]
+            "description": "Enjoy trade bonuses every Sunday throughout Tales of Transformation!\nOn Sundays from September 7 to November 30, 2025, Trainers will get a pile of trade bonuses, including one additional Special Trade!"
         },
         {
             "title": "Catch Mastery Day",
             "article_url": "https://leekduck.com/events/catch-mastery-day-february-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
             "category": "Event",
+            "details": {},
             "is_local_time": true,
             "start_time": "2026-02-07T10:00:00",
             "end_time": "2026-02-07T20:00:00",
@@ -185,6 +546,7 @@
             "article_url": "https://leekduck.com/events/pokemon-showcase-tarountula-spidops-2025-11-08/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
             "category": "PokéStop Showcase",
+            "details": {},
             "is_local_time": true,
             "start_time": "2025-11-08T10:00:00",
             "end_time": "2025-11-09T20:00:00",
@@ -197,6 +559,7 @@
             "article_url": "https://leekduck.com/events/max-mondays-2025-11-10/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
             "category": "Max Mondays",
+            "details": {},
             "is_local_time": true,
             "start_time": "2025-11-10T18:00:00",
             "end_time": "2025-11-10T19:00:00",
@@ -207,6 +570,7 @@
             "article_url": "https://leekduck.com/events/max-mondays-2025-11-17/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
             "category": "Max Mondays",
+            "details": {},
             "is_local_time": true,
             "start_time": "2025-11-17T18:00:00",
             "end_time": "2025-11-17T19:00:00",
@@ -217,6 +581,7 @@
             "article_url": "https://leekduck.com/events/max-mondays-2025-11-24/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
             "category": "Max Mondays",
+            "details": {},
             "is_local_time": true,
             "start_time": "2025-11-24T18:00:00",
             "end_time": "2025-11-24T19:00:00",
@@ -227,6 +592,7 @@
             "article_url": "https://leekduck.com/events/max-mondays-2025-12-01/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
             "category": "Max Mondays",
+            "details": {},
             "is_local_time": true,
             "start_time": "2025-12-01T18:00:00",
             "end_time": "2025-12-01T19:00:00",
@@ -239,6 +605,21 @@
             "article_url": "https://leekduck.com/events/mega-beedrill-pinsir-heracross-in-mega-raids-november-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
             "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Beedrill",
+                    "Mega Heracross",
+                    "Mega Pinsir"
+                ],
+                "shiny": [
+                    "Beedrill",
+                    "Heracross",
+                    "Mega Beedrill",
+                    "Mega Heracross",
+                    "Mega Pinsir",
+                    "Pinsir"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2025-11-04T10:00:00",
             "end_time": "2025-11-11T10:00:00",
@@ -249,6 +630,18 @@
             "article_url": "https://leekduck.com/events/raikou-entei-suicune-in-5-star-raid-battles-november-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/ultrabonusbeasts.jpg",
             "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Entei",
+                    "Raikou",
+                    "Suicune"
+                ],
+                "shiny": [
+                    "Entei",
+                    "Raikou",
+                    "Suicune"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2025-11-04T10:00:00",
             "end_time": "2025-11-11T10:00:00",
@@ -259,6 +652,18 @@
             "article_url": "https://leekduck.com/events/mega-tyranitar-altaria-in-mega-raids-november-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
             "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Altaria",
+                    "Mega Tyranitar"
+                ],
+                "shiny": [
+                    "Altaria",
+                    "Mega Altaria",
+                    "Mega Tyranitar",
+                    "Tyranitar"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2025-11-11T10:00:00",
             "end_time": "2025-11-18T10:00:00",
@@ -269,6 +674,14 @@
             "article_url": "https://leekduck.com/events/heatran-in-5-star-raid-battles-november-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/heatran-raids.jpg",
             "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Heatran"
+                ],
+                "shiny": [
+                    "Heatran"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2025-11-18T10:00:00",
             "end_time": "2025-11-25T10:00:00",
@@ -279,6 +692,18 @@
             "article_url": "https://leekduck.com/events/mega-ampharos-manectric-in-mega-raids-november-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
             "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Ampharos",
+                    "Mega Manectric"
+                ],
+                "shiny": [
+                    "Ampharos",
+                    "Manectric",
+                    "Mega Ampharos",
+                    "Mega Manectric"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2025-11-18T10:00:00",
             "end_time": "2025-11-25T10:00:00",
@@ -289,6 +714,18 @@
             "article_url": "https://leekduck.com/events/cobalion-terrakion-virizion-in-5-star-raid-battles-november-december-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/swordsofjustice.jpg",
             "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Cobalion",
+                    "Terrakion",
+                    "Virizion"
+                ],
+                "shiny": [
+                    "Cobalion",
+                    "Terrakion",
+                    "Virizion"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2025-11-25T10:00:00",
             "end_time": "2025-12-02T10:00:00",
@@ -299,6 +736,21 @@
             "article_url": "https://leekduck.com/events/mega-aerodactyl-medicham-garchomp-in-mega-raids-november-december-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
             "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Aerodactyl",
+                    "Mega Garchomp",
+                    "Mega Medicham"
+                ],
+                "shiny": [
+                    "Aerodactyl",
+                    "Garchomp",
+                    "Medicham",
+                    "Mega Aerodactyl",
+                    "Mega Garchomp",
+                    "Mega Medicham"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2025-11-25T10:00:00",
             "end_time": "2025-12-02T10:00:00",
@@ -309,6 +761,14 @@
             "article_url": "https://leekduck.com/events/shadow-latios-in-shadow-raids-november-december-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
             "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Latios"
+                ],
+                "shiny": [
+                    "Latios"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2025-11-02T06:00:00",
             "end_time": "2025-12-02T22:00:00",
@@ -321,19 +781,21 @@
             "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_ultra-league_jungle-cup-great-league-edition-2/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
             "category": "GO Battle League",
+            "details": {
+                "ultra-league": [
+                    "Pokémon must be at or below 2,500 CP to enter."
+                ],
+                "jungle-cup-great-league-edition": [
+                    "Pokémon must be at or below 1,500 CP to enter.",
+                    "Only Normal-, Grass-, Electric-, Poison-, Ground-, Flying-, Bug-, and Dark-type Pokémon are eligible.",
+                    "The following Pokémon will not be allowed.",
+                    "Gligar",
+                    "Galarian Stunfisk"
+                ]
+            },
             "is_local_time": false,
             "start_time": 1762290000,
             "end_time": 1762894800,
-            "ultra-league": [
-                "Pokémon must be at or below 2,500 CP to enter."
-            ],
-            "jungle-cup-great-league-edition": [
-                "Pokémon must be at or below 1,500 CP to enter.",
-                "Only Normal-, Grass-, Electric-, Poison-, Ground-, Flying-, Bug-, and Dark-type Pokémon are eligible.",
-                "The following Pokémon will not be allowed.",
-                "Gligar",
-                "Galarian Stunfisk"
-            ],
             "description": "The Ultra League and Jungle Cup: Great League Edition will run from November 4, 2025, at 1:00 p.m. to November 11, 2025, at 1:00 p.m. PT."
         },
         {
@@ -341,18 +803,20 @@
             "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-3/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
             "category": "GO Battle League",
+            "details": {
+                "great-league": [
+                    "Pokémon must be at or below 1,500 CP to enter."
+                ],
+                "ultra-league": [
+                    "Pokémon must be at or below 2,500 CP to enter."
+                ],
+                "master-league": [
+                    "All Pokémon are eligible."
+                ]
+            },
             "is_local_time": false,
             "start_time": 1762894800,
             "end_time": 1763499600,
-            "great-league": [
-                "Pokémon must be at or below 1,500 CP to enter."
-            ],
-            "ultra-league": [
-                "Pokémon must be at or below 2,500 CP to enter."
-            ],
-            "master-league": [
-                "All Pokémon are eligible."
-            ],
             "description": "The Great League, Ultra League, and Master League will run from November 11, 2025, at 1:00 p.m. to November 18, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
         },
         {
@@ -360,29 +824,31 @@
             "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_2025-championship-series-cup_master-league-mega-edition/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
             "category": "GO Battle League",
+            "details": {
+                "championship-series-cup": [
+                    "Pokémon must be at or below 1,500 CP to enter.",
+                    "Only Ice-, Flying-, Psychic-, Ghost-, and Dragon-type Pokémon are eligible.",
+                    "Legendary Pokémon, Mythical Pokémon, Shadow Pokémon, and Ultra Beasts are not eligible.",
+                    "The following Pokémon will not be allowed.",
+                    "Alolan Sandshrew",
+                    "Alolan Sandslash",
+                    "Alolan Ninetales",
+                    "Lapras",
+                    "Galarian Corsola",
+                    "Kingdra",
+                    "Jellicent",
+                    "Honedge",
+                    "Doublade",
+                    "Corviknight"
+                ],
+                "master-league-mega-edition": [
+                    "No CP limit.",
+                    "Mega-Evolved Pokémon are allowed."
+                ]
+            },
             "is_local_time": false,
             "start_time": 1763499600,
             "end_time": 1764104400,
-            "championship-series-cup": [
-                "Pokémon must be at or below 1,500 CP to enter.",
-                "Only Ice-, Flying-, Psychic-, Ghost-, and Dragon-type Pokémon are eligible.",
-                "Legendary Pokémon, Mythical Pokémon, Shadow Pokémon, and Ultra Beasts are not eligible.",
-                "The following Pokémon will not be allowed.",
-                "Alolan Sandshrew",
-                "Alolan Sandslash",
-                "Alolan Ninetales",
-                "Lapras",
-                "Galarian Corsola",
-                "Kingdra",
-                "Jellicent",
-                "Honedge",
-                "Doublade",
-                "Corviknight"
-            ],
-            "master-league-mega-edition": [
-                "No CP limit.",
-                "Mega-Evolved Pokémon are allowed."
-            ],
             "description": "The 2025 Championship Series Cup and Master League: Mega Edition will run from November 18, 2025, at 1:00 p.m. to November 25, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
         },
         {
@@ -390,20 +856,22 @@
             "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_catch-cup-tales-of-transformation-great-edition_ultra-league_master-league/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
             "category": "GO Battle League",
+            "details": {
+                "catch-cup-tales-of-transformation-great-edition": [
+                    "Pokémon must be at or below 1,500 CP to enter.",
+                    "Only Pokémon caught during the Tales of Transformation Season are eligible.",
+                    "Pokémon must be caught between September 2, 2025, at 1:00 p.m. and December 2, 2025, at 1:00 p.m. local time."
+                ],
+                "ultra-league": [
+                    "Pokémon must be at or below 2,500 CP to enter."
+                ],
+                "master-league": [
+                    "All Pokémon are eligible."
+                ]
+            },
             "is_local_time": false,
             "start_time": 1764104400,
             "end_time": 1764709200,
-            "catch-cup-tales-of-transformation-great-edition": [
-                "Pokémon must be at or below 1,500 CP to enter.",
-                "Only Pokémon caught during the Tales of Transformation Season are eligible.",
-                "Pokémon must be caught between September 2, 2025, at 1:00 p.m. and December 2, 2025, at 1:00 p.m. local time."
-            ],
-            "ultra-league": [
-                "Pokémon must be at or below 2,500 CP to enter."
-            ],
-            "master-league": [
-                "All Pokémon are eligible."
-            ],
             "description": "The Catch Cup: Tales of Transformation: Great Edition, Ultra League, and Master League will run from November 25, 2025, at 1:00 p.m. to December 2, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
         }
     ],
@@ -413,6 +881,11 @@
             "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-11-11/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
             "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Morelull"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2025-11-11T18:00:00",
             "end_time": "2025-11-11T19:00:00",
@@ -423,6 +896,11 @@
             "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-11-18/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
             "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Sableye"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2025-11-18T18:00:00",
             "end_time": "2025-11-18T19:00:00",
@@ -433,6 +911,11 @@
             "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-11-25/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
             "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Scraggy"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2025-11-25T18:00:00",
             "end_time": "2025-11-25T19:00:00",
@@ -445,39 +928,46 @@
             "article_url": "https://leekduck.com/events/go-pass-into-the-wild/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-10-go-pass-into-the-wild/go-pass-into-the-wild.jpg",
             "category": "GO Pass",
+            "details": {
+                "features": [
+                    "Cresselia"
+                ],
+                "bonuses": [
+                    "+1 Candy XL from Max Battles",
+                    "+1 Candy XL from raids",
+                    "+1 Candy from Max Battles",
+                    "+1 Candy from raids",
+                    "2× Incense Duration",
+                    "5,000 additional XP from completed Max Battles",
+                    "5,000 additional XP from completed raids"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2025-11-10T10:00:00",
             "end_time": "2025-11-16T18:00:00",
-            "description": "Before Pokémon GO Wild Area: Global kicks off around the world, take this chance to sharpen your skills and prepare for your big adventure! Hyper Training is back with the debut of the Silver Bottle Cap!\nFrom Monday, November 10, at 10:00 a.m. to Sunday, November 16, at 6:00 p.m. local time, the GO Pass and the GO Pass Deluxe for Into the Wild will be available in Pokémon GO!",
-            "bonuses": [
-                "+1 Candy XL from Max Battles",
-                "+1 Candy XL from raids",
-                "+1 Candy from Max Battles",
-                "+1 Candy from raids",
-                "2× Incense Duration",
-                "5,000 additional XP from completed Max Battles",
-                "5,000 additional XP from completed raids"
-            ]
+            "description": "Before Pokémon GO Wild Area: Global kicks off around the world, take this chance to sharpen your skills and prepare for your big adventure! Hyper Training is back with the debut of the Silver Bottle Cap!\nFrom Monday, November 10, at 10:00 a.m. to Sunday, November 16, at 6:00 p.m. local time, the GO Pass and the GO Pass Deluxe for Into the Wild will be available in Pokémon GO!"
         },
         {
             "title": "GO Pass: November",
             "article_url": "https://leekduck.com/events/go-pass-november-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-04-go-pass-november-2025/go-pass-november-2025.jpg",
             "category": "GO Pass",
+            "details": {
+                "bonuses": [
+                    "2× Daily Adventure Incense duration",
+                    "2× Stardust and XP from hatching Eggs",
+                    "Hold up to 30 Gifts in your Item Bag",
+                    "Hold up to 40 Gifts in your Item Bag",
+                    "Open up to 40 Gifts per day",
+                    "Open up to 50 Gifts per day",
+                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2025-11-04T10:00:00",
             "end_time": "2025-12-02T10:00:00",
-            "description": "The Lucky Trinket returns in GO Pass: November!\nFrom Tuesday, November 4, at 10:00 a.m. to Tuesday, December 2, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for November will be available in Pokémon GO!",
-            "bonuses": [
-                "2× Daily Adventure Incense duration",
-                "2× Stardust and XP from hatching Eggs",
-                "Hold up to 30 Gifts in your Item Bag",
-                "Hold up to 40 Gifts in your Item Bag",
-                "Open up to 40 Gifts per day",
-                "Open up to 50 Gifts per day",
-                "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
-                "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
-            ]
+            "description": "The Lucky Trinket returns in GO Pass: November!\nFrom Tuesday, November 4, at 10:00 a.m. to Tuesday, December 2, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for November will be available in Pokémon GO!"
         }
     ],
     "Raid Hour": [
@@ -486,6 +976,7 @@
             "article_url": "https://leekduck.com/events/raidhour20251119/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
             "category": "Raid Hour",
+            "details": {},
             "is_local_time": true,
             "start_time": "2025-11-19T18:00:00",
             "end_time": "2025-11-19T19:00:00",
@@ -496,6 +987,7 @@
             "article_url": "https://leekduck.com/events/raidhour20251126/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
             "category": "Raid Hour",
+            "details": {},
             "is_local_time": true,
             "start_time": "2025-11-26T18:00:00",
             "end_time": "2025-11-26T19:00:00",
@@ -508,21 +1000,33 @@
             "article_url": "https://leekduck.com/events/dynamax-eevee-max-battle-weekend/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-21-dynamax-eevee-max-battle-weekend/dynamax-eevee-weekend.jpg",
             "category": "Max Battles",
+            "details": {
+                "bonuses": [
+                    "1/2 Adventuring distance to receive Max Particles*",
+                    "2× Max Particles from Power Spots",
+                    "Power Spots will refresh more frequently"
+                ],
+                "features": [
+                    "Eevee"
+                ],
+                "spawns": [
+                    "Eevee"
+                ],
+                "shiny": [
+                    "Eevee"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2025-11-21T06:00:00",
             "end_time": "2025-11-24T21:00:00",
-            "description": "Dynamax Eevee makes its Pokémon GO debut!",
-            "bonuses": [
-                "1/2 Adventuring distance to receive Max Particles*",
-                "2× Max Particles from Power Spots",
-                "Power Spots will refresh more frequently"
-            ]
+            "description": "Dynamax Eevee makes its Pokémon GO debut!"
         },
         {
             "title": "Max Battle Day",
             "article_url": "https://leekduck.com/events/max-battle-day-december-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
             "category": "Max Battles",
+            "details": {},
             "is_local_time": true,
             "start_time": "2025-12-14T14:00:00",
             "end_time": "2025-12-14T17:00:00",
@@ -533,6 +1037,7 @@
             "article_url": "https://leekduck.com/events/max-battle-weekend-february-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
             "category": "Max Battles",
+            "details": {},
             "is_local_time": true,
             "start_time": "2026-01-31T06:00:00",
             "end_time": "2026-02-01T21:00:00",
@@ -543,6 +1048,7 @@
             "article_url": "https://leekduck.com/events/max-battle-day-february-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
             "category": "Max Battles",
+            "details": {},
             "is_local_time": true,
             "start_time": "2026-02-15T14:00:00",
             "end_time": "2026-02-15T17:00:00",
@@ -555,25 +1061,39 @@
             "article_url": "https://leekduck.com/events/november-communityday2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-30-november-communityday2025/pikipek-community-day-november.jpg?v2",
             "category": "Community Day",
+            "details": {
+                "bonuses": [
+                    "1-hour Lures***",
+                    "2x Catch Candy",
+                    "2x Chance to receive Candy XL from catching Pokémon",
+                    "3x Catch XP 3-hour Incense**",
+                    "Increased Spawns",
+                    "One additional Special Trade can be made for a maximum of three for the day*",
+                    "Trades made will require 50% less Stardust*"
+                ],
+                "features": [
+                    "Pikipek"
+                ],
+                "spawns": [
+                    "Pikipek"
+                ],
+                "shiny": [
+                    "Pikipek",
+                    "Toucannon",
+                    "Trumbeak"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2025-11-30T14:00:00",
             "end_time": "2025-11-30T17:00:00",
-            "description": "Pikipek, the Woodpecker Pokémon, will be featured during November Community Day!\nPlease note, November Community Day will be the last Community Day where the featured Pokémon can have a Seasonal Special Background.\nThe Pokémon GO Team says they’re trying out new things for Community Day and will reevaluate these changes for next Season and onward.",
-            "bonuses": [
-                "1-hour Lures***",
-                "2x Catch Candy",
-                "2x Chance to receive Candy XL from catching Pokémon",
-                "3x Catch XP 3-hour Incense**",
-                "Increased Spawns",
-                "One additional Special Trade can be made for a maximum of three for the day*",
-                "Trades made will require 50% less Stardust*"
-            ]
+            "description": "Pikipek, the Woodpecker Pokémon, will be featured during November Community Day!\nPlease note, November Community Day will be the last Community Day where the featured Pokémon can have a Seasonal Special Background.\nThe Pokémon GO Team says they’re trying out new things for Community Day and will reevaluate these changes for next Season and onward."
         },
         {
             "title": "December Community Day 2025",
             "article_url": "https://leekduck.com/events/december-communityday2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
             "category": "Community Day",
+            "details": {},
             "is_local_time": true,
             "start_time": "2025-12-06T14:00:00",
             "end_time": "2025-12-07T17:00:00",
@@ -584,6 +1104,7 @@
             "article_url": "https://leekduck.com/events/january-communitydayclassic2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
             "category": "Community Day",
+            "details": {},
             "is_local_time": true,
             "start_time": "2026-01-04T14:00:00",
             "end_time": "2026-01-04T17:00:00",
@@ -594,6 +1115,7 @@
             "article_url": "https://leekduck.com/events/january-communityday2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
             "category": "Community Day",
+            "details": {},
             "is_local_time": true,
             "start_time": "2026-01-18T14:00:00",
             "end_time": "2026-01-18T17:00:00",
@@ -604,6 +1126,7 @@
             "article_url": "https://leekduck.com/events/february-communityday2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
             "category": "Community Day",
+            "details": {},
             "is_local_time": true,
             "start_time": "2026-02-01T14:00:00",
             "end_time": "2026-02-01T17:00:00",
@@ -616,18 +1139,77 @@
             "article_url": "https://leekduck.com/events/season-20-tales-of-transformation/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-02-season-20-tales-of-transformation/season-20-tales-of-transformation.jpg",
             "category": "Season",
+            "details": {
+                "bonuses": [
+                    "Guaranteed Candy XL when trading Pokémon (Level 31+)",
+                    "Guaranteed Rare Candy XL from five-star Raid Boss during Raid Hour (Level 31+)",
+                    "Increased XP and Stardust for seven-day Pokémon catch streak",
+                    "Increased XP for seven-day PokéStop spin streak",
+                    "Increased XP from going up a Friendship level",
+                    "One additional Candy when trading Pokémon"
+                ],
+                "features": [
+                    "Aggron",
+                    "Alakazam",
+                    "Dreepy",
+                    "Frigibax",
+                    "Morpeko",
+                    "Sinistea"
+                ],
+                "eggs": [
+                    "Absol",
+                    "Aerodactyl",
+                    "Alolan Grimer",
+                    "Alolan Meowth",
+                    "Alolan Rattata",
+                    "Alolan Sandshrew",
+                    "Alolan Vulpix",
+                    "Azurill",
+                    "Bagon",
+                    "Basculin (White Striped)",
+                    "Beldum",
+                    "Bonsly",
+                    "Budew",
+                    "Bulbasaur",
+                    "Charcadet",
+                    "Charmander",
+                    "Chingling",
+                    "Dreepy",
+                    "Druddigon",
+                    "Elekid",
+                    "Frigibax",
+                    "Galarian Corsola",
+                    "Galarian Farfetch'd",
+                    "Galarian Ponyta",
+                    "Happiny",
+                    "Hisuian Qwilfish",
+                    "Hisuian Sneasel",
+                    "Hisuian Voltorb",
+                    "Kabuto",
+                    "Larvesta",
+                    "Larvitar",
+                    "Magby",
+                    "Mantyke",
+                    "Mawile",
+                    "Mudkip",
+                    "Munchlax",
+                    "Omanyte",
+                    "Pichu",
+                    "Riolu",
+                    "Sableye",
+                    "Squirtle",
+                    "Tinkatink",
+                    "Togepi",
+                    "Torchic",
+                    "Treecko",
+                    "Tyrogue",
+                    "Wynaut"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2025-09-02T10:00:00",
             "end_time": "2025-12-02T10:00:00",
-            "description": "Welcome to the next Pokémon GO Season: Tales of Transformation!",
-            "bonuses": [
-                "Guaranteed Candy XL when trading Pokémon (Level 31+)",
-                "Guaranteed Rare Candy XL from five-star Raid Boss during Raid Hour (Level 31+)",
-                "Increased XP and Stardust for seven-day Pokémon catch streak",
-                "Increased XP for seven-day PokéStop spin streak",
-                "Increased XP from going up a Friendship level",
-                "One additional Candy when trading Pokémon"
-            ]
+            "description": "Welcome to the next Pokémon GO Season: Tales of Transformation!"
         }
     ],
     "City Safari": [
@@ -636,84 +1218,207 @@
             "article_url": "https://leekduck.com/events/pokemon-go-city-safari-sydney-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-13-pokemon-go-city-safari-sydney-2025/city-safari-sydney-2025.jpg?v2",
             "category": "City Safari",
+            "details": {
+                "bonuses": [
+                    "1 additional Candy XL awarded for catching Pokémon in five-star raids and Mega Raids (Trainers level 31+)",
+                    "1/2 Egg Hatch Distance",
+                    "1/2 Stardust Cost for trades within the city",
+                    "2× Hatch Candy",
+                    "2× Hatch Stardust",
+                    "2× Hatch XP",
+                    "3 additional Candy awarded for catching Pokémon in five-star raids and Mega Raids",
+                    "Additional 5,000 XP from completed raids",
+                    "An increased chance of encountering Shiny Pokémon",
+                    "Lure Modules (excluding Golden Lures) activated during the event will last for four hours",
+                    "Lure Modules activated during the event will last for four hours",
+                    "Trades will require 50% less Stardust",
+                    "Up to 12 free Raid Passes per day by spinning Photo Discs at Gyms",
+                    "Up to five Special Trades can be made during the day on your ticket while in Sydney!",
+                    "Up to five Special Trades daily within the city",
+                    "Your buddy may find the City Safari–exclusive Tiny Compass souvenir"
+                ],
+                "features": [
+                    "Explorer Eevee",
+                    "Explorer Espeon",
+                    "Explorer Flareon",
+                    "Explorer Glaceon",
+                    "Explorer Jolteon",
+                    "Explorer Leafeon",
+                    "Explorer Umbreon",
+                    "Explorer Vaporeon"
+                ],
+                "spawns": [
+                    "Amaura",
+                    "Bruxish",
+                    "Emolga",
+                    "Fomantis",
+                    "Gossifleur",
+                    "Komala",
+                    "Kricketot",
+                    "Litwick",
+                    "Mareanie",
+                    "Mudbray",
+                    "Oricorio (Baile Style)",
+                    "Pawniard",
+                    "Scraggy",
+                    "Shuckle",
+                    "Skarmory",
+                    "Skrelp",
+                    "Timburr",
+                    "Trapinch",
+                    "Unown B",
+                    "Unown M",
+                    "Unown S"
+                ],
+                "eggs": [
+                    "Komala",
+                    "Mudbray",
+                    "Oricorio (Baile Style)",
+                    "Pawniard"
+                ]
+            },
             "is_local_time": false,
             "start_time": 1765580400,
             "end_time": 1765695600,
-            "description": "Pokémon GO City Safari is coming to Sydney, Australia, on December 13 and 14, 2025! Set off on a citywide adventure as you discover the vibrant stories, new friends, and exciting Pokémon waiting for you in Sydney!\nWhether you’re a resident of Sydney or a first-time visitor, your Pokémon GO City Safari will take you across the city in an all-new way—from historic landmarks to local favorites, get ready for a taste of the city with Pokémon GO by your side!\nOne-day Tickets are AU$19 (including any applicable taxes and fees) on either December 13, 2025 or December 14, 2025, from 10 am to 6 pm AEDT.",
-            "bonuses": [
-                "1 additional Candy XL awarded for catching Pokémon in five-star raids and Mega Raids (Trainers level 31+)",
-                "1/2 Egg Hatch Distance",
-                "1/2 Stardust Cost for trades within the city",
-                "2× Hatch Candy",
-                "2× Hatch Stardust",
-                "2× Hatch XP",
-                "3 additional Candy awarded for catching Pokémon in five-star raids and Mega Raids",
-                "Additional 5,000 XP from completed raids",
-                "An increased chance of encountering Shiny Pokémon",
-                "Lure Modules (excluding Golden Lures) activated during the event will last for four hours",
-                "Lure Modules activated during the event will last for four hours",
-                "Trades will require 50% less Stardust",
-                "Up to 12 free Raid Passes per day by spinning Photo Discs at Gyms",
-                "Up to five Special Trades can be made during the day on your ticket while in Sydney!",
-                "Up to five Special Trades daily within the city",
-                "Your buddy may find the City Safari–exclusive Tiny Compass souvenir"
-            ]
+            "description": "Pokémon GO City Safari is coming to Sydney, Australia, on December 13 and 14, 2025! Set off on a citywide adventure as you discover the vibrant stories, new friends, and exciting Pokémon waiting for you in Sydney!\nWhether you’re a resident of Sydney or a first-time visitor, your Pokémon GO City Safari will take you across the city in an all-new way—from historic landmarks to local favorites, get ready for a taste of the city with Pokémon GO by your side!\nOne-day Tickets are AU$19 (including any applicable taxes and fees) on either December 13, 2025 or December 14, 2025, from 10 am to 6 pm AEDT."
         },
         {
             "title": "Buenos Aires, Argentina - Pokémon GO City Safari",
             "article_url": "https://leekduck.com/events/pokemon-go-city-safari-buenos-aires-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-13-pokemon-go-city-safari-buenos-aires-2025/city-safari-buenos-aires-2025.jpg?v2",
             "category": "City Safari",
+            "details": {
+                "bonuses": [
+                    "1 additional Candy XL awarded for catching Pokémon in five-star raids and Mega Raids (Trainers level 31+)",
+                    "1/2 Egg Hatch Distance",
+                    "1/2 Stardust Cost for trades within the city",
+                    "2× Hatch Candy",
+                    "2× Hatch Stardust",
+                    "2× Hatch XP",
+                    "3 additional Candy awarded for catching Pokémon in five-star raids and Mega Raids",
+                    "Additional 5,000 XP from completed raids",
+                    "An increased chance of encountering Shiny Pokémon",
+                    "Lure Modules (excluding Golden Lures) activated during the event will last for four hours",
+                    "Lure Modules activated during the event will last for four hours",
+                    "Trades will require 50% less Stardust",
+                    "Up to 12 free Raid Passes per day by spinning Photo Discs at Gyms",
+                    "Up to five Special Trades can be made during the day on your ticket while in Buenos Aires!",
+                    "Up to five Special Trades daily within the city",
+                    "Your buddy may find the City Safari–exclusive Tiny Compass souvenir"
+                ],
+                "features": [
+                    "Explorer Eevee",
+                    "Explorer Espeon",
+                    "Explorer Flareon",
+                    "Explorer Glaceon",
+                    "Explorer Jolteon",
+                    "Explorer Leafeon",
+                    "Explorer Umbreon",
+                    "Explorer Vaporeon"
+                ],
+                "spawns": [
+                    "Amaura",
+                    "Bruxish",
+                    "Emolga",
+                    "Fomantis",
+                    "Gossifleur",
+                    "Komala",
+                    "Kricketot",
+                    "Litwick",
+                    "Mareanie",
+                    "Mudbray",
+                    "Oricorio (Baile Style)",
+                    "Pawniard",
+                    "Scraggy",
+                    "Shuckle",
+                    "Skarmory",
+                    "Skrelp",
+                    "Timburr",
+                    "Trapinch",
+                    "Unown B",
+                    "Unown M",
+                    "Unown S"
+                ],
+                "eggs": [
+                    "Komala",
+                    "Mudbray",
+                    "Oricorio (Baile Style)",
+                    "Pawniard"
+                ]
+            },
             "is_local_time": false,
             "start_time": 1765630800,
             "end_time": 1765746000,
-            "description": "Pokémon GO City Safari is coming to Buenos Aires, Argentina, on December 13 and 14, 2025! Set off on a citywide adventure as you discover the vibrant stories, new friends, and exciting Pokémon waiting for you in Buenos Aires!\nWhether you’re a resident of Buenos Aires or a first-time visitor, your Pokémon GO City Safari will take you across the city in an all-new way—from historic landmarks to local favorites, get ready for a taste of the city with Pokémon GO by your side!\nOne-day Tickets are ARS$13,000 (including any applicable taxes and fees) on either December 13, 2025 or December 14, 2025, from 10 am to 6 pm ART.",
-            "bonuses": [
-                "1 additional Candy XL awarded for catching Pokémon in five-star raids and Mega Raids (Trainers level 31+)",
-                "1/2 Egg Hatch Distance",
-                "1/2 Stardust Cost for trades within the city",
-                "2× Hatch Candy",
-                "2× Hatch Stardust",
-                "2× Hatch XP",
-                "3 additional Candy awarded for catching Pokémon in five-star raids and Mega Raids",
-                "Additional 5,000 XP from completed raids",
-                "An increased chance of encountering Shiny Pokémon",
-                "Lure Modules (excluding Golden Lures) activated during the event will last for four hours",
-                "Lure Modules activated during the event will last for four hours",
-                "Trades will require 50% less Stardust",
-                "Up to 12 free Raid Passes per day by spinning Photo Discs at Gyms",
-                "Up to five Special Trades can be made during the day on your ticket while in Buenos Aires!",
-                "Up to five Special Trades daily within the city",
-                "Your buddy may find the City Safari–exclusive Tiny Compass souvenir"
-            ]
+            "description": "Pokémon GO City Safari is coming to Buenos Aires, Argentina, on December 13 and 14, 2025! Set off on a citywide adventure as you discover the vibrant stories, new friends, and exciting Pokémon waiting for you in Buenos Aires!\nWhether you’re a resident of Buenos Aires or a first-time visitor, your Pokémon GO City Safari will take you across the city in an all-new way—from historic landmarks to local favorites, get ready for a taste of the city with Pokémon GO by your side!\nOne-day Tickets are ARS$13,000 (including any applicable taxes and fees) on either December 13, 2025 or December 14, 2025, from 10 am to 6 pm ART."
         },
         {
             "title": "Miami, USA - Pokémon GO City Safari",
             "article_url": "https://leekduck.com/events/pokemon-go-city-safari-miami-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-13-pokemon-go-city-safari-miami-2025/city-safari-miami-2025.jpg?v2",
             "category": "City Safari",
+            "details": {
+                "bonuses": [
+                    "1 additional Candy XL awarded for catching Pokémon in five-star raids and Mega Raids (Trainers level 31+)",
+                    "1/2 Egg Hatch Distance",
+                    "1/2 Stardust Cost for trades within the city",
+                    "2× Hatch Candy",
+                    "2× Hatch Stardust",
+                    "2× Hatch XP",
+                    "3 additional Candy awarded for catching Pokémon in five-star raids and Mega Raids",
+                    "Additional 5,000 XP from completed raids",
+                    "An increased chance of encountering Shiny Pokémon",
+                    "Lure Modules (excluding Golden Lures) activated during the event will last for four hours",
+                    "Lure Modules activated during the event will last for four hours",
+                    "Trades will require 50% less Stardust",
+                    "Up to 12 free Raid Passes per day by spinning Photo Discs at Gyms",
+                    "Up to five Special Trades can be made during the day on your ticket while in Miami!",
+                    "Up to five Special Trades daily within the city",
+                    "Your buddy may find the City Safari–exclusive Tiny Compass souvenir"
+                ],
+                "features": [
+                    "Explorer Eevee",
+                    "Explorer Espeon",
+                    "Explorer Flareon",
+                    "Explorer Glaceon",
+                    "Explorer Jolteon",
+                    "Explorer Leafeon",
+                    "Explorer Umbreon",
+                    "Explorer Vaporeon"
+                ],
+                "spawns": [
+                    "Amaura",
+                    "Bruxish",
+                    "Emolga",
+                    "Fomantis",
+                    "Gossifleur",
+                    "Komala",
+                    "Kricketot",
+                    "Litwick",
+                    "Mareanie",
+                    "Mudbray",
+                    "Oricorio (Baile Style)",
+                    "Pawniard",
+                    "Scraggy",
+                    "Shuckle",
+                    "Skarmory",
+                    "Skrelp",
+                    "Timburr",
+                    "Trapinch",
+                    "Unown B",
+                    "Unown M",
+                    "Unown S"
+                ],
+                "eggs": [
+                    "Komala",
+                    "Mudbray",
+                    "Oricorio (Baile Style)",
+                    "Pawniard"
+                ]
+            },
             "is_local_time": false,
             "start_time": 1765638000,
             "end_time": 1765753200,
-            "description": "Pokémon GO City Safari is coming to Miami, USA, on December 13 and 14, 2025! Set off on a citywide adventure as you discover the vibrant stories, new friends, and exciting Pokémon waiting for you in Miami!\nWhether you’re a resident of Miami or a first-time visitor, your Pokémon GO City Safari will take you across the city in an all-new way—from historic landmarks to local favorites, get ready for a taste of the city with Pokémon GO by your side!\nOne-day Tickets are $10 (including any applicable taxes and fees) on either December 13, 2025 or December 14, 2025, from 10 am to 6 pm EST.",
-            "bonuses": [
-                "1 additional Candy XL awarded for catching Pokémon in five-star raids and Mega Raids (Trainers level 31+)",
-                "1/2 Egg Hatch Distance",
-                "1/2 Stardust Cost for trades within the city",
-                "2× Hatch Candy",
-                "2× Hatch Stardust",
-                "2× Hatch XP",
-                "3 additional Candy awarded for catching Pokémon in five-star raids and Mega Raids",
-                "Additional 5,000 XP from completed raids",
-                "An increased chance of encountering Shiny Pokémon",
-                "Lure Modules (excluding Golden Lures) activated during the event will last for four hours",
-                "Lure Modules activated during the event will last for four hours",
-                "Trades will require 50% less Stardust",
-                "Up to 12 free Raid Passes per day by spinning Photo Discs at Gyms",
-                "Up to five Special Trades can be made during the day on your ticket while in Miami!",
-                "Up to five Special Trades daily within the city",
-                "Your buddy may find the City Safari–exclusive Tiny Compass souvenir"
-            ]
+            "description": "Pokémon GO City Safari is coming to Miami, USA, on December 13 and 14, 2025! Set off on a citywide adventure as you discover the vibrant stories, new friends, and exciting Pokémon waiting for you in Miami!\nWhether you’re a resident of Miami or a first-time visitor, your Pokémon GO City Safari will take you across the city in an all-new way—from historic landmarks to local favorites, get ready for a taste of the city with Pokémon GO by your side!\nOne-day Tickets are $10 (including any applicable taxes and fees) on either December 13, 2025 or December 14, 2025, from 10 am to 6 pm EST."
         }
     ],
     "Research Day": [
@@ -722,6 +1427,7 @@
             "article_url": "https://leekduck.com/events/research-day-december-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
             "category": "Research Day",
+            "details": {},
             "is_local_time": true,
             "start_time": "2025-12-20T14:00:00",
             "end_time": "2025-12-20T17:00:00",
@@ -734,6 +1440,7 @@
             "article_url": "https://leekduck.com/events/raid-day-january-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
             "category": "Raid Day",
+            "details": {},
             "is_local_time": true,
             "start_time": "2026-01-10T14:00:00",
             "end_time": "2026-01-10T17:00:00",
@@ -744,6 +1451,7 @@
             "article_url": "https://leekduck.com/events/shadow-raid-day-january-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
             "category": "Raid Day",
+            "details": {},
             "is_local_time": true,
             "start_time": "2026-01-24T14:00:00",
             "end_time": "2026-01-24T17:00:00",
@@ -754,6 +1462,7 @@
             "article_url": "https://leekduck.com/events/raid-day-february-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
             "category": "Raid Day",
+            "details": {},
             "is_local_time": true,
             "start_time": "2026-02-14T14:00:00",
             "end_time": "2026-02-14T17:00:00",
