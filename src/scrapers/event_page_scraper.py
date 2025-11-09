@@ -143,7 +143,7 @@ class EventPageScraper:
 
     def _parse_event_details(self, soup: BeautifulSoup, url: str) -> Dict[str, Any]:
         """Parses the HTML soup to extract event details."""
-        event_details: Dict[str, Any] = {"article_url": url}
+        event_details: Dict[str, Any] = {"article_url": url, "details": {}}
         content = soup.find("div", class_="page-content")
 
         if not isinstance(content, Tag):
@@ -184,10 +184,7 @@ class EventPageScraper:
                 if child.name == "h2" and section_id_val and isinstance(section_id_val, str):
                     # Save current section if we were in one
                     if current_section_id and current_section_items:
-                        if current_section_id == "bonuses":
-                            event_details["bonuses"] = current_section_items
-                        else:
-                            event_details[current_section_id] = current_section_items
+                        event_details["details"][current_section_id] = current_section_items
                         current_section_items = []
 
                     # Start new section
@@ -219,10 +216,7 @@ class EventPageScraper:
 
             # Save any remaining section
             if current_section_id and current_section_items:
-                if current_section_id == "bonuses":
-                    event_details["bonuses"] = current_section_items
-                else:
-                    event_details[current_section_id] = current_section_items
+                event_details["details"][current_section_id] = current_section_items
 
             if description_parts:
                 event_details["description"] = "\n".join(description_parts)
@@ -232,9 +226,9 @@ class EventPageScraper:
         for section in main_sections:
             self._parse_section(section, event_details)
 
-        # Final cleanup
-        if "bonuses" in event_details:
-            event_details["bonuses"] = sorted(list(set(event_details["bonuses"])))
+        # Final cleanup - move bonuses to details if it exists
+        if "bonuses" in event_details["details"]:
+            event_details["details"]["bonuses"] = sorted(list(set(event_details["details"]["bonuses"])))
 
         return event_details
 
@@ -255,15 +249,16 @@ class EventPageScraper:
             ):
                 break
 
-            if next_element.name == "ul" and classes and "pkmn-list" in classes:
+            # Handle both pkmn-list and pkmn-list-flex classes
+            if next_element.name == "ul" and classes and ("pkmn-list" in classes or "pkmn-list-flex" in classes):
                 self._parse_pokemon_list(next_element, section_id, event_details)
             elif next_element.name == "div" and classes and "bonus-list" in classes:
                 self._parse_bonuses(next_element, event_details)
 
             next_element = next_element.find_next_sibling()
 
-        if section_id in event_details:
-            event_details[section_id] = sorted(list(set(event_details[section_id])))
+        if section_id in event_details["details"]:
+            event_details["details"][section_id] = sorted(list(set(event_details["details"][section_id])))
 
     def _parse_pokemon_list(
         self, element: Tag, section_id: str, event_details: Dict[str, Any]
@@ -276,7 +271,7 @@ class EventPageScraper:
                 pokemon_list.add(clean_spacing(pkmn_name_div.get_text(strip=True)))
 
         if pokemon_list:
-            event_details.setdefault(section_id, []).extend(sorted(list(pokemon_list)))
+            event_details["details"].setdefault(section_id, []).extend(sorted(list(pokemon_list)))
 
     def _parse_bonuses(self, element: Tag, event_details: Dict[str, Any]):
         """Parses a list of bonuses."""
@@ -285,7 +280,7 @@ class EventPageScraper:
             for item in element.find_all("div", class_="bonus-text")
         }
         if bonuses:
-            event_details.setdefault("bonuses", []).extend(sorted(list(bonuses)))
+            event_details["details"].setdefault("bonuses", []).extend(sorted(list(bonuses)))
 
     def scrape(self, url: str) -> Dict[str, Any]:
         """
