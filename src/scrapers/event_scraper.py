@@ -102,7 +102,9 @@ class EventScraper(BaseScraper):
         if events_to_scrape:
             page_scraper = EventPageScraper()
             try:
-                for event in events_to_scrape:
+                total_events = len(events_to_scrape)
+                for idx, event in enumerate(events_to_scrape, 1):
+                    print(f"Processing event {idx}/{total_events}: {event['title']}")
                     result = scrape_single_event_page(
                         event["article_url"], page_scraper
                     )

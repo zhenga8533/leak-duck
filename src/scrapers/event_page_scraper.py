@@ -53,7 +53,7 @@ class EventPageScraper:
         self.driver: WebDriver = self._get_driver()
         self.cache_expiration_hours = self._load_cache_expiration()
         self.max_retries = 3
-        self.retry_delay = 2  # seconds
+        self.retry_delay = 1  # seconds
 
     def _get_driver(self) -> WebDriver:
         """Configures and returns a headless Chrome WebDriver instance."""
@@ -122,8 +122,8 @@ class EventPageScraper:
 
     def _fetch_dynamic_html(self, url: str) -> str:
         """Fetches the HTML content of a page after dynamic content has loaded."""
-        # This will raise a TimeoutException if the page takes more than 30 seconds to load
-        self.driver.set_page_load_timeout(30)
+        # This will raise a TimeoutException if the page takes more than 20 seconds to load
+        self.driver.set_page_load_timeout(20)
         self.driver.get(url)
 
         WebDriverWait(self.driver, 10).until(
