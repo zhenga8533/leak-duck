@@ -1518,5 +1518,53 @@
                 "Two additional Special Trades"
             ]
         }
+    ],
+    "Wild Area": [
+        {
+            "title": "Pokémon GO Wild Area: Nagasaki",
+            "article_url": "https://leekduck.com/events/pokemon-go-wild-area-2025-nagasaki-japan/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-07-pokemon-go-wild-area-2025-nagasaki-japan/wild-area-2025-nagasaki-key-art.jpg",
+            "category": "Wild Area",
+            "is_local_time": false,
+            "start_time": 1762473600,
+            "end_time": 1762675200,
+            "for-the-brave-adventure-awaits-around-every-cornerare-you-ready-to-venture-into-the-wild-area": [
+                "In this next chapter of Pokémon GO Wild Area, get ready to test your skills once again as you encounter Dark- and Fairy-type Pokémon, including Grimmsnarl, the Bulk Up Pokémon! Plus, exceptionally powerful Pokémon known as mighty Pokémon are appearing in the wild—use GO Wild Area–exclusive GO Safari Balls to improve your odds of catching these rare Pokémon.",
+                "All event gameplay is exclusive to ticket holders.",
+                "Tickets for Pokémon GO Wild Area: Nagasaki are now available on the Niantic events portal."
+            ],
+            "live-event-ticket---3600": [
+                "(including applicable taxes and fees)",
+                "Location: A citywide experience across Nagasaki City, Japan Dates: November 7, 8, or 9, 2025 Time: 9:00 a.m. – 5:00 p.m. JST",
+                "Tickets for Pokémon GO Wild Area: Nagasaki include one day of event gameplay, and attendees may purchase add-ons that extend the gameplay for an additional day. One-day tickets are ¥3,600 (or the equivalent pricing tier in your local currency, including applicable taxes and fees). Event gameplay will be available only at the date, time, and location specified on your ticket.",
+                "Note: Tickets to this event are nonrefundable (subject to applicable law and the exceptions set forth in the Terms of Service). Tickets are first come, first served and are available for purchase while supplies last."
+            ],
+            "bonuses": [
+                "1 additional Candy XL for catching Pokémon in Max Battles (Trainers level 31+)",
+                "1 additional Candy for catching Pokémon in Max Battles",
+                "1/2 Hatch Distance for Eggs placed in Incubators during the event",
+                "1/2 Stardust cost for trades",
+                "1/4 Egg Hatch Distance*",
+                "2× Candy for catching Pokémon",
+                "2× XP from completed Max Battles",
+                "3 additional Candy XL for catching Pokémon in raids (Trainers level 31+)",
+                "3/4 Max Particle cost for unlocking and powering up Max Moves",
+                "3× Hatch Candy",
+                "3× Hatch Stardust",
+                "3× Hatch XP",
+                "5,000 additional XP awarded for completed raids",
+                "6 additional Candy for catching Pokémon in raids",
+                "Daily Max Particle collection limit increased to 8,000",
+                "Incense will last for two hours",
+                "Increased Max Particles from Power Spots and exploration",
+                "Increased chance of 5 km Eggs from spinning PokéStops and Gyms",
+                "Increased chance of encountering Shiny Pokémon",
+                "Lure Modules will last for two hours",
+                "Three GO Snapshot surprise event encounters per day",
+                "Up to 10 daily Raid Passes per day from spinning Photo Discs at Gyms",
+                "Up to 18 daily Raid Passes per day from spinning Photo Discs at Gyms",
+                "Up to 6 Special Trades can be made during your ticketed event day"
+            ]
+        }
     ]
 }
