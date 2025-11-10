@@ -6,17 +6,6 @@
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-07-pokemon-go-wild-area-2025-nagasaki-japan/wild-area-2025-nagasaki-key-art.jpg",
             "category": "Wild Area",
             "details": {
-                "for-the-brave-adventure-awaits-around-every-cornerare-you-ready-to-venture-into-the-wild-area": [
-                    "In this next chapter of Pokémon GO Wild Area, get ready to test your skills once again as you encounter Dark- and Fairy-type Pokémon, including Grimmsnarl, the Bulk Up Pokémon! Plus, exceptionally powerful Pokémon known as mighty Pokémon are appearing in the wild—use GO Wild Area–exclusive GO Safari Balls to improve your odds of catching these rare Pokémon.",
-                    "All event gameplay is exclusive to ticket holders.",
-                    "Tickets for Pokémon GO Wild Area: Nagasaki are now available on the Niantic events portal."
-                ],
-                "live-event-ticket---3600": [
-                    "(including applicable taxes and fees)",
-                    "Location: A citywide experience across Nagasaki City, Japan Dates: November 7, 8, or 9, 2025 Time: 9:00 a.m. – 5:00 p.m. JST",
-                    "Tickets for Pokémon GO Wild Area: Nagasaki include one day of event gameplay, and attendees may purchase add-ons that extend the gameplay for an additional day. One-day tickets are ¥3,600 (or the equivalent pricing tier in your local currency, including applicable taxes and fees). Event gameplay will be available only at the date, time, and location specified on your ticket.",
-                    "Note: Tickets to this event are nonrefundable (subject to applicable law and the exceptions set forth in the Terms of Service). Tickets are first come, first served and are available for purchase while supplies last."
-                ],
                 "bonuses": [
                     "1 additional Candy XL for catching Pokémon in Max Battles (Trainers level 31+)",
                     "1 additional Candy for catching Pokémon in Max Battles",
@@ -192,7 +181,8 @@
             },
             "is_local_time": false,
             "start_time": 1762473600,
-            "end_time": 1762675200
+            "end_time": 1762675200,
+            "description": "In this next chapter of Pokémon GO Wild Area, get ready to test your skills once again as you encounter Dark- and Fairy-type Pokémon, including Grimmsnarl, the Bulk Up Pokémon! Plus, exceptionally powerful Pokémon known as mighty Pokémon are appearing in the wild—use GO Wild Area–exclusive GO Safari Balls to improve your odds of catching these rare Pokémon.\nAll event gameplay is exclusive to ticket holders.\nTickets for Pokémon GO Wild Area: Nagasaki are now available on the Niantic events portal.\n(including applicable taxes and fees)\nLocation: A citywide experience across Nagasaki City, Japan Dates: November 7, 8, or 9, 2025 Time: 9:00 a.m. – 5:00 p.m. JST\nTickets for Pokémon GO Wild Area: Nagasaki include one day of event gameplay, and attendees may purchase add-ons that extend the gameplay for an additional day. One-day tickets are ¥3,600 (or the equivalent pricing tier in your local currency, including applicable taxes and fees). Event gameplay will be available only at the date, time, and location specified on your ticket.\nNote: Tickets to this event are nonrefundable (subject to applicable law and the exceptions set forth in the Terms of Service). Tickets are first come, first served and are available for purchase while supplies last."
         },
         {
             "title": "Pokémon GO Wild Area: Global",
@@ -200,18 +190,6 @@
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-15-pokemon-go-wild-area-2025-global/wild-area-2025-global-key-art.jpg",
             "category": "Wild Area",
             "details": {
-                "for-the-brave-adventure-awaits-around-every-cornerare-you-ready-to-venture-into-the-wild-area": [
-                    "Trainers around the world can gear up for a worldwide adventure during Pokémon GO Wild Area: Global, available in-game for two days only!",
-                    "Looking to enhance your GO Wild Area weekend with exclusive Special Research, additional bonuses, and an increased chance of encountering Shiny Pokémon? Purchase a global event ticket from the Pokémon GO Web Store!"
-                ],
-                "event-tickets": [
-                    "Tickets for Pokémon GO Wild Area: Global are available now in the in-game Shop and Pokémon Go Web Store for $11.99 USD.",
-                    "Trainers who purchase their Pokémon GO Wild Area: Global ticket on the Pokémon GO Web Store will receive a special avatar item—the Flower Crown!",
-                    "You can purchase your ticket on the web store until the last day of the event to receive this avatar item."
-                ],
-                "pokmon-go-wild-area-nagasaki": [
-                    "For details on the in-person event in Nagasaki, Japan, click here."
-                ],
                 "bonuses": [
                     "1/2 Hatch Distance for Eggs placed in Incubators during the event",
                     "1/2 Stardust cost for trades",
@@ -353,7 +331,8 @@
             },
             "is_local_time": true,
             "start_time": "2025-11-15T10:00:00",
-            "end_time": "2025-11-16T18:00:00"
+            "end_time": "2025-11-16T18:00:00",
+            "description": "Trainers around the world can gear up for a worldwide adventure during Pokémon GO Wild Area: Global, available in-game for two days only!\nLooking to enhance your GO Wild Area weekend with exclusive Special Research, additional bonuses, and an increased chance of encountering Shiny Pokémon? Purchase a global event ticket from the Pokémon GO Web Store!\nTickets for Pokémon GO Wild Area: Global are available now in the in-game Shop and Pokémon Go Web Store for $11.99 USD.\nTrainers who purchase their Pokémon GO Wild Area: Global ticket on the Pokémon GO Web Store will receive a special avatar item—the Flower Crown!\nYou can purchase your ticket on the web store until the last day of the event to receive this avatar item.\nFor details on the in-person event in Nagasaki, Japan, click here."
         }
     ],
     "Event": [
@@ -551,6 +530,17 @@
             "start_time": "2025-11-08T10:00:00",
             "end_time": "2025-11-09T20:00:00",
             "description": "There will be PokéStop Showcases featuring Tarountula and Spidops. Top the leaderboard to win rewards including Premium Items!\n- Tarountula\n- Spidops"
+        },
+        {
+            "title": "Dark-type and Fairy-type PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-dark-fairy-type-2025-11-10/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-11-10T10:00:00",
+            "end_time": "2025-11-14T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Dark-type Pokémon and Fairy-type Pokémon. Top the leaderboard to win rewards including Premium Items!"
         }
     ],
     "Max Mondays": [
@@ -781,98 +771,44 @@
             "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_ultra-league_jungle-cup-great-league-edition-2/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
             "category": "GO Battle League",
-            "details": {
-                "ultra-league": [
-                    "Pokémon must be at or below 2,500 CP to enter."
-                ],
-                "jungle-cup-great-league-edition": [
-                    "Pokémon must be at or below 1,500 CP to enter.",
-                    "Only Normal-, Grass-, Electric-, Poison-, Ground-, Flying-, Bug-, and Dark-type Pokémon are eligible.",
-                    "The following Pokémon will not be allowed.",
-                    "Gligar",
-                    "Galarian Stunfisk"
-                ]
-            },
+            "details": {},
             "is_local_time": false,
             "start_time": 1762290000,
             "end_time": 1762894800,
-            "description": "The Ultra League and Jungle Cup: Great League Edition will run from November 4, 2025, at 1:00 p.m. to November 11, 2025, at 1:00 p.m. PT."
+            "description": "The Ultra League and Jungle Cup: Great League Edition will run from November 4, 2025, at 1:00 p.m. to November 11, 2025, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Normal-, Grass-, Electric-, Poison-, Ground-, Flying-, Bug-, and Dark-type Pokémon are eligible.\nThe following Pokémon will not be allowed.\n- Gligar\n- Galarian Stunfisk"
         },
         {
             "title": "Great League, Ultra League, and Master League | Tales of Transformation",
             "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-3/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
             "category": "GO Battle League",
-            "details": {
-                "great-league": [
-                    "Pokémon must be at or below 1,500 CP to enter."
-                ],
-                "ultra-league": [
-                    "Pokémon must be at or below 2,500 CP to enter."
-                ],
-                "master-league": [
-                    "All Pokémon are eligible."
-                ]
-            },
+            "details": {},
             "is_local_time": false,
             "start_time": 1762894800,
             "end_time": 1763499600,
-            "description": "The Great League, Ultra League, and Master League will run from November 11, 2025, at 1:00 p.m. to November 18, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
+            "description": "The Great League, Ultra League, and Master League will run from November 11, 2025, at 1:00 p.m. to November 18, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
         },
         {
             "title": "2025 Championship Series Cup and Master League: Mega Edition | Tales of Transformation",
             "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_2025-championship-series-cup_master-league-mega-edition/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
             "category": "GO Battle League",
-            "details": {
-                "championship-series-cup": [
-                    "Pokémon must be at or below 1,500 CP to enter.",
-                    "Only Ice-, Flying-, Psychic-, Ghost-, and Dragon-type Pokémon are eligible.",
-                    "Legendary Pokémon, Mythical Pokémon, Shadow Pokémon, and Ultra Beasts are not eligible.",
-                    "The following Pokémon will not be allowed.",
-                    "Alolan Sandshrew",
-                    "Alolan Sandslash",
-                    "Alolan Ninetales",
-                    "Lapras",
-                    "Galarian Corsola",
-                    "Kingdra",
-                    "Jellicent",
-                    "Honedge",
-                    "Doublade",
-                    "Corviknight"
-                ],
-                "master-league-mega-edition": [
-                    "No CP limit.",
-                    "Mega-Evolved Pokémon are allowed."
-                ]
-            },
+            "details": {},
             "is_local_time": false,
             "start_time": 1763499600,
             "end_time": 1764104400,
-            "description": "The 2025 Championship Series Cup and Master League: Mega Edition will run from November 18, 2025, at 1:00 p.m. to November 25, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
+            "description": "The 2025 Championship Series Cup and Master League: Mega Edition will run from November 18, 2025, at 1:00 p.m. to November 25, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Ice-, Flying-, Psychic-, Ghost-, and Dragon-type Pokémon are eligible.\n- Legendary Pokémon, Mythical Pokémon, Shadow Pokémon, and Ultra Beasts are not eligible.\nThe following Pokémon will not be allowed.\n- Alolan Sandshrew\n- Alolan Sandslash\n- Alolan Ninetales\n- Lapras\n- Galarian Corsola\n- Kingdra\n- Jellicent\n- Honedge\n- Doublade\n- Corviknight\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
         },
         {
             "title": "Catch Cup: Tales of Transformation: Great Edition, Ultra League, and Master League | Tales of Transformation",
             "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_catch-cup-tales-of-transformation-great-edition_ultra-league_master-league/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
             "category": "GO Battle League",
-            "details": {
-                "catch-cup-tales-of-transformation-great-edition": [
-                    "Pokémon must be at or below 1,500 CP to enter.",
-                    "Only Pokémon caught during the Tales of Transformation Season are eligible.",
-                    "Pokémon must be caught between September 2, 2025, at 1:00 p.m. and December 2, 2025, at 1:00 p.m. local time."
-                ],
-                "ultra-league": [
-                    "Pokémon must be at or below 2,500 CP to enter."
-                ],
-                "master-league": [
-                    "All Pokémon are eligible."
-                ]
-            },
+            "details": {},
             "is_local_time": false,
             "start_time": 1764104400,
             "end_time": 1764709200,
-            "description": "The Catch Cup: Tales of Transformation: Great Edition, Ultra League, and Master League will run from November 25, 2025, at 1:00 p.m. to December 2, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards)."
+            "description": "The Catch Cup: Tales of Transformation: Great Edition, Ultra League, and Master League will run from November 25, 2025, at 1:00 p.m. to December 2, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Pokémon caught during the Tales of Transformation Season are eligible.\n- Pokémon must be caught between September 2, 2025, at 1:00 p.m. and December 2, 2025, at 1:00 p.m. local time.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
         }
     ],
     "Pokémon Spotlight Hour": [
