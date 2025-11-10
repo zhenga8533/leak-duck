@@ -35,7 +35,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run archiver and scrapers
-        run: python src/run.py
+        run: python -m src.main
 
       - name: Commit and push JSON to data branch
         run: |

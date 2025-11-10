@@ -121,7 +121,7 @@ To get a local copy up and running, follow these simple steps.
 4.  **Run the scraper manually:**
 
     ```sh
-    python src/run.py
+    python -m src.main
     ```
 
     When run locally, the script will create two folders in your project root: `html/` and `json/`. These folders are included in the `.gitignore` and will not be committed to your repository.
@@ -137,7 +137,7 @@ This repository is configured to run the scraper automatically using GitHub Acti
 - **Process:**
   1.  The action checks out the `main` branch to get the latest scraper code.
   2.  It installs the Python dependencies (using a cache for speed).
-  3.  It runs the `src/run.py` script, which generates the JSON files.
+  3.  It runs the `src/main.py` script, which generates the JSON files.
   4.  The action then checks out the `data` branch, adds the new JSON files, and commits them.
   5.  Finally, it pushes the updated data files directly to the `data` branch.
 
@@ -165,7 +165,7 @@ leak-duck/
 │   ├── __init__.py
 │   ├── archiver.py
 │   ├── config.json
-│   ├── run.py
+│   ├── main.py
 │   └── utils.py
 ├── .gitignore
 ├── .python-version
