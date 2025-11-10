@@ -58,10 +58,8 @@ class BaseScraper(ABC):
         pass
 
     def run(self):
-        print(f"  → Starting scraper run() method...", flush=True)
         soup = self._fetch_html()
         if soup:
-            print(f"  → HTML fetched, parsing...", flush=True)
             data = self.parse(soup)
             self.save_to_json(data)
         else:

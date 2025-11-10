@@ -38,7 +38,8 @@ class EventScraper(BaseScraper):
     def _fetch_existing_events(self):
         if not self.github_user or not self.github_repo:
             print(
-                "GitHub user or repo not configured. Skipping check for existing events."
+                "GitHub user or repo not configured. Skipping check for existing events.",
+                flush=True
             )
             return
 
@@ -52,16 +53,15 @@ class EventScraper(BaseScraper):
             for category in data.values():
                 for event in category:
                     self.existing_event_urls.add(event["article_url"])
-            print(f"Found {len(self.existing_event_urls)} existing events.")
+            print(f"Found {len(self.existing_event_urls)} existing events.", flush=True)
         except (requests.exceptions.RequestException, ValueError) as e:
-            print(f"Could not fetch existing events: {e}")
+            print(f"Could not fetch existing events: {e}", flush=True)
             self.existing_events_data = {}
 
     def parse(self, soup: BeautifulSoup) -> Dict[str, List[Dict[str, Any]]]:
-        print("  → EventScraper.parse() starting...", flush=True)
         events_to_scrape: List[Dict[str, Any]] = []
         event_links = soup.select("a.event-item-link")
-        print(f"  → Found {len(event_links)} event links", flush=True)
+        print(f"Found {len(event_links)} event links", flush=True)
 
         for link in event_links:
             href = link.get("href")
@@ -102,9 +102,29 @@ class EventScraper(BaseScraper):
         }
 
         if events_to_scrape:
-            print(f"  → Initializing Selenium WebDriver for {len(events_to_scrape)} events...", flush=True)
-            page_scraper = EventPageScraper()
-            print("  → WebDriver initialized successfully", flush=True)
+            print(f"Initializing Selenium WebDriver for {len(events_to_scrape)} events...", flush=True)
+            try:
+                page_scraper = EventPageScraper()
+                print("WebDriver initialized successfully", flush=True)
+            except RuntimeError as e:
+                print(f"✗ Failed to initialize WebDriver: {e}", flush=True)
+                print("Skipping event detail scraping, returning basic event data only", flush=True)
+                # Continue with basic event data without detailed scraping
+                new_events_by_category: Dict[str, List[Dict[str, Any]]] = {}
+                for event in all_events_data.values():
+                    category = event.get("category", "Event")
+                    if category not in new_events_by_category:
+                        new_events_by_category[category] = []
+                    new_events_by_category[category].append(event)
+
+                merged_events = self.existing_events_data.copy()
+                for category, events in new_events_by_category.items():
+                    if category not in merged_events:
+                        merged_events[category] = []
+                    merged_events[category].extend(events)
+
+                return merged_events
+
             try:
                 total_events = len(events_to_scrape)
                 for idx, event in enumerate(events_to_scrape, 1):
@@ -115,9 +135,7 @@ class EventScraper(BaseScraper):
                     if result and result.get("article_url") in all_events_data:
                         all_events_data[result["article_url"]].update(result)
             finally:
-                print("  → Closing WebDriver...", flush=True)
                 page_scraper.close()
-                print("  → WebDriver closed", flush=True)
 
         new_events_by_category: Dict[str, List[Dict[str, Any]]] = {}
         for event in all_events_data.values():

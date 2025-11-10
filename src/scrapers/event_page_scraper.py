@@ -2,6 +2,7 @@ import json
 import os
 import re
 import time
+from concurrent.futures import ThreadPoolExecutor, TimeoutError as FuturesTimeoutError
 from datetime import datetime, timedelta
 from typing import Any, Dict, Optional
 from urllib.parse import quote_plus
@@ -50,30 +51,58 @@ class EventPageScraper:
 
     def __init__(self):
         """Initializes the EventPageScraper and its WebDriver."""
-        print("    → EventPageScraper.__init__: Getting WebDriver...", flush=True)
-        self.driver: WebDriver = self._get_driver()
-        print("    → EventPageScraper.__init__: WebDriver obtained", flush=True)
+        self.driver: WebDriver = self._get_driver_with_timeout(timeout=30)
         self.cache_expiration_hours = self._load_cache_expiration()
         self.max_retries = 3
         self.retry_delay = 1  # seconds
 
+    def _get_driver_with_timeout(self, timeout: int = 30) -> WebDriver:
+        """
+        Gets a WebDriver with a timeout to prevent indefinite hangs.
+
+        Args:
+            timeout: Maximum seconds to wait for driver initialization
+
+        Returns:
+            WebDriver instance
+
+        Raises:
+            RuntimeError: If driver initialization times out or fails
+        """
+        with ThreadPoolExecutor(max_workers=1) as executor:
+            future = executor.submit(self._get_driver)
+            try:
+                return future.result(timeout=timeout)
+            except FuturesTimeoutError:
+                error_msg = f"WebDriver initialization timed out after {timeout} seconds"
+                print(f"✗ {error_msg}", flush=True)
+                raise RuntimeError(error_msg)
+            except Exception as e:
+                error_msg = f"WebDriver initialization failed: {e}"
+                print(f"✗ {error_msg}", flush=True)
+                raise RuntimeError(error_msg)
+
     def _get_driver(self) -> WebDriver:
         """Configures and returns a headless Chrome WebDriver instance."""
         options = Options()
-        options.add_argument("--headless")
+        options.add_argument("--headless=new")  # Use new headless mode
         options.add_argument("--disable-gpu")
         options.add_argument("--no-sandbox")
+        options.add_argument("--disable-setuid-sandbox")
         options.add_argument("--log-level=3")
         options.add_argument("--disable-extensions")
         options.add_argument("--disable-dev-shm-usage")
         options.add_argument("--disable-software-rasterizer")
         options.add_argument("--window-size=1920,1080")
+        options.add_argument("--disable-web-security")
+        options.add_argument("--disable-features=IsolateOrigins,site-per-process")
         options.add_argument(
             "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
             "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
         )
         options.add_argument("--disable-blink-features=AutomationControlled")
-        options.add_experimental_option("excludeSwitches", ["enable-logging"])
+        options.add_experimental_option("excludeSwitches", ["enable-logging", "enable-automation"])
+        options.add_experimental_option("useAutomationExtension", False)
 
         # This will make the driver wait for the initial HTML to load, but not for all
         # resources like images and stylesheets. This can prevent the scraper from
@@ -81,7 +110,8 @@ class EventPageScraper:
         options.page_load_strategy = "eager"
 
         service = Service(log_output=os.devnull)
-        return webdriver.Chrome(service=service, options=options)
+        driver = webdriver.Chrome(service=service, options=options)
+        return driver
 
     def _load_cache_expiration(self) -> int:
         """Loads the cache expiration time from config.json."""
@@ -304,11 +334,11 @@ class EventPageScraper:
                 use_cache = self._is_cache_valid(html_path) and attempt == 1
 
                 if use_cache:
-                    print(f"Using cached HTML for: {url}")
+                    print(f"Using cached HTML for: {url}", flush=True)
                     with open(html_path, "r", encoding="utf-8") as f:
                         html_content = f.read()
                 else:
-                    print(f"Scraping dynamic event page: {url} (attempt {attempt}/{self.max_retries})")
+                    print(f"Scraping dynamic event page: {url} (attempt {attempt}/{self.max_retries})", flush=True)
                     html_content = self._fetch_dynamic_html(url)
 
                 soup = BeautifulSoup(html_content, "lxml")
@@ -322,37 +352,37 @@ class EventPageScraper:
                     return event_details
                 else:
                     # Invalid times
-                    print(f"  ⚠️  Invalid start/end time on attempt {attempt}")
-                    print(f"     start_time: {event_details.get('start_time')}")
-                    print(f"     end_time: {event_details.get('end_time')}")
+                    print(f"Invalid start/end time on attempt {attempt}", flush=True)
+                    print(f"  start_time: {event_details.get('start_time')}", flush=True)
+                    print(f"  end_time: {event_details.get('end_time')}", flush=True)
 
                     # Delete cache if it exists (it's bad data)
                     if os.path.exists(html_path):
                         os.remove(html_path)
-                        print(f"  🗑️  Deleted invalid cache")
+                        print(f"Deleted invalid cache", flush=True)
 
                     # If this is not the last attempt, wait and retry
                     if attempt < self.max_retries:
-                        print(f"  ⏳ Waiting {self.retry_delay}s before retry...")
+                        print(f"Waiting {self.retry_delay}s before retry...", flush=True)
                         time.sleep(self.retry_delay)
                     else:
-                        print(f"  ❌ All {self.max_retries} attempts failed - skipping event")
+                        print(f"✗ All {self.max_retries} attempts failed - skipping event", flush=True)
                         return {"article_url": url, "error": "InvalidTimes"}
 
             except TimeoutException as e:
-                print(f"Timeout error scraping event page {url} (attempt {attempt}): {e}")
+                print(f"Timeout error scraping event page {url} (attempt {attempt}): {e}", flush=True)
                 if attempt == self.max_retries:
                     return {"article_url": url, "error": "TimeoutException"}
                 time.sleep(self.retry_delay)
 
             except AttributeError as e:
-                print(f"Attribute error scraping event page {url} (attempt {attempt}): {e}")
+                print(f"Attribute error scraping event page {url} (attempt {attempt}): {e}", flush=True)
                 if attempt == self.max_retries:
                     return {"article_url": url, "error": "AttributeError"}
                 time.sleep(self.retry_delay)
 
             except Exception as e:
-                print(f"Unexpected error scraping {url} (attempt {attempt}): {e}")
+                print(f"Unexpected error scraping {url} (attempt {attempt}): {e}", flush=True)
                 if attempt == self.max_retries:
                     return {"article_url": url, "error": str(e)}
                 time.sleep(self.retry_delay)

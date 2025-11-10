@@ -50,7 +50,7 @@ class EventArchiver:
             response.raise_for_status()
             current_events_data = response.json()
         except (requests.exceptions.RequestException, json.JSONDecodeError) as e:
-            print(f"Could not fetch events.json to archive. It may not exist yet. Error: {e}")
+            print(f"Could not fetch events.json to archive. It may not exist yet. Error: {e}", flush=True)
             return
 
         events_to_archive_by_year: Dict[int, List[Dict[str, Any]]] = {}
@@ -72,7 +72,7 @@ class EventArchiver:
                 remaining_events[category] = active_events_in_category
 
         if not events_to_archive_by_year:
-            print("No new events to archive.")
+            print("No new events to archive.", flush=True)
             return
 
         for year, events in events_to_archive_by_year.items():
@@ -80,7 +80,7 @@ class EventArchiver:
 
         with open(self.events_path, "w", encoding="utf-8") as f:
             json.dump(remaining_events, f, ensure_ascii=False, indent=4)
-        print(f"events.json has been cleaned and saved to {self.events_path}.")
+        print(f"events.json has been cleaned and saved to {self.events_path}.", flush=True)
 
     def _update_archive_file(self, year: int, events: List[Dict[str, Any]]):
         archive_file_path = os.path.join(self.archives_dir, f"archive_{year}.json")
@@ -105,4 +105,4 @@ class EventArchiver:
 
         with open(archive_file_path, "w", encoding="utf-8") as f:
             json.dump(archive_data, f, ensure_ascii=False, indent=4)
-        print(f"Archived {len(events)} event(s) to {archive_file_path}.")
+        print(f"Archived {len(events)} event(s) to {archive_file_path}.", flush=True)
