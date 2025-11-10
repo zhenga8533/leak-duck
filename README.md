@@ -88,7 +88,7 @@ To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 
-- Python 3.13 (or as specified in the `.python-version` file)
+- Python 3.12+
 - pip
 
 ### Installation & Local Usage
@@ -168,7 +168,6 @@ leak-duck/
 │   ├── main.py
 │   └── utils.py
 ├── .gitignore
-├── .python-version
 ├── LICENSE
 ├── README.md
 └── requirements.txt
