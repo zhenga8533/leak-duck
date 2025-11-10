@@ -42,11 +42,11 @@ class EventArchiver:
         return False, None
 
     def run(self):
-        print("--- Running Event Archiver ---")
+        print("--- Running Event Archiver ---", flush=True)
         now_utc = datetime.now(timezone.utc)
 
         try:
-            response = requests.get(self.events_url)
+            response = requests.get(self.events_url, timeout=15)
             response.raise_for_status()
             current_events_data = response.json()
         except (requests.exceptions.RequestException, json.JSONDecodeError) as e:
@@ -87,7 +87,7 @@ class EventArchiver:
         archive_url = f"{self.repo_base_url}/archives/archive_{year}.json"
 
         try:
-            response = requests.get(archive_url)
+            response = requests.get(archive_url, timeout=15)
             response.raise_for_status()
             archive_data = response.json()
         except (requests.exceptions.RequestException, json.JSONDecodeError):
