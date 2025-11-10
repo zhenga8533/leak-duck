@@ -312,6 +312,54 @@
                 "Increased chance to encounter Shiny costumed Pokémon in raids",
                 "On October 31, costumed Pokémon will have a small chance to give Rare Candy or Rare Candy XL when caught with Nice Throws or better"
             ]
+        },
+        {
+            "title": "Enchanted Hollow",
+            "article_url": "https://leekduck.com/events/enchanted-hollow-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-04-enchanted-hollow-2025/enchanted-hollow-2025.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Lure Module duration",
+                    "2× XP for spinning PokéStops",
+                    "Increased chance of encountering Shiny Paras and Shiny Stantler"
+                ],
+                "features": [
+                    "Spidops",
+                    "Tarountula"
+                ],
+                "spawns": [
+                    "Cottonee",
+                    "Hoothoot",
+                    "Karrablast",
+                    "Morelull",
+                    "Nickit",
+                    "Paras",
+                    "Petilil",
+                    "Phantump",
+                    "Shelmet",
+                    "Skwovet",
+                    "Stantler",
+                    "Tarountula",
+                    "Wurmple"
+                ],
+                "raids": [
+                    "Drampa",
+                    "Leavanny",
+                    "Paras",
+                    "Scolipede",
+                    "Stantler",
+                    "Tarountula"
+                ],
+                "shiny": [
+                    "Paras",
+                    "Stantler"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-04T10:00:00",
+            "end_time": "2025-11-09T20:00:00",
+            "description": "Tangle with Tarountula and Spidops during the Enchanted Hollow event!"
         }
     ],
     "PokéStop Showcase": [
@@ -491,6 +539,17 @@
             "start_time": "2025-11-03T10:00:00",
             "end_time": "2025-11-05T20:00:00",
             "description": "There will be PokéStop Showcases featuring Poison-type Pokémon, Grass-type Pokémon, and Bug-type Pokémon. Top the leaderboard to win rewards including Premium Items!"
+        },
+        {
+            "title": "Tarountula and Spidops PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-tarountula-spidops-2025-11-08/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-11-08T10:00:00",
+            "end_time": "2025-11-09T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Tarountula and Spidops. Top the leaderboard to win rewards including Premium Items!\n- Tarountula\n- Spidops"
         }
     ],
     "Max Mondays": [
