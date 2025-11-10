@@ -2,20 +2,22 @@ import json
 import os
 import re
 import time
-from concurrent.futures import ThreadPoolExecutor, TimeoutError as FuturesTimeoutError
+from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import TimeoutError as FuturesTimeoutError
 from datetime import datetime, timedelta
-from typing import Any, Dict, Optional
+from typing import Any, Dict, Optional, cast
 from urllib.parse import quote_plus
 
 from bs4 import BeautifulSoup, Tag
 from selenium import webdriver
-from selenium.common.exceptions import TimeoutException
+from selenium.common.exceptions import TimeoutException, WebDriverException
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
+from urllib3.exceptions import ReadTimeoutError
 
 from src.utils import process_time_data, save_html
 
@@ -31,13 +33,13 @@ def clean_spacing(text: str) -> str:
         The cleaned text with proper spacing around punctuation.
     """
     # Remove spaces before punctuation marks
-    text = re.sub(r'\s+([.,!?;:])', r'\1', text)
+    text = re.sub(r"\s+([.,!?;:])", r"\1", text)
     # Remove spaces after opening parentheses/brackets
-    text = re.sub(r'([\(\[])\s+', r'\1', text)
+    text = re.sub(r"([\(\[])\s+", r"\1", text)
     # Remove spaces before closing parentheses/brackets
-    text = re.sub(r'\s+([\)\]])', r'\1', text)
+    text = re.sub(r"\s+([\)\]])", r"\1", text)
     # Clean up multiple spaces
-    text = re.sub(r'\s+', ' ', text)
+    text = re.sub(r"\s+", " ", text)
     return text.strip()
 
 
@@ -55,6 +57,8 @@ class EventPageScraper:
         self.cache_expiration_hours = self._load_cache_expiration()
         self.max_retries = 3
         self.retry_delay = 1  # seconds
+        self.driver_stuck = False  # Track if driver is in a bad state
+        self.driver_init_timeout = 30  # Timeout for driver initialization
 
     def _get_driver_with_timeout(self, timeout: int = 30) -> WebDriver:
         """
@@ -74,7 +78,9 @@ class EventPageScraper:
             try:
                 return future.result(timeout=timeout)
             except FuturesTimeoutError:
-                error_msg = f"WebDriver initialization timed out after {timeout} seconds"
+                error_msg = (
+                    f"WebDriver initialization timed out after {timeout} seconds"
+                )
                 print(f"✗ {error_msg}", flush=True)
                 raise RuntimeError(error_msg)
             except Exception as e:
@@ -101,7 +107,9 @@ class EventPageScraper:
             "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
         )
         options.add_argument("--disable-blink-features=AutomationControlled")
-        options.add_experimental_option("excludeSwitches", ["enable-logging", "enable-automation"])
+        options.add_experimental_option(
+            "excludeSwitches", ["enable-logging", "enable-automation"]
+        )
         options.add_experimental_option("useAutomationExtension", False)
 
         # This will make the driver wait for the initial HTML to load, but not for all
@@ -111,6 +119,15 @@ class EventPageScraper:
 
         service = Service(log_output=os.devnull)
         driver = webdriver.Chrome(service=service, options=options)
+
+        # Set timeouts to prevent long hangs
+        driver.set_page_load_timeout(25)  # Max 25 seconds for page load
+        driver.set_script_timeout(15)  # Max 15 seconds for scripts
+
+        # Set remote connection timeout to 30 seconds (shorter than the default 120)
+        if hasattr(driver, 'command_executor'):
+            driver.command_executor.set_timeout(30)
+
         return driver
 
     def _load_cache_expiration(self) -> int:
@@ -147,15 +164,38 @@ class EventPageScraper:
 
     def _has_valid_times(self, event_details: Dict[str, Any]) -> bool:
         """Checks if event has both valid start and end times."""
-        return (
-            self._is_valid_time(event_details.get("start_time"))
-            and self._is_valid_time(event_details.get("end_time"))
-        )
+        return self._is_valid_time(
+            event_details.get("start_time")
+        ) and self._is_valid_time(event_details.get("end_time"))
+
+    def _restart_driver(self) -> bool:
+        """
+        Restarts the WebDriver when it gets stuck or unresponsive.
+
+        Returns:
+            True if restart was successful, False otherwise
+        """
+        try:
+            print("⟳ Restarting WebDriver...", flush=True)
+            # Close the old driver
+            try:
+                self.driver.quit()
+            except Exception:
+                pass  # Ignore errors when closing stuck driver
+
+            # Create a new driver
+            self.driver = self._get_driver_with_timeout(timeout=self.driver_init_timeout)
+            self.driver_stuck = False
+            print("✓ WebDriver restarted successfully", flush=True)
+            return True
+        except Exception as e:
+            print(f"✗ Failed to restart WebDriver: {e}", flush=True)
+            self.driver_stuck = True
+            return False
 
     def _fetch_dynamic_html(self, url: str) -> str:
         """Fetches the HTML content of a page after dynamic content has loaded."""
-        # This will raise a TimeoutException if the page takes more than 20 seconds to load
-        self.driver.set_page_load_timeout(20)
+        # Page load timeout is already set in _get_driver
         self.driver.get(url)
 
         WebDriverWait(self.driver, 10).until(
@@ -182,10 +222,14 @@ class EventPageScraper:
             return event_details
 
         # Time details
-        start_date_element = soup.find("span", id="event-date-start")
-        start_time_element = soup.find("span", id="event-time-start")
-        end_date_element = soup.find("span", id="event-date-end")
-        end_time_element = soup.find("span", id="event-time-end")
+        start_date_element = cast(
+            Optional[Tag], soup.find("span", id="event-date-start")
+        )
+        start_time_element = cast(
+            Optional[Tag], soup.find("span", id="event-time-start")
+        )
+        end_date_element = cast(Optional[Tag], soup.find("span", id="event-date-end"))
+        end_time_element = cast(Optional[Tag], soup.find("span", id="event-time-end"))
 
         is_local = not (
             isinstance(start_date_element, Tag)
@@ -213,12 +257,18 @@ class EventPageScraper:
 
                 # Check if this is a section header (h2 with id and event-section-header class)
                 section_id_val = child.get("id")
-                classes = child.get("class", [])
-                if (child.name == "h2" and section_id_val and isinstance(section_id_val, str)
-                    and "event-section-header" in classes):
+                classes = cast(list, child.get("class") or [])
+                if (
+                    child.name == "h2"
+                    and section_id_val
+                    and isinstance(section_id_val, str)
+                    and "event-section-header" in classes
+                ):
                     # Save current section if we were in one
                     if current_section_id and current_section_items:
-                        event_details["details"][current_section_id] = current_section_items
+                        event_details["details"][
+                            current_section_id
+                        ] = current_section_items
                         current_section_items = []
 
                     # Start new section
@@ -258,11 +308,13 @@ class EventPageScraper:
         # Main sections
         main_sections = content.find_all("h2", class_="event-section-header")
         for section in main_sections:
-            self._parse_section(section, event_details)
+            self._parse_section(cast(Tag, section), event_details)
 
         # Final cleanup - move bonuses to details if it exists
         if "bonuses" in event_details["details"]:
-            event_details["details"]["bonuses"] = sorted(list(set(event_details["details"]["bonuses"])))
+            event_details["details"]["bonuses"] = sorted(
+                list(set(event_details["details"]["bonuses"]))
+            )
 
         return event_details
 
@@ -275,7 +327,7 @@ class EventPageScraper:
 
         next_element = section.find_next_sibling()
         while isinstance(next_element, Tag):
-            classes = next_element.get("class")
+            classes = cast(list, next_element.get("class") or [])
             if (
                 next_element.name == "h2"
                 and classes
@@ -284,7 +336,11 @@ class EventPageScraper:
                 break
 
             # Handle both pkmn-list and pkmn-list-flex classes
-            if next_element.name == "ul" and classes and ("pkmn-list" in classes or "pkmn-list-flex" in classes):
+            if (
+                next_element.name == "ul"
+                and classes
+                and ("pkmn-list" in classes or "pkmn-list-flex" in classes)
+            ):
                 self._parse_pokemon_list(next_element, section_id, event_details)
             elif next_element.name == "div" and classes and "bonus-list" in classes:
                 self._parse_bonuses(next_element, event_details)
@@ -292,7 +348,9 @@ class EventPageScraper:
             next_element = next_element.find_next_sibling()
 
         if section_id in event_details["details"]:
-            event_details["details"][section_id] = sorted(list(set(event_details["details"][section_id])))
+            event_details["details"][section_id] = sorted(
+                list(set(event_details["details"][section_id]))
+            )
 
     def _parse_pokemon_list(
         self, element: Tag, section_id: str, event_details: Dict[str, Any]
@@ -300,12 +358,15 @@ class EventPageScraper:
         """Parses a list of Pokémon from a section."""
         pokemon_list = set()
         for li in element.find_all("li", class_="pkmn-list-item"):
-            pkmn_name_div = li.find("div", class_="pkmn-name")
+            li_tag = cast(Tag, li)
+            pkmn_name_div = cast(Optional[Tag], li_tag.find("div", class_="pkmn-name"))
             if pkmn_name_div:
                 pokemon_list.add(clean_spacing(pkmn_name_div.get_text(strip=True)))
 
         if pokemon_list:
-            event_details["details"].setdefault(section_id, []).extend(sorted(list(pokemon_list)))
+            event_details["details"].setdefault(section_id, []).extend(
+                sorted(list(pokemon_list))
+            )
 
     def _parse_bonuses(self, element: Tag, event_details: Dict[str, Any]):
         """Parses a list of bonuses."""
@@ -314,7 +375,9 @@ class EventPageScraper:
             for item in element.find_all("div", class_="bonus-text")
         }
         if bonuses:
-            event_details["details"].setdefault("bonuses", []).extend(sorted(list(bonuses)))
+            event_details["details"].setdefault("bonuses", []).extend(
+                sorted(list(bonuses))
+            )
 
     def scrape(self, url: str) -> Dict[str, Any]:
         """
@@ -338,7 +401,10 @@ class EventPageScraper:
                     with open(html_path, "r", encoding="utf-8") as f:
                         html_content = f.read()
                 else:
-                    print(f"Scraping dynamic event page: {url} (attempt {attempt}/{self.max_retries})", flush=True)
+                    print(
+                        f"Scraping dynamic event page: {url} (attempt {attempt}/{self.max_retries})",
+                        flush=True,
+                    )
                     html_content = self._fetch_dynamic_html(url)
 
                 soup = BeautifulSoup(html_content, "lxml")
@@ -353,7 +419,9 @@ class EventPageScraper:
                 else:
                     # Invalid times
                     print(f"Invalid start/end time on attempt {attempt}", flush=True)
-                    print(f"  start_time: {event_details.get('start_time')}", flush=True)
+                    print(
+                        f"  start_time: {event_details.get('start_time')}", flush=True
+                    )
                     print(f"  end_time: {event_details.get('end_time')}", flush=True)
 
                     # Delete cache if it exists (it's bad data)
@@ -363,29 +431,96 @@ class EventPageScraper:
 
                     # If this is not the last attempt, wait and retry
                     if attempt < self.max_retries:
-                        print(f"Waiting {self.retry_delay}s before retry...", flush=True)
+                        print(
+                            f"Waiting {self.retry_delay}s before retry...", flush=True
+                        )
                         time.sleep(self.retry_delay)
                     else:
-                        print(f"✗ All {self.max_retries} attempts failed - skipping event", flush=True)
+                        print(
+                            f"✗ All {self.max_retries} attempts failed - skipping event",
+                            flush=True,
+                        )
                         return {"article_url": url, "error": "InvalidTimes"}
 
             except TimeoutException as e:
-                print(f"Timeout error scraping event page {url} (attempt {attempt}): {e}", flush=True)
-                if attempt == self.max_retries:
+                print(
+                    f"Timeout error scraping event page {url} (attempt {attempt}): {e}",
+                    flush=True,
+                )
+                # Mark driver as potentially stuck and restart it
+                self.driver_stuck = True
+                if attempt < self.max_retries:
+                    if not self._restart_driver():
+                        return {"article_url": url, "error": "DriverRestartFailed"}
+                    time.sleep(self.retry_delay)
+                else:
                     return {"article_url": url, "error": "TimeoutException"}
-                time.sleep(self.retry_delay)
+
+            except (ReadTimeoutError, ConnectionError, OSError) as e:
+                # These errors indicate the WebDriver connection is stuck
+                error_type = type(e).__name__
+                print(
+                    f"Connection error scraping {url} (attempt {attempt}): {error_type} - {e}",
+                    flush=True,
+                )
+                self.driver_stuck = True
+                if attempt < self.max_retries:
+                    if not self._restart_driver():
+                        return {"article_url": url, "error": "DriverRestartFailed"}
+                    time.sleep(self.retry_delay)
+                else:
+                    return {"article_url": url, "error": f"ConnectionError: {error_type}"}
+
+            except WebDriverException as e:
+                # General WebDriver errors - might indicate stuck driver
+                print(
+                    f"WebDriver error scraping {url} (attempt {attempt}): {e}",
+                    flush=True,
+                )
+                # Check if error message indicates connection issues
+                error_str = str(e).lower()
+                if "timeout" in error_str or "connection" in error_str or "disconnected" in error_str:
+                    self.driver_stuck = True
+                    if attempt < self.max_retries:
+                        if not self._restart_driver():
+                            return {"article_url": url, "error": "DriverRestartFailed"}
+                        time.sleep(self.retry_delay)
+                    else:
+                        return {"article_url": url, "error": f"WebDriverException: {str(e)[:100]}"}
+                else:
+                    # Non-connection WebDriver error
+                    if attempt == self.max_retries:
+                        return {"article_url": url, "error": f"WebDriverException: {str(e)[:100]}"}
+                    time.sleep(self.retry_delay)
 
             except AttributeError as e:
-                print(f"Attribute error scraping event page {url} (attempt {attempt}): {e}", flush=True)
+                print(
+                    f"Attribute error scraping event page {url} (attempt {attempt}): {e}",
+                    flush=True,
+                )
                 if attempt == self.max_retries:
                     return {"article_url": url, "error": "AttributeError"}
                 time.sleep(self.retry_delay)
 
             except Exception as e:
-                print(f"Unexpected error scraping {url} (attempt {attempt}): {e}", flush=True)
-                if attempt == self.max_retries:
-                    return {"article_url": url, "error": str(e)}
-                time.sleep(self.retry_delay)
+                print(
+                    f"Unexpected error scraping {url} (attempt {attempt}): {e}",
+                    flush=True,
+                )
+                # Check if it's a connection-related error from the error message
+                error_str = str(e).lower()
+                if "timeout" in error_str or "connection" in error_str:
+                    self.driver_stuck = True
+                    if attempt < self.max_retries:
+                        if not self._restart_driver():
+                            return {"article_url": url, "error": "DriverRestartFailed"}
+                        time.sleep(self.retry_delay)
+                    else:
+                        return {"article_url": url, "error": str(e)}
+                else:
+                    if attempt == self.max_retries:
+                        return {"article_url": url, "error": str(e)}
+                    time.sleep(self.retry_delay)
 
         # Should never reach here, but just in case
         return {"article_url": url, "error": "MaxRetriesExceeded"}
