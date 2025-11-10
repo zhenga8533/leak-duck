@@ -1,7 +1,7 @@
 import json
 import os
 import sys
-from typing import Any, Dict, List
+from typing import Any
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
@@ -9,14 +9,14 @@ from src import scrapers
 from src.archiver import EventArchiver
 
 
-def load_config() -> Dict[str, Any]:
+def load_config() -> dict[str, Any]:
     script_dir = os.path.dirname(os.path.abspath(__file__))
     config_path = os.path.join(script_dir, "config.json")
     with open(config_path, "r") as f:
         return json.load(f)
 
 
-def run_scraper(scraper_info: Dict[str, Any]) -> str:
+def run_scraper(scraper_info: dict[str, Any]) -> str:
     scraper_class_name = scraper_info["class_name"]
     config = scraper_info["config"]
 
@@ -24,7 +24,7 @@ def run_scraper(scraper_info: Dict[str, Any]) -> str:
         print(f"--- Running {scraper_class_name} ---", flush=True)
         scraper_class = getattr(scrapers, scraper_class_name)
 
-        scraper_args: Dict[str, Any] = {
+        scraper_args: dict[str, Any] = {
             "url": config["scrapers"][scraper_class_name]["url"],
             "file_name": config["scrapers"][scraper_class_name]["file_name"],
             "scraper_settings": config["scraper_settings"],
@@ -57,7 +57,7 @@ def main():
     except Exception as e:
         print(f"✗ ERROR in Event Archiver: {e}", flush=True)
 
-    scrapers_to_run: List[Dict[str, Any]] = [
+    scrapers_to_run: list[dict[str, Any]] = [
         {"class_name": name, "config": config}
         for name, settings in config["scrapers"].items()
         if settings["enabled"]

@@ -1,4 +1,4 @@
-from typing import Any, Dict, List, Optional, Set
+from typing import Any, Optional, cast
 
 import requests
 from bs4 import BeautifulSoup, Tag
@@ -11,7 +11,7 @@ from .event_page_scraper import EventPageScraper
 
 def scrape_single_event_page(
     url: str, scraper: EventPageScraper
-) -> Optional[Dict[str, Any]]:
+) -> Optional[dict[str, Any]]:
     """Helper function to scrape a single event page with a shared scraper instance."""
     return scraper.scrape(url)
 
@@ -21,7 +21,7 @@ class EventScraper(BaseScraper):
         self,
         url: str,
         file_name: str,
-        scraper_settings: Dict[str, Any],
+        scraper_settings: dict[str, Any],
         check_existing_events: bool = False,
         github_user: Optional[str] = None,
         github_repo: Optional[str] = None,
@@ -30,8 +30,8 @@ class EventScraper(BaseScraper):
         self.check_existing_events = check_existing_events
         self.github_user = github_user
         self.github_repo = github_repo
-        self.existing_event_urls: Set[str] = set()
-        self.existing_events_data: Dict[str, List[Dict[str, Any]]] = {}
+        self.existing_event_urls: set[str] = set()
+        self.existing_events_data: dict[str, list[dict[str, Any]]] = {}
         if self.check_existing_events:
             self._fetch_existing_events()
 
@@ -58,12 +58,13 @@ class EventScraper(BaseScraper):
             print(f"Could not fetch existing events: {e}", flush=True)
             self.existing_events_data = {}
 
-    def parse(self, soup: BeautifulSoup) -> Dict[str, List[Dict[str, Any]]]:
-        events_to_scrape: List[Dict[str, Any]] = []
+    def parse(self, soup: BeautifulSoup) -> dict[str, list[dict[str, Any]]]:
+        events_to_scrape: list[dict[str, Any]] = []
         event_links = soup.select("a.event-item-link")
         print(f"Found {len(event_links)} event links", flush=True)
 
         for link in event_links:
+            link = cast(Tag, link)
             href = link.get("href")
             if not href:
                 continue
@@ -97,7 +98,7 @@ class EventScraper(BaseScraper):
                 }
             )
 
-        all_events_data: Dict[str, Dict[str, Any]] = {
+        all_events_data: dict[str, dict[str, Any]] = {
             event["article_url"]: event for event in events_to_scrape
         }
 
@@ -110,7 +111,7 @@ class EventScraper(BaseScraper):
                 print(f"✗ Failed to initialize WebDriver: {e}", flush=True)
                 print("Skipping event detail scraping, returning basic event data only", flush=True)
                 # Continue with basic event data without detailed scraping
-                new_events_by_category: Dict[str, List[Dict[str, Any]]] = {}
+                new_events_by_category: dict[str, list[dict[str, Any]]] = {}
                 for event in all_events_data.values():
                     category = event.get("category", "Event")
                     if category not in new_events_by_category:
@@ -137,7 +138,7 @@ class EventScraper(BaseScraper):
             finally:
                 page_scraper.close()
 
-        new_events_by_category: Dict[str, List[Dict[str, Any]]] = {}
+        new_events_by_category: dict[str, list[dict[str, Any]]] = {}
         for event in all_events_data.values():
             category = event.get("category", "Event")
             if category not in new_events_by_category:

@@ -1,7 +1,7 @@
 import re
-from typing import Any, Dict
+from typing import Any, cast
 
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Tag
 
 from src.utils import parse_cp_range
 
@@ -9,14 +9,15 @@ from .base_scraper import BaseScraper
 
 
 class RaidBossScraper(BaseScraper):
-    def __init__(self, url: str, file_name: str, scraper_settings: Dict[str, Any]):
+    def __init__(self, url: str, file_name: str, scraper_settings: dict[str, Any]):
         super().__init__(url, file_name, scraper_settings)
 
-    def parse(self, soup: BeautifulSoup) -> Dict[str, Any]:
-        raid_data: Dict[str, Any] = {}
+    def parse(self, soup: BeautifulSoup) -> dict[str, Any]:
+        raid_data: dict[str, Any] = {}
         tier_sections = soup.select(".raid-bosses .tier, .shadow-raid-bosses .tier")
 
         for section in tier_sections:
+            section = cast(Tag, section)
             header_element = section.find("h2", class_="header")
             if not header_element:
                 continue
@@ -27,6 +28,7 @@ class RaidBossScraper(BaseScraper):
             boss_cards = section.find_all("div", class_="card")
 
             for card in boss_cards:
+                card = cast(Tag, card)
                 name_element = card.find("p", class_="name")
                 if not name_element:
                     continue
@@ -50,9 +52,9 @@ class RaidBossScraper(BaseScraper):
                 )
 
                 types = [
-                    t["title"]
+                    cast(Tag, t)["title"]
                     for t in card.select(".boss-type .type img")
-                    if t.has_attr("title")
+                    if cast(Tag, t).has_attr("title")
                 ]
 
                 asset_url_element = card.select_one(".boss-img img")

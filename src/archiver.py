@@ -1,7 +1,7 @@
 import json
 import os
 from datetime import datetime, timedelta, timezone
-from typing import Any, Dict, List
+from typing import Any
 
 import requests
 
@@ -19,7 +19,7 @@ class EventArchiver:
 
         self.events_path = os.path.join(self.json_dir, "events.json")
 
-    def _should_archive(self, event: Dict[str, Any], now_utc: datetime) -> tuple[bool, datetime | None]:
+    def _should_archive(self, event: dict[str, Any], now_utc: datetime) -> tuple[bool, datetime | None]:
         end_time = event.get("end_time")
         if not end_time:
             return False, None
@@ -53,8 +53,8 @@ class EventArchiver:
             print(f"Could not fetch events.json to archive. It may not exist yet. Error: {e}", flush=True)
             return
 
-        events_to_archive_by_year: Dict[int, List[Dict[str, Any]]] = {}
-        remaining_events: Dict[str, List[Dict[str, Any]]] = {}
+        events_to_archive_by_year: dict[int, list[dict[str, Any]]] = {}
+        remaining_events: dict[str, list[dict[str, Any]]] = {}
 
         for category, events in current_events_data.items():
             active_events_in_category = []
@@ -82,7 +82,7 @@ class EventArchiver:
             json.dump(remaining_events, f, ensure_ascii=False, indent=4)
         print(f"events.json has been cleaned and saved to {self.events_path}.", flush=True)
 
-    def _update_archive_file(self, year: int, events: List[Dict[str, Any]]):
+    def _update_archive_file(self, year: int, events: list[dict[str, Any]]):
         archive_file_path = os.path.join(self.archives_dir, f"archive_{year}.json")
         archive_url = f"{self.repo_base_url}/archives/archive_{year}.json"
 

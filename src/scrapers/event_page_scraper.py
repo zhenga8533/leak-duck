@@ -5,7 +5,7 @@ import time
 from concurrent.futures import ThreadPoolExecutor
 from concurrent.futures import TimeoutError as FuturesTimeoutError
 from datetime import datetime, timedelta
-from typing import Any, Dict, Optional, cast
+from typing import Any, Optional, cast
 from urllib.parse import quote_plus
 
 from bs4 import BeautifulSoup, Tag
@@ -125,8 +125,9 @@ class EventPageScraper:
         driver.set_script_timeout(15)  # Max 15 seconds for scripts
 
         # Set remote connection timeout to 30 seconds (shorter than the default 120)
-        if hasattr(driver, 'command_executor'):
-            driver.command_executor.set_timeout(30)
+        ce: Any = getattr(driver, "command_executor", None)
+        if ce and hasattr(ce, "set_timeout"):
+            ce.set_timeout(30)
 
         return driver
 
@@ -162,7 +163,7 @@ class EventPageScraper:
                 return False
         return True
 
-    def _has_valid_times(self, event_details: Dict[str, Any]) -> bool:
+    def _has_valid_times(self, event_details: dict[str, Any]) -> bool:
         """Checks if event has both valid start and end times."""
         return self._is_valid_time(
             event_details.get("start_time")
@@ -184,7 +185,9 @@ class EventPageScraper:
                 pass  # Ignore errors when closing stuck driver
 
             # Create a new driver
-            self.driver = self._get_driver_with_timeout(timeout=self.driver_init_timeout)
+            self.driver = self._get_driver_with_timeout(
+                timeout=self.driver_init_timeout
+            )
             self.driver_stuck = False
             print("✓ WebDriver restarted successfully", flush=True)
             return True
@@ -213,9 +216,9 @@ class EventPageScraper:
         """Closes the WebDriver session."""
         self.driver.quit()
 
-    def _parse_event_details(self, soup: BeautifulSoup, url: str) -> Dict[str, Any]:
+    def _parse_event_details(self, soup: BeautifulSoup, url: str) -> dict[str, Any]:
         """Parses the HTML soup to extract event details."""
-        event_details: Dict[str, Any] = {"article_url": url, "details": {}}
+        event_details: dict[str, Any] = {"article_url": url, "details": {}}
         content = soup.find("div", class_="page-content")
 
         if not isinstance(content, Tag):
@@ -318,7 +321,7 @@ class EventPageScraper:
 
         return event_details
 
-    def _parse_section(self, section: Tag, event_details: Dict[str, Any]):
+    def _parse_section(self, section: Tag, event_details: dict[str, Any]):
         """Parses a single section of the event page."""
         section_id_val = section.get("id")
         if not section_id_val or not isinstance(section_id_val, str):
@@ -353,7 +356,7 @@ class EventPageScraper:
             )
 
     def _parse_pokemon_list(
-        self, element: Tag, section_id: str, event_details: Dict[str, Any]
+        self, element: Tag, section_id: str, event_details: dict[str, Any]
     ):
         """Parses a list of Pokémon from a section."""
         pokemon_list = set()
@@ -368,7 +371,7 @@ class EventPageScraper:
                 sorted(list(pokemon_list))
             )
 
-    def _parse_bonuses(self, element: Tag, event_details: Dict[str, Any]):
+    def _parse_bonuses(self, element: Tag, event_details: dict[str, Any]):
         """Parses a list of bonuses."""
         bonuses = {
             clean_spacing(item.get_text(strip=True))
@@ -379,7 +382,7 @@ class EventPageScraper:
                 sorted(list(bonuses))
             )
 
-    def scrape(self, url: str) -> Dict[str, Any]:
+    def scrape(self, url: str) -> dict[str, Any]:
         """
         Scrapes a given URL for event details with retry logic for invalid times.
 
@@ -469,7 +472,10 @@ class EventPageScraper:
                         return {"article_url": url, "error": "DriverRestartFailed"}
                     time.sleep(self.retry_delay)
                 else:
-                    return {"article_url": url, "error": f"ConnectionError: {error_type}"}
+                    return {
+                        "article_url": url,
+                        "error": f"ConnectionError: {error_type}",
+                    }
 
             except WebDriverException as e:
                 # General WebDriver errors - might indicate stuck driver
@@ -479,18 +485,28 @@ class EventPageScraper:
                 )
                 # Check if error message indicates connection issues
                 error_str = str(e).lower()
-                if "timeout" in error_str or "connection" in error_str or "disconnected" in error_str:
+                if (
+                    "timeout" in error_str
+                    or "connection" in error_str
+                    or "disconnected" in error_str
+                ):
                     self.driver_stuck = True
                     if attempt < self.max_retries:
                         if not self._restart_driver():
                             return {"article_url": url, "error": "DriverRestartFailed"}
                         time.sleep(self.retry_delay)
                     else:
-                        return {"article_url": url, "error": f"WebDriverException: {str(e)[:100]}"}
+                        return {
+                            "article_url": url,
+                            "error": f"WebDriverException: {str(e)[:100]}",
+                        }
                 else:
                     # Non-connection WebDriver error
                     if attempt == self.max_retries:
-                        return {"article_url": url, "error": f"WebDriverException: {str(e)[:100]}"}
+                        return {
+                            "article_url": url,
+                            "error": f"WebDriverException: {str(e)[:100]}",
+                        }
                     time.sleep(self.retry_delay)
 
             except AttributeError as e:

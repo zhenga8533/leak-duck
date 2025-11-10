@@ -1,7 +1,7 @@
 import os
 import re
 from datetime import datetime
-from typing import Any, Dict, List, Optional, Union
+from typing import Any, Optional, Union
 
 from bs4.element import Tag
 
@@ -17,7 +17,7 @@ def save_html(content: str, path: str):
         print(f"Saved raw HTML to {path}")
 
 
-def parse_cp_range(cp_string: str) -> Optional[Dict[str, int]]:
+def parse_cp_range(cp_string: str) -> Optional[dict[str, int]]:
     """
     A helper function to parse a CP range string (e.g., "2190 - 2280").
     """
@@ -33,7 +33,7 @@ def parse_cp_range(cp_string: str) -> Optional[Dict[str, int]]:
     return None
 
 
-def parse_pokemon_list(container: Tag) -> List[Dict[str, Any]]:
+def parse_pokemon_list(container: Tag) -> list[dict[str, Any]]:
     """
     A generic helper to parse lists of Pokémon from a containing element.
     It intelligently finds the name, shiny status, and asset URL.
