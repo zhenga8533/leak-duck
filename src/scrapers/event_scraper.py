@@ -58,8 +58,10 @@ class EventScraper(BaseScraper):
             self.existing_events_data = {}
 
     def parse(self, soup: BeautifulSoup) -> Dict[str, List[Dict[str, Any]]]:
+        print("  → EventScraper.parse() starting...", flush=True)
         events_to_scrape: List[Dict[str, Any]] = []
         event_links = soup.select("a.event-item-link")
+        print(f"  → Found {len(event_links)} event links", flush=True)
 
         for link in event_links:
             href = link.get("href")
@@ -100,18 +102,22 @@ class EventScraper(BaseScraper):
         }
 
         if events_to_scrape:
+            print(f"  → Initializing Selenium WebDriver for {len(events_to_scrape)} events...", flush=True)
             page_scraper = EventPageScraper()
+            print("  → WebDriver initialized successfully", flush=True)
             try:
                 total_events = len(events_to_scrape)
                 for idx, event in enumerate(events_to_scrape, 1):
-                    print(f"Processing event {idx}/{total_events}: {event['title']}")
+                    print(f"Processing event {idx}/{total_events}: {event['title']}", flush=True)
                     result = scrape_single_event_page(
                         event["article_url"], page_scraper
                     )
                     if result and result.get("article_url") in all_events_data:
                         all_events_data[result["article_url"]].update(result)
             finally:
+                print("  → Closing WebDriver...", flush=True)
                 page_scraper.close()
+                print("  → WebDriver closed", flush=True)
 
         new_events_by_category: Dict[str, List[Dict[str, Any]]] = {}
         for event in all_events_data.values():

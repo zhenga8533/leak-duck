@@ -50,7 +50,9 @@ class EventPageScraper:
 
     def __init__(self):
         """Initializes the EventPageScraper and its WebDriver."""
+        print("    → EventPageScraper.__init__: Getting WebDriver...", flush=True)
         self.driver: WebDriver = self._get_driver()
+        print("    → EventPageScraper.__init__: WebDriver obtained", flush=True)
         self.cache_expiration_hours = self._load_cache_expiration()
         self.max_retries = 3
         self.retry_delay = 1  # seconds

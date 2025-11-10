@@ -36,7 +36,9 @@ def run_scraper(scraper_info: Dict[str, Any]) -> str:
             scraper_args["github_user"] = config["github"]["user"]
             scraper_args["github_repo"] = config["github"]["repo"]
 
+        print(f"  → Creating {scraper_class_name} instance...", flush=True)
         scraper_instance = scraper_class(**scraper_args)
+        print(f"  → Instance created, calling run()...", flush=True)
         scraper_instance.run()
         return f"Successfully ran {scraper_class_name}"
     except Exception as e:

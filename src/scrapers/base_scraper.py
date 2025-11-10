@@ -25,7 +25,7 @@ class BaseScraper(ABC):
         timeout = self.scraper_settings.get("timeout", 15)
 
         for attempt in range(retries):
-            print(f"Fetching HTML from {self.url} (Attempt {attempt + 1}/{retries})...")
+            print(f"Fetching HTML from {self.url} (Attempt {attempt + 1}/{retries})...", flush=True)
             try:
                 response = requests.get(self.url, timeout=timeout)
                 response.raise_for_status()
@@ -34,12 +34,12 @@ class BaseScraper(ABC):
 
                 return BeautifulSoup(response.content, "lxml")
             except requests.exceptions.RequestException as e:
-                print(f"Error fetching {self.url}: {e}")
+                print(f"Error fetching {self.url}: {e}", flush=True)
                 if attempt < retries - 1:
-                    print(f"Retrying in {delay} seconds...")
+                    print(f"Retrying in {delay} seconds...", flush=True)
                     time.sleep(delay)
                 else:
-                    print("All retry attempts failed.")
+                    print("All retry attempts failed.", flush=True)
                     return None
         return None
 
@@ -58,8 +58,10 @@ class BaseScraper(ABC):
         pass
 
     def run(self):
+        print(f"  → Starting scraper run() method...", flush=True)
         soup = self._fetch_html()
         if soup:
+            print(f"  → HTML fetched, parsing...", flush=True)
             data = self.parse(soup)
             self.save_to_json(data)
         else:
