@@ -179,9 +179,11 @@ class EventPageScraper:
                 if not isinstance(child, Tag):
                     continue
 
-                # Check if this is a section header (h2 with id)
+                # Check if this is a section header (h2 with id and event-section-header class)
                 section_id_val = child.get("id")
-                if child.name == "h2" and section_id_val and isinstance(section_id_val, str):
+                classes = child.get("class", [])
+                if (child.name == "h2" and section_id_val and isinstance(section_id_val, str)
+                    and "event-section-header" in classes):
                     # Save current section if we were in one
                     if current_section_id and current_section_items:
                         event_details["details"][current_section_id] = current_section_items
