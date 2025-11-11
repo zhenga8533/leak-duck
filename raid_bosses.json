@@ -1,221 +1,170 @@
 {
     "Tier 1": [
         {
-            "name": "Paras",
+            "name": "Bulbasaur",
             "tier": 1,
             "shiny_available": true,
             "cp_range": {
-                "min": 536,
-                "max": 581
+                "min": 590,
+                "max": 637
             },
             "boosted_cp_range": {
-                "min": 671,
-                "max": 727
+                "min": 737,
+                "max": 796
             },
             "types": [
-                "Bug",
-                "Grass"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm46.icon.png"
-        },
-        {
-            "name": "Stantler",
-            "tier": 1,
-            "shiny_available": true,
-            "cp_range": {
-                "min": 1170,
-                "max": 1236
-            },
-            "boosted_cp_range": {
-                "min": 1463,
-                "max": 1546
-            },
-            "types": [
-                "Normal"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm234.icon.png"
-        },
-        {
-            "name": "Tarountula",
-            "tier": 1,
-            "shiny_available": false,
-            "cp_range": {
-                "min": 292,
-                "max": 326
-            },
-            "boosted_cp_range": {
-                "min": 366,
-                "max": 408
-            },
-            "types": [
-                "Bug"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm917.icon.png"
-        }
-    ],
-    "Tier 3": [
-        {
-            "name": "Leavanny",
-            "tier": 3,
-            "shiny_available": false,
-            "cp_range": {
-                "min": 1402,
-                "max": 1474
-            },
-            "boosted_cp_range": {
-                "min": 1753,
-                "max": 1843
-            },
-            "types": [
-                "Bug",
-                "Grass"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm542.icon.png"
-        },
-        {
-            "name": "Scolipede",
-            "tier": 3,
-            "shiny_available": false,
-            "cp_range": {
-                "min": 1328,
-                "max": 1398
-            },
-            "boosted_cp_range": {
-                "min": 1660,
-                "max": 1747
-            },
-            "types": [
-                "Bug",
+                "Grass",
                 "Poison"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm545.icon.png"
-        },
-        {
-            "name": "Drampa",
-            "tier": 3,
-            "shiny_available": true,
-            "cp_range": {
-                "min": 1588,
-                "max": 1665
-            },
-            "boosted_cp_range": {
-                "min": 1985,
-                "max": 2081
-            },
-            "types": [
-                "Normal",
-                "Dragon"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm780.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm1.icon.png"
         }
     ],
     "Tier 5": [
         {
-            "name": "Raikou",
+            "name": "Tapu Koko",
             "tier": 5,
             "shiny_available": true,
             "cp_range": {
-                "min": 1889,
-                "max": 1972
+                "min": 1730,
+                "max": 1810
             },
             "boosted_cp_range": {
-                "min": 2361,
-                "max": 2466
+                "min": 2162,
+                "max": 2263
             },
             "types": [
-                "Electric"
+                "Electric",
+                "Fairy"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm243.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm785.icon.png"
         },
         {
-            "name": "Entei",
+            "name": "Tapu Lele",
             "tier": 5,
             "shiny_available": true,
             "cp_range": {
-                "min": 1900,
-                "max": 1984
+                "min": 1912,
+                "max": 1996
             },
             "boosted_cp_range": {
-                "min": 2375,
-                "max": 2480
+                "min": 2390,
+                "max": 2496
             },
             "types": [
-                "Fire"
+                "Psychic",
+                "Fairy"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm244.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm786.icon.png"
         },
         {
-            "name": "Suicune",
+            "name": "Necrozma (Dusk Mane)",
+            "tier": 5,
+            "shiny_available": false,
+            "cp_range": {
+                "min": 2251,
+                "max": 2342
+            },
+            "boosted_cp_range": {
+                "min": 2813,
+                "max": 2928
+            },
+            "types": [
+                "Psychic",
+                "Steel"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm800.fDUSK_MANE.icon.png"
+        },
+        {
+            "name": "Tapu Bulu",
             "tier": 5,
             "shiny_available": true,
             "cp_range": {
-                "min": 1627,
-                "max": 1704
+                "min": 1870,
+                "max": 1953
             },
             "boosted_cp_range": {
-                "min": 2033,
-                "max": 2130
+                "min": 2338,
+                "max": 2442
             },
             "types": [
-                "Water"
+                "Grass",
+                "Fairy"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm245.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm787.icon.png"
+        },
+        {
+            "name": "Tapu Fini",
+            "tier": 5,
+            "shiny_available": true,
+            "cp_range": {
+                "min": 1556,
+                "max": 1632
+            },
+            "boosted_cp_range": {
+                "min": 1946,
+                "max": 2041
+            },
+            "types": [
+                "Water",
+                "Fairy"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm788.icon.png"
+        },
+        {
+            "name": "Necrozma (Dawn Wings)",
+            "tier": 5,
+            "shiny_available": false,
+            "cp_range": {
+                "min": 2251,
+                "max": 2342
+            },
+            "boosted_cp_range": {
+                "min": 2813,
+                "max": 2928
+            },
+            "types": [
+                "Psychic",
+                "Ghost"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm800.fDAWN_WINGS.icon.png"
         }
     ],
     "Mega": [
         {
-            "name": "Mega Beedrill",
+            "name": "Mega Tyranitar",
             "tier": "Mega",
             "shiny_available": true,
             "cp_range": {
-                "min": 994,
-                "max": 1054
+                "min": 2103,
+                "max": 2191
             },
             "boosted_cp_range": {
-                "min": 1242,
-                "max": 1318
+                "min": 2629,
+                "max": 2739
             },
             "types": [
-                "Bug",
-                "Poison"
+                "Rock",
+                "Dark"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm15.fMEGA.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm248.fMEGA.icon.png"
         },
         {
-            "name": "Mega Pinsir",
+            "name": "Mega Altaria",
             "tier": "Mega",
             "shiny_available": true,
             "cp_range": {
-                "min": 1613,
-                "max": 1690
+                "min": 1081,
+                "max": 1145
             },
             "boosted_cp_range": {
-                "min": 2016,
-                "max": 2113
+                "min": 1352,
+                "max": 1432
             },
             "types": [
-                "Bug",
-                "Flying"
+                "Dragon",
+                "Fairy"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm127.fMEGA.icon.png"
-        },
-        {
-            "name": "Mega Heracross",
-            "tier": "Mega",
-            "shiny_available": false,
-            "cp_range": {
-                "min": 1693,
-                "max": 1772
-            },
-            "boosted_cp_range": {
-                "min": 2116,
-                "max": 2215
-            },
-            "types": [
-                "Bug",
-                "Fighting"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm214.fMEGA.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm334.fMEGA.icon.png"
         }
     ],
     "Shadow Tier 1": [

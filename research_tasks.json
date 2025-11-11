@@ -326,7 +326,7 @@
                     "type": "resource",
                     "name": "Pidgeot Mega Energy",
                     "quantity": 10,
-                    "asset_url": "/assets/img/mega_energy/Pidgeot Mega Energy.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Pidgeot Mega Energy.png"
                 },
                 {
                     "type": "item",
@@ -361,13 +361,13 @@
                     "type": "resource",
                     "name": "Charizard Mega Energy",
                     "quantity": 10,
-                    "asset_url": "/assets/img/mega_energy/Charizard Mega Energy.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Charizard Mega Energy.png"
                 },
                 {
                     "type": "resource",
                     "name": "Blaziken Mega Energy",
                     "quantity": 10,
-                    "asset_url": "/assets/img/mega_energy/Blaziken Mega Energy.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Blaziken Mega Energy.png"
                 },
                 {
                     "type": "item",
@@ -402,13 +402,13 @@
                     "type": "resource",
                     "name": "Venusaur Mega Energy",
                     "quantity": 10,
-                    "asset_url": "/assets/img/mega_energy/Venusaur Mega Energy.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Venusaur Mega Energy.png"
                 },
                 {
                     "type": "resource",
                     "name": "Sceptile Mega Energy",
                     "quantity": 10,
-                    "asset_url": "/assets/img/mega_energy/Sceptile Mega Energy.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Sceptile Mega Energy.png"
                 },
                 {
                     "type": "item",
@@ -443,13 +443,13 @@
                     "type": "resource",
                     "name": "Blastoise Mega Energy",
                     "quantity": 10,
-                    "asset_url": "/assets/img/mega_energy/Blastoise Mega Energy.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Blastoise Mega Energy.png"
                 },
                 {
                     "type": "resource",
                     "name": "Swampert Mega Energy",
                     "quantity": 10,
-                    "asset_url": "/assets/img/mega_energy/Swampert Mega Energy.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Swampert Mega Energy.png"
                 },
                 {
                     "type": "item",
@@ -1637,43 +1637,43 @@
                     "type": "resource",
                     "name": "Venusaur Mega Energy",
                     "quantity": 10,
-                    "asset_url": "/assets/img/mega_energy/Venusaur Mega Energy.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Venusaur Mega Energy.png"
                 },
                 {
                     "type": "resource",
                     "name": "Charizard Mega Energy",
                     "quantity": 10,
-                    "asset_url": "/assets/img/mega_energy/Charizard Mega Energy.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Charizard Mega Energy.png"
                 },
                 {
                     "type": "resource",
                     "name": "Blastoise Mega Energy",
                     "quantity": 10,
-                    "asset_url": "/assets/img/mega_energy/Blastoise Mega Energy.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Blastoise Mega Energy.png"
                 },
                 {
                     "type": "resource",
                     "name": "Beedrill Mega Energy",
                     "quantity": 10,
-                    "asset_url": "/assets/img/mega_energy/Beedrill Mega Energy.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Beedrill Mega Energy.png"
                 },
                 {
                     "type": "resource",
                     "name": "Pidgeot Mega Energy",
                     "quantity": 10,
-                    "asset_url": "/assets/img/mega_energy/Pidgeot Mega Energy.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Pidgeot Mega Energy.png"
                 },
                 {
                     "type": "resource",
                     "name": "Manectric Mega Energy",
                     "quantity": 10,
-                    "asset_url": "/assets/img/mega_energy/Manectric Mega Energy.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Manectric Mega Energy.png"
                 },
                 {
                     "type": "resource",
                     "name": "Aggron Mega Energy",
                     "quantity": 10,
-                    "asset_url": "/assets/img/mega_energy/Aggron Mega Energy.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Aggron Mega Energy.png"
                 }
             ]
         },
@@ -1710,13 +1710,13 @@
                     "type": "resource",
                     "name": "Abomasnow Mega Energy",
                     "quantity": 20,
-                    "asset_url": "/assets/img/mega_energy/Abomasnow Mega Energy.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Abomasnow Mega Energy.png"
                 },
                 {
                     "type": "resource",
                     "name": "Glalie Mega Energy",
                     "quantity": 20,
-                    "asset_url": "/assets/img/mega_energy/Glalie Mega Energy.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Glalie Mega Energy.png"
                 }
             ]
         },
