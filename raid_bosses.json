@@ -79,14 +79,14 @@
         {
             "name": "Necrozma (Dusk Mane)",
             "tier": 5,
-            "shiny_available": false,
+            "shiny_available": true,
             "cp_range": {
-                "min": 2251,
-                "max": 2342
+                "min": 2018,
+                "max": 2104
             },
             "boosted_cp_range": {
-                "min": 2813,
-                "max": 2928
+                "min": 2522,
+                "max": 2630
             },
             "types": [
                 "Psychic",
@@ -133,14 +133,14 @@
         {
             "name": "Necrozma (Dawn Wings)",
             "tier": 5,
-            "shiny_available": false,
+            "shiny_available": true,
             "cp_range": {
-                "min": 2251,
-                "max": 2342
+                "min": 2018,
+                "max": 2104
             },
             "boosted_cp_range": {
-                "min": 2813,
-                "max": 2928
+                "min": 2522,
+                "max": 2630
             },
             "types": [
                 "Psychic",

@@ -1,226 +1,4 @@
 {
-    "Raid Battles": [
-        {
-            "title": "Mega Beedrill, Mega Pinsir, and Mega Heracross in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-beedrill-pinsir-heracross-in-mega-raids-november-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Beedrill",
-                    "Mega Heracross",
-                    "Mega Pinsir"
-                ],
-                "shiny": [
-                    "Beedrill",
-                    "Heracross",
-                    "Mega Beedrill",
-                    "Mega Heracross",
-                    "Mega Pinsir",
-                    "Pinsir"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-11-04T10:00:00",
-            "end_time": "2025-11-11T10:00:00",
-            "description": "Mega Beedrill, Mega Pinsir, and Mega Heracross return to Mega Raids on November 4, 2025, at 10 am local time."
-        },
-        {
-            "title": "Raikou, Entei, and Suicune in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/raikou-entei-suicune-in-5-star-raid-battles-november-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/ultrabonusbeasts.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Entei",
-                    "Raikou",
-                    "Suicune"
-                ],
-                "shiny": [
-                    "Entei",
-                    "Raikou",
-                    "Suicune"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-11-04T10:00:00",
-            "end_time": "2025-11-11T10:00:00",
-            "description": "Raikou, Entei, and Suicune will be in five-star raid battles from November 4, 2025 to November 11, 2025.\nThere will also be a Raid Hour featuring Raikou, Entei, and Suicune from 6:00 pm to 7:00 pm local time on the following dates:\n- November 5"
-        },
-        {
-            "title": "Mega Tyranitar and Mega Altaria in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-tyranitar-altaria-in-mega-raids-november-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Altaria",
-                    "Mega Tyranitar"
-                ],
-                "shiny": [
-                    "Altaria",
-                    "Mega Altaria",
-                    "Mega Tyranitar",
-                    "Tyranitar"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-11-11T10:00:00",
-            "end_time": "2025-11-18T10:00:00",
-            "description": "Mega Tyranitar and Mega Altaria return to Mega Raids on November 11, 2025, at 10 am local time."
-        },
-        {
-            "title": "Heatran in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/heatran-in-5-star-raid-battles-november-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/heatran-raids.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Heatran"
-                ],
-                "shiny": [
-                    "Heatran"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-11-18T10:00:00",
-            "end_time": "2025-11-25T10:00:00",
-            "description": "Heatran will be in five-star raid battles from November 18, 2025 to November 25, 2025.\nThere will also be a Raid Hour featuring Heatran from 6:00 pm to 7:00 pm local time on the following dates:\n- November 19"
-        },
-        {
-            "title": "Mega Ampharos and Mega Manectric in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-ampharos-manectric-in-mega-raids-november-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Ampharos",
-                    "Mega Manectric"
-                ],
-                "shiny": [
-                    "Ampharos",
-                    "Manectric",
-                    "Mega Ampharos",
-                    "Mega Manectric"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-11-18T10:00:00",
-            "end_time": "2025-11-25T10:00:00",
-            "description": "Mega Ampharos and Mega Manectric return to Mega Raids on November 18, 2025, at 10 am local time."
-        },
-        {
-            "title": "Cobalion, Terrakion, and Virizion in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/cobalion-terrakion-virizion-in-5-star-raid-battles-november-december-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/swordsofjustice.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Cobalion",
-                    "Terrakion",
-                    "Virizion"
-                ],
-                "shiny": [
-                    "Cobalion",
-                    "Terrakion",
-                    "Virizion"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-11-25T10:00:00",
-            "end_time": "2025-12-02T10:00:00",
-            "description": "Cobalion, Terrakion, and Virizion will be in five-star raid battles from November 25, 2025 to December 2, 2025.\nThere will also be a Raid Hour featuring Cobalion, Terrakion, and Virizion from 6:00 pm to 7:00 pm local time on the following dates:\n- November 26"
-        },
-        {
-            "title": "Mega Aerodactyl, Mega Medicham, and Mega Garchomp in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-aerodactyl-medicham-garchomp-in-mega-raids-november-december-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Aerodactyl",
-                    "Mega Garchomp",
-                    "Mega Medicham"
-                ],
-                "shiny": [
-                    "Aerodactyl",
-                    "Garchomp",
-                    "Medicham",
-                    "Mega Aerodactyl",
-                    "Mega Garchomp",
-                    "Mega Medicham"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-11-25T10:00:00",
-            "end_time": "2025-12-02T10:00:00",
-            "description": "Mega Aerodactyl, Mega Medicham, and Mega Garchomp return to Mega Raids on November 25, 2025, at 10 am local time."
-        },
-        {
-            "title": "Shadow Latios in Shadow Raids",
-            "article_url": "https://leekduck.com/events/shadow-latios-in-shadow-raids-november-december-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Latios"
-                ],
-                "shiny": [
-                    "Latios"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-11-02T06:00:00",
-            "end_time": "2025-12-02T22:00:00",
-            "description": "Shadow Latios will return to Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Latios!\nShadow Latios will appear in five-star Shadow Raids every weekend from November 2 to December 2:\n- November 2\n- November 8 - November 9\n- November 15 - November 16\n- November 22 - November 23\n- November 29 - November 30"
-        }
-    ],
-    "GO Battle League": [
-        {
-            "title": "Ultra League and Jungle Cup: Great League Edition | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_ultra-league_jungle-cup-great-league-edition-2/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1762290000,
-            "end_time": 1762894800,
-            "description": "The Ultra League and Jungle Cup: Great League Edition will run from November 4, 2025, at 1:00 p.m. to November 11, 2025, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Normal-, Grass-, Electric-, Poison-, Ground-, Flying-, Bug-, and Dark-type Pokémon are eligible.\nThe following Pokémon will not be allowed.\n- Gligar\n- Galarian Stunfisk"
-        },
-        {
-            "title": "Great League, Ultra League, and Master League | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-3/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1762894800,
-            "end_time": 1763499600,
-            "description": "The Great League, Ultra League, and Master League will run from November 11, 2025, at 1:00 p.m. to November 18, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
-        },
-        {
-            "title": "2025 Championship Series Cup and Master League: Mega Edition | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_2025-championship-series-cup_master-league-mega-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1763499600,
-            "end_time": 1764104400,
-            "description": "The 2025 Championship Series Cup and Master League: Mega Edition will run from November 18, 2025, at 1:00 p.m. to November 25, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Ice-, Flying-, Psychic-, Ghost-, and Dragon-type Pokémon are eligible.\n- Legendary Pokémon, Mythical Pokémon, Shadow Pokémon, and Ultra Beasts are not eligible.\nThe following Pokémon will not be allowed.\n- Alolan Sandshrew\n- Alolan Sandslash\n- Alolan Ninetales\n- Lapras\n- Galarian Corsola\n- Kingdra\n- Jellicent\n- Honedge\n- Doublade\n- Corviknight\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
-        },
-        {
-            "title": "Catch Cup: Tales of Transformation: Great Edition, Ultra League, and Master League | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_catch-cup-tales-of-transformation-great-edition_ultra-league_master-league/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1764104400,
-            "end_time": 1764709200,
-            "description": "The Catch Cup: Tales of Transformation: Great Edition, Ultra League, and Master League will run from November 25, 2025, at 1:00 p.m. to December 2, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Pokémon caught during the Tales of Transformation Season are eligible.\n- Pokémon must be caught between September 2, 2025, at 1:00 p.m. and December 2, 2025, at 1:00 p.m. local time.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
-        }
-    ],
     "Pokémon Spotlight Hour": [
         {
             "title": "Morelull Spotlight Hour",
@@ -683,6 +461,170 @@
             "start_time": "2025-12-01T18:00:00",
             "end_time": "2025-12-01T19:00:00",
             "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 1, 2025, the featured Dynamax Pokémon is Darumaka.\n- Darumaka"
+        }
+    ],
+    "Raid Battles": [
+        {
+            "title": "Mega Tyranitar and Mega Altaria in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-tyranitar-altaria-in-mega-raids-november-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Altaria",
+                    "Mega Tyranitar"
+                ],
+                "shiny": [
+                    "Altaria",
+                    "Mega Altaria",
+                    "Mega Tyranitar",
+                    "Tyranitar"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-11T10:00:00",
+            "end_time": "2025-11-18T10:00:00",
+            "description": "Mega Tyranitar and Mega Altaria return to Mega Raids on November 11, 2025, at 10 am local time."
+        },
+        {
+            "title": "Heatran in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/heatran-in-5-star-raid-battles-november-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/heatran-raids.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Heatran"
+                ],
+                "shiny": [
+                    "Heatran"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-18T10:00:00",
+            "end_time": "2025-11-25T10:00:00",
+            "description": "Heatran will be in five-star raid battles from November 18, 2025 to November 25, 2025.\nThere will also be a Raid Hour featuring Heatran from 6:00 pm to 7:00 pm local time on the following dates:\n- November 19"
+        },
+        {
+            "title": "Mega Ampharos and Mega Manectric in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-ampharos-manectric-in-mega-raids-november-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Ampharos",
+                    "Mega Manectric"
+                ],
+                "shiny": [
+                    "Ampharos",
+                    "Manectric",
+                    "Mega Ampharos",
+                    "Mega Manectric"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-18T10:00:00",
+            "end_time": "2025-11-25T10:00:00",
+            "description": "Mega Ampharos and Mega Manectric return to Mega Raids on November 18, 2025, at 10 am local time."
+        },
+        {
+            "title": "Cobalion, Terrakion, and Virizion in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/cobalion-terrakion-virizion-in-5-star-raid-battles-november-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/swordsofjustice.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Cobalion",
+                    "Terrakion",
+                    "Virizion"
+                ],
+                "shiny": [
+                    "Cobalion",
+                    "Terrakion",
+                    "Virizion"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-25T10:00:00",
+            "end_time": "2025-12-02T10:00:00",
+            "description": "Cobalion, Terrakion, and Virizion will be in five-star raid battles from November 25, 2025 to December 2, 2025.\nThere will also be a Raid Hour featuring Cobalion, Terrakion, and Virizion from 6:00 pm to 7:00 pm local time on the following dates:\n- November 26"
+        },
+        {
+            "title": "Mega Aerodactyl, Mega Medicham, and Mega Garchomp in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-aerodactyl-medicham-garchomp-in-mega-raids-november-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Aerodactyl",
+                    "Mega Garchomp",
+                    "Mega Medicham"
+                ],
+                "shiny": [
+                    "Aerodactyl",
+                    "Garchomp",
+                    "Medicham",
+                    "Mega Aerodactyl",
+                    "Mega Garchomp",
+                    "Mega Medicham"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-25T10:00:00",
+            "end_time": "2025-12-02T10:00:00",
+            "description": "Mega Aerodactyl, Mega Medicham, and Mega Garchomp return to Mega Raids on November 25, 2025, at 10 am local time."
+        },
+        {
+            "title": "Shadow Latios in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-latios-in-shadow-raids-november-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Latios"
+                ],
+                "shiny": [
+                    "Latios"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-02T06:00:00",
+            "end_time": "2025-12-02T22:00:00",
+            "description": "Shadow Latios will return to Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Latios!\nShadow Latios will appear in five-star Shadow Raids every weekend from November 2 to December 2:\n- November 2\n- November 8 - November 9\n- November 15 - November 16\n- November 22 - November 23\n- November 29 - November 30"
+        }
+    ],
+    "GO Battle League": [
+        {
+            "title": "Great League, Ultra League, and Master League | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-3/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1762894800,
+            "end_time": 1763499600,
+            "description": "The Great League, Ultra League, and Master League will run from November 11, 2025, at 1:00 p.m. to November 18, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
+        },
+        {
+            "title": "2025 Championship Series Cup and Master League: Mega Edition | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_2025-championship-series-cup_master-league-mega-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1763499600,
+            "end_time": 1764104400,
+            "description": "The 2025 Championship Series Cup and Master League: Mega Edition will run from November 18, 2025, at 1:00 p.m. to November 25, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Ice-, Flying-, Psychic-, Ghost-, and Dragon-type Pokémon are eligible.\n- Legendary Pokémon, Mythical Pokémon, Shadow Pokémon, and Ultra Beasts are not eligible.\nThe following Pokémon will not be allowed.\n- Alolan Sandshrew\n- Alolan Sandslash\n- Alolan Ninetales\n- Lapras\n- Galarian Corsola\n- Kingdra\n- Jellicent\n- Honedge\n- Doublade\n- Corviknight\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
+        },
+        {
+            "title": "Catch Cup: Tales of Transformation: Great Edition, Ultra League, and Master League | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_catch-cup-tales-of-transformation-great-edition_ultra-league_master-league/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1764104400,
+            "end_time": 1764709200,
+            "description": "The Catch Cup: Tales of Transformation: Great Edition, Ultra League, and Master League will run from November 25, 2025, at 1:00 p.m. to December 2, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Pokémon caught during the Tales of Transformation Season are eligible.\n- Pokémon must be caught between September 2, 2025, at 1:00 p.m. and December 2, 2025, at 1:00 p.m. local time.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
         }
     ],
     "Raid Hour": [
