@@ -19,6 +19,26 @@
             "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm1.icon.png"
         }
     ],
+    "Tier 3": [
+        {
+            "name": "Ivysaur",
+            "tier": 3,
+            "shiny_available": false,
+            "cp_range": {
+                "min": 912,
+                "max": 970
+            },
+            "boosted_cp_range": {
+                "min": 1141,
+                "max": 1213
+            },
+            "types": [
+                "Grass",
+                "Poison"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm2.icon.png"
+        }
+    ],
     "Tier 5": [
         {
             "name": "Tapu Koko",

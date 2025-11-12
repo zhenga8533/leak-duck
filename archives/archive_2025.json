@@ -806,6 +806,53 @@
             "start_time": "2025-10-28T10:00:00",
             "end_time": "2025-11-04T10:00:00",
             "description": "Mega Gengar, Mega Sableye, and Mega Banette return to Mega Raids on October 28, 2025, at 10 am local time."
+        },
+        {
+            "title": "Mega Beedrill, Mega Pinsir, and Mega Heracross in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-beedrill-pinsir-heracross-in-mega-raids-november-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Beedrill",
+                    "Mega Heracross",
+                    "Mega Pinsir"
+                ],
+                "shiny": [
+                    "Beedrill",
+                    "Heracross",
+                    "Mega Beedrill",
+                    "Mega Heracross",
+                    "Mega Pinsir",
+                    "Pinsir"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-04T10:00:00",
+            "end_time": "2025-11-11T10:00:00",
+            "description": "Mega Beedrill, Mega Pinsir, and Mega Heracross return to Mega Raids on November 4, 2025, at 10 am local time."
+        },
+        {
+            "title": "Raikou, Entei, and Suicune in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/raikou-entei-suicune-in-5-star-raid-battles-november-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/ultrabonusbeasts.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Entei",
+                    "Raikou",
+                    "Suicune"
+                ],
+                "shiny": [
+                    "Entei",
+                    "Raikou",
+                    "Suicune"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-04T10:00:00",
+            "end_time": "2025-11-11T10:00:00",
+            "description": "Raikou, Entei, and Suicune will be in five-star raid battles from November 4, 2025 to November 11, 2025.\nThere will also be a Raid Hour featuring Raikou, Entei, and Suicune from 6:00 pm to 7:00 pm local time on the following dates:\n- November 5"
         }
     ],
     "GO Battle League": [
@@ -912,6 +959,17 @@
                 "Only Poison-, Bug-, Ghost-, Dark-, and Fairy-type Pokémon are eligible."
             ],
             "description": "The Great League and Halloween Cup: Great League Edition will run from October 28, 2025, at 1:00 p.m. to November 4, 2025, at 1:00 p.m. PT."
+        },
+        {
+            "title": "Ultra League and Jungle Cup: Great League Edition | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_ultra-league_jungle-cup-great-league-edition-2/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1762290000,
+            "end_time": 1762894800,
+            "description": "The Ultra League and Jungle Cup: Great League Edition will run from November 4, 2025, at 1:00 p.m. to November 11, 2025, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Normal-, Grass-, Electric-, Poison-, Ground-, Flying-, Bug-, and Dark-type Pokémon are eligible.\nThe following Pokémon will not be allowed.\n- Gligar\n- Galarian Stunfisk"
         }
     ],
     "Pokémon Spotlight Hour": [

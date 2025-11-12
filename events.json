@@ -1,50 +1,4 @@
 {
-    "Max Mondays": [
-        {
-            "title": "Dynamax Ralts during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-11-10/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-11-10T18:00:00",
-            "end_time": "2025-11-10T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn November 10, 2025, the featured Dynamax Pokémon is Ralts.\n- Ralts"
-        },
-        {
-            "title": "Dynamax Toxtricity during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-11-17/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-11-17T18:00:00",
-            "end_time": "2025-11-17T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn November 17, 2025, the featured Dynamax Pokémon are Toxtricity (Amped) and Toxtricity (Low Key)."
-        },
-        {
-            "title": "Dynamax Eevee during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-11-24/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-11-24T18:00:00",
-            "end_time": "2025-11-24T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn November 24, 2025, the featured Dynamax Pokémon is Eevee.\n- Eevee"
-        },
-        {
-            "title": "Dynamax Darumaka during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-12-01/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-01T18:00:00",
-            "end_time": "2025-12-01T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 1, 2025, the featured Dynamax Pokémon is Darumaka.\n- Darumaka"
-        }
-    ],
     "Raid Battles": [
         {
             "title": "Mega Beedrill, Mega Pinsir, and Mega Heracross in Mega Raids",
@@ -399,17 +353,6 @@
             "description": "Get ready for an electrifying High Voltage event in Pokémon GO!"
         },
         {
-            "title": "Final Justice",
-            "article_url": "https://leekduck.com/events/final-justice-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-11-25T10:00:00",
-            "end_time": "2025-11-30T20:00:00",
-            "description": "The Final Justice event will take place from November 25, 2025 at 10 am to November 30, 2025 at 8 pm. Stay tuned for more details."
-        },
-        {
             "title": "Dynamax Max Battle Weekend",
             "article_url": "https://leekduck.com/events/dynamax-max-battle-weekend-2025-2/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
@@ -419,6 +362,50 @@
             "start_time": "2025-11-29T10:00:00",
             "end_time": "2025-11-30T20:00:00",
             "description": "The Dynamax Max Battle Weekend event will take place from November 29, 2025 at 10 am to November 30, 2025 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Final Justice",
+            "article_url": "https://leekduck.com/events/final-justice-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-25-final-justice-2025/final-justice-2025.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "Increased chance of encountering Shiny Hitmonlee, Shiny Hitmonchan, and Shiny Hitmontop",
+                    "Receive up to two free Raid Passes from spinning Gym Photo Discs during the event"
+                ],
+                "features": [
+                    "Keldeo",
+                    "Keldeo (Resolute)"
+                ],
+                "spawns": [
+                    "Crabrawler",
+                    "Hisuian Sneasel",
+                    "Hitmonchan",
+                    "Hitmonlee",
+                    "Hitmontop"
+                ],
+                "raids": [
+                    "Galarian Farfetch'd",
+                    "Machop",
+                    "Pancham",
+                    "Sawk",
+                    "Throh",
+                    "Timburr"
+                ],
+                "moves": [
+                    "Keldeo (Resolute)"
+                ],
+                "shiny": [
+                    "Hitmonchan",
+                    "Hitmonlee",
+                    "Hitmontop",
+                    "Keldeo"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-25T10:00:00",
+            "end_time": "2025-11-30T20:00:00",
+            "description": "Finish off Tales of Transformation with the Final Justice event, Keldeo’s Resolute Form, and Keldeo’s Shiny debut!"
         },
         {
             "title": "Trade Days | Tales of Transformation",
@@ -663,6 +650,41 @@
             "description": "Trainers around the world can gear up for a worldwide adventure during Pokémon GO Wild Area: Global, available in-game for two days only!\nLooking to enhance your GO Wild Area weekend with exclusive Special Research, additional bonuses, and an increased chance of encountering Shiny Pokémon? Purchase a global event ticket from the Pokémon GO Web Store!\nTickets for Pokémon GO Wild Area: Global are available now in the in-game Shop and Pokémon Go Web Store for $11.99 USD.\nTrainers who purchase their Pokémon GO Wild Area: Global ticket on the Pokémon GO Web Store will receive a special avatar item—the Flower Crown!\nYou can purchase your ticket on the web store until the last day of the event to receive this avatar item.\nFor details on the in-person event in Nagasaki, Japan, click here."
         }
     ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Toxtricity during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-11-17/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-11-17T18:00:00",
+            "end_time": "2025-11-17T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn November 17, 2025, the featured Dynamax Pokémon are Toxtricity (Amped) and Toxtricity (Low Key)."
+        },
+        {
+            "title": "Dynamax Eevee during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-11-24/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-11-24T18:00:00",
+            "end_time": "2025-11-24T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn November 24, 2025, the featured Dynamax Pokémon is Eevee.\n- Eevee"
+        },
+        {
+            "title": "Dynamax Darumaka during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-12-01/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-01T18:00:00",
+            "end_time": "2025-12-01T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 1, 2025, the featured Dynamax Pokémon is Darumaka.\n- Darumaka"
+        }
+    ],
     "Raid Hour": [
         {
             "title": "Heatran Raid Hour",
@@ -759,7 +781,8 @@
                     "1-hour Lures***",
                     "2x Catch Candy",
                     "2x Chance to receive Candy XL from catching Pokémon",
-                    "3x Catch XP 3-hour Incense**",
+                    "3-hour Incense**",
+                    "3x Catch XP",
                     "Increased Spawns",
                     "One additional Special Trade can be made for a maximum of three for the day*",
                     "Trades made will require 50% less Stardust*"
