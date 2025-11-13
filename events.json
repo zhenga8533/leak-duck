@@ -1,51 +1,4 @@
 {
-    "Pokémon Spotlight Hour": [
-        {
-            "title": "Morelull Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-11-11/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Morelull"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-11-11T18:00:00",
-            "end_time": "2025-11-11T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of November.\nNovember 11: The featured Pokémon is Morelull and the special bonus is 2× Evolution XP."
-        },
-        {
-            "title": "Sableye Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-11-18/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Sableye"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-11-18T18:00:00",
-            "end_time": "2025-11-18T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of November.\nNovember 18: The featured Pokémon is Sableye and the special bonus is 2× Catch Stardust."
-        },
-        {
-            "title": "Scraggy Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-11-25/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Scraggy"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-11-25T18:00:00",
-            "end_time": "2025-11-25T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of November.\nNovember 25: The featured Pokémon is Scraggy and the special bonus is 2× Catch XP."
-        }
-    ],
     "Event": [
         {
             "title": "Into the Wild",
@@ -613,7 +566,7 @@
             "is_local_time": false,
             "start_time": 1763499600,
             "end_time": 1764104400,
-            "description": "The 2025 Championship Series Cup and Master League: Mega Edition will run from November 18, 2025, at 1:00 p.m. to November 25, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Ice-, Flying-, Psychic-, Ghost-, and Dragon-type Pokémon are eligible.\n- Legendary Pokémon, Mythical Pokémon, Shadow Pokémon, and Ultra Beasts are not eligible.\nThe following Pokémon will not be allowed.\n- Alolan Sandshrew\n- Alolan Sandslash\n- Alolan Ninetales\n- Lapras\n- Galarian Corsola\n- Kingdra\n- Jellicent\n- Honedge\n- Doublade\n- Corviknight\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
+            "description": "The 2025 Championship Series Cup and Master League: Mega Edition will run from November 18, 2025, at 1:00 p.m. to November 25, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Ice-, Flying-, Psychic-, Ghost-, and Dragon-type Pokémon are eligible.\n- Dark- and Rock-type Pokémon are prohibited.\n- Legendary Pokémon, Mythical Pokémon, Shadow Pokémon, and Ultra Beasts are not eligible.\nThe following Pokémon will not be allowed.\n- Alolan Sandshrew\n- Alolan Sandslash\n- Alolan Ninetales\n- Lapras\n- Galarian Corsola\n- Kingdra\n- Jellicent\n- Honedge\n- Doublade\n- Corviknight\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
         },
         {
             "title": "Catch Cup: Tales of Transformation: Great Edition, Ultra League, and Master League | Tales of Transformation",
@@ -625,6 +578,38 @@
             "start_time": 1764104400,
             "end_time": 1764709200,
             "description": "The Catch Cup: Tales of Transformation: Great Edition, Ultra League, and Master League will run from November 25, 2025, at 1:00 p.m. to December 2, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Pokémon caught during the Tales of Transformation Season are eligible.\n- Pokémon must be caught between September 2, 2025, at 1:00 p.m. and December 2, 2025, at 1:00 p.m. local time.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
+        }
+    ],
+    "Pokémon Spotlight Hour": [
+        {
+            "title": "Sableye Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-11-18/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Sableye"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-18T18:00:00",
+            "end_time": "2025-11-18T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of November.\nNovember 18: The featured Pokémon is Sableye and the special bonus is 2× Catch Stardust."
+        },
+        {
+            "title": "Scraggy Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-11-25/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Scraggy"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-25T18:00:00",
+            "end_time": "2025-11-25T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of November.\nNovember 25: The featured Pokémon is Scraggy and the special bonus is 2× Catch XP."
         }
     ],
     "Raid Hour": [
