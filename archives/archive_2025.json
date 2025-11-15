@@ -360,6 +360,57 @@
             "start_time": "2025-11-04T10:00:00",
             "end_time": "2025-11-09T20:00:00",
             "description": "Tangle with Tarountula and Spidops during the Enchanted Hollow event!"
+        },
+        {
+            "title": "Into the Wild",
+            "article_url": "https://leekduck.com/events/into-the-wild-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-10-into-the-wild-2025/into-the-wild-2025.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "No Remote Raid limit from Saturday, November 15, to Sunday, November 16, 2025",
+                    "Remote Raid limit increased to 30 from Monday, November 10, to Friday, November 14, 2025",
+                    "Trainers can receive special event stickers from PokéStops and Gifts",
+                    "You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration"
+                ],
+                "spawns": [
+                    "Alolan Rattata",
+                    "Carbink",
+                    "Carvanha",
+                    "Cottonee",
+                    "Fidough",
+                    "Nickit",
+                    "Purrloin",
+                    "Sableye",
+                    "Scraggy",
+                    "Spritzee",
+                    "Swirlix"
+                ],
+                "raids": [
+                    "Ho-Oh",
+                    "Lugia",
+                    "Necrozma (Dawn Wings)",
+                    "Necrozma (Dusk Mane)",
+                    "Ralts",
+                    "Sableye",
+                    "Tapu Bulu",
+                    "Tapu Fini",
+                    "Tapu Koko",
+                    "Tapu Lele",
+                    "Toxtricity (Amped Form)",
+                    "Toxtricity (Low Key Form)"
+                ],
+                "moves": [
+                    "Tapu Bulu",
+                    "Tapu Fini",
+                    "Tapu Koko",
+                    "Tapu Lele"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-10T10:00:00",
+            "end_time": "2025-11-14T20:00:00",
+            "description": "It’s time to venture back Into the Wild for a Dark- and Fairy-type tale! Something is stirring deep in the wild…Are you ready to discover what lies ahead during the Into the Wild event?"
         }
     ],
     "PokéStop Showcase": [
@@ -550,6 +601,17 @@
             "start_time": "2025-11-08T10:00:00",
             "end_time": "2025-11-09T20:00:00",
             "description": "There will be PokéStop Showcases featuring Tarountula and Spidops. Top the leaderboard to win rewards including Premium Items!\n- Tarountula\n- Spidops"
+        },
+        {
+            "title": "Dark-type and Fairy-type PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-dark-fairy-type-2025-11-10/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-11-10T10:00:00",
+            "end_time": "2025-11-14T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Dark-type Pokémon and Fairy-type Pokémon. Top the leaderboard to win rewards including Premium Items!"
         }
     ],
     "Max Mondays": [

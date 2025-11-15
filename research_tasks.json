@@ -408,10 +408,10 @@
                 },
                 {
                     "type": "encounter",
-                    "name": "Bewear",
-                    "shiny_available": false,
+                    "name": "Bewear wearing a wilderness cape",
+                    "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm760.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm760.fWILDAREA_2025.icon.png"
                 }
             ]
         },

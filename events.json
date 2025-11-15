@@ -1,197 +1,4 @@
 {
-    "Event": [
-        {
-            "title": "Into the Wild",
-            "article_url": "https://leekduck.com/events/into-the-wild-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-10-into-the-wild-2025/into-the-wild-2025.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "No Remote Raid limit from Saturday, November 15, to Sunday, November 16, 2025",
-                    "Remote Raid limit increased to 30 from Monday, November 10, to Friday, November 14, 2025",
-                    "Trainers can receive special event stickers from PokéStops and Gifts",
-                    "You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration"
-                ],
-                "spawns": [
-                    "Alolan Rattata",
-                    "Carbink",
-                    "Carvanha",
-                    "Cottonee",
-                    "Fidough",
-                    "Nickit",
-                    "Purrloin",
-                    "Sableye",
-                    "Scraggy",
-                    "Spritzee",
-                    "Swirlix"
-                ],
-                "raids": [
-                    "Ho-Oh",
-                    "Lugia",
-                    "Necrozma (Dawn Wings)",
-                    "Necrozma (Dusk Mane)",
-                    "Ralts",
-                    "Sableye",
-                    "Tapu Bulu",
-                    "Tapu Fini",
-                    "Tapu Koko",
-                    "Tapu Lele",
-                    "Toxtricity (Amped Form)",
-                    "Toxtricity (Low Key Form)"
-                ],
-                "moves": [
-                    "Tapu Bulu",
-                    "Tapu Fini",
-                    "Tapu Koko",
-                    "Tapu Lele"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-11-10T10:00:00",
-            "end_time": "2025-11-14T20:00:00",
-            "description": "It’s time to venture back Into the Wild for a Dark- and Fairy-type tale! Something is stirring deep in the wild…Are you ready to discover what lies ahead during the Into the Wild event?"
-        },
-        {
-            "title": "High Voltage",
-            "article_url": "https://leekduck.com/events/high-voltage-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-18-high-voltage-2025/high-voltage-2025.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× Stardust for catching Pokémon",
-                    "2× XP for successfully catching Pokémon with Nice Throws or better",
-                    "Increased chance to encounter Shiny Emolga, Shiny Dedenne, and Shiny Togedemaru"
-                ],
-                "features": [
-                    "Morpeko"
-                ],
-                "spawns": [
-                    "Dedenne",
-                    "Emolga",
-                    "Shinx",
-                    "Togedemaru"
-                ],
-                "shiny": [
-                    "Dedenne",
-                    "Emolga",
-                    "Morpeko",
-                    "Togedemaru"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-11-18T10:00:00",
-            "end_time": "2025-11-22T20:00:00",
-            "description": "Get ready for an electrifying High Voltage event in Pokémon GO!"
-        },
-        {
-            "title": "Dynamax Max Battle Weekend",
-            "article_url": "https://leekduck.com/events/dynamax-max-battle-weekend-2025-2/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-11-29T10:00:00",
-            "end_time": "2025-11-30T20:00:00",
-            "description": "The Dynamax Max Battle Weekend event will take place from November 29, 2025 at 10 am to November 30, 2025 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Final Justice",
-            "article_url": "https://leekduck.com/events/final-justice-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-25-final-justice-2025/final-justice-2025.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "Increased chance of encountering Shiny Hitmonlee, Shiny Hitmonchan, and Shiny Hitmontop",
-                    "Receive up to two free Raid Passes from spinning Gym Photo Discs during the event"
-                ],
-                "features": [
-                    "Keldeo",
-                    "Keldeo (Resolute)"
-                ],
-                "spawns": [
-                    "Crabrawler",
-                    "Hisuian Sneasel",
-                    "Hitmonchan",
-                    "Hitmonlee",
-                    "Hitmontop"
-                ],
-                "raids": [
-                    "Galarian Farfetch'd",
-                    "Machop",
-                    "Pancham",
-                    "Sawk",
-                    "Throh",
-                    "Timburr"
-                ],
-                "moves": [
-                    "Keldeo (Resolute)"
-                ],
-                "shiny": [
-                    "Hitmonchan",
-                    "Hitmonlee",
-                    "Hitmontop",
-                    "Keldeo"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-11-25T10:00:00",
-            "end_time": "2025-11-30T20:00:00",
-            "description": "Finish off Tales of Transformation with the Final Justice event, Keldeo’s Resolute Form, and Keldeo’s Shiny debut!"
-        },
-        {
-            "title": "Trade Days | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/trade-days-tales-of-transformation/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-07-trade-days-tales-of-transformation/trade-days.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "-10% Stardust cost for trades",
-                    "Earn two Candy XL from trades",
-                    "Increased chance of Lucky Trade for any trade",
-                    "One additional Special Trade"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-09-07T00:00:00",
-            "end_time": "2025-11-30T23:59:00",
-            "description": "Enjoy trade bonuses every Sunday throughout Tales of Transformation!\nOn Sundays from September 7 to November 30, 2025, Trainers will get a pile of trade bonuses, including one additional Special Trade!"
-        },
-        {
-            "title": "Catch Mastery Day",
-            "article_url": "https://leekduck.com/events/catch-mastery-day-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-07T10:00:00",
-            "end_time": "2026-02-07T20:00:00",
-            "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details."
-        }
-    ],
-    "PokéStop Showcase": [
-        {
-            "title": "Dark-type and Fairy-type PokéStop Showcases",
-            "article_url": "https://leekduck.com/events/pokemon-showcase-dark-fairy-type-2025-11-10/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-11-10T10:00:00",
-            "end_time": "2025-11-14T20:00:00",
-            "description": "There will be PokéStop Showcases featuring Dark-type Pokémon and Fairy-type Pokémon. Top the leaderboard to win rewards including Premium Items!"
-        },
-        {
-            "title": "Cresselia, Darkrai, and Grimmsnarl PokéStop Showcases",
-            "article_url": "https://leekduck.com/events/pokemon-showcase-cresselia-darkrai-grimmsnarl-2025-11-16/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-11-15T10:00:00",
-            "end_time": "2025-11-16T18:00:00",
-            "description": "There will be PokéStop Showcases featuring Cresselia, Darkrai, and Grimmsnarl. Top the leaderboard to win rewards including Premium Items!\n- Cresselia\n- Darkrai\n- Grimmsnarl"
-        }
-    ],
     "GO Pass": [
         {
             "title": "GO Pass: Into the Wild",
@@ -276,6 +83,9 @@
                     "Hattrem",
                     "Impidimp",
                     "Morgrem",
+                    "Tinkatink",
+                    "Tinkaton",
+                    "Tinkatuff",
                     "Unown W"
                 ],
                 "spawns": [
@@ -379,7 +189,6 @@
                 ],
                 "moves": [
                     "Absol",
-                    "Bewear",
                     "Floragato",
                     "Gabite",
                     "Galarian Linoone",
@@ -390,7 +199,6 @@
                     "Kirlia",
                     "Meowscarada",
                     "Obstagoon",
-                    "Stufful",
                     "Wilderness Cape Bewear"
                 ]
             },
@@ -398,6 +206,19 @@
             "start_time": "2025-11-15T10:00:00",
             "end_time": "2025-11-16T18:00:00",
             "description": "Need a Last Minute Guide? Check it out here\nTrainers around the world can gear up for a worldwide adventure during Pokémon GO Wild Area: Global, available in-game for two days only!\nLooking to enhance your GO Wild Area weekend with exclusive Special Research, additional bonuses, and an increased chance of encountering Shiny Pokémon? Purchase a global event ticket from the Pokémon GO Web Store!\nTickets for Pokémon GO Wild Area: Global are available now in the in-game Shop and Pokémon Go Web Store for $11.99 USD.\nTrainers who purchase their Pokémon GO Wild Area: Global ticket on the Pokémon GO Web Store will receive a special avatar item—the Flower Crown!\nYou can purchase your ticket on the web store until the last day of the event to receive this avatar item.\nFor details on the in-person event in Nagasaki, Japan, click here."
+        }
+    ],
+    "PokéStop Showcase": [
+        {
+            "title": "Cresselia, Darkrai, and Grimmsnarl PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-cresselia-darkrai-grimmsnarl-2025-11-16/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-11-15T10:00:00",
+            "end_time": "2025-11-16T18:00:00",
+            "description": "There will be PokéStop Showcases featuring Cresselia, Darkrai, and Grimmsnarl. Top the leaderboard to win rewards including Premium Items!\n- Cresselia\n- Darkrai\n- Grimmsnarl"
         }
     ],
     "Max Mondays": [
@@ -653,6 +474,124 @@
             "start_time": "2025-11-26T18:00:00",
             "end_time": "2025-11-26T19:00:00",
             "description": "A Raid Hour featuring Cobalion, Terrakion, and Virizion is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        }
+    ],
+    "Event": [
+        {
+            "title": "High Voltage",
+            "article_url": "https://leekduck.com/events/high-voltage-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-18-high-voltage-2025/high-voltage-2025.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Stardust for catching Pokémon",
+                    "2× XP for successfully catching Pokémon with Nice Throws or better",
+                    "Increased chance to encounter Shiny Emolga, Shiny Dedenne, and Shiny Togedemaru"
+                ],
+                "features": [
+                    "Morpeko"
+                ],
+                "spawns": [
+                    "Dedenne",
+                    "Emolga",
+                    "Shinx",
+                    "Togedemaru"
+                ],
+                "shiny": [
+                    "Dedenne",
+                    "Emolga",
+                    "Morpeko",
+                    "Togedemaru"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-18T10:00:00",
+            "end_time": "2025-11-22T20:00:00",
+            "description": "Get ready for an electrifying High Voltage event in Pokémon GO!"
+        },
+        {
+            "title": "Dynamax Max Battle Weekend",
+            "article_url": "https://leekduck.com/events/dynamax-max-battle-weekend-2025-2/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-11-29T10:00:00",
+            "end_time": "2025-11-30T20:00:00",
+            "description": "The Dynamax Max Battle Weekend event will take place from November 29, 2025 at 10 am to November 30, 2025 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Final Justice",
+            "article_url": "https://leekduck.com/events/final-justice-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-25-final-justice-2025/final-justice-2025.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "Increased chance of encountering Shiny Hitmonlee, Shiny Hitmonchan, and Shiny Hitmontop",
+                    "Receive up to two free Raid Passes from spinning Gym Photo Discs during the event"
+                ],
+                "features": [
+                    "Keldeo",
+                    "Keldeo (Resolute)"
+                ],
+                "spawns": [
+                    "Crabrawler",
+                    "Hisuian Sneasel",
+                    "Hitmonchan",
+                    "Hitmonlee",
+                    "Hitmontop"
+                ],
+                "raids": [
+                    "Galarian Farfetch'd",
+                    "Machop",
+                    "Pancham",
+                    "Sawk",
+                    "Throh",
+                    "Timburr"
+                ],
+                "moves": [
+                    "Keldeo (Resolute)"
+                ],
+                "shiny": [
+                    "Hitmonchan",
+                    "Hitmonlee",
+                    "Hitmontop",
+                    "Keldeo"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-25T10:00:00",
+            "end_time": "2025-11-30T20:00:00",
+            "description": "Finish off Tales of Transformation with the Final Justice event, Keldeo’s Resolute Form, and Keldeo’s Shiny debut!"
+        },
+        {
+            "title": "Trade Days | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/trade-days-tales-of-transformation/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-07-trade-days-tales-of-transformation/trade-days.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "-10% Stardust cost for trades",
+                    "Earn two Candy XL from trades",
+                    "Increased chance of Lucky Trade for any trade",
+                    "One additional Special Trade"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-09-07T00:00:00",
+            "end_time": "2025-11-30T23:59:00",
+            "description": "Enjoy trade bonuses every Sunday throughout Tales of Transformation!\nOn Sundays from September 7 to November 30, 2025, Trainers will get a pile of trade bonuses, including one additional Special Trade!"
+        },
+        {
+            "title": "Catch Mastery Day",
+            "article_url": "https://leekduck.com/events/catch-mastery-day-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-07T10:00:00",
+            "end_time": "2026-02-07T20:00:00",
+            "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details."
         }
     ],
     "Max Battles": [
