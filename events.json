@@ -179,6 +179,17 @@
             "start_time": "2025-11-10T10:00:00",
             "end_time": "2025-11-14T20:00:00",
             "description": "There will be PokéStop Showcases featuring Dark-type Pokémon and Fairy-type Pokémon. Top the leaderboard to win rewards including Premium Items!"
+        },
+        {
+            "title": "Cresselia, Darkrai, and Grimmsnarl PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-cresselia-darkrai-grimmsnarl-2025-11-16/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-11-15T10:00:00",
+            "end_time": "2025-11-16T18:00:00",
+            "description": "There will be PokéStop Showcases featuring Cresselia, Darkrai, and Grimmsnarl. Top the leaderboard to win rewards including Premium Items!\n- Cresselia\n- Darkrai\n- Grimmsnarl"
         }
     ],
     "GO Pass": [
@@ -258,6 +269,7 @@
                 "features": [
                     "Cresselia",
                     "Darkrai",
+                    "Gigantamax Grimmsnarl",
                     "Grimmsnarl",
                     "Hatenna",
                     "Hatterene",
@@ -353,12 +365,16 @@
                     "Wilderness Cape Bewear"
                 ],
                 "shiny": [
+                    "Gigantamax Grimmsnarl",
                     "Grimmsnarl",
                     "Hatenna",
                     "Hatterene",
                     "Hattrem",
                     "Impidimp",
                     "Morgrem",
+                    "Tinkatink",
+                    "Tinkaton",
+                    "Tinkatuff",
                     "Unown W"
                 ],
                 "moves": [
@@ -381,7 +397,7 @@
             "is_local_time": true,
             "start_time": "2025-11-15T10:00:00",
             "end_time": "2025-11-16T18:00:00",
-            "description": "Trainers around the world can gear up for a worldwide adventure during Pokémon GO Wild Area: Global, available in-game for two days only!\nLooking to enhance your GO Wild Area weekend with exclusive Special Research, additional bonuses, and an increased chance of encountering Shiny Pokémon? Purchase a global event ticket from the Pokémon GO Web Store!\nTickets for Pokémon GO Wild Area: Global are available now in the in-game Shop and Pokémon Go Web Store for $11.99 USD.\nTrainers who purchase their Pokémon GO Wild Area: Global ticket on the Pokémon GO Web Store will receive a special avatar item—the Flower Crown!\nYou can purchase your ticket on the web store until the last day of the event to receive this avatar item.\nFor details on the in-person event in Nagasaki, Japan, click here."
+            "description": "Need a Last Minute Guide? Check it out here\nTrainers around the world can gear up for a worldwide adventure during Pokémon GO Wild Area: Global, available in-game for two days only!\nLooking to enhance your GO Wild Area weekend with exclusive Special Research, additional bonuses, and an increased chance of encountering Shiny Pokémon? Purchase a global event ticket from the Pokémon GO Web Store!\nTickets for Pokémon GO Wild Area: Global are available now in the in-game Shop and Pokémon Go Web Store for $11.99 USD.\nTrainers who purchase their Pokémon GO Wild Area: Global ticket on the Pokémon GO Web Store will receive a special avatar item—the Flower Crown!\nYou can purchase your ticket on the web store until the last day of the event to receive this avatar item.\nFor details on the in-person event in Nagasaki, Japan, click here."
         }
     ],
     "Max Mondays": [
