@@ -1,226 +1,4 @@
 {
-    "GO Pass": [
-        {
-            "title": "GO Pass: Into the Wild",
-            "article_url": "https://leekduck.com/events/go-pass-into-the-wild/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-10-go-pass-into-the-wild/go-pass-into-the-wild.jpg",
-            "category": "GO Pass",
-            "details": {
-                "features": [
-                    "Cresselia"
-                ],
-                "bonuses": [
-                    "+1 Candy XL from Max Battles",
-                    "+1 Candy XL from raids",
-                    "+1 Candy from Max Battles",
-                    "+1 Candy from raids",
-                    "2× Incense Duration",
-                    "5,000 additional XP from completed Max Battles",
-                    "5,000 additional XP from completed raids"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-11-10T10:00:00",
-            "end_time": "2025-11-16T18:00:00",
-            "description": "Before Pokémon GO Wild Area: Global kicks off around the world, take this chance to sharpen your skills and prepare for your big adventure! Hyper Training is back with the debut of the Silver Bottle Cap!\nFrom Monday, November 10, at 10:00 a.m. to Sunday, November 16, at 6:00 p.m. local time, the GO Pass and the GO Pass Deluxe for Into the Wild will be available in Pokémon GO!"
-        },
-        {
-            "title": "GO Pass: November",
-            "article_url": "https://leekduck.com/events/go-pass-november-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-04-go-pass-november-2025/go-pass-november-2025.jpg",
-            "category": "GO Pass",
-            "details": {
-                "bonuses": [
-                    "2× Daily Adventure Incense duration",
-                    "2× Stardust and XP from hatching Eggs",
-                    "Hold up to 30 Gifts in your Item Bag",
-                    "Hold up to 40 Gifts in your Item Bag",
-                    "Open up to 40 Gifts per day",
-                    "Open up to 50 Gifts per day",
-                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
-                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-11-04T10:00:00",
-            "end_time": "2025-12-02T10:00:00",
-            "description": "The Lucky Trinket returns in GO Pass: November!\nFrom Tuesday, November 4, at 10:00 a.m. to Tuesday, December 2, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for November will be available in Pokémon GO!"
-        }
-    ],
-    "Wild Area": [
-        {
-            "title": "Pokémon GO Wild Area: Global",
-            "article_url": "https://leekduck.com/events/pokemon-go-wild-area-2025-global/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-15-pokemon-go-wild-area-2025-global/wild-area-2025-global-key-art.jpg",
-            "category": "Wild Area",
-            "details": {
-                "bonuses": [
-                    "1/2 Hatch Distance for Eggs placed in Incubators during the event",
-                    "1/2 Stardust cost for trades",
-                    "2× Candy for catching Pokémon",
-                    "3/4 Max Particle cost for unlocking and powering up Max Moves",
-                    "Daily Max Particle collection limit increased to 1,600",
-                    "Daily Max Particle collection limit increased to 3,200",
-                    "Increased Max Particles from Power Spots and exploration**",
-                    "Increased chance of 5 km Eggs from spinning PokéStops and Photo Discs at Gyms",
-                    "Increased chance of encountering Shiny Pokémon*",
-                    "Lure Modules activated will last for two hours",
-                    "Six GO Snapshot surprise event encounters per day",
-                    "There will be no limit on Remote Raids from Saturday, November 15, to Sunday, November 16, 2025",
-                    "Three GO Snapshot surprise event encounters per day",
-                    "Up to six Special Trades per day",
-                    "Up to six free Raid Passes per day by spinning Photo Discs at Gyms",
-                    "Up to three free Raid Passes per day by spinning Photo Discs at Gyms",
-                    "You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration"
-                ],
-                "features": [
-                    "Cresselia",
-                    "Darkrai",
-                    "Gigantamax Grimmsnarl",
-                    "Grimmsnarl",
-                    "Hatenna",
-                    "Hatterene",
-                    "Hattrem",
-                    "Impidimp",
-                    "Morgrem",
-                    "Tinkatink",
-                    "Tinkaton",
-                    "Tinkatuff",
-                    "Unown W"
-                ],
-                "spawns": [
-                    "Absol",
-                    "Alolan Grimer",
-                    "Alolan Meowth",
-                    "Alolan Ninetales",
-                    "Alolan Vulpix",
-                    "Audino",
-                    "Azelf",
-                    "Cacnea",
-                    "Chansey",
-                    "Cherubi",
-                    "Clefairy",
-                    "Cottonee",
-                    "Cutiefly",
-                    "Dedenne",
-                    "Deino",
-                    "Drapion",
-                    "Dreepy",
-                    "Espurr",
-                    "Feebas",
-                    "Foongus",
-                    "Galarian Ponyta",
-                    "Galarian Rapidash",
-                    "Galarian Weezing",
-                    "Galarian Zigzagoon",
-                    "Garchomp",
-                    "Gardevoir",
-                    "Gastly",
-                    "Golurk",
-                    "Granbull",
-                    "Hatenna",
-                    "Hatterene",
-                    "Honchkrow",
-                    "Hoothoot",
-                    "Houndoom",
-                    "Houndour",
-                    "Impidimp",
-                    "Inkay",
-                    "Jigglypuff",
-                    "Klefki",
-                    "Kricketot",
-                    "Marill",
-                    "Mawile",
-                    "Meowscarada",
-                    "Mesprit",
-                    "Murkrow",
-                    "Nincada",
-                    "Obstagoon",
-                    "Phantump",
-                    "Poochyena",
-                    "Popplio",
-                    "Ralts",
-                    "Scraggy",
-                    "Seedot",
-                    "Skitty",
-                    "Skorupi",
-                    "Smoliv",
-                    "Sneasel",
-                    "Snubbull",
-                    "Stunky",
-                    "Swablu",
-                    "Togetic",
-                    "Tyranitar",
-                    "Unown D",
-                    "Unown I",
-                    "Unown L",
-                    "Unown W",
-                    "Uxie",
-                    "Weavile",
-                    "Wigglytuff",
-                    "Zorua"
-                ],
-                "eggs": [
-                    "Carbink",
-                    "Impidimp",
-                    "Mime Jr.",
-                    "Pawniard",
-                    "Sandile",
-                    "Tinkatink"
-                ],
-                "raids": [
-                    "Cresselia",
-                    "Darkrai",
-                    "Gigantamax Grimmsnarl",
-                    "Wilderness Cape Bewear"
-                ],
-                "shiny": [
-                    "Gigantamax Grimmsnarl",
-                    "Grimmsnarl",
-                    "Hatenna",
-                    "Hatterene",
-                    "Hattrem",
-                    "Impidimp",
-                    "Morgrem",
-                    "Tinkatink",
-                    "Tinkaton",
-                    "Tinkatuff",
-                    "Unown W"
-                ],
-                "moves": [
-                    "Absol",
-                    "Floragato",
-                    "Gabite",
-                    "Galarian Linoone",
-                    "Galarian Ponyta",
-                    "Galarian Rapidash",
-                    "Garchomp",
-                    "Gardevoir",
-                    "Kirlia",
-                    "Meowscarada",
-                    "Obstagoon",
-                    "Wilderness Cape Bewear"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-11-15T10:00:00",
-            "end_time": "2025-11-16T18:00:00",
-            "description": "Need a Last Minute Guide? Check it out here\nTrainers around the world can gear up for a worldwide adventure during Pokémon GO Wild Area: Global, available in-game for two days only!\nLooking to enhance your GO Wild Area weekend with exclusive Special Research, additional bonuses, and an increased chance of encountering Shiny Pokémon? Purchase a global event ticket from the Pokémon GO Web Store!\nTickets for Pokémon GO Wild Area: Global are available now in the in-game Shop and Pokémon Go Web Store for $11.99 USD.\nTrainers who purchase their Pokémon GO Wild Area: Global ticket on the Pokémon GO Web Store will receive a special avatar item—the Flower Crown!\nYou can purchase your ticket on the web store until the last day of the event to receive this avatar item.\nFor details on the in-person event in Nagasaki, Japan, click here."
-        }
-    ],
-    "PokéStop Showcase": [
-        {
-            "title": "Cresselia, Darkrai, and Grimmsnarl PokéStop Showcases",
-            "article_url": "https://leekduck.com/events/pokemon-showcase-cresselia-darkrai-grimmsnarl-2025-11-16/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-11-15T10:00:00",
-            "end_time": "2025-11-16T18:00:00",
-            "description": "There will be PokéStop Showcases featuring Cresselia, Darkrai, and Grimmsnarl. Top the leaderboard to win rewards including Premium Items!\n- Cresselia\n- Darkrai\n- Grimmsnarl"
-        }
-    ],
     "Max Mondays": [
         {
             "title": "Dynamax Toxtricity during Max Monday",
@@ -474,6 +252,19 @@
             "start_time": "2025-11-26T18:00:00",
             "end_time": "2025-11-26T19:00:00",
             "description": "A Raid Hour featuring Cobalion, Terrakion, and Virizion is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        }
+    ],
+    "PokéStop Showcase": [
+        {
+            "title": "Dedenne, Morpeko, and Togedemaru PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-dedenne-morpeko-togedemaru-2025-11-17/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-11-17T10:00:00",
+            "end_time": "2025-11-19T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Dedenne, Morpeko, and Togedemaru. Top the leaderboard to win rewards including Premium Items!\n- Dedenne\n- Togedemaru\n- Morpeko"
         }
     ],
     "Event": [
@@ -895,6 +686,30 @@
             "start_time": "2026-02-01T14:00:00",
             "end_time": "2026-02-01T17:00:00",
             "description": "February Community Day is on February 1, 2026. Stay tuned for the announcement of the featured Pokémon."
+        }
+    ],
+    "GO Pass": [
+        {
+            "title": "GO Pass: November",
+            "article_url": "https://leekduck.com/events/go-pass-november-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-04-go-pass-november-2025/go-pass-november-2025.jpg",
+            "category": "GO Pass",
+            "details": {
+                "bonuses": [
+                    "2× Daily Adventure Incense duration",
+                    "2× Stardust and XP from hatching Eggs",
+                    "Hold up to 30 Gifts in your Item Bag",
+                    "Hold up to 40 Gifts in your Item Bag",
+                    "Open up to 40 Gifts per day",
+                    "Open up to 50 Gifts per day",
+                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-04T10:00:00",
+            "end_time": "2025-12-02T10:00:00",
+            "description": "The Lucky Trinket returns in GO Pass: November!\nFrom Tuesday, November 4, at 10:00 a.m. to Tuesday, December 2, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for November will be available in Pokémon GO!"
         }
     ],
     "Season": [
