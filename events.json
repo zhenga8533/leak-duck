@@ -280,18 +280,27 @@
                     "Increased chance to encounter Shiny Emolga, Shiny Dedenne, and Shiny Togedemaru"
                 ],
                 "features": [
-                    "Morpeko"
+                    "Morpeko (Full Belly)",
+                    "Morpeko (Hangry)"
                 ],
                 "spawns": [
+                    "Blitzle",
+                    "Chinchou",
                     "Dedenne",
+                    "Electrike",
                     "Emolga",
+                    "Joltik",
+                    "Mareep",
+                    "Pawmi",
                     "Shinx",
-                    "Togedemaru"
+                    "Togedemaru",
+                    "Yamper"
                 ],
                 "shiny": [
                     "Dedenne",
                     "Emolga",
-                    "Morpeko",
+                    "Morpeko (Full Belly)",
+                    "Morpeko (Hangry)",
                     "Togedemaru"
                 ]
             },
@@ -299,17 +308,6 @@
             "start_time": "2025-11-18T10:00:00",
             "end_time": "2025-11-22T20:00:00",
             "description": "Get ready for an electrifying High Voltage event in Pokémon GO!"
-        },
-        {
-            "title": "Dynamax Max Battle Weekend",
-            "article_url": "https://leekduck.com/events/dynamax-max-battle-weekend-2025-2/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-11-29T10:00:00",
-            "end_time": "2025-11-30T20:00:00",
-            "description": "The Dynamax Max Battle Weekend event will take place from November 29, 2025 at 10 am to November 30, 2025 at 8 pm. Stay tuned for more details."
         },
         {
             "title": "Final Justice",
@@ -411,6 +409,30 @@
             "start_time": "2025-11-21T06:00:00",
             "end_time": "2025-11-24T21:00:00",
             "description": "Dynamax Eevee makes its Pokémon GO debut!"
+        },
+        {
+            "title": "Dynamax Lugia Max Battle Weekend",
+            "article_url": "https://leekduck.com/events/dynamax-lugia-max-battle-weekend/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-29-dynamax-lugia-max-battle-weekend/dynamax-lugia.jpg",
+            "category": "Max Battles",
+            "details": {
+                "bonuses": [
+                    "1/4 Adventuring distance to receive Max Particles*",
+                    "8× Max Particles from Power Spots",
+                    "Max Particle collection limit increased to 1,600",
+                    "Power Spots will refresh more frequently"
+                ],
+                "features": [
+                    "Lugia"
+                ],
+                "shiny": [
+                    "Lugia"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-29T06:00:00",
+            "end_time": "2025-11-30T21:00:00",
+            "description": "Soaring in from the skies, Lugia makes its Dynamax debut!"
         },
         {
             "title": "Max Battle Day",
