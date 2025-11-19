@@ -1285,6 +1285,21 @@
             "start_time": "2025-11-11T18:00:00",
             "end_time": "2025-11-11T19:00:00",
             "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of November.\nNovember 11: The featured Pokémon is Morelull and the special bonus is 2× Evolution XP."
+        },
+        {
+            "title": "Sableye Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-11-18/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Sableye"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-18T18:00:00",
+            "end_time": "2025-11-18T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of November.\nNovember 18: The featured Pokémon is Sableye and the special bonus is 2× Catch Stardust."
         }
     ],
     "Raid Hour": [
