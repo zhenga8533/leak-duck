@@ -668,6 +668,17 @@
             "start_time": "2025-11-15T10:00:00",
             "end_time": "2025-11-16T18:00:00",
             "description": "There will be PokéStop Showcases featuring Cresselia, Darkrai, and Grimmsnarl. Top the leaderboard to win rewards including Premium Items!\n- Cresselia\n- Darkrai\n- Grimmsnarl"
+        },
+        {
+            "title": "Dedenne, Morpeko, and Togedemaru PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-dedenne-morpeko-togedemaru-2025-11-17/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-11-17T10:00:00",
+            "end_time": "2025-11-19T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Dedenne, Morpeko, and Togedemaru. Top the leaderboard to win rewards including Premium Items!\n- Dedenne\n- Togedemaru\n- Morpeko"
         }
     ],
     "Max Mondays": [
@@ -1400,6 +1411,17 @@
             "end_time": "2025-11-05T19:00:00",
             "description": "A Raid Hour featuring Raikou, Entei, and Suicune is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids.",
             "details": {}
+        },
+        {
+            "title": "Heatran Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20251119/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-11-19T18:00:00",
+            "end_time": "2025-11-19T19:00:00",
+            "description": "A Raid Hour featuring Heatran is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
         }
     ],
     "Community Day": [
