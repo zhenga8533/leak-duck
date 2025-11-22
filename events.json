@@ -115,6 +115,32 @@
             "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details."
         }
     ],
+    "PokéStop Showcase": [
+        {
+            "title": "Vaporeon, Jolteon, and Flareon PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-vaporeon-jolteon-flareon/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-11-22T10:00:00",
+            "end_time": "2025-11-23T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Vaporeon, Jolteon, and Flareon. Top the leaderboard to win rewards including Premium Items!\n- Vaporeon\n- Jolteon\n- Flareon"
+        }
+    ],
+    "Research": [
+        {
+            "title": "Twitch Drops for 2026 Pokémon Latin America International Championships",
+            "article_url": "https://leekduck.com/events/pokemon-latin-america-international-championships-2026-timed-research-twitch-drops/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-21-pokemon-latin-america-international-championships-2026-timed-research-twitch-drops/laic-2026-stream-viewership-rewards.webp",
+            "category": "Research",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1763724600,
+            "end_time": 1763971200,
+            "description": "Get codes for exclusive Timed Research during the 2026 Pokémon Latin America International Championships Twitch broadcast.\nAraquanid is one of the Pokémon that helped lead ItsAXN to victory at the 2025 Pokémon GO North America International Championships—and if you tune in to the 2026 LAIC stream, you’ll be able to take on the GO Battle League with your own.\nEnable Twitch Drops on your Twitch account, tune in to Twitch.tv/PokemonGO during LAIC, and watch for at least 30 minutes to receive unique Timed Research in Pokémon GO that will reward you with an encounter with your own unique Araquanid. This Timed Research also features 15 Dewpider Candy XL, 15 Fast TMs, 15 Charged TMs, and an Elite Charged TM. This redemption will expire on November 28, 2025, at 3:00 p.m. PST.\nFind more information on the Timed Research from the Twitch Drops in the Research section."
+        }
+    ],
     "Max Mondays": [
         {
             "title": "Dynamax Eevee during Max Monday",
