@@ -438,6 +438,47 @@
             "start_time": "2025-11-10T10:00:00",
             "end_time": "2025-11-14T20:00:00",
             "description": "It’s time to venture back Into the Wild for a Dark- and Fairy-type tale! Something is stirring deep in the wild…Are you ready to discover what lies ahead during the Into the Wild event?"
+        },
+        {
+            "title": "High Voltage",
+            "article_url": "https://leekduck.com/events/high-voltage-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-18-high-voltage-2025/high-voltage-2025.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Stardust for catching Pokémon",
+                    "2× XP for successfully catching Pokémon with Nice Throws or better",
+                    "Increased chance to encounter Shiny Emolga, Shiny Dedenne, and Shiny Togedemaru"
+                ],
+                "features": [
+                    "Morpeko (Full Belly)",
+                    "Morpeko (Hangry)"
+                ],
+                "spawns": [
+                    "Blitzle",
+                    "Chinchou",
+                    "Dedenne",
+                    "Electrike",
+                    "Emolga",
+                    "Joltik",
+                    "Mareep",
+                    "Pawmi",
+                    "Shinx",
+                    "Togedemaru",
+                    "Yamper"
+                ],
+                "shiny": [
+                    "Dedenne",
+                    "Emolga",
+                    "Morpeko (Full Belly)",
+                    "Morpeko (Hangry)",
+                    "Togedemaru"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-18T10:00:00",
+            "end_time": "2025-11-22T20:00:00",
+            "description": "Get ready for an electrifying High Voltage event in Pokémon GO!"
         }
     ],
     "PokéStop Showcase": [
