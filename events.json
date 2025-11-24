@@ -1,146 +1,4 @@
 {
-    "Event": [
-        {
-            "title": "High Voltage",
-            "article_url": "https://leekduck.com/events/high-voltage-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-18-high-voltage-2025/high-voltage-2025.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× Stardust for catching Pokémon",
-                    "2× XP for successfully catching Pokémon with Nice Throws or better",
-                    "Increased chance to encounter Shiny Emolga, Shiny Dedenne, and Shiny Togedemaru"
-                ],
-                "features": [
-                    "Morpeko (Full Belly)",
-                    "Morpeko (Hangry)"
-                ],
-                "spawns": [
-                    "Blitzle",
-                    "Chinchou",
-                    "Dedenne",
-                    "Electrike",
-                    "Emolga",
-                    "Joltik",
-                    "Mareep",
-                    "Pawmi",
-                    "Shinx",
-                    "Togedemaru",
-                    "Yamper"
-                ],
-                "shiny": [
-                    "Dedenne",
-                    "Emolga",
-                    "Morpeko (Full Belly)",
-                    "Morpeko (Hangry)",
-                    "Togedemaru"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-11-18T10:00:00",
-            "end_time": "2025-11-22T20:00:00",
-            "description": "Get ready for an electrifying High Voltage event in Pokémon GO!"
-        },
-        {
-            "title": "Final Justice",
-            "article_url": "https://leekduck.com/events/final-justice-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-25-final-justice-2025/final-justice-2025.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "Increased chance of encountering Shiny Hitmonlee, Shiny Hitmonchan, and Shiny Hitmontop",
-                    "Receive up to two free Raid Passes from spinning Gym Photo Discs during the event"
-                ],
-                "features": [
-                    "Keldeo",
-                    "Keldeo (Resolute)"
-                ],
-                "spawns": [
-                    "Crabrawler",
-                    "Hisuian Sneasel",
-                    "Hitmonchan",
-                    "Hitmonlee",
-                    "Hitmontop"
-                ],
-                "raids": [
-                    "Galarian Farfetch'd",
-                    "Machop",
-                    "Pancham",
-                    "Sawk",
-                    "Throh",
-                    "Timburr"
-                ],
-                "moves": [
-                    "Keldeo (Resolute)"
-                ],
-                "shiny": [
-                    "Hitmonchan",
-                    "Hitmonlee",
-                    "Hitmontop",
-                    "Keldeo"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-11-25T10:00:00",
-            "end_time": "2025-11-30T20:00:00",
-            "description": "Finish off Tales of Transformation with the Final Justice event, Keldeo’s Resolute Form, and Keldeo’s Shiny debut!"
-        },
-        {
-            "title": "Trade Days | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/trade-days-tales-of-transformation/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-07-trade-days-tales-of-transformation/trade-days.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "-10% Stardust cost for trades",
-                    "Earn two Candy XL from trades",
-                    "Increased chance of Lucky Trade for any trade",
-                    "One additional Special Trade"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-09-07T00:00:00",
-            "end_time": "2025-11-30T23:59:00",
-            "description": "Enjoy trade bonuses every Sunday throughout Tales of Transformation!\nOn Sundays from September 7 to November 30, 2025, Trainers will get a pile of trade bonuses, including one additional Special Trade!"
-        },
-        {
-            "title": "Catch Mastery Day",
-            "article_url": "https://leekduck.com/events/catch-mastery-day-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-07T10:00:00",
-            "end_time": "2026-02-07T20:00:00",
-            "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details."
-        }
-    ],
-    "PokéStop Showcase": [
-        {
-            "title": "Eevee, Vaporeon, Jolteon, and Flareon PokéStop Showcases",
-            "article_url": "https://leekduck.com/events/pokemon-showcase-eevee-vaporeon-jolteon-flareon/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-11-22T10:00:00",
-            "end_time": "2025-11-23T20:00:00",
-            "description": "There will be PokéStop Showcases featuring Eevee, Vaporeon, Jolteon, and Flareon. Top the leaderboard to win rewards including Premium Items!\n- Eevee\n- Vaporeon\n- Jolteon\n- Flareon"
-        }
-    ],
-    "Research": [
-        {
-            "title": "Twitch Drops for 2026 Pokémon Latin America International Championships",
-            "article_url": "https://leekduck.com/events/pokemon-latin-america-international-championships-2026-timed-research-twitch-drops/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-21-pokemon-latin-america-international-championships-2026-timed-research-twitch-drops/laic-2026-stream-viewership-rewards.webp",
-            "category": "Research",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1763724600,
-            "end_time": 1763971200,
-            "description": "Get codes for exclusive Timed Research during the 2026 Pokémon Latin America International Championships Twitch broadcast.\nAraquanid is one of the Pokémon that helped lead ItsAXN to victory at the 2025 Pokémon GO North America International Championships—and if you tune in to the 2026 LAIC stream, you’ll be able to take on the GO Battle League with your own.\nEnable Twitch Drops on your Twitch account, tune in to Twitch.tv/PokemonGO during LAIC, and watch for at least 30 minutes to receive unique Timed Research in Pokémon GO that will reward you with an encounter with your own unique Araquanid. This Timed Research also features 15 Dewpider Candy XL, 15 Fast TMs, 15 Charged TMs, and an Elite Charged TM. This redemption will expire on November 28, 2025, at 3:00 p.m. PST.\nFind more information on the Timed Research from the Twitch Drops in the Research section."
-        }
-    ],
     "Max Mondays": [
         {
             "title": "Dynamax Eevee during Max Monday",
@@ -411,6 +269,19 @@
             "description": "A Raid Hour featuring Cobalion, Terrakion, and Virizion is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
         }
     ],
+    "PokéStop Showcase": [
+        {
+            "title": "Fighting-type PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-fighting-type/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-11-24T10:00:00",
+            "end_time": "2025-11-26T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Fighting-type Pokémon. Top the leaderboard to win rewards including Premium Items!"
+        }
+    ],
     "Community Day": [
         {
             "title": "Pikipek Community Day",
@@ -651,6 +522,81 @@
             "start_time": "2026-02-01T14:00:00",
             "end_time": "2026-02-01T17:00:00",
             "description": "February Community Day is on February 1, 2026. Stay tuned for the announcement of the featured Pokémon."
+        }
+    ],
+    "Event": [
+        {
+            "title": "Final Justice",
+            "article_url": "https://leekduck.com/events/final-justice-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-25-final-justice-2025/final-justice-2025.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "Increased chance of encountering Shiny Hitmonlee, Shiny Hitmonchan, and Shiny Hitmontop",
+                    "Receive up to two free Raid Passes from spinning Gym Photo Discs during the event"
+                ],
+                "features": [
+                    "Keldeo",
+                    "Keldeo (Resolute)"
+                ],
+                "spawns": [
+                    "Crabrawler",
+                    "Hisuian Sneasel",
+                    "Hitmonchan",
+                    "Hitmonlee",
+                    "Hitmontop"
+                ],
+                "raids": [
+                    "Galarian Farfetch'd",
+                    "Machop",
+                    "Pancham",
+                    "Sawk",
+                    "Throh",
+                    "Timburr"
+                ],
+                "moves": [
+                    "Keldeo (Resolute)"
+                ],
+                "shiny": [
+                    "Hitmonchan",
+                    "Hitmonlee",
+                    "Hitmontop",
+                    "Keldeo"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-25T10:00:00",
+            "end_time": "2025-11-30T20:00:00",
+            "description": "Finish off Tales of Transformation with the Final Justice event, Keldeo’s Resolute Form, and Keldeo’s Shiny debut!"
+        },
+        {
+            "title": "Trade Days | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/trade-days-tales-of-transformation/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-07-trade-days-tales-of-transformation/trade-days.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "-10% Stardust cost for trades",
+                    "Earn two Candy XL from trades",
+                    "Increased chance of Lucky Trade for any trade",
+                    "One additional Special Trade"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-09-07T00:00:00",
+            "end_time": "2025-11-30T23:59:00",
+            "description": "Enjoy trade bonuses every Sunday throughout Tales of Transformation!\nOn Sundays from September 7 to November 30, 2025, Trainers will get a pile of trade bonuses, including one additional Special Trade!"
+        },
+        {
+            "title": "Catch Mastery Day",
+            "article_url": "https://leekduck.com/events/catch-mastery-day-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-07T10:00:00",
+            "end_time": "2026-02-07T20:00:00",
+            "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details."
         }
     ],
     "GO Pass": [
