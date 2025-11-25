@@ -841,6 +841,17 @@
             "start_time": "2025-11-17T18:00:00",
             "end_time": "2025-11-17T19:00:00",
             "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn November 17, 2025, the featured Dynamax Pokémon are Toxtricity (Amped) and Toxtricity (Low Key)."
+        },
+        {
+            "title": "Dynamax Eevee during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-11-24/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-11-24T18:00:00",
+            "end_time": "2025-11-24T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn November 24, 2025, the featured Dynamax Pokémon is Eevee.\n- Eevee"
         }
     ],
     "Raid Battles": [
@@ -2024,6 +2035,32 @@
                     "Two additional Special Trades"
                 ]
             }
+        },
+        {
+            "title": "Dynamax Eevee Max Battle Weekend",
+            "article_url": "https://leekduck.com/events/dynamax-eevee-max-battle-weekend/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-21-dynamax-eevee-max-battle-weekend/dynamax-eevee-weekend.jpg",
+            "category": "Max Battles",
+            "details": {
+                "bonuses": [
+                    "1/2 Adventuring distance to receive Max Particles*",
+                    "2× Max Particles from Power Spots",
+                    "Power Spots will refresh more frequently"
+                ],
+                "features": [
+                    "Eevee"
+                ],
+                "spawns": [
+                    "Eevee"
+                ],
+                "shiny": [
+                    "Eevee"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-21T06:00:00",
+            "end_time": "2025-11-24T21:00:00",
+            "description": "Dynamax Eevee makes its Pokémon GO debut!"
         }
     ],
     "Wild Area": [
