@@ -1,116 +1,52 @@
 {
-    "High Voltage Tasks": [
+    "Final Justice Tasks": [
         {
-            "task": "Catch 10 Electric-type Pokémon",
+            "task": "Use 5,000 Stardust",
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Blitzle",
+                    "name": "Throh",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm522.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm538.icon.png"
                 },
                 {
                     "type": "encounter",
-                    "name": "Joltik",
+                    "name": "Sawk",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm595.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm539.icon.png"
                 },
                 {
-                    "type": "encounter",
-                    "name": "Yamper",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm835.icon.png"
+                    "type": "resource",
+                    "name": "Keldeo Candy",
+                    "quantity": 2,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/647.png"
+                },
+                {
+                    "type": "item",
+                    "name": "XP",
+                    "quantity": 5000,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/icons/xp.png"
                 }
             ]
         },
         {
-            "task": "Use 5 Berries to help catch Pokémon",
+            "task": "Win 2 raids",
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Emolga",
+                    "name": "Galarian Farfetch'd",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm587.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm83.fGALARIAN.icon.png"
                 },
                 {
                     "type": "encounter",
-                    "name": "Morpeko",
+                    "name": "Hisuian Lilligant",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm877.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Spin 5 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Magnemite",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm81.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Voltorb",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm100.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Take a snapshot of an Electric-type Pokémon",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Plusle",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm311.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Minun",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm312.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Power up Electric-type Pokémon 10 times",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Dedenne",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm702.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Morpeko",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm877.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Use an Electric-type Charged Attack in a battle",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Morpeko",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm877.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm549.fHISUIAN.icon.png"
                 }
             ]
         }

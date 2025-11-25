@@ -541,21 +541,32 @@
                 ],
                 "spawns": [
                     "Crabrawler",
+                    "Croagunk",
                     "Hisuian Sneasel",
                     "Hitmonchan",
                     "Hitmonlee",
-                    "Hitmontop"
+                    "Hitmontop",
+                    "Meditite",
+                    "Scraggy",
+                    "Shroomish",
+                    "Stufful"
                 ],
                 "raids": [
+                    "Cobalion",
                     "Galarian Farfetch'd",
                     "Machop",
                     "Pancham",
                     "Sawk",
+                    "Terrakion",
                     "Throh",
-                    "Timburr"
+                    "Timburr",
+                    "Virizion"
                 ],
                 "moves": [
-                    "Keldeo (Resolute)"
+                    "Cobalion",
+                    "Keldeo (Resolute)",
+                    "Terrakion",
+                    "Virizion"
                 ],
                 "shiny": [
                     "Hitmonchan",

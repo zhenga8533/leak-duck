@@ -1,153 +1,220 @@
 {
     "Tier 1": [
         {
-            "name": "Emolga",
+            "name": "Machop",
             "tier": 1,
             "shiny_available": true,
             "cp_range": {
-                "min": 876,
-                "max": 933
+                "min": 678,
+                "max": 730
             },
             "boosted_cp_range": {
-                "min": 1095,
-                "max": 1166
+                "min": 848,
+                "max": 913
             },
             "types": [
-                "Electric",
-                "Flying"
+                "Fighting"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm587.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm66.icon.png"
         },
         {
-            "name": "Dedenne",
+            "name": "Timburr",
             "tier": 1,
             "shiny_available": true,
             "cp_range": {
-                "min": 991,
-                "max": 1051
+                "min": 699,
+                "max": 751
             },
             "boosted_cp_range": {
-                "min": 1239,
-                "max": 1315
+                "min": 874,
+                "max": 939
             },
             "types": [
-                "Electric",
-                "Fairy"
+                "Fighting"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm702.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm532.icon.png"
         },
         {
-            "name": "Togedemaru",
+            "name": "Pancham",
             "tier": 1,
             "shiny_available": true,
             "cp_range": {
-                "min": 1168,
-                "max": 1234
+                "min": 796,
+                "max": 850
             },
             "boosted_cp_range": {
-                "min": 1461,
-                "max": 1543
+                "min": 995,
+                "max": 1063
             },
             "types": [
-                "Electric",
-                "Steel"
+                "Fighting"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm777.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm674.icon.png"
         }
     ],
     "Tier 3": [
         {
-            "name": "Magneton",
+            "name": "Galarian Farfetch'd",
             "tier": 3,
-            "shiny_available": false,
+            "shiny_available": true,
             "cp_range": {
-                "min": 1348,
-                "max": 1420
+                "min": 898,
+                "max": 956
             },
             "boosted_cp_range": {
-                "min": 1686,
-                "max": 1775
+                "min": 1123,
+                "max": 1196
             },
             "types": [
-                "Electric",
-                "Steel"
+                "Fighting"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm82.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm83.fGALARIAN.icon.png"
         },
         {
-            "name": "Charjabug",
+            "name": "Throh",
             "tier": 3,
-            "shiny_available": false,
+            "shiny_available": true,
             "cp_range": {
-                "min": 912,
-                "max": 970
+                "min": 1391,
+                "max": 1464
             },
             "boosted_cp_range": {
-                "min": 1140,
-                "max": 1212
+                "min": 1739,
+                "max": 1830
             },
             "types": [
-                "Bug",
-                "Electric"
+                "Fighting"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm737.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm538.icon.png"
+        },
+        {
+            "name": "Sawk",
+            "tier": 3,
+            "shiny_available": true,
+            "cp_range": {
+                "min": 1517,
+                "max": 1593
+            },
+            "boosted_cp_range": {
+                "min": 1897,
+                "max": 1991
+            },
+            "types": [
+                "Fighting"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm539.icon.png"
         }
     ],
     "Tier 5": [
         {
-            "name": "Heatran",
+            "name": "Cobalion",
             "tier": 5,
             "shiny_available": true,
             "cp_range": {
-                "min": 2058,
-                "max": 2145
+                "min": 1649,
+                "max": 1727
             },
             "boosted_cp_range": {
-                "min": 2573,
-                "max": 2681
+                "min": 2061,
+                "max": 2159
             },
             "types": [
-                "Fire",
-                "Steel"
+                "Steel",
+                "Fighting"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm485.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm638.icon.png"
+        },
+        {
+            "name": "Terrakion",
+            "tier": 5,
+            "shiny_available": true,
+            "cp_range": {
+                "min": 2026,
+                "max": 2113
+            },
+            "boosted_cp_range": {
+                "min": 2533,
+                "max": 2641
+            },
+            "types": [
+                "Rock",
+                "Fighting"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm639.icon.png"
+        },
+        {
+            "name": "Virizion",
+            "tier": 5,
+            "shiny_available": true,
+            "cp_range": {
+                "min": 1649,
+                "max": 1727
+            },
+            "boosted_cp_range": {
+                "min": 2061,
+                "max": 2159
+            },
+            "types": [
+                "Grass",
+                "Fighting"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm640.icon.png"
         }
     ],
     "Mega": [
         {
-            "name": "Mega Ampharos",
+            "name": "Mega Aerodactyl",
             "tier": "Mega",
             "shiny_available": true,
             "cp_range": {
-                "min": 1554,
-                "max": 1630
+                "min": 1515,
+                "max": 1590
             },
             "boosted_cp_range": {
-                "min": 1943,
-                "max": 2037
+                "min": 1894,
+                "max": 1988
             },
             "types": [
-                "Electric",
-                "Dragon"
+                "Rock",
+                "Flying"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm181.fMEGA.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm142.fMEGA.icon.png"
         },
         {
-            "name": "Mega Manectric",
+            "name": "Mega Medicham",
             "tier": "Mega",
             "shiny_available": true,
             "cp_range": {
-                "min": 1267,
-                "max": 1337
+                "min": 764,
+                "max": 817
             },
             "boosted_cp_range": {
-                "min": 1585,
-                "max": 1672
+                "min": 955,
+                "max": 1022
             },
             "types": [
-                "Electric"
+                "Fighting",
+                "Psychic"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm310.fMEGA.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm308.fMEGA.icon.png"
+        },
+        {
+            "name": "Mega Garchomp",
+            "tier": "Mega",
+            "shiny_available": true,
+            "cp_range": {
+                "min": 2174,
+                "max": 2264
+            },
+            "boosted_cp_range": {
+                "min": 2718,
+                "max": 2830
+            },
+            "types": [
+                "Dragon",
+                "Ground"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm445.fMEGA.icon.png"
         }
     ],
     "Shadow Tier 1": [
