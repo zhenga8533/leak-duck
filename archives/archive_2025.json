@@ -1102,6 +1102,46 @@
             "start_time": "2025-11-11T10:00:00",
             "end_time": "2025-11-18T10:00:00",
             "description": "Mega Tyranitar and Mega Altaria return to Mega Raids on November 11, 2025, at 10 am local time."
+        },
+        {
+            "title": "Heatran in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/heatran-in-5-star-raid-battles-november-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/heatran-raids.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Heatran"
+                ],
+                "shiny": [
+                    "Heatran"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-18T10:00:00",
+            "end_time": "2025-11-25T10:00:00",
+            "description": "Heatran will be in five-star raid battles from November 18, 2025 to November 25, 2025.\nThere will also be a Raid Hour featuring Heatran from 6:00 pm to 7:00 pm local time on the following dates:\n- November 19"
+        },
+        {
+            "title": "Mega Ampharos and Mega Manectric in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-ampharos-manectric-in-mega-raids-november-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Ampharos",
+                    "Mega Manectric"
+                ],
+                "shiny": [
+                    "Ampharos",
+                    "Manectric",
+                    "Mega Ampharos",
+                    "Mega Manectric"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-18T10:00:00",
+            "end_time": "2025-11-25T10:00:00",
+            "description": "Mega Ampharos and Mega Manectric return to Mega Raids on November 18, 2025, at 10 am local time."
         }
     ],
     "GO Battle League": [
@@ -1241,6 +1281,17 @@
             "start_time": 1762894800,
             "end_time": 1763499600,
             "description": "The Great League, Ultra League, and Master League will run from November 11, 2025, at 1:00 p.m. to November 18, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
+        },
+        {
+            "title": "2025 Championship Series Cup and Master League: Mega Edition | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_2025-championship-series-cup_master-league-mega-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1763499600,
+            "end_time": 1764104400,
+            "description": "The 2025 Championship Series Cup and Master League: Mega Edition will run from November 18, 2025, at 1:00 p.m. to November 25, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Ice-, Flying-, Psychic-, Ghost-, and Dragon-type Pokémon are eligible.\n- Dark- and Rock-type Pokémon are prohibited.\n- Legendary Pokémon, Mythical Pokémon, Shadow Pokémon, and Ultra Beasts are not eligible.\nNote: Shadow Pokémon are actually available for this cup.\nThe following Pokémon will not be allowed.\n- Alolan Sandshrew\n- Alolan Sandslash\n- Alolan Ninetales\n- Lapras\n- Galarian Corsola\n- Kingdra\n- Jellicent\n- Honedge\n- Doublade\n- Corviknight\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
         }
     ],
     "Pokémon Spotlight Hour": [
