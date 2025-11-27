@@ -1,188 +1,4 @@
 {
-    "GO Battle League": [
-        {
-            "title": "2025 Championship Series Cup and Master League: Mega Edition | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_2025-championship-series-cup_master-league-mega-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1763499600,
-            "end_time": 1764104400,
-            "description": "The 2025 Championship Series Cup and Master League: Mega Edition will run from November 18, 2025, at 1:00 p.m. to November 25, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Ice-, Flying-, Psychic-, Ghost-, and Dragon-type Pokémon are eligible.\n- Dark- and Rock-type Pokémon are prohibited.\n- Legendary Pokémon, Mythical Pokémon, Shadow Pokémon, and Ultra Beasts are not eligible.\nNote: Shadow Pokémon are actually available for this cup.\nThe following Pokémon will not be allowed.\n- Alolan Sandshrew\n- Alolan Sandslash\n- Alolan Ninetales\n- Lapras\n- Galarian Corsola\n- Kingdra\n- Jellicent\n- Honedge\n- Doublade\n- Corviknight\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
-        },
-        {
-            "title": "Catch Cup: Tales of Transformation: Great Edition, Ultra League, and Master League | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_catch-cup-tales-of-transformation-great-edition_ultra-league_master-league/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1764104400,
-            "end_time": 1764709200,
-            "description": "The Catch Cup: Tales of Transformation: Great Edition, Ultra League, and Master League will run from November 25, 2025, at 1:00 p.m. to December 2, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Pokémon caught during the Tales of Transformation Season are eligible.\n- Pokémon must be caught between September 2, 2025, at 1:00 p.m. and December 2, 2025, at 1:00 p.m. local time.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
-        },
-        {
-            "title": "Great League, Ultra League, and Master League | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-split-1/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1764709200,
-            "end_time": 1765314000,
-            "description": "The Great League, Ultra League, and Master League will run from December 2, 2025, at 1:00 p.m. to December 9, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
-        },
-        {
-            "title": "Ultra League and Scroll Cup: Great League Edition | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_ultra-league_scroll-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1765314000,
-            "end_time": 1765918800,
-            "description": "The Ultra League and Scroll Cup: Great League Edition will run from December 9, 2025, at 1:00 p.m. to December 16, 2025, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Water-, Fighting-, and Dark-type Pokémon are eligible.\nThe following Pokémon will not be allowed.\n- Primarina"
-        },
-        {
-            "title": "Master League and Holiday Cup: Great League Edition | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_master-league_holiday-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1765918800,
-            "end_time": 1766523600,
-            "description": "The Master League and Holiday Cup: Great League Edition will run from December 16, 2025, at 1:00 p.m. to December 23, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Normal-, Grass-, Electric-, Ice-, Flying-, and Ghost-type Pokémon are eligible."
-        },
-        {
-            "title": "Great League and Holiday Cup: Ultra League Edition | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_holiday-cup-ultra-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1766523600,
-            "end_time": 1767128400,
-            "description": "The Great League and Holiday Cup: Ultra League Edition will run from December 23, 2025, at 1:00 p.m. to December 30, 2025, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- Only Normal-, Grass-, Electric-, Ice-, Flying-, and Ghost-type Pokémon are eligible."
-        },
-        {
-            "title": "Great League, Ultra League, and Master League | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-split-2/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1767128400,
-            "end_time": 1767733200,
-            "description": "The Great League, Ultra League, and Master League will run from December 30, 2025, at 1:00 p.m. to January 6, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
-        },
-        {
-            "title": "Ultra League and Sunshine Cup: Great League Edition | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_ultra-league_sunshine-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1767733200,
-            "end_time": 1768338000,
-            "description": "The Ultra League and Sunshine Cup: Great League Edition will run from January 6, 2026, at 1:00 p.m. to January 13, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Normal-, Fire-, Grass-, and Ground-type Pokémon are eligible.\n- Charizard is not allowed.\nThe following Pokémon will not be allowed.\n- Charizard"
-        },
-        {
-            "title": "Master Premier and Retro Cup: Great League Edition | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_master-premier_retro-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1768338000,
-            "end_time": 1768942800,
-            "description": "The Master Premier and Retro Cup: Great League Edition will run from January 13, 2026, at 1:00 p.m. to January 20, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- No CP limit.\n- Legendary Pokémon, Mythical Pokémon, and Ultra Beasts are not eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Dark-, Steel-, and Fairy-type Pokémon are not eligible."
-        },
-        {
-            "title": "Great League and Ultra Premier | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-premier/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1768942800,
-            "end_time": 1769547600,
-            "description": "The Great League and Ultra Premier will run from January 20, 2026, at 1:00 p.m. to January 27, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- Legendary Pokémon, Mythical Pokémon, and Ultra Beasts are not eligible."
-        },
-        {
-            "title": "Great League, Ultra League, and Master League | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-split-3/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1769547600,
-            "end_time": 1770152400,
-            "description": "The Great League, Ultra League, and Master League will run from January 27, 2026, at 1:00 p.m. to February 3, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
-        },
-        {
-            "title": "Ultra League and 2026 Championship Series Cup | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_ultra-league_2026-championship-series-cup/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1770152400,
-            "end_time": 1770757200,
-            "description": "The Ultra League and 2026 Championship Series Cup will run from February 3, 2026, at 1:00 p.m. to February 10, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Bug-, Dark-, Normal-, and Dragon-type Pokémon are eligible.\n- Fighting-, Flying-, and Steel-type Pokémon are not eligible.\n- Legendary Pokémon, Mythical Pokémon, Mega Pokémon, and Ultra Beasts are not eligible.\n- The following Pokémon will be allowed: Seaking, Politoed, Milotic, and Froslass.\nThe following Pokémon will not be allowed.\n- Wigglytuff\n- Chansey\n- Crustle\n- Diggersby\n- Ribombee\n- Araquanid\n- Turtonator\n- Morgrem\n- Morpeko"
-        },
-        {
-            "title": "Master League and 2026 Championship Series Cup | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_master-league_2026-championship-series-cup/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1770757200,
-            "end_time": 1771362000,
-            "description": "The Master League and 2026 Championship Series Cup will run from February 10, 2026, at 1:00 p.m. to February 17, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Bug-, Dark-, Normal-, and Dragon-type Pokémon are eligible.\n- Fighting-, Flying-, and Steel-type Pokémon are not eligible.\n- Legendary Pokémon, Mythical Pokémon, Mega Pokémon, and Ultra Beasts are not eligible.\n- The following Pokémon will be allowed: Seaking, Politoed, Milotic, and Froslass.\nThe following Pokémon will not be allowed.\n- Wigglytuff\n- Chansey\n- Crustle\n- Diggersby\n- Ribombee\n- Araquanid\n- Turtonator\n- Morgrem\n- Morpeko"
-        },
-        {
-            "title": "Great League and Love Cup: Great League Edition | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_love-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1771362000,
-            "end_time": 1771966800,
-            "description": "The Great League and Love Cup: Great League Edition will run from February 17, 2026, at 1:00 p.m. to February 24, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only red- or pink-colored Pokémon are eligible."
-        },
-        {
-            "title": "Great League, Ultra League, and Master League: Mega Edition | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-mega-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1771966800,
-            "end_time": 1772571600,
-            "description": "The Great League, Ultra League, and Master League: Mega Edition will run from February 24, 2026, at 1:00 p.m. to March 3, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
-        }
-    ],
-    "Pokémon Spotlight Hour": [
-        {
-            "title": "Scraggy Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-11-25/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Scraggy"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-11-25T18:00:00",
-            "end_time": "2025-11-25T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of November.\nNovember 25: The featured Pokémon is Scraggy and the special bonus is 2× Catch XP."
-        }
-    ],
     "Raid Hour": [
         {
             "title": "Cobalion, Terrakion, and Virizion Raid Hour",
@@ -194,6 +10,61 @@
             "start_time": "2025-11-26T18:00:00",
             "end_time": "2025-11-26T19:00:00",
             "description": "A Raid Hour featuring Cobalion, Terrakion, and Virizion is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Cobalion, Terrakion, and Virizion Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20251203/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-03T18:00:00",
+            "end_time": "2025-12-03T19:00:00",
+            "description": "A Raid Hour featuring Cobalion, Terrakion, and Virizion is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Kyurem Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20251210/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-10T18:00:00",
+            "end_time": "2025-12-10T19:00:00",
+            "description": "A Raid Hour featuring Kyurem is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Reshiram Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20251217/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-17T18:00:00",
+            "end_time": "2025-12-17T19:00:00",
+            "description": "A Raid Hour featuring Reshiram is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Zekrom Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20251224/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-24T18:00:00",
+            "end_time": "2025-12-24T19:00:00",
+            "description": "A Raid Hour featuring Zekrom is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Blacephalon Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20251231/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-31T18:00:00",
+            "end_time": "2025-12-31T19:00:00",
+            "description": "A Raid Hour featuring Blacephalon is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
         }
     ],
     "PokéStop Showcase": [
@@ -582,6 +453,61 @@
             "description": "Journey to Paldea! Discover Nacli, Naclstack, and Garganacl making their Pokémon GO debuts!"
         },
         {
+            "title": "Well Armed",
+            "article_url": "https://leekduck.com/events/well-armed-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-11T10:00:00",
+            "end_time": "2025-12-16T20:00:00",
+            "description": "The Well Armed event will take place from December 11, 2025 at 10 am to December 16, 2025 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Winter Holiday Part 1",
+            "article_url": "https://leekduck.com/events/winter-holiday-part-1-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-18T10:00:00",
+            "end_time": "2025-12-24T20:00:00",
+            "description": "The Winter Holiday Part 1 event will take place from December 18, 2025 at 10 am to December 24, 2025 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Winter Weekend",
+            "article_url": "https://leekduck.com/events/winter-weekend-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-27T10:00:00",
+            "end_time": "2025-12-28T20:00:00",
+            "description": "The Winter Weekend event will take place from December 27, 2025 at 10 am to December 28, 2025 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Winter Holiday Part 2",
+            "article_url": "https://leekduck.com/events/winter-holiday-part-2-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-24T10:00:00",
+            "end_time": "2025-12-29T20:00:00",
+            "description": "The Winter Holiday Part 2 event will take place from December 24, 2025 at 10 am to December 29, 2025 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "New Year's 2026",
+            "article_url": "https://leekduck.com/events/new-years-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-31T10:00:00",
+            "end_time": "2026-01-04T20:00:00",
+            "description": "The New Year’s 2026 event will take place from December 31, 2025 at 10 am to January 4, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
             "title": "Catch Mastery Day",
             "article_url": "https://leekduck.com/events/catch-mastery-day-february-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
@@ -663,6 +589,50 @@
             "start_time": "2025-12-01T18:00:00",
             "end_time": "2025-12-01T19:00:00",
             "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 1, 2025, the featured Dynamax Pokémon is Darumaka.\n- Darumaka"
+        },
+        {
+            "title": "Dynamax Cryogonal during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-12-08/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-08T18:00:00",
+            "end_time": "2025-12-08T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 8, 2025, the featured Dynamax Pokémon is Cryogonal.\n- Cryogonal"
+        },
+        {
+            "title": "Dynamax Kabuto during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-12-15/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-15T18:00:00",
+            "end_time": "2025-12-15T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 15, 2025, the featured Dynamax Pokémon is Kabuto.\n- Kabuto"
+        },
+        {
+            "title": "Dynamax Spheal during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-12-22/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-22T18:00:00",
+            "end_time": "2025-12-22T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 22, 2025, the featured Dynamax Pokémon is Spheal.\n- Spheal"
+        },
+        {
+            "title": "Dynamax Omanyte during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-12-29/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-29T18:00:00",
+            "end_time": "2025-12-29T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 29, 2025, the featured Dynamax Pokémon is Omanyte.\n- Omanyte"
         }
     ],
     "GO Pass": [
@@ -687,6 +657,28 @@
             "start_time": "2025-11-04T10:00:00",
             "end_time": "2025-12-02T10:00:00",
             "description": "The Lucky Trinket returns in GO Pass: November!\nFrom Tuesday, November 4, at 10:00 a.m. to Tuesday, December 2, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for November will be available in Pokémon GO!"
+        },
+        {
+            "title": "GO Pass: December",
+            "article_url": "https://leekduck.com/events/go-pass-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-02-go-pass-december-2025/go-pass-december-2025.jpg",
+            "category": "GO Pass",
+            "details": {
+                "bonuses": [
+                    "2× Daily Adventure Incense duration",
+                    "Additional rewards for completing in-person raids and Max Battles",
+                    "Hold up to 10 additional Gifts in your Item Bag",
+                    "Hold up to 20 additional Gifts in your Item Bag",
+                    "Open up to 40 Gifts per day",
+                    "Open up to 50 Gifts per day",
+                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-02T10:00:00",
+            "end_time": "2026-01-06T10:00:00",
+            "description": "Palkia and the Timed Incubator return for GO Pass: December!\nFrom Tuesday, December 2, 2025, at 10:00 a.m. to Tuesday, January 6, 2026, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for December will be available in Pokémon GO!"
         }
     ],
     "Season": [
@@ -813,7 +805,258 @@
             "description": "Welcome to the next Pokémon GO Season: Precious Paths!"
         }
     ],
+    "GO Battle League": [
+        {
+            "title": "Catch Cup: Tales of Transformation: Great Edition, Ultra League, and Master League | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/gbl-tales-of-transformation_catch-cup-tales-of-transformation-great-edition_ultra-league_master-league/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1764104400,
+            "end_time": 1764709200,
+            "description": "The Catch Cup: Tales of Transformation: Great Edition, Ultra League, and Master League will run from November 25, 2025, at 1:00 p.m. to December 2, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Pokémon caught during the Tales of Transformation Season are eligible.\n- Pokémon must be caught between September 2, 2025, at 1:00 p.m. and December 2, 2025, at 1:00 p.m. local time.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
+        },
+        {
+            "title": "Great League, Ultra League, and Master League | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-split-1/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1764709200,
+            "end_time": 1765314000,
+            "description": "The Great League, Ultra League, and Master League will run from December 2, 2025, at 1:00 p.m. to December 9, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
+        },
+        {
+            "title": "Ultra League and Scroll Cup: Great League Edition | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_ultra-league_scroll-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1765314000,
+            "end_time": 1765918800,
+            "description": "The Ultra League and Scroll Cup: Great League Edition will run from December 9, 2025, at 1:00 p.m. to December 16, 2025, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Water-, Fighting-, and Dark-type Pokémon are eligible.\nThe following Pokémon will not be allowed.\n- Primarina"
+        },
+        {
+            "title": "Master League and Holiday Cup: Great League Edition | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_master-league_holiday-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1765918800,
+            "end_time": 1766523600,
+            "description": "The Master League and Holiday Cup: Great League Edition will run from December 16, 2025, at 1:00 p.m. to December 23, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Normal-, Grass-, Electric-, Ice-, Flying-, and Ghost-type Pokémon are eligible."
+        },
+        {
+            "title": "Great League and Holiday Cup: Ultra League Edition | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_holiday-cup-ultra-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1766523600,
+            "end_time": 1767128400,
+            "description": "The Great League and Holiday Cup: Ultra League Edition will run from December 23, 2025, at 1:00 p.m. to December 30, 2025, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- Only Normal-, Grass-, Electric-, Ice-, Flying-, and Ghost-type Pokémon are eligible."
+        },
+        {
+            "title": "Great League, Ultra League, and Master League | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-split-2/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1767128400,
+            "end_time": 1767733200,
+            "description": "The Great League, Ultra League, and Master League will run from December 30, 2025, at 1:00 p.m. to January 6, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
+        },
+        {
+            "title": "Ultra League and Sunshine Cup: Great League Edition | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_ultra-league_sunshine-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1767733200,
+            "end_time": 1768338000,
+            "description": "The Ultra League and Sunshine Cup: Great League Edition will run from January 6, 2026, at 1:00 p.m. to January 13, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Normal-, Fire-, Grass-, and Ground-type Pokémon are eligible.\n- Charizard is not allowed.\nThe following Pokémon will not be allowed.\n- Charizard"
+        },
+        {
+            "title": "Master Premier and Retro Cup: Great League Edition | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_master-premier_retro-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1768338000,
+            "end_time": 1768942800,
+            "description": "The Master Premier and Retro Cup: Great League Edition will run from January 13, 2026, at 1:00 p.m. to January 20, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- No CP limit.\n- Legendary Pokémon, Mythical Pokémon, and Ultra Beasts are not eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Dark-, Steel-, and Fairy-type Pokémon are not eligible."
+        },
+        {
+            "title": "Great League and Ultra Premier | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-premier/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1768942800,
+            "end_time": 1769547600,
+            "description": "The Great League and Ultra Premier will run from January 20, 2026, at 1:00 p.m. to January 27, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- Legendary Pokémon, Mythical Pokémon, and Ultra Beasts are not eligible."
+        },
+        {
+            "title": "Great League, Ultra League, and Master League | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-split-3/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1769547600,
+            "end_time": 1770152400,
+            "description": "The Great League, Ultra League, and Master League will run from January 27, 2026, at 1:00 p.m. to February 3, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
+        },
+        {
+            "title": "Ultra League and 2026 Championship Series Cup | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_ultra-league_2026-championship-series-cup/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1770152400,
+            "end_time": 1770757200,
+            "description": "The Ultra League and 2026 Championship Series Cup will run from February 3, 2026, at 1:00 p.m. to February 10, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Bug-, Dark-, Normal-, and Dragon-type Pokémon are eligible.\n- Fighting-, Flying-, and Steel-type Pokémon are not eligible.\n- Legendary Pokémon, Mythical Pokémon, Mega Pokémon, and Ultra Beasts are not eligible.\n- The following Pokémon will be allowed: Seaking, Politoed, Milotic, and Froslass.\nThe following Pokémon will not be allowed.\n- Wigglytuff\n- Chansey\n- Crustle\n- Diggersby\n- Ribombee\n- Araquanid\n- Turtonator\n- Morgrem\n- Morpeko"
+        },
+        {
+            "title": "Master League and 2026 Championship Series Cup | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_master-league_2026-championship-series-cup/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1770757200,
+            "end_time": 1771362000,
+            "description": "The Master League and 2026 Championship Series Cup will run from February 10, 2026, at 1:00 p.m. to February 17, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Bug-, Dark-, Normal-, and Dragon-type Pokémon are eligible.\n- Fighting-, Flying-, and Steel-type Pokémon are not eligible.\n- Legendary Pokémon, Mythical Pokémon, Mega Pokémon, and Ultra Beasts are not eligible.\n- The following Pokémon will be allowed: Seaking, Politoed, Milotic, and Froslass.\nThe following Pokémon will not be allowed.\n- Wigglytuff\n- Chansey\n- Crustle\n- Diggersby\n- Ribombee\n- Araquanid\n- Turtonator\n- Morgrem\n- Morpeko"
+        },
+        {
+            "title": "Great League and Love Cup: Great League Edition | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_love-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1771362000,
+            "end_time": 1771966800,
+            "description": "The Great League and Love Cup: Great League Edition will run from February 17, 2026, at 1:00 p.m. to February 24, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only red- or pink-colored Pokémon are eligible."
+        },
+        {
+            "title": "Great League, Ultra League, and Master League: Mega Edition | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-mega-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1771966800,
+            "end_time": 1772571600,
+            "description": "The Great League, Ultra League, and Master League: Mega Edition will run from February 24, 2026, at 1:00 p.m. to March 3, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
+        }
+    ],
+    "Pokémon Spotlight Hour": [
+        {
+            "title": "Cranidos Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-12-02/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Cranidos"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-02T18:00:00",
+            "end_time": "2025-12-02T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of December.\nDecember 2: The featured Pokémon is Cranidos and the special bonus is 2× Transfer Candy."
+        },
+        {
+            "title": "Shieldon Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-12-09/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Shieldon"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-09T18:00:00",
+            "end_time": "2025-12-09T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of December.\nDecember 9: The featured Pokémon is Shieldon and the special bonus is 2× Catch XP."
+        },
+        {
+            "title": "Mienfoo Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-12-16/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Mienfoo"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-16T18:00:00",
+            "end_time": "2025-12-16T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of December.\nDecember 16: The featured Pokémon is Mienfoo and the special bonus is 2× Catch Candy."
+        },
+        {
+            "title": "Spheal Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-12-23/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Spheal"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-23T18:00:00",
+            "end_time": "2025-12-23T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of December.\nDecember 23: The featured Pokémon is Spheal and the special bonus is 2× Evolution XP."
+        },
+        {
+            "title": "Delibird Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-12-30/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Delibird"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-30T18:00:00",
+            "end_time": "2025-12-30T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of December.\nDecember 30: The featured Pokémon is Delibird and the special bonus is 2× Catch Stardust."
+        }
+    ],
     "Raid Battles": [
+        {
+            "title": "Shadow Latios in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-latios-in-shadow-raids-november-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Latios"
+                ],
+                "shiny": [
+                    "Latios"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-02T06:00:00",
+            "end_time": "2025-12-02T22:00:00",
+            "description": "Shadow Latios will return to Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Latios!\nShadow Latios will appear in five-star Shadow Raids every weekend from November 2 to December 2:\n- November 2\n- November 8 - November 9\n- November 15 - November 16\n- November 22 - November 23\n- November 29 - November 30"
+        },
         {
             "title": "Cobalion, Terrakion, and Virizion in 5-star Raid Battles",
             "article_url": "https://leekduck.com/events/cobalion-terrakion-virizion-in-5-star-raid-battles-november-december-2025/",
@@ -833,8 +1076,8 @@
             },
             "is_local_time": true,
             "start_time": "2025-11-25T10:00:00",
-            "end_time": "2025-12-02T10:00:00",
-            "description": "Cobalion, Terrakion, and Virizion will be in five-star raid battles from November 25, 2025 to December 2, 2025.\nThere will also be a Raid Hour featuring Cobalion, Terrakion, and Virizion from 6:00 pm to 7:00 pm local time on the following dates:\n- November 26"
+            "end_time": "2025-12-04T10:00:00",
+            "description": "Cobalion, Terrakion, and Virizion will be in five-star raid battles from November 25, 2025 to December 4, 2025.\nThere will also be a Raid Hour featuring Cobalion, Terrakion, and Virizion from 6:00 pm to 7:00 pm local time on the following dates:\n- November 26\n- December 3"
         },
         {
             "title": "Mega Aerodactyl, Mega Medicham, and Mega Garchomp in Mega Raids",
@@ -858,26 +1101,137 @@
             },
             "is_local_time": true,
             "start_time": "2025-11-25T10:00:00",
-            "end_time": "2025-12-02T10:00:00",
+            "end_time": "2025-12-04T10:00:00",
             "description": "Mega Aerodactyl, Mega Medicham, and Mega Garchomp return to Mega Raids on November 25, 2025, at 10 am local time."
         },
         {
-            "title": "Shadow Latios in Shadow Raids",
-            "article_url": "https://leekduck.com/events/shadow-latios-in-shadow-raids-november-december-2025/",
+            "title": "Kyurem in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/kyurem-in-5-star-raid-battles-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/kyurem.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Kyurem"
+                ],
+                "shiny": [
+                    "Kyurem"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-04T10:00:00",
+            "end_time": "2025-12-13T10:00:00",
+            "description": "Kyurem will be in five-star raid battles from December 4, 2025 to December 13, 2025.\nThere will also be a Raid Hour featuring Kyurem from 6:00 pm to 7:00 pm local time on the following dates:\n- December 10"
+        },
+        {
+            "title": "Mega Gyarados in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-gyarados-in-mega-raids-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Gyarados"
+                ],
+                "shiny": [
+                    "Gyarados",
+                    "Mega Gyarados"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-04T10:00:00",
+            "end_time": "2025-12-13T10:00:00",
+            "description": "Mega Gyarados return to Mega Raids on December 4, 2025, at 10 am local time."
+        },
+        {
+            "title": "Mega Abomasnow in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-abomasnow-in-mega-raids-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Abomasnow"
+                ],
+                "shiny": [
+                    "Abomasnow",
+                    "Mega Abomasnow"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-13T10:00:00",
+            "end_time": "2025-12-22T10:00:00",
+            "description": "Mega Abomasnow return to Mega Raids on December 13, 2025, at 10 am local time."
+        },
+        {
+            "title": "Reshiram in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/reshiram-in-5-star-raid-battles-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/reshiram.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Reshiram"
+                ],
+                "shiny": [
+                    "Reshiram"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-13T10:00:00",
+            "end_time": "2025-12-22T10:00:00",
+            "description": "Reshiram will be in five-star raid battles from December 13, 2025 to December 22, 2025.\nThere will also be a Raid Hour featuring Reshiram from 6:00 pm to 7:00 pm local time on the following dates:\n- December 17"
+        },
+        {
+            "title": "Mega Glalie in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-glalie-in-mega-raids-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Glalie"
+                ],
+                "shiny": [
+                    "Glalie",
+                    "Mega Glalie"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-22T10:00:00",
+            "end_time": "2025-12-31T10:00:00",
+            "description": "Mega Glalie return to Mega Raids on December 22, 2025, at 10 am local time."
+        },
+        {
+            "title": "Zekrom in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/zekrom-in-5-star-raid-battles-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/zekrom2.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Zekrom"
+                ],
+                "shiny": [
+                    "Zekrom"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-22T10:00:00",
+            "end_time": "2025-12-31T10:00:00",
+            "description": "Zekrom will be in five-star raid battles from December 22, 2025 to December 31, 2025.\nThere will also be a Raid Hour featuring Zekrom from 6:00 pm to 7:00 pm local time on the following dates:\n- December 24"
+        },
+        {
+            "title": "Shadow Heatran in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-heatran-in-shadow-raids-december-january-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
             "category": "Raid Battles",
             "details": {
                 "raids": [
-                    "Latios"
+                    "Heatran"
                 ],
                 "shiny": [
-                    "Latios"
+                    "Heatran"
                 ]
             },
             "is_local_time": true,
-            "start_time": "2025-11-02T06:00:00",
-            "end_time": "2025-12-02T22:00:00",
-            "description": "Shadow Latios will return to Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Latios!\nShadow Latios will appear in five-star Shadow Raids every weekend from November 2 to December 2:\n- November 2\n- November 8 - November 9\n- November 15 - November 16\n- November 22 - November 23\n- November 29 - November 30"
+            "start_time": "2025-12-02T06:00:00",
+            "end_time": "2026-01-01T22:00:00",
+            "description": "Shadow Heatran will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Heatran!\nShadow Heatran will appear in five-star Shadow Raids every weekend from December 2 to January 1:\n- December 6 - December 7\n- December 13 - December 14\n- December 20 - December 21\n- December 27 - December 28"
         }
     ],
     "City Safari": [
@@ -1135,6 +1489,139 @@
             "start_time": "2026-02-14T14:00:00",
             "end_time": "2026-02-14T17:00:00",
             "description": "The Raid Day event will take place on February 14, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        }
+    ],
+    "Pokémon GO Tour": [
+        {
+            "title": "Pokémon GO Tour: Kalos - Global",
+            "article_url": "https://leekduck.com/events/pokemon-go-tour-kalos-global-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-28-pokemon-go-tour-kalos-global-2026/pokemon-go-tour-kalos-global-2026.jpg",
+            "category": "Pokémon GO Tour",
+            "details": {
+                "bonuses": [
+                    "1/2 Hatch Distance for Eggs placed in Incubators during the event",
+                    "1/2 Stardust cost for trades",
+                    "Increased chance of encountering Shiny Pokémon*",
+                    "Mega-Evolved Pokémon will receive a CP boost",
+                    "One GO Snapshot surprise event encounter per day—Latias may appear on Saturday and Latios may appear on Sunday!",
+                    "Up to six Special Trades per day"
+                ],
+                "features": [
+                    "Blue Flower Flabébé",
+                    "Hawlucha",
+                    "Honedge",
+                    "Klefki",
+                    "Orange Flower Flabébé",
+                    "Red Flower Flabébé",
+                    "White Flower Flabébé",
+                    "Yellow Flower Flabébé"
+                ],
+                "spawns": [
+                    "Absol",
+                    "Amaura",
+                    "Bergmite",
+                    "Binacle",
+                    "Bulbasaur",
+                    "Bunnelby",
+                    "Carbink",
+                    "Charmander",
+                    "Chespin",
+                    "Clauncher",
+                    "Dedenne",
+                    "Eevee",
+                    "Espurr",
+                    "Fennekin",
+                    "Fletchling",
+                    "Froakie",
+                    "Furfrou (Natural)",
+                    "Goomy",
+                    "Helioptile",
+                    "Inkay",
+                    "Litleo",
+                    "Mudkip",
+                    "Noibat",
+                    "Pancham",
+                    "Phantump",
+                    "Pidgey",
+                    "Pumpkaboo",
+                    "Ralts",
+                    "Scyther",
+                    "Skiddo",
+                    "Skrelp",
+                    "Spritzee",
+                    "Squirtle",
+                    "Swirlix",
+                    "Torchic",
+                    "Treecko",
+                    "Tyrunt",
+                    "Unown A",
+                    "Unown K",
+                    "Unown L",
+                    "Unown O",
+                    "Unown S"
+                ],
+                "eggs": [
+                    "Bagon",
+                    "Beldum",
+                    "Blue Flower Flabébé",
+                    "Gible",
+                    "Hawlucha",
+                    "Heracross",
+                    "Kangaskhan",
+                    "Klefki",
+                    "Larvitar",
+                    "Orange Flower Flabébé",
+                    "Red Flower Flabébé",
+                    "White Flower Flabébé",
+                    "Yellow Flower Flabébé"
+                ],
+                "raids": [
+                    "Calem's Hat Pikachu",
+                    "Honedge",
+                    "Mega Absol",
+                    "Mega Blastoise",
+                    "Mega Blaziken",
+                    "Mega Charizard X",
+                    "Mega Charizard Y",
+                    "Mega Gallade",
+                    "Mega Garchomp",
+                    "Mega Gardevoir",
+                    "Mega Heracross",
+                    "Mega Kangaskhan",
+                    "Mega Latias",
+                    "Mega Latios",
+                    "Mega Lucario",
+                    "Mega Metagross",
+                    "Mega Pidgeot",
+                    "Mega Salamence",
+                    "Mega Sceptile",
+                    "Mega Scizor",
+                    "Mega Swampert",
+                    "Mega Tyranitar",
+                    "Mega Venusaur",
+                    "Serena's Hat Pikachu",
+                    "Xerneas",
+                    "Yveltal"
+                ],
+                "research": [
+                    "Furfrou (Debutante)",
+                    "Furfrou (Diamond)",
+                    "Furfrou (Kabuki)",
+                    "Furfrou (La Reine)",
+                    "Furfrou (Pharaoh)",
+                    "Furfrou (Star)"
+                ],
+                "shiny": [
+                    "Diancie",
+                    "Hawlucha",
+                    "Honedge",
+                    "Klefki"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-28T10:00:00",
+            "end_time": "2026-03-01T18:00:00",
+            "description": "Other Event Locations:\n- Los Angeles\n- Tainan\n- Global (this page)\nBuy tickets: Pokémon GO Web Store\nJoin millions of Trainers across the globe for Pokémon GO Tour: Kalos – Global! Take part in this worldwide event inspired by the Kalos region, first featured in Pokémon X and Pokémon Y on the Nintendo 3DS.\nGet ready to experience new gameplay inspired by the stories and characters of Pokémon X and Pokémon Y. From longtime Kalos fans to new Trainers picking up Pokémon GO for the first time, anyone can take part in this exciting two-day event at no cost!\nLooking to enhance your GO Tour adventure with exclusive Special Research, additional bonuses, and an increased chance of encountering Shiny Pokémon? Purchase a global event ticket from the Pokémon GO Web Store!"
         }
     ]
 }
