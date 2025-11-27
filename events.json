@@ -1,85 +1,4 @@
 {
-    "Raid Hour": [
-        {
-            "title": "Cobalion, Terrakion, and Virizion Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20251126/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-11-26T18:00:00",
-            "end_time": "2025-11-26T19:00:00",
-            "description": "A Raid Hour featuring Cobalion, Terrakion, and Virizion is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
-        },
-        {
-            "title": "Cobalion, Terrakion, and Virizion Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20251203/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-03T18:00:00",
-            "end_time": "2025-12-03T19:00:00",
-            "description": "A Raid Hour featuring Cobalion, Terrakion, and Virizion is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
-        },
-        {
-            "title": "Kyurem Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20251210/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-10T18:00:00",
-            "end_time": "2025-12-10T19:00:00",
-            "description": "A Raid Hour featuring Kyurem is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
-        },
-        {
-            "title": "Reshiram Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20251217/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-17T18:00:00",
-            "end_time": "2025-12-17T19:00:00",
-            "description": "A Raid Hour featuring Reshiram is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
-        },
-        {
-            "title": "Zekrom Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20251224/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-24T18:00:00",
-            "end_time": "2025-12-24T19:00:00",
-            "description": "A Raid Hour featuring Zekrom is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
-        },
-        {
-            "title": "Blacephalon Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20251231/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-31T18:00:00",
-            "end_time": "2025-12-31T19:00:00",
-            "description": "A Raid Hour featuring Blacephalon is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
-        }
-    ],
-    "PokéStop Showcase": [
-        {
-            "title": "Fighting-type PokéStop Showcases",
-            "article_url": "https://leekduck.com/events/pokemon-showcase-fighting-type/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-11-24T10:00:00",
-            "end_time": "2025-11-26T20:00:00",
-            "description": "There will be PokéStop Showcases featuring Fighting-type Pokémon. Top the leaderboard to win rewards including Premium Items!"
-        }
-    ],
     "Community Day": [
         {
             "title": "Pikipek Community Day",
@@ -1234,6 +1153,63 @@
             "description": "Shadow Heatran will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Heatran!\nShadow Heatran will appear in five-star Shadow Raids every weekend from December 2 to January 1:\n- December 6 - December 7\n- December 13 - December 14\n- December 20 - December 21\n- December 27 - December 28"
         }
     ],
+    "Raid Hour": [
+        {
+            "title": "Cobalion, Terrakion, and Virizion Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20251203/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-03T18:00:00",
+            "end_time": "2025-12-03T19:00:00",
+            "description": "A Raid Hour featuring Cobalion, Terrakion, and Virizion is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Kyurem Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20251210/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-10T18:00:00",
+            "end_time": "2025-12-10T19:00:00",
+            "description": "A Raid Hour featuring Kyurem is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Reshiram Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20251217/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-17T18:00:00",
+            "end_time": "2025-12-17T19:00:00",
+            "description": "A Raid Hour featuring Reshiram is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Zekrom Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20251224/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-24T18:00:00",
+            "end_time": "2025-12-24T19:00:00",
+            "description": "A Raid Hour featuring Zekrom is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Blacephalon Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20251231/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-31T18:00:00",
+            "end_time": "2025-12-31T19:00:00",
+            "description": "A Raid Hour featuring Blacephalon is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        }
+    ],
     "City Safari": [
         {
             "title": "Sydney, Australia - Pokémon GO City Safari",
@@ -1493,7 +1469,301 @@
     ],
     "Pokémon GO Tour": [
         {
-            "title": "Pokémon GO Tour: Kalos - Global",
+            "title": "Pokémon GO Tour: Kalos - Tainan 2026",
+            "article_url": "https://leekduck.com/events/pokemon-go-tour-kalos-tainan-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-20-pokemon-go-tour-kalos-tainan-2026/pokemon-go-tour-kalos-tainan-2026.jpg",
+            "category": "Pokémon GO Tour",
+            "details": {
+                "bonuses": [
+                    "1/2 Hatch Distance for Eggs placed in Incubators during the event",
+                    "1/2 Stardust cost for trades",
+                    "1/4 Egg Hatch Distance*",
+                    "3 additional Candy XL for catching Pokémon in five-star and Mega raids (Trainers level 31+)",
+                    "3× Hatch Candy",
+                    "3× Hatch Stardust",
+                    "3× Hatch XP",
+                    "5,000 additional XP awarded for completed raids",
+                    "6 additional Candy for catching Pokémon in five-star and Mega raids",
+                    "Increased chance of 10 km Eggs from spinning PokéStops and Photo Discs at Gyms",
+                    "Increased chance of encountering Shiny Pokémon",
+                    "Up to 18 daily Raid Passes per day from spinning Photo Discs at Gyms",
+                    "Up to 6 Special Trades can be made during your ticketed event day",
+                    "Up to 9 daily Raid Passes per day from spinning Photo Discs at Gyms"
+                ],
+                "features": [
+                    "Hawlucha",
+                    "Honedge",
+                    "Klefki"
+                ],
+                "spawns": [
+                    "Amaura",
+                    "Bergmite",
+                    "Binacle",
+                    "Bunnelby",
+                    "Calem's Hat Pikachu",
+                    "Carbink",
+                    "Chespin",
+                    "Clauncher",
+                    "Dedenne",
+                    "Eevee",
+                    "Espurr",
+                    "Fennekin",
+                    "Fletchling",
+                    "Froakie",
+                    "Furfrou (Natural)",
+                    "Goomy",
+                    "Helioptile",
+                    "Inkay",
+                    "Litleo",
+                    "Noibat",
+                    "Orange Flower Flabébé",
+                    "Pancham",
+                    "Phantump",
+                    "Pumpkaboo",
+                    "Serena's Hat Pikachu",
+                    "Skiddo",
+                    "Skrelp",
+                    "Spritzee",
+                    "Swirlix",
+                    "Tyrunt",
+                    "Unown A",
+                    "Unown X",
+                    "Unown Y",
+                    "Unown Z",
+                    "White Flower Flabébé"
+                ],
+                "eggs": [
+                    "Bagon",
+                    "Beldum",
+                    "Blue Flower Flabébé",
+                    "Gible",
+                    "Hawlucha",
+                    "Heracross",
+                    "Kangaskhan",
+                    "Klefki",
+                    "Larvitar",
+                    "Orange Flower Flabébé",
+                    "Red Flower Flabébé",
+                    "White Flower Flabébé",
+                    "Yellow Flower Flabébé"
+                ],
+                "raids": [
+                    "Honedge",
+                    "Mega Absol",
+                    "Mega Gardevoir",
+                    "Mega Gyarados",
+                    "Mega Lucario",
+                    "Xerneas",
+                    "Yveltal"
+                ],
+                "research": [
+                    "Furfrou (Debutante)",
+                    "Furfrou (Heart)",
+                    "Furfrou (Kabuki)",
+                    "Furfrou (La Reine)",
+                    "Furfrou (Pharaoh)",
+                    "Furfrou (Star)"
+                ],
+                "shiny": [
+                    "Hawlucha",
+                    "Honedge",
+                    "Klefki"
+                ]
+            },
+            "is_local_time": false,
+            "start_time": 1771549200,
+            "end_time": 1771750800,
+            "description": "Location: Tainan Metropolitan Park, Tainan, Taiwan\nDates: February 20–22, 2026\nTime: 9:00 a.m. – 5:00 p.m. GMT+8\nTicket Price: NT $733 (Early Bird, regular $818) – Early Bird Discount available through December 31\nExperience an exclusive in-person Pokémon GO event in Tainan! Inspired by a place where dreams and adventures begin, Pokémon GO Tour is bringing the Kalos region to life in Tainan. Embark on a journey of beauty and bonds as you collect Pokémon, discover legendary stories, and experience the community of Pokémon GO in-person.\nAll event gameplay is exclusive to ticket holders. You will only be able to experience the event gameplay within Tainan Metropolitan Park during the date and time noted on your event ticket.\nOther Event Locations:\n- Los Angeles\n- Tainan (this page)\n- Global\nBuy tickets: Pokémon GO Tour Website"
+        },
+        {
+            "title": "Mega Night at Pokémon GO Tour: Kalos - Tainan 2026",
+            "article_url": "https://leekduck.com/events/mega-night-pokemon-go-tour-kalos-tainan-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-20-mega-night-pokemon-go-tour-kalos-tainan-2026/mega-night-pokemon-go-tour-kalos-tainan-2026.jpg",
+            "category": "Pokémon GO Tour",
+            "details": {
+                "bonuses": [
+                    "2× Candy for catching Pokémon",
+                    "Additional 5,000 XP from completed raids",
+                    "Chance of Mega Energy from spinning PokéStops and Photo Discs at Gyms"
+                ],
+                "spawns": [
+                    "Bagon",
+                    "Carbink",
+                    "Charizard",
+                    "Charmander",
+                    "Garchomp",
+                    "Gible",
+                    "Goomy",
+                    "Mareep",
+                    "Noibat",
+                    "Skrelp",
+                    "Swablu",
+                    "Treecko",
+                    "Tyrunt"
+                ],
+                "raids": [
+                    "Mega Altaria",
+                    "Mega Ampharos",
+                    "Mega Charizard X",
+                    "Mega Garchomp",
+                    "Mega Salamence",
+                    "Mega Sceptile"
+                ]
+            },
+            "is_local_time": false,
+            "start_time": 1771578000,
+            "end_time": 1771758000,
+            "description": "Location: Tainan Metropolitan Park, Tainan, Taiwan\nDates: February 20, 21, 22, 2026\nTime: 5:00 p.m. – 7:00 p.m. GMT+8\nTicket Price: NT$529.00\nAn all-new nighttime celebration is coming to Pokémon GO Tour: Kalos!\nAttendees may purchase this ticket as an addition to their primary Pokémon GO Tour: Kalos – Tainan ticket. Add-on tickets are NT$529.00 (or the equivalent pricing tier in your local currency, plus any applicable taxes and fees) and are available for purchase on the Pokémon GO Tour website. Event gameplay will be available only at the date, time, and location specified on your ticket.\nNote: Tickets to this event are nonrefundable (subject to applicable law and the exceptions set forth in the Terms of Service). Tickets are first come, first served and are available for purchase while supplies last.\n- Pokémon GO Tour: Kalos - Tainan 2026\nIt’s a night of fun, friends, and Pokémon adventures!\nFor the first time ever, we’re excited to offer a new nighttime event experience at Pokémon GO Tour, available to purchase as an add-on to your main event ticket. Mega Night is a ticketed evening event, taking place after the main daytime Pokémon GO Tour event.\nLook forward to unique gameplay, special entertainment and more during this “after hours” extravaganza!\nAll event gameplay is exclusive to Mega Night ticket holders.\nPlease note: You will only be able to experience the event gameplay within Tainan Metropolitan Park during the date and time noted on your add-on ticket."
+        },
+        {
+            "title": "Pokémon GO Tour: Kalos - Los Angeles 2026",
+            "article_url": "https://leekduck.com/events/pokemon-go-tour-kalos-los-angeles-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-20-pokemon-go-tour-kalos-los-angeles-2026/pokemon-go-tour-kalos-los-angeles-2026.jpg",
+            "category": "Pokémon GO Tour",
+            "details": {
+                "bonuses": [
+                    "1/2 Hatch Distance for Eggs placed in Incubators during the event",
+                    "1/2 Stardust cost for trades",
+                    "1/4 Egg Hatch Distance*",
+                    "3 additional Candy XL for catching Pokémon in five-star and Mega raids (Trainers level 31+)",
+                    "3× Hatch Candy",
+                    "3× Hatch Stardust",
+                    "3× Hatch XP",
+                    "5,000 additional XP awarded for completed raids",
+                    "6 additional Candy for catching Pokémon in five-star and Mega raids",
+                    "Increased chance of 10 km Eggs from spinning PokéStops and Photo Discs at Gyms",
+                    "Increased chance of encountering Shiny Pokémon",
+                    "Up to 18 daily Raid Passes per day from spinning Photo Discs at Gyms",
+                    "Up to 6 Special Trades can be made during your ticketed event day",
+                    "Up to 9 daily Raid Passes per day from spinning Photo Discs at Gyms"
+                ],
+                "features": [
+                    "Hawlucha",
+                    "Honedge",
+                    "Klefki"
+                ],
+                "spawns": [
+                    "Amaura",
+                    "Bergmite",
+                    "Binacle",
+                    "Bunnelby",
+                    "Calem's Hat Pikachu",
+                    "Carbink",
+                    "Chespin",
+                    "Clauncher",
+                    "Dedenne",
+                    "Eevee",
+                    "Espurr",
+                    "Fennekin",
+                    "Fletchling",
+                    "Froakie",
+                    "Furfrou (Natural)",
+                    "Goomy",
+                    "Helioptile",
+                    "Inkay",
+                    "Litleo",
+                    "Noibat",
+                    "Orange Flower Flabébé",
+                    "Pancham",
+                    "Phantump",
+                    "Pumpkaboo",
+                    "Serena's Hat Pikachu",
+                    "Skiddo",
+                    "Skrelp",
+                    "Spritzee",
+                    "Swirlix",
+                    "Tyrunt",
+                    "Unown A",
+                    "Unown X",
+                    "Unown Y",
+                    "Unown Z",
+                    "White Flower Flabébé"
+                ],
+                "eggs": [
+                    "Bagon",
+                    "Beldum",
+                    "Blue Flower Flabébé",
+                    "Gible",
+                    "Hawlucha",
+                    "Heracross",
+                    "Kangaskhan",
+                    "Klefki",
+                    "Larvitar",
+                    "Orange Flower Flabébé",
+                    "Red Flower Flabébé",
+                    "White Flower Flabébé",
+                    "Yellow Flower Flabébé"
+                ],
+                "raids": [
+                    "Honedge",
+                    "Mega Absol",
+                    "Mega Gardevoir",
+                    "Mega Gyarados",
+                    "Mega Lucario",
+                    "Xerneas",
+                    "Yveltal"
+                ],
+                "research": [
+                    "Furfrou (Diamond)",
+                    "Furfrou (Heart)",
+                    "Furfrou (Kabuki)",
+                    "Furfrou (La Reine)",
+                    "Furfrou (Pharaoh)",
+                    "Furfrou (Star)"
+                ],
+                "shiny": [
+                    "Hawlucha",
+                    "Honedge",
+                    "Klefki"
+                ]
+            },
+            "is_local_time": false,
+            "start_time": 1771606800,
+            "end_time": 1771808400,
+            "description": "Location: Rose Bowl Stadium, Los Angeles, United States\nDates: February 20–22, 2026\nTime: 9:00 a.m. – 5:00 p.m. PST\nTicket Price: US $30.00 (Early Bird $25.00 through December 31) – Early Bird Discount available through December 31\nExperience an exclusive in-person Pokémon GO event in Los Angeles! Inspired by a place where dreams and adventures begin, Pokémon GO Tour is bringing the Kalos region to life in Los Angeles. Embark on a journey of beauty and bonds as you collect Pokémon, discover legendary stories, and experience the community of Pokémon GO in-person.\nAll event gameplay is exclusive to ticket holders. You will only be able to experience the event gameplay within Rose Bowl Stadium during the date and time noted on your event ticket.\nOther Event Locations:\n- Los Angeles (this page)\n- Tainan\n- Global\nBuy tickets: Pokémon GO Tour Website\nPrice:\n- Regular: US $30.00\n- Early Bird Special: US $25.00 (through December 31)\nNote:\n- Tickets are US $30.00 (or the equivalent pricing tier in your local currency, plus any applicable taxes and fees)\n- Event gameplay is EXCLUSIVE to ticket holders\n- Event gameplay only available within Rose Bowl Stadium during specified date and time\n- Tickets are nonrefundable (subject to applicable law)\n- First come, first served while supplies last\nTickets include one day of event gameplay. Attendees may purchase add-ons that extend citywide gameplay for an additional day."
+        },
+        {
+            "title": "Mega Night at Pokémon GO Tour: Kalos - Los Angeles 2026",
+            "article_url": "https://leekduck.com/events/mega-night-pokemon-go-tour-kalos-los-angeles-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-20-mega-night-pokemon-go-tour-kalos-los-angeles-2026/mega-night-pokemon-go-tour-kalos-los-angeles-2026.jpg",
+            "category": "Pokémon GO Tour",
+            "details": {
+                "bonuses": [
+                    "2× Candy for catching Pokémon",
+                    "Additional 5,000 XP from completed raids",
+                    "Chance of Mega Energy from spinning PokéStops and Photo Discs at Gyms"
+                ],
+                "spawns": [
+                    "Bagon",
+                    "Carbink",
+                    "Charizard",
+                    "Charmander",
+                    "Garchomp",
+                    "Gible",
+                    "Goomy",
+                    "Mareep",
+                    "Noibat",
+                    "Skrelp",
+                    "Swablu",
+                    "Treecko",
+                    "Tyrunt"
+                ],
+                "raids": [
+                    "Mega Altaria",
+                    "Mega Ampharos",
+                    "Mega Charizard X",
+                    "Mega Garchomp",
+                    "Mega Salamence",
+                    "Mega Sceptile"
+                ]
+            },
+            "is_local_time": false,
+            "start_time": 1771639200,
+            "end_time": 1771819200,
+            "description": "Location: Rose Bowl Stadium and Brookside Golf Course, Los Angeles, United States\nDates: February 20, 21, 22, 2026\nTime: 6:00 p.m. – 8:00 p.m. PST\nTicket Price: US $20.00\nAn all-new nighttime celebration is coming to Pokémon GO Tour: Kalos!\nAttendees may purchase this ticket as an addition to their primary Pokémon GO Tour: Kalos – Los Angeles ticket. Add-on tickets are US$20.00 (or the equivalent pricing tier in your local currency, plus any applicable taxes and fees) and are available for purchase on the Pokémon GO Tour website. Event gameplay will be available only at the date, time, and location specified on your ticket.\nNote: Tickets to this event are nonrefundable (subject to applicable law and the exceptions set forth in the Terms of Service). Tickets are first come, first served and are available for purchase while supplies last.\n- Pokémon GO Tour: Kalos - Los Angeles 2026\nIt’s a night of fun, friends, and Pokémon adventures!\nFor the first time ever, we’re excited to offer a new nighttime event experience at Pokémon GO Tour, available to purchase as an add-on to your main event ticket. Mega Night is a ticketed evening event, taking place after the main daytime Pokémon GO Tour event.\nLook forward to unique gameplay, special entertainment and more during this “after hours” extravaganza!\nAll event gameplay is exclusive to Mega Night ticket holders.\nPlease note: You will only be able to experience the event gameplay within Rose Bowl Stadium and Brookside Golf Course during the date and time noted on your add-on ticket."
+        },
+        {
+            "title": "Pokémon GO Tour: Kalos - Global 2026",
             "article_url": "https://leekduck.com/events/pokemon-go-tour-kalos-global-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-28-pokemon-go-tour-kalos-global-2026/pokemon-go-tour-kalos-global-2026.jpg",
             "category": "Pokémon GO Tour",
