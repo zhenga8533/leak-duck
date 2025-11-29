@@ -497,6 +497,15 @@
             "description": "The Max Battle Day event will take place on February 15, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
+    "PokéStop Showcase": [
+        {
+            "title": "Pikipek and Lugia PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-pikipek-lugia/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "error": "ConnectionError: ReadTimeoutError"
+        }
+    ],
     "Max Mondays": [
         {
             "title": "Dynamax Darumaka during Max Monday",
