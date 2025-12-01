@@ -479,6 +479,79 @@
             "start_time": "2025-11-18T10:00:00",
             "end_time": "2025-11-22T20:00:00",
             "description": "Get ready for an electrifying High Voltage event in Pokémon GO!"
+        },
+        {
+            "title": "Final Justice",
+            "article_url": "https://leekduck.com/events/final-justice-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-25-final-justice-2025/final-justice-2025.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "Increased chance of encountering Shiny Hitmonlee, Shiny Hitmonchan, and Shiny Hitmontop",
+                    "Receive up to two free Raid Passes from spinning Gym Photo Discs during the event"
+                ],
+                "features": [
+                    "Keldeo",
+                    "Keldeo (Resolute)"
+                ],
+                "spawns": [
+                    "Crabrawler",
+                    "Croagunk",
+                    "Hisuian Sneasel",
+                    "Hitmonchan",
+                    "Hitmonlee",
+                    "Hitmontop",
+                    "Meditite",
+                    "Scraggy",
+                    "Shroomish",
+                    "Stufful"
+                ],
+                "raids": [
+                    "Cobalion",
+                    "Galarian Farfetch'd",
+                    "Machop",
+                    "Pancham",
+                    "Sawk",
+                    "Terrakion",
+                    "Throh",
+                    "Timburr",
+                    "Virizion"
+                ],
+                "moves": [
+                    "Cobalion",
+                    "Keldeo (Resolute)",
+                    "Terrakion",
+                    "Virizion"
+                ],
+                "shiny": [
+                    "Hitmonchan",
+                    "Hitmonlee",
+                    "Hitmontop",
+                    "Keldeo"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-25T10:00:00",
+            "end_time": "2025-11-30T20:00:00",
+            "description": "Finish off Tales of Transformation with the Final Justice event, Keldeo’s Resolute Form, and Keldeo’s Shiny debut!"
+        },
+        {
+            "title": "Trade Days | Tales of Transformation",
+            "article_url": "https://leekduck.com/events/trade-days-tales-of-transformation/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-07-trade-days-tales-of-transformation/trade-days.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "-10% Stardust cost for trades",
+                    "Earn two Candy XL from trades",
+                    "Increased chance of Lucky Trade for any trade",
+                    "One additional Special Trade"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-09-07T00:00:00",
+            "end_time": "2025-11-30T23:59:00",
+            "description": "Enjoy trade bonuses every Sunday throughout Tales of Transformation!\nOn Sundays from September 7 to November 30, 2025, Trainers will get a pile of trade bonuses, including one additional Special Trade!"
         }
     ],
     "PokéStop Showcase": [
@@ -1608,6 +1681,39 @@
                     "Trades made will require 50% less Stardust*"
                 ]
             }
+        },
+        {
+            "title": "Pikipek Community Day",
+            "article_url": "https://leekduck.com/events/november-communityday2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-30-november-communityday2025/pikipek-community-day-november.jpg?v2",
+            "category": "Community Day",
+            "details": {
+                "bonuses": [
+                    "1-hour Lures***",
+                    "2x Catch Candy",
+                    "2x Chance to receive Candy XL from catching Pokémon",
+                    "3-hour Incense**",
+                    "3x Catch XP",
+                    "Increased Spawns",
+                    "One additional Special Trade can be made for a maximum of three for the day*",
+                    "Trades made will require 50% less Stardust*"
+                ],
+                "features": [
+                    "Pikipek"
+                ],
+                "spawns": [
+                    "Pikipek"
+                ],
+                "shiny": [
+                    "Pikipek",
+                    "Toucannon",
+                    "Trumbeak"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-30T14:00:00",
+            "end_time": "2025-11-30T17:00:00",
+            "description": "Pikipek, the Woodpecker Pokémon, will be featured during November Community Day!\nPlease note, November Community Day will be the last Community Day where the featured Pokémon can have a Seasonal Special Background.\nThe Pokémon GO Team says they’re trying out new things for Community Day and will reevaluate these changes for next Season and onward."
         }
     ],
     "Research": [
@@ -2149,6 +2255,30 @@
             "start_time": "2025-11-21T06:00:00",
             "end_time": "2025-11-24T21:00:00",
             "description": "Dynamax Eevee makes its Pokémon GO debut!"
+        },
+        {
+            "title": "Dynamax Lugia Max Battle Weekend",
+            "article_url": "https://leekduck.com/events/dynamax-lugia-max-battle-weekend/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-29-dynamax-lugia-max-battle-weekend/dynamax-lugia.jpg",
+            "category": "Max Battles",
+            "details": {
+                "bonuses": [
+                    "1/4 Adventuring distance to receive Max Particles*",
+                    "8× Max Particles from Power Spots",
+                    "Max Particle collection limit increased to 1,600",
+                    "Power Spots will refresh more frequently"
+                ],
+                "features": [
+                    "Lugia"
+                ],
+                "shiny": [
+                    "Lugia"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-29T06:00:00",
+            "end_time": "2025-11-30T21:00:00",
+            "description": "Soaring in from the skies, Lugia makes its Dynamax debut!"
         }
     ],
     "Wild Area": [
