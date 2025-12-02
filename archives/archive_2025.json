@@ -815,6 +815,17 @@
             "start_time": "2025-11-24T10:00:00",
             "end_time": "2025-11-26T20:00:00",
             "description": "There will be PokéStop Showcases featuring Fighting-type Pokémon. Top the leaderboard to win rewards including Premium Items!"
+        },
+        {
+            "title": "Pikipek and Lugia PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-pikipek-lugia/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-11-29T10:00:00",
+            "end_time": "2025-12-01T10:00:00",
+            "description": "There will be PokéStop Showcases featuring Pikipek and Lugia. Top the leaderboard to win rewards including Premium Items!\n- Lugia\n- Pikipek"
         }
     ],
     "Max Mondays": [

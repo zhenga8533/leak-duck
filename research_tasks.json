@@ -1,52 +1,45 @@
 {
-    "Final Justice Tasks": [
+    "Journey to Paldea Tasks": [
         {
-            "task": "Use 5,000 Stardust",
+            "task": "Catch 5 different species of Pokémon",
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Throh",
-                    "shiny_available": true,
+                    "name": "Nacli",
+                    "shiny_available": false,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm538.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Sawk",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm539.icon.png"
-                },
-                {
-                    "type": "resource",
-                    "name": "Keldeo Candy",
-                    "quantity": 2,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/647.png"
-                },
-                {
-                    "type": "item",
-                    "name": "XP",
-                    "quantity": 5000,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/icons/xp.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm932.icon.png"
                 }
             ]
         },
         {
-            "task": "Win 2 raids",
+            "task": "Make 10 Great Throws",
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Galarian Farfetch'd",
+                    "name": "Larvitar",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm83.fGALARIAN.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm246.icon.png"
                 },
                 {
                     "type": "encounter",
-                    "name": "Hisuian Lilligant",
+                    "name": "Bagon",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm549.fHISUIAN.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm371.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Pokémon 10 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Nacli",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm932.icon.png"
                 }
             ]
         }

@@ -1,515 +1,4 @@
 {
-    "Community Day": [
-        {
-            "title": "Pikipek Community Day",
-            "article_url": "https://leekduck.com/events/november-communityday2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-30-november-communityday2025/pikipek-community-day-november.jpg?v2",
-            "category": "Community Day",
-            "details": {
-                "bonuses": [
-                    "1-hour Lures***",
-                    "2x Catch Candy",
-                    "2x Chance to receive Candy XL from catching Pokémon",
-                    "3-hour Incense**",
-                    "3x Catch XP",
-                    "Increased Spawns",
-                    "One additional Special Trade can be made for a maximum of three for the day*",
-                    "Trades made will require 50% less Stardust*"
-                ],
-                "features": [
-                    "Pikipek"
-                ],
-                "spawns": [
-                    "Pikipek"
-                ],
-                "shiny": [
-                    "Pikipek",
-                    "Toucannon",
-                    "Trumbeak"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-11-30T14:00:00",
-            "end_time": "2025-11-30T17:00:00",
-            "description": "Pikipek, the Woodpecker Pokémon, will be featured during November Community Day!\nPlease note, November Community Day will be the last Community Day where the featured Pokémon can have a Seasonal Special Background.\nThe Pokémon GO Team says they’re trying out new things for Community Day and will reevaluate these changes for next Season and onward."
-        },
-        {
-            "title": "December Community Day 2025",
-            "article_url": "https://leekduck.com/events/december-communityday2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-06-december-communityday2025/december-2025-community-day.jpg",
-            "category": "Community Day",
-            "details": {
-                "bonuses": [
-                    "1-hour Lures**",
-                    "1/2 Hatch Distance when Eggs are placed into Incubators during the event period",
-                    "2x Catch Candy",
-                    "2x Chance to receive Candy XL from catching Pokémon",
-                    "2x Stardust for catching Pokémon",
-                    "2x XP for catching Pokémon",
-                    "3-hour Incense**",
-                    "Increased Spawns",
-                    "One additional Special Trade can be made for a maximum of three for the day**",
-                    "Trades made will require 50% less Stardust**"
-                ],
-                "features": [
-                    "Blue Flower Flabébé",
-                    "Fuecoco",
-                    "Jangmo-o",
-                    "Karrablast",
-                    "Pawmi",
-                    "Pikipek",
-                    "Quaxly",
-                    "Red Flower Flabébé",
-                    "Rookidee",
-                    "Shelmet",
-                    "Solosis",
-                    "Sprigatito",
-                    "Vanillite",
-                    "Yellow Flower Flabébé"
-                ],
-                "spawns": [
-                    "Blue Flower Flabébé",
-                    "Eevee",
-                    "Fuecoco",
-                    "Jangmo-o",
-                    "Karrablast",
-                    "Machop",
-                    "Pawmi",
-                    "Pikipek",
-                    "Quaxly",
-                    "Ralts",
-                    "Red Flower Flabébé",
-                    "Rookidee",
-                    "Shelmet",
-                    "Solosis",
-                    "Sprigatito",
-                    "Totodile",
-                    "Vanillite",
-                    "Yellow Flower Flabébé"
-                ],
-                "shiny": [
-                    "Accelgor",
-                    "Blue Flower Flabébé",
-                    "Corviknight",
-                    "Corvisquire",
-                    "Crocalor",
-                    "Croconaw",
-                    "Duosion",
-                    "Eevee",
-                    "Escavalier",
-                    "Espeon",
-                    "Feraligatr",
-                    "Flareon",
-                    "Floette",
-                    "Floragato",
-                    "Florges",
-                    "Fuecoco",
-                    "Gallade",
-                    "Gardevoir",
-                    "Glaceon",
-                    "Hakamo-o",
-                    "Jangmo-o",
-                    "Jolteon",
-                    "Karrablast",
-                    "Kirlia",
-                    "Kommo-o",
-                    "Leafeon",
-                    "Machamp",
-                    "Machoke",
-                    "Machop",
-                    "Meowscarada",
-                    "Orange Flower Flabébé",
-                    "Pawmi",
-                    "Pawmo",
-                    "Pawmot",
-                    "Pikipek",
-                    "Quaquaval",
-                    "Quaxly",
-                    "Quaxwell",
-                    "Ralts",
-                    "Red Flower Flabébé",
-                    "Reuniclus",
-                    "Rookidee",
-                    "Shelmet",
-                    "Skeledirge",
-                    "Solosis",
-                    "Sprigatito",
-                    "Sylveon",
-                    "Totodile",
-                    "Toucannon",
-                    "Trumbeak",
-                    "Umbreon",
-                    "Vanillish",
-                    "Vanillite",
-                    "Vanilluxe",
-                    "Vaporeon",
-                    "White Flower Flabébé",
-                    "Yellow Flower Flabébé"
-                ],
-                "moves": [
-                    "Accelgor",
-                    "Corviknight",
-                    "Corvisquire",
-                    "Crocalor",
-                    "Croconaw",
-                    "Duosion",
-                    "Eevee",
-                    "Escavalier",
-                    "Espeon",
-                    "Feraligatr",
-                    "Flabébé",
-                    "Flareon",
-                    "Floette",
-                    "Floragato",
-                    "Florges",
-                    "Fuecoco",
-                    "Gallade",
-                    "Gardevoir",
-                    "Glaceon",
-                    "Hakamo-o",
-                    "Jangmo-o",
-                    "Jolteon",
-                    "Karrablast",
-                    "Kirlia",
-                    "Kommo-o",
-                    "Leafeon",
-                    "Machamp",
-                    "Machoke",
-                    "Machop",
-                    "Meowscarada",
-                    "Pawmi",
-                    "Pawmo",
-                    "Pawmot",
-                    "Pikipek",
-                    "Quaquaval",
-                    "Quaxly",
-                    "Quaxwell",
-                    "Ralts",
-                    "Reuniclus",
-                    "Rookidee",
-                    "Shelmet",
-                    "Skeledirge",
-                    "Solosis",
-                    "Sprigatito",
-                    "Sylveon",
-                    "Totodile",
-                    "Toucannon",
-                    "Trumbeak",
-                    "Umbreon",
-                    "Vanillish",
-                    "Vanillite",
-                    "Vanilluxe",
-                    "Vaporeon"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-06T14:00:00",
-            "end_time": "2025-12-07T17:00:00",
-            "description": "Pokémon from Community Days in 2025 return for an end of the year celebration!\nThe year is nearly behind us, which means it’s time to reflect on all the fun everyone had during this year’s Community Days. If you missed any, now’s your chance to catch up!\nThe last Community Day of 2025 will take place over two days—Saturday, December 6, 2025, and Sunday, December 7, 2025, from 2:00 p.m. to 5:00 p.m. local time.\nNote: The only difference between Day 1 and Day 2 are the Pokémon appearing more frequently in the wild."
-        },
-        {
-            "title": "January Community Day Classic",
-            "article_url": "https://leekduck.com/events/january-communitydayclassic2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
-            "category": "Community Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-04T14:00:00",
-            "end_time": "2026-01-04T17:00:00",
-            "description": "January Community Day Classic is on January 4, 2026. Stay tuned for the announcement of the featured Pokémon."
-        },
-        {
-            "title": "January Community Day",
-            "article_url": "https://leekduck.com/events/january-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
-            "category": "Community Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-18T14:00:00",
-            "end_time": "2026-01-18T17:00:00",
-            "description": "January Community Day is on January 18, 2026. Stay tuned for the announcement of the featured Pokémon."
-        },
-        {
-            "title": "February Community Day",
-            "article_url": "https://leekduck.com/events/february-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
-            "category": "Community Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-01T14:00:00",
-            "end_time": "2026-02-01T17:00:00",
-            "description": "February Community Day is on February 1, 2026. Stay tuned for the announcement of the featured Pokémon."
-        }
-    ],
-    "Event": [
-        {
-            "title": "Final Justice",
-            "article_url": "https://leekduck.com/events/final-justice-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-25-final-justice-2025/final-justice-2025.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "Increased chance of encountering Shiny Hitmonlee, Shiny Hitmonchan, and Shiny Hitmontop",
-                    "Receive up to two free Raid Passes from spinning Gym Photo Discs during the event"
-                ],
-                "features": [
-                    "Keldeo",
-                    "Keldeo (Resolute)"
-                ],
-                "spawns": [
-                    "Crabrawler",
-                    "Croagunk",
-                    "Hisuian Sneasel",
-                    "Hitmonchan",
-                    "Hitmonlee",
-                    "Hitmontop",
-                    "Meditite",
-                    "Scraggy",
-                    "Shroomish",
-                    "Stufful"
-                ],
-                "raids": [
-                    "Cobalion",
-                    "Galarian Farfetch'd",
-                    "Machop",
-                    "Pancham",
-                    "Sawk",
-                    "Terrakion",
-                    "Throh",
-                    "Timburr",
-                    "Virizion"
-                ],
-                "moves": [
-                    "Cobalion",
-                    "Keldeo (Resolute)",
-                    "Terrakion",
-                    "Virizion"
-                ],
-                "shiny": [
-                    "Hitmonchan",
-                    "Hitmonlee",
-                    "Hitmontop",
-                    "Keldeo"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-11-25T10:00:00",
-            "end_time": "2025-11-30T20:00:00",
-            "description": "Finish off Tales of Transformation with the Final Justice event, Keldeo’s Resolute Form, and Keldeo’s Shiny debut!"
-        },
-        {
-            "title": "Trade Days | Tales of Transformation",
-            "article_url": "https://leekduck.com/events/trade-days-tales-of-transformation/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-07-trade-days-tales-of-transformation/trade-days.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "-10% Stardust cost for trades",
-                    "Earn two Candy XL from trades",
-                    "Increased chance of Lucky Trade for any trade",
-                    "One additional Special Trade"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-09-07T00:00:00",
-            "end_time": "2025-11-30T23:59:00",
-            "description": "Enjoy trade bonuses every Sunday throughout Tales of Transformation!\nOn Sundays from September 7 to November 30, 2025, Trainers will get a pile of trade bonuses, including one additional Special Trade!"
-        },
-        {
-            "title": "GO Battle Week: Precious Paths",
-            "article_url": "https://leekduck.com/events/go-battle-week-precious-paths/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-04T00:00:00",
-            "end_time": "2025-12-08T23:59:00",
-            "description": "- 4× Stardust from win rewards. (This does not include end-of-set rewards.)\n- The maximum number of sets you can play per day will increase from five to 20—for a total of 100 battles—from 12:00 a.m. to 11:59 p.m. local time.\n- Pokémon encountered via GO Battle League rewards will have a wider variance of Attack, Defense, and HP.\n- You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration.\n- Great League\n- Ultra League\n- Master League"
-        },
-        {
-            "title": "Journey to Paldea",
-            "article_url": "https://leekduck.com/events/journey-to-paldea/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-02-journey-to-paldea/journey-to-paldea.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× XP for evolving Pokémon",
-                    "2× XP for winning Raid Battles",
-                    "Increased chance to encounter Shiny Larvitar and Shiny Bagon"
-                ],
-                "features": [
-                    "Garganacl",
-                    "Nacli",
-                    "Naclstack"
-                ],
-                "spawns": [
-                    "Bagon",
-                    "Clauncher",
-                    "Drifloon",
-                    "Larvitar",
-                    "Misdreavus",
-                    "Nacli",
-                    "Nymble",
-                    "Pawmi",
-                    "Skrelp",
-                    "Smoliv"
-                ],
-                "raids": [
-                    "Bombirdier",
-                    "Dondozo",
-                    "Paldean Tauros (Aqua)",
-                    "Paldean Tauros (Blaze)",
-                    "Paldean Tauros (Combat)"
-                ],
-                "shiny": [
-                    "Bagon",
-                    "Larvitar"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-02T10:00:00",
-            "end_time": "2025-12-09T20:00:00",
-            "description": "Journey to Paldea! Discover Nacli, Naclstack, and Garganacl making their Pokémon GO debuts!"
-        },
-        {
-            "title": "Well Armed",
-            "article_url": "https://leekduck.com/events/well-armed-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-11T10:00:00",
-            "end_time": "2025-12-16T20:00:00",
-            "description": "The Well Armed event will take place from December 11, 2025 at 10 am to December 16, 2025 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Winter Holiday Part 1",
-            "article_url": "https://leekduck.com/events/winter-holiday-part-1-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-18T10:00:00",
-            "end_time": "2025-12-24T20:00:00",
-            "description": "The Winter Holiday Part 1 event will take place from December 18, 2025 at 10 am to December 24, 2025 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Winter Weekend",
-            "article_url": "https://leekduck.com/events/winter-weekend-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-27T10:00:00",
-            "end_time": "2025-12-28T20:00:00",
-            "description": "The Winter Weekend event will take place from December 27, 2025 at 10 am to December 28, 2025 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Winter Holiday Part 2",
-            "article_url": "https://leekduck.com/events/winter-holiday-part-2-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-24T10:00:00",
-            "end_time": "2025-12-29T20:00:00",
-            "description": "The Winter Holiday Part 2 event will take place from December 24, 2025 at 10 am to December 29, 2025 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "New Year's 2026",
-            "article_url": "https://leekduck.com/events/new-years-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-31T10:00:00",
-            "end_time": "2026-01-04T20:00:00",
-            "description": "The New Year’s 2026 event will take place from December 31, 2025 at 10 am to January 4, 2026 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Catch Mastery Day",
-            "article_url": "https://leekduck.com/events/catch-mastery-day-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-07T10:00:00",
-            "end_time": "2026-02-07T20:00:00",
-            "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details."
-        }
-    ],
-    "Max Battles": [
-        {
-            "title": "Dynamax Lugia Max Battle Weekend",
-            "article_url": "https://leekduck.com/events/dynamax-lugia-max-battle-weekend/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-29-dynamax-lugia-max-battle-weekend/dynamax-lugia.jpg",
-            "category": "Max Battles",
-            "details": {
-                "bonuses": [
-                    "1/4 Adventuring distance to receive Max Particles*",
-                    "8× Max Particles from Power Spots",
-                    "Max Particle collection limit increased to 1,600",
-                    "Power Spots will refresh more frequently"
-                ],
-                "features": [
-                    "Lugia"
-                ],
-                "shiny": [
-                    "Lugia"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-11-29T06:00:00",
-            "end_time": "2025-11-30T21:00:00",
-            "description": "Soaring in from the skies, Lugia makes its Dynamax debut!"
-        },
-        {
-            "title": "Max Battle Day",
-            "article_url": "https://leekduck.com/events/max-battle-day-december-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Max Battles",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-14T14:00:00",
-            "end_time": "2025-12-14T17:00:00",
-            "description": "The Max Battle Day event will take place on December 14, 2025 from 2 pm to 5 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Max Battle Weekend",
-            "article_url": "https://leekduck.com/events/max-battle-weekend-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Max Battles",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-31T06:00:00",
-            "end_time": "2026-02-01T21:00:00",
-            "description": "The Max Battle Weekend event will take place from January 31, 2026 at 6 am to February 1, 2026 at 9 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Max Battle Day",
-            "article_url": "https://leekduck.com/events/max-battle-day-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Max Battles",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-15T14:00:00",
-            "end_time": "2026-02-15T17:00:00",
-            "description": "The Max Battle Day event will take place on February 15, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        }
-    ],
-    "PokéStop Showcase": [
-        {
-            "title": "Pikipek and Lugia PokéStop Showcases",
-            "article_url": "https://leekduck.com/events/pokemon-showcase-pikipek-lugia/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-11-29T10:00:00",
-            "end_time": "2025-12-01T10:00:00",
-            "description": "There will be PokéStop Showcases featuring Pikipek and Lugia. Top the leaderboard to win rewards including Premium Items!\n- Lugia\n- Pikipek"
-        }
-    ],
     "Max Mondays": [
         {
             "title": "Dynamax Darumaka during Max Monday",
@@ -712,23 +201,53 @@
                 ],
                 "eggs": [
                     "Alolan Diglett",
+                    "Alolan Geodude",
                     "Archen",
                     "Audino",
                     "Beldum",
                     "Bergmite",
                     "Bonsly",
+                    "Carbink",
+                    "Charcadet",
                     "Cleffa",
+                    "Crabrawler",
                     "Drampa",
                     "Dreepy",
+                    "Ducklett",
                     "Elgyem",
+                    "Frigibax",
+                    "Galarian Corsola",
+                    "Galarian Darumaka",
+                    "Galarian Meowth",
                     "Galarian Slowpoke",
                     "Galarian Stunfisk",
                     "Galarian Zigzagoon",
+                    "Gible",
                     "Hisuian Growlithe",
+                    "Hisuian Sneasel",
+                    "Honedge",
+                    "Igglybuff",
+                    "Indeedee (Female)",
+                    "Indeedee (Male)",
+                    "Inkay",
+                    "Jangmo-o",
+                    "Komala",
+                    "Litleo",
+                    "Meditite",
+                    "Munchlax",
+                    "Pawniard",
+                    "Petilil",
                     "Riolu",
+                    "Skarmory",
+                    "Smoliv",
                     "Smoochum",
                     "Snom",
-                    "Tinkatink"
+                    "Tinkatink",
+                    "Tirtouga",
+                    "Togedemaru",
+                    "Toxel",
+                    "Turtonator",
+                    "Wimpod"
                 ]
             },
             "is_local_time": true,
@@ -1223,6 +742,368 @@
             "description": "A Raid Hour featuring Blacephalon is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
         }
     ],
+    "Community Day": [
+        {
+            "title": "December Community Day 2025",
+            "article_url": "https://leekduck.com/events/december-communityday2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-06-december-communityday2025/december-2025-community-day.jpg",
+            "category": "Community Day",
+            "details": {
+                "bonuses": [
+                    "1-hour Lures**",
+                    "1/2 Hatch Distance when Eggs are placed into Incubators during the event period",
+                    "2x Catch Candy",
+                    "2x Chance to receive Candy XL from catching Pokémon",
+                    "2x Stardust for catching Pokémon",
+                    "2x XP for catching Pokémon",
+                    "3-hour Incense**",
+                    "Increased Spawns",
+                    "One additional Special Trade can be made for a maximum of three for the day**",
+                    "Trades made will require 50% less Stardust**"
+                ],
+                "features": [
+                    "Blue Flower Flabébé",
+                    "Fuecoco",
+                    "Jangmo-o",
+                    "Karrablast",
+                    "Pawmi",
+                    "Pikipek",
+                    "Quaxly",
+                    "Red Flower Flabébé",
+                    "Rookidee",
+                    "Shelmet",
+                    "Solosis",
+                    "Sprigatito",
+                    "Vanillite",
+                    "Yellow Flower Flabébé"
+                ],
+                "spawns": [
+                    "Blue Flower Flabébé",
+                    "Eevee",
+                    "Fuecoco",
+                    "Jangmo-o",
+                    "Karrablast",
+                    "Machop",
+                    "Pawmi",
+                    "Pikipek",
+                    "Quaxly",
+                    "Ralts",
+                    "Red Flower Flabébé",
+                    "Rookidee",
+                    "Shelmet",
+                    "Solosis",
+                    "Sprigatito",
+                    "Totodile",
+                    "Vanillite",
+                    "Yellow Flower Flabébé"
+                ],
+                "shiny": [
+                    "Accelgor",
+                    "Blue Flower Flabébé",
+                    "Corviknight",
+                    "Corvisquire",
+                    "Crocalor",
+                    "Croconaw",
+                    "Duosion",
+                    "Eevee",
+                    "Escavalier",
+                    "Espeon",
+                    "Feraligatr",
+                    "Flareon",
+                    "Floette",
+                    "Floragato",
+                    "Florges",
+                    "Fuecoco",
+                    "Gallade",
+                    "Gardevoir",
+                    "Glaceon",
+                    "Hakamo-o",
+                    "Jangmo-o",
+                    "Jolteon",
+                    "Karrablast",
+                    "Kirlia",
+                    "Kommo-o",
+                    "Leafeon",
+                    "Machamp",
+                    "Machoke",
+                    "Machop",
+                    "Meowscarada",
+                    "Orange Flower Flabébé",
+                    "Pawmi",
+                    "Pawmo",
+                    "Pawmot",
+                    "Pikipek",
+                    "Quaquaval",
+                    "Quaxly",
+                    "Quaxwell",
+                    "Ralts",
+                    "Red Flower Flabébé",
+                    "Reuniclus",
+                    "Rookidee",
+                    "Shelmet",
+                    "Skeledirge",
+                    "Solosis",
+                    "Sprigatito",
+                    "Sylveon",
+                    "Totodile",
+                    "Toucannon",
+                    "Trumbeak",
+                    "Umbreon",
+                    "Vanillish",
+                    "Vanillite",
+                    "Vanilluxe",
+                    "Vaporeon",
+                    "White Flower Flabébé",
+                    "Yellow Flower Flabébé"
+                ],
+                "moves": [
+                    "Accelgor",
+                    "Corviknight",
+                    "Corvisquire",
+                    "Crocalor",
+                    "Croconaw",
+                    "Duosion",
+                    "Eevee",
+                    "Escavalier",
+                    "Espeon",
+                    "Feraligatr",
+                    "Flabébé",
+                    "Flareon",
+                    "Floette",
+                    "Floragato",
+                    "Florges",
+                    "Fuecoco",
+                    "Gallade",
+                    "Gardevoir",
+                    "Glaceon",
+                    "Hakamo-o",
+                    "Jangmo-o",
+                    "Jolteon",
+                    "Karrablast",
+                    "Kirlia",
+                    "Kommo-o",
+                    "Leafeon",
+                    "Machamp",
+                    "Machoke",
+                    "Machop",
+                    "Meowscarada",
+                    "Pawmi",
+                    "Pawmo",
+                    "Pawmot",
+                    "Pikipek",
+                    "Quaquaval",
+                    "Quaxly",
+                    "Quaxwell",
+                    "Ralts",
+                    "Reuniclus",
+                    "Rookidee",
+                    "Shelmet",
+                    "Skeledirge",
+                    "Solosis",
+                    "Sprigatito",
+                    "Sylveon",
+                    "Totodile",
+                    "Toucannon",
+                    "Trumbeak",
+                    "Umbreon",
+                    "Vanillish",
+                    "Vanillite",
+                    "Vanilluxe",
+                    "Vaporeon"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-06T14:00:00",
+            "end_time": "2025-12-07T17:00:00",
+            "description": "Pokémon from Community Days in 2025 return for an end of the year celebration!\nThe year is nearly behind us, which means it’s time to reflect on all the fun everyone had during this year’s Community Days. If you missed any, now’s your chance to catch up!\nThe last Community Day of 2025 will take place over two days—Saturday, December 6, 2025, and Sunday, December 7, 2025, from 2:00 p.m. to 5:00 p.m. local time.\nNote: The only difference between Day 1 and Day 2 are the Pokémon appearing more frequently in the wild."
+        },
+        {
+            "title": "January Community Day Classic",
+            "article_url": "https://leekduck.com/events/january-communitydayclassic2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "category": "Community Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-04T14:00:00",
+            "end_time": "2026-01-04T17:00:00",
+            "description": "January Community Day Classic is on January 4, 2026. Stay tuned for the announcement of the featured Pokémon."
+        },
+        {
+            "title": "January Community Day",
+            "article_url": "https://leekduck.com/events/january-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "category": "Community Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-18T14:00:00",
+            "end_time": "2026-01-18T17:00:00",
+            "description": "January Community Day is on January 18, 2026. Stay tuned for the announcement of the featured Pokémon."
+        },
+        {
+            "title": "February Community Day",
+            "article_url": "https://leekduck.com/events/february-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "category": "Community Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-01T14:00:00",
+            "end_time": "2026-02-01T17:00:00",
+            "description": "February Community Day is on February 1, 2026. Stay tuned for the announcement of the featured Pokémon."
+        }
+    ],
+    "Event": [
+        {
+            "title": "GO Battle Week: Precious Paths",
+            "article_url": "https://leekduck.com/events/go-battle-week-precious-paths/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-04T00:00:00",
+            "end_time": "2025-12-08T23:59:00",
+            "description": "- 4× Stardust from win rewards. (This does not include end-of-set rewards.)\n- The maximum number of sets you can play per day will increase from five to 20—for a total of 100 battles—from 12:00 a.m. to 11:59 p.m. local time.\n- Pokémon encountered via GO Battle League rewards will have a wider variance of Attack, Defense, and HP.\n- You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration.\n- Great League\n- Ultra League\n- Master League"
+        },
+        {
+            "title": "Journey to Paldea",
+            "article_url": "https://leekduck.com/events/journey-to-paldea/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-02-journey-to-paldea/journey-to-paldea.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× XP for evolving Pokémon",
+                    "2× XP for winning Raid Battles",
+                    "Increased chance to encounter Shiny Larvitar and Shiny Bagon"
+                ],
+                "features": [
+                    "Garganacl",
+                    "Nacli",
+                    "Naclstack"
+                ],
+                "spawns": [
+                    "Bagon",
+                    "Clauncher",
+                    "Drifloon",
+                    "Gulpin",
+                    "Larvitar",
+                    "Misdreavus",
+                    "Nacli",
+                    "Nymble",
+                    "Oranguru",
+                    "Passimian",
+                    "Pawmi",
+                    "Skrelp",
+                    "Smoliv",
+                    "Stunky"
+                ],
+                "raids": [
+                    "Bombirdier",
+                    "Dondozo",
+                    "Paldean Tauros (Aqua)",
+                    "Paldean Tauros (Blaze)",
+                    "Paldean Tauros (Combat)"
+                ],
+                "shiny": [
+                    "Bagon",
+                    "Larvitar"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-02T10:00:00",
+            "end_time": "2025-12-09T20:00:00",
+            "description": "Journey to Paldea! Discover Nacli, Naclstack, and Garganacl making their Pokémon GO debuts!"
+        },
+        {
+            "title": "Well Armed",
+            "article_url": "https://leekduck.com/events/well-armed-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-11-well-armed-2025/well-armed.jpg?v2",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Candy for catching Pokémon",
+                    "Increased chance to encounter Shiny Dynamax Hitmonlee and Shiny Dynamax Hitmonchan"
+                ],
+                "features": [
+                    "Clobbopus",
+                    "Grapploct",
+                    "Jangmo-o",
+                    "Mienfoo"
+                ],
+                "spawns": [
+                    "Clobbopus",
+                    "Grapploct",
+                    "Jangmo-o",
+                    "Machop",
+                    "Makuhita",
+                    "Mienfoo",
+                    "Octillery",
+                    "Poliwag"
+                ],
+                "shiny": [
+                    "Hitmonchan",
+                    "Hitmonlee"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-11T10:00:00",
+            "end_time": "2025-12-16T20:00:00",
+            "description": "Train and take on Global Challenges during the Well Armed event!"
+        },
+        {
+            "title": "Winter Holiday Part 1",
+            "article_url": "https://leekduck.com/events/winter-holiday-part-1-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-18T10:00:00",
+            "end_time": "2025-12-24T20:00:00",
+            "description": "The Winter Holiday Part 1 event will take place from December 18, 2025 at 10 am to December 24, 2025 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Winter Weekend",
+            "article_url": "https://leekduck.com/events/winter-weekend-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-27T10:00:00",
+            "end_time": "2025-12-28T20:00:00",
+            "description": "The Winter Weekend event will take place from December 27, 2025 at 10 am to December 28, 2025 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Winter Holiday Part 2",
+            "article_url": "https://leekduck.com/events/winter-holiday-part-2-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-24T10:00:00",
+            "end_time": "2025-12-29T20:00:00",
+            "description": "The Winter Holiday Part 2 event will take place from December 24, 2025 at 10 am to December 29, 2025 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "New Year's 2026",
+            "article_url": "https://leekduck.com/events/new-years-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-31T10:00:00",
+            "end_time": "2026-01-04T20:00:00",
+            "description": "The New Year’s 2026 event will take place from December 31, 2025 at 10 am to January 4, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Catch Mastery Day",
+            "article_url": "https://leekduck.com/events/catch-mastery-day-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-07T10:00:00",
+            "end_time": "2026-02-07T20:00:00",
+            "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details."
+        }
+    ],
     "City Safari": [
         {
             "title": "Sydney, Australia - Pokémon GO City Safari",
@@ -1430,6 +1311,41 @@
             "start_time": 1765638000,
             "end_time": 1765753200,
             "description": "Pokémon GO City Safari is coming to Miami, USA, on December 13 and 14, 2025! Set off on a citywide adventure as you discover the vibrant stories, new friends, and exciting Pokémon waiting for you in Miami!\nWhether you’re a resident of Miami or a first-time visitor, your Pokémon GO City Safari will take you across the city in an all-new way—from historic landmarks to local favorites, get ready for a taste of the city with Pokémon GO by your side!\nOne-day Tickets are $10 (including any applicable taxes and fees) on either December 13, 2025 or December 14, 2025, from 10 am to 6 pm EST."
+        }
+    ],
+    "Max Battles": [
+        {
+            "title": "Max Battle Day",
+            "article_url": "https://leekduck.com/events/max-battle-day-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Max Battles",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-14T14:00:00",
+            "end_time": "2025-12-14T17:00:00",
+            "description": "The Max Battle Day event will take place on December 14, 2025 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Max Battle Weekend",
+            "article_url": "https://leekduck.com/events/max-battle-weekend-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Max Battles",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-31T06:00:00",
+            "end_time": "2026-02-01T21:00:00",
+            "description": "The Max Battle Weekend event will take place from January 31, 2026 at 6 am to February 1, 2026 at 9 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Max Battle Day",
+            "article_url": "https://leekduck.com/events/max-battle-day-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Max Battles",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-15T14:00:00",
+            "end_time": "2026-02-15T17:00:00",
+            "description": "The Max Battle Day event will take place on February 15, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
     "Research Day": [
@@ -1905,6 +1821,15 @@
             "start_time": "2026-02-28T10:00:00",
             "end_time": "2026-03-01T18:00:00",
             "description": "Other Event Locations:\n- Los Angeles\n- Tainan\n- Global (this page)\nBuy tickets: Pokémon GO Web Store\nJoin millions of Trainers across the globe for Pokémon GO Tour: Kalos – Global! Take part in this worldwide event inspired by the Kalos region, first featured in Pokémon X and Pokémon Y on the Nintendo 3DS.\nGet ready to experience new gameplay inspired by the stories and characters of Pokémon X and Pokémon Y. From longtime Kalos fans to new Trainers picking up Pokémon GO for the first time, anyone can take part in this exciting two-day event at no cost!\nLooking to enhance your GO Tour adventure with exclusive Special Research, additional bonuses, and an increased chance of encountering Shiny Pokémon? Purchase a global event ticket from the Pokémon GO Web Store!"
+        }
+    ],
+    "Research": [
+        {
+            "title": "Masterwork Research: A Precious Catch",
+            "article_url": "https://leekduck.com/events/masterwork-research-a-precious-catch/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-02-masterwork-research-a-precious-catch/masterball.jpg",
+            "category": "Research",
+            "error": "InvalidTimes"
         }
     ]
 }
