@@ -1,21 +1,22 @@
 {
     "Tier 1": [
         {
-            "name": "Machop",
+            "name": "Hisuian Sneasel",
             "tier": 1,
             "shiny_available": true,
             "cp_range": {
-                "min": 678,
-                "max": 730
+                "min": 1107,
+                "max": 1172
             },
             "boosted_cp_range": {
-                "min": 848,
-                "max": 913
+                "min": 1384,
+                "max": 1465
             },
             "types": [
-                "Fighting"
+                "Fighting",
+                "Poison"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm66.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm215.fHISUIAN.icon.png"
         },
         {
             "name": "Timburr",
@@ -33,6 +34,24 @@
                 "Fighting"
             ],
             "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm532.icon.png"
+        },
+        {
+            "name": "Scraggy",
+            "tier": 1,
+            "shiny_available": true,
+            "cp_range": {
+                "min": 732,
+                "max": 784
+            },
+            "boosted_cp_range": {
+                "min": 915,
+                "max": 980
+            },
+            "types": [
+                "Dark",
+                "Fighting"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm559.icon.png"
         },
         {
             "name": "Pancham",
@@ -54,55 +73,92 @@
     ],
     "Tier 3": [
         {
-            "name": "Galarian Farfetch'd",
+            "name": "Paldean Tauros (Combat Breed)",
             "tier": 3,
-            "shiny_available": true,
+            "shiny_available": false,
             "cp_range": {
-                "min": 898,
-                "max": 956
+                "min": 1546,
+                "max": 1621
             },
             "boosted_cp_range": {
-                "min": 1123,
-                "max": 1196
+                "min": 1932,
+                "max": 2026
             },
             "types": [
                 "Fighting"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm83.fGALARIAN.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm128.fPALDEA_COMBAT.icon.png"
         },
         {
-            "name": "Throh",
+            "name": "Paldean Blaze Tauros",
             "tier": 3,
-            "shiny_available": true,
+            "shiny_available": false,
             "cp_range": {
-                "min": 1391,
-                "max": 1464
+                "min": 1546,
+                "max": 1621
             },
             "boosted_cp_range": {
-                "min": 1739,
-                "max": 1830
+                "min": 1932,
+                "max": 2026
             },
             "types": [
-                "Fighting"
+                "Fighting",
+                "Fire"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm538.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm128.fPALDEA_BLAZE.icon.png"
         },
         {
-            "name": "Sawk",
+            "name": "Paldean Aqua Tauros",
+            "tier": 3,
+            "shiny_available": false,
+            "cp_range": {
+                "min": 1546,
+                "max": 1621
+            },
+            "boosted_cp_range": {
+                "min": 1932,
+                "max": 2026
+            },
+            "types": [
+                "Fighting",
+                "Water"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm128.fPALDEA_AQUA.icon.png"
+        },
+        {
+            "name": "Bombirdier",
             "tier": 3,
             "shiny_available": true,
             "cp_range": {
-                "min": 1517,
-                "max": 1593
+                "min": 1351,
+                "max": 1421
             },
             "boosted_cp_range": {
-                "min": 1897,
-                "max": 1991
+                "min": 1688,
+                "max": 1777
             },
             "types": [
-                "Fighting"
+                "Flying",
+                "Dark"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm539.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm962.icon.png"
+        },
+        {
+            "name": "Dondozo",
+            "tier": 3,
+            "shiny_available": true,
+            "cp_range": {
+                "min": 1633,
+                "max": 1712
+            },
+            "boosted_cp_range": {
+                "min": 2041,
+                "max": 2140
+            },
+            "types": [
+                "Water"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm977.icon.png"
         }
     ],
     "Tier 5": [
@@ -347,22 +403,22 @@
     ],
     "Shadow Tier 5": [
         {
-            "name": "Latios",
+            "name": "Heatran",
             "tier": 5,
             "shiny_available": true,
             "cp_range": {
-                "min": 2021,
-                "max": 2178
+                "min": 1990,
+                "max": 2145
             },
             "boosted_cp_range": {
-                "min": 2526,
-                "max": 2723
+                "min": 2487,
+                "max": 2681
             },
             "types": [
-                "Dragon",
-                "Psychic"
+                "Fire",
+                "Steel"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm381.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm485.icon.png"
         }
     ]
 }
