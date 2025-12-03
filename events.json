@@ -1,81 +1,4 @@
 {
-    "Pokémon Spotlight Hour": [
-        {
-            "title": "Cranidos Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-12-02/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Cranidos"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-02T18:00:00",
-            "end_time": "2025-12-02T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of December.\nDecember 2: The featured Pokémon is Cranidos and the special bonus is 2× Transfer Candy."
-        },
-        {
-            "title": "Shieldon Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-12-09/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Shieldon"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-09T18:00:00",
-            "end_time": "2025-12-09T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of December.\nDecember 9: The featured Pokémon is Shieldon and the special bonus is 2× Catch XP."
-        },
-        {
-            "title": "Mienfoo Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-12-16/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Mienfoo"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-16T18:00:00",
-            "end_time": "2025-12-16T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of December.\nDecember 16: The featured Pokémon is Mienfoo and the special bonus is 2× Catch Candy."
-        },
-        {
-            "title": "Spheal Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-12-23/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Spheal"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-23T18:00:00",
-            "end_time": "2025-12-23T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of December.\nDecember 23: The featured Pokémon is Spheal and the special bonus is 2× Evolution XP."
-        },
-        {
-            "title": "Delibird Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-12-30/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Delibird"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-30T18:00:00",
-            "end_time": "2025-12-30T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of December.\nDecember 30: The featured Pokémon is Delibird and the special bonus is 2× Catch Stardust."
-        }
-    ],
     "Raid Battles": [
         {
             "title": "Shadow Latios in Shadow Raids",
@@ -880,6 +803,68 @@
             "start_time": 1771966800,
             "end_time": 1772571600,
             "description": "The Great League, Ultra League, and Master League: Mega Edition will run from February 24, 2026, at 1:00 p.m. to March 3, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
+        }
+    ],
+    "Pokémon Spotlight Hour": [
+        {
+            "title": "Shieldon Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-12-09/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Shieldon"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-09T18:00:00",
+            "end_time": "2025-12-09T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of December.\nDecember 9: The featured Pokémon is Shieldon and the special bonus is 2× Catch XP."
+        },
+        {
+            "title": "Mienfoo Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-12-16/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Mienfoo"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-16T18:00:00",
+            "end_time": "2025-12-16T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of December.\nDecember 16: The featured Pokémon is Mienfoo and the special bonus is 2× Catch Candy."
+        },
+        {
+            "title": "Spheal Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-12-23/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Spheal"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-23T18:00:00",
+            "end_time": "2025-12-23T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of December.\nDecember 23: The featured Pokémon is Spheal and the special bonus is 2× Evolution XP."
+        },
+        {
+            "title": "Delibird Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-12-30/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Delibird"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-30T18:00:00",
+            "end_time": "2025-12-30T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of December.\nDecember 30: The featured Pokémon is Delibird and the special bonus is 2× Catch Stardust."
         }
     ],
     "City Safari": [

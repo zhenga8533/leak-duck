@@ -1248,6 +1248,24 @@
             "start_time": "2025-11-18T10:00:00",
             "end_time": "2025-11-25T10:00:00",
             "description": "Mega Ampharos and Mega Manectric return to Mega Raids on November 18, 2025, at 10 am local time."
+        },
+        {
+            "title": "Shadow Latios in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-latios-in-shadow-raids-november-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Latios"
+                ],
+                "shiny": [
+                    "Latios"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-02T06:00:00",
+            "end_time": "2025-12-02T22:00:00",
+            "description": "Shadow Latios will return to Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Latios!\nShadow Latios will appear in five-star Shadow Raids every weekend from November 2 to December 2:\n- November 2\n- November 8 - November 9\n- November 15 - November 16\n- November 22 - November 23\n- November 29 - November 30"
         }
     ],
     "GO Battle League": [
@@ -1557,6 +1575,21 @@
             "start_time": "2025-11-25T18:00:00",
             "end_time": "2025-11-25T19:00:00",
             "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of November.\nNovember 25: The featured Pokémon is Scraggy and the special bonus is 2× Catch XP."
+        },
+        {
+            "title": "Cranidos Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-12-02/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Cranidos"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-02T18:00:00",
+            "end_time": "2025-12-02T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of December.\nDecember 2: The featured Pokémon is Cranidos and the special bonus is 2× Transfer Candy."
         }
     ],
     "Raid Hour": [
