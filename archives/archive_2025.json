@@ -1266,6 +1266,53 @@
             "start_time": "2025-11-02T06:00:00",
             "end_time": "2025-12-02T22:00:00",
             "description": "Shadow Latios will return to Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Latios!\nShadow Latios will appear in five-star Shadow Raids every weekend from November 2 to December 2:\n- November 2\n- November 8 - November 9\n- November 15 - November 16\n- November 22 - November 23\n- November 29 - November 30"
+        },
+        {
+            "title": "Cobalion, Terrakion, and Virizion in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/cobalion-terrakion-virizion-in-5-star-raid-battles-november-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/swordsofjustice.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Cobalion",
+                    "Terrakion",
+                    "Virizion"
+                ],
+                "shiny": [
+                    "Cobalion",
+                    "Terrakion",
+                    "Virizion"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-25T10:00:00",
+            "end_time": "2025-12-04T10:00:00",
+            "description": "Cobalion, Terrakion, and Virizion will be in five-star raid battles from November 25, 2025 to December 4, 2025.\nThere will also be a Raid Hour featuring Cobalion, Terrakion, and Virizion from 6:00 pm to 7:00 pm local time on the following dates:\n- November 26\n- December 3"
+        },
+        {
+            "title": "Mega Aerodactyl, Mega Medicham, and Mega Garchomp in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-aerodactyl-medicham-garchomp-in-mega-raids-november-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Aerodactyl",
+                    "Mega Garchomp",
+                    "Mega Medicham"
+                ],
+                "shiny": [
+                    "Aerodactyl",
+                    "Garchomp",
+                    "Medicham",
+                    "Mega Aerodactyl",
+                    "Mega Garchomp",
+                    "Mega Medicham"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-11-25T10:00:00",
+            "end_time": "2025-12-04T10:00:00",
+            "description": "Mega Aerodactyl, Mega Medicham, and Mega Garchomp return to Mega Raids on November 25, 2025, at 10 am local time."
         }
     ],
     "GO Battle League": [
