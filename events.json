@@ -1,182 +1,4 @@
 {
-    "Raid Battles": [
-        {
-            "title": "Cobalion, Terrakion, and Virizion in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/cobalion-terrakion-virizion-in-5-star-raid-battles-november-december-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/swordsofjustice.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Cobalion",
-                    "Terrakion",
-                    "Virizion"
-                ],
-                "shiny": [
-                    "Cobalion",
-                    "Terrakion",
-                    "Virizion"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-11-25T10:00:00",
-            "end_time": "2025-12-04T10:00:00",
-            "description": "Cobalion, Terrakion, and Virizion will be in five-star raid battles from November 25, 2025 to December 4, 2025.\nThere will also be a Raid Hour featuring Cobalion, Terrakion, and Virizion from 6:00 pm to 7:00 pm local time on the following dates:\n- November 26\n- December 3"
-        },
-        {
-            "title": "Mega Aerodactyl, Mega Medicham, and Mega Garchomp in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-aerodactyl-medicham-garchomp-in-mega-raids-november-december-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Aerodactyl",
-                    "Mega Garchomp",
-                    "Mega Medicham"
-                ],
-                "shiny": [
-                    "Aerodactyl",
-                    "Garchomp",
-                    "Medicham",
-                    "Mega Aerodactyl",
-                    "Mega Garchomp",
-                    "Mega Medicham"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-11-25T10:00:00",
-            "end_time": "2025-12-04T10:00:00",
-            "description": "Mega Aerodactyl, Mega Medicham, and Mega Garchomp return to Mega Raids on November 25, 2025, at 10 am local time."
-        },
-        {
-            "title": "Kyurem in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/kyurem-in-5-star-raid-battles-december-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/kyurem.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Kyurem"
-                ],
-                "shiny": [
-                    "Kyurem"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-04T10:00:00",
-            "end_time": "2025-12-13T10:00:00",
-            "description": "Kyurem will be in five-star raid battles from December 4, 2025 to December 13, 2025.\nThere will also be a Raid Hour featuring Kyurem from 6:00 pm to 7:00 pm local time on the following dates:\n- December 10"
-        },
-        {
-            "title": "Mega Gyarados in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-gyarados-in-mega-raids-december-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Gyarados"
-                ],
-                "shiny": [
-                    "Gyarados",
-                    "Mega Gyarados"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-04T10:00:00",
-            "end_time": "2025-12-13T10:00:00",
-            "description": "Mega Gyarados return to Mega Raids on December 4, 2025, at 10 am local time."
-        },
-        {
-            "title": "Mega Abomasnow in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-abomasnow-in-mega-raids-december-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Abomasnow"
-                ],
-                "shiny": [
-                    "Abomasnow",
-                    "Mega Abomasnow"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-13T10:00:00",
-            "end_time": "2025-12-22T10:00:00",
-            "description": "Mega Abomasnow return to Mega Raids on December 13, 2025, at 10 am local time."
-        },
-        {
-            "title": "Reshiram in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/reshiram-in-5-star-raid-battles-december-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/reshiram.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Reshiram"
-                ],
-                "shiny": [
-                    "Reshiram"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-13T10:00:00",
-            "end_time": "2025-12-22T10:00:00",
-            "description": "Reshiram will be in five-star raid battles from December 13, 2025 to December 22, 2025.\nThere will also be a Raid Hour featuring Reshiram from 6:00 pm to 7:00 pm local time on the following dates:\n- December 17"
-        },
-        {
-            "title": "Mega Glalie in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-glalie-in-mega-raids-december-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Glalie"
-                ],
-                "shiny": [
-                    "Glalie",
-                    "Mega Glalie"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-22T10:00:00",
-            "end_time": "2025-12-31T10:00:00",
-            "description": "Mega Glalie return to Mega Raids on December 22, 2025, at 10 am local time."
-        },
-        {
-            "title": "Zekrom in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/zekrom-in-5-star-raid-battles-december-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/zekrom2.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Zekrom"
-                ],
-                "shiny": [
-                    "Zekrom"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-22T10:00:00",
-            "end_time": "2025-12-31T10:00:00",
-            "description": "Zekrom will be in five-star raid battles from December 22, 2025 to December 31, 2025.\nThere will also be a Raid Hour featuring Zekrom from 6:00 pm to 7:00 pm local time on the following dates:\n- December 24"
-        },
-        {
-            "title": "Shadow Heatran in Shadow Raids",
-            "article_url": "https://leekduck.com/events/shadow-heatran-in-shadow-raids-december-january-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Heatran"
-                ],
-                "shiny": [
-                    "Heatran"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-02T06:00:00",
-            "end_time": "2026-01-01T22:00:00",
-            "description": "Shadow Heatran will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Heatran!\nShadow Heatran will appear in five-star Shadow Raids every weekend from December 2 to January 1:\n- December 6 - December 7\n- December 13 - December 14\n- December 20 - December 21\n- December 27 - December 28"
-        }
-    ],
     "Community Day": [
         {
             "title": "December Community Day 2025",
@@ -836,6 +658,137 @@
             "start_time": "2025-12-31T18:00:00",
             "end_time": "2025-12-31T19:00:00",
             "description": "A Raid Hour featuring Blacephalon is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        }
+    ],
+    "Raid Battles": [
+        {
+            "title": "Kyurem in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/kyurem-in-5-star-raid-battles-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/kyurem.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Kyurem"
+                ],
+                "shiny": [
+                    "Kyurem"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-04T10:00:00",
+            "end_time": "2025-12-13T10:00:00",
+            "description": "Kyurem will be in five-star raid battles from December 4, 2025 to December 13, 2025.\nThere will also be a Raid Hour featuring Kyurem from 6:00 pm to 7:00 pm local time on the following dates:\n- December 10"
+        },
+        {
+            "title": "Mega Gyarados in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-gyarados-in-mega-raids-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Gyarados"
+                ],
+                "shiny": [
+                    "Gyarados",
+                    "Mega Gyarados"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-04T10:00:00",
+            "end_time": "2025-12-13T10:00:00",
+            "description": "Mega Gyarados return to Mega Raids on December 4, 2025, at 10 am local time."
+        },
+        {
+            "title": "Mega Abomasnow in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-abomasnow-in-mega-raids-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Abomasnow"
+                ],
+                "shiny": [
+                    "Abomasnow",
+                    "Mega Abomasnow"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-13T10:00:00",
+            "end_time": "2025-12-22T10:00:00",
+            "description": "Mega Abomasnow return to Mega Raids on December 13, 2025, at 10 am local time."
+        },
+        {
+            "title": "Reshiram in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/reshiram-in-5-star-raid-battles-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/reshiram.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Reshiram"
+                ],
+                "shiny": [
+                    "Reshiram"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-13T10:00:00",
+            "end_time": "2025-12-22T10:00:00",
+            "description": "Reshiram will be in five-star raid battles from December 13, 2025 to December 22, 2025.\nThere will also be a Raid Hour featuring Reshiram from 6:00 pm to 7:00 pm local time on the following dates:\n- December 17"
+        },
+        {
+            "title": "Mega Glalie in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-glalie-in-mega-raids-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Glalie"
+                ],
+                "shiny": [
+                    "Glalie",
+                    "Mega Glalie"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-22T10:00:00",
+            "end_time": "2025-12-31T10:00:00",
+            "description": "Mega Glalie return to Mega Raids on December 22, 2025, at 10 am local time."
+        },
+        {
+            "title": "Zekrom in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/zekrom-in-5-star-raid-battles-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/zekrom2.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Zekrom"
+                ],
+                "shiny": [
+                    "Zekrom"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-22T10:00:00",
+            "end_time": "2025-12-31T10:00:00",
+            "description": "Zekrom will be in five-star raid battles from December 22, 2025 to December 31, 2025.\nThere will also be a Raid Hour featuring Zekrom from 6:00 pm to 7:00 pm local time on the following dates:\n- December 24"
+        },
+        {
+            "title": "Shadow Heatran in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-heatran-in-shadow-raids-december-january-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Heatran"
+                ],
+                "shiny": [
+                    "Heatran"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-02T06:00:00",
+            "end_time": "2026-01-01T22:00:00",
+            "description": "Shadow Heatran will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Heatran!\nShadow Heatran will appear in five-star Shadow Raids every weekend from December 2 to January 1:\n- December 6 - December 7\n- December 13 - December 14\n- December 20 - December 21\n- December 27 - December 28"
         }
     ],
     "City Safari": [
