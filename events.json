@@ -19,20 +19,10 @@
                     "Trades made will require 50% less Stardust**"
                 ],
                 "features": [
-                    "Blue Flower Flabébé",
-                    "Fuecoco",
-                    "Jangmo-o",
-                    "Karrablast",
-                    "Pawmi",
-                    "Pikipek",
-                    "Quaxly",
-                    "Red Flower Flabébé",
-                    "Rookidee",
-                    "Shelmet",
-                    "Solosis",
-                    "Sprigatito",
-                    "Vanillite",
-                    "Yellow Flower Flabébé"
+                    "Corviknight",
+                    "Feraligatr",
+                    "Kommo-o",
+                    "Vanilluxe"
                 ],
                 "spawns": [
                     "Blue Flower Flabébé",
@@ -1556,7 +1546,7 @@
             "article_url": "https://leekduck.com/events/masterwork-research-a-precious-catch/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-02-masterwork-research-a-precious-catch/masterball.jpg",
             "category": "Research",
-            "error": "InvalidTimes"
+            "error": "ConnectionError: ReadTimeoutError"
         }
     ],
     "Season": [
