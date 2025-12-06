@@ -198,6 +198,15 @@
             "description": "February Community Day is on February 1, 2026. Stay tuned for the announcement of the featured Pokémon."
         }
     ],
+    "PokéStop Showcase": [
+        {
+            "title": "Kommo-o, Feraligatr, Corviknight, and Vanilluxe PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-kommo-o-feraligatr-corviknight-vanilluxe/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "error": "TimeoutException"
+        }
+    ],
     "Max Mondays": [
         {
             "title": "Dynamax Cryogonal during Max Monday",
@@ -1546,7 +1555,7 @@
             "article_url": "https://leekduck.com/events/masterwork-research-a-precious-catch/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-02-masterwork-research-a-precious-catch/masterball.jpg",
             "category": "Research",
-            "error": "ConnectionError: ReadTimeoutError"
+            "error": "InvalidTimes"
         }
     ],
     "Season": [
