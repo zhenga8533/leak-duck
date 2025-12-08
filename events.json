@@ -209,6 +209,17 @@
             "start_time": "2025-12-06T10:00:00",
             "end_time": "2025-12-07T20:00:00",
             "description": "There will be PokéStop Showcases featuring Kommo-o, Feraligatr, Corviknight, and Vanilluxe. Top the leaderboard to win rewards including Premium Items!\n- Feraligatr\n- Vanilluxe\n- Kommo-o\n- Corviknight"
+        },
+        {
+            "title": "Nacli, Garganacl, Tyranitar, and Salamence PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-nacli-garganacl-tyranitar-salamence/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-08T10:00:00",
+            "end_time": "2025-12-10T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Nacli, Garganacl, Tyranitar, and Salamence. Top the leaderboard to win rewards including Premium Items!\n- Tyranitar\n- Salamence\n- Nacli\n- Garganacl"
         }
     ],
     "Max Mondays": [
