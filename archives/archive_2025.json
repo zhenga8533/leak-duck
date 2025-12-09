@@ -552,6 +552,17 @@
             "start_time": "2025-09-07T00:00:00",
             "end_time": "2025-11-30T23:59:00",
             "description": "Enjoy trade bonuses every Sunday throughout Tales of Transformation!\nOn Sundays from September 7 to November 30, 2025, Trainers will get a pile of trade bonuses, including one additional Special Trade!"
+        },
+        {
+            "title": "GO Battle Week: Precious Paths",
+            "article_url": "https://leekduck.com/events/go-battle-week-precious-paths/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-04T00:00:00",
+            "end_time": "2025-12-08T23:59:00",
+            "description": "- 4× Stardust from win rewards. (This does not include end-of-set rewards.)\n- The maximum number of sets you can play per day will increase from five to 20—for a total of 100 battles—from 12:00 a.m. to 11:59 p.m. local time.\n- Pokémon encountered via GO Battle League rewards will have a wider variance of Attack, Defense, and HP.\n- You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration.\n- Great League\n- Ultra League\n- Master League"
         }
     ],
     "PokéStop Showcase": [
@@ -969,6 +980,17 @@
             "start_time": "2025-12-01T18:00:00",
             "end_time": "2025-12-01T19:00:00",
             "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 1, 2025, the featured Dynamax Pokémon is Darumaka.\n- Darumaka"
+        },
+        {
+            "title": "Dynamax Cryogonal during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-12-08/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-08T18:00:00",
+            "end_time": "2025-12-08T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 8, 2025, the featured Dynamax Pokémon is Cryogonal.\n- Cryogonal"
         }
     ],
     "Raid Battles": [

@@ -1,242 +1,4 @@
 {
-    "Max Mondays": [
-        {
-            "title": "Dynamax Cryogonal during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-12-08/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-08T18:00:00",
-            "end_time": "2025-12-08T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 8, 2025, the featured Dynamax Pokémon is Cryogonal.\n- Cryogonal"
-        },
-        {
-            "title": "Dynamax Kabuto during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-12-15/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-15T18:00:00",
-            "end_time": "2025-12-15T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 15, 2025, the featured Dynamax Pokémon is Kabuto.\n- Kabuto"
-        },
-        {
-            "title": "Dynamax Spheal during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-12-22/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-22T18:00:00",
-            "end_time": "2025-12-22T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 22, 2025, the featured Dynamax Pokémon is Spheal.\n- Spheal"
-        },
-        {
-            "title": "Dynamax Omanyte during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-12-29/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-29T18:00:00",
-            "end_time": "2025-12-29T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 29, 2025, the featured Dynamax Pokémon is Omanyte.\n- Omanyte"
-        }
-    ],
-    "Event": [
-        {
-            "title": "GO Battle Week: Precious Paths",
-            "article_url": "https://leekduck.com/events/go-battle-week-precious-paths/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-04T00:00:00",
-            "end_time": "2025-12-08T23:59:00",
-            "description": "- 4× Stardust from win rewards. (This does not include end-of-set rewards.)\n- The maximum number of sets you can play per day will increase from five to 20—for a total of 100 battles—from 12:00 a.m. to 11:59 p.m. local time.\n- Pokémon encountered via GO Battle League rewards will have a wider variance of Attack, Defense, and HP.\n- You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration.\n- Great League\n- Ultra League\n- Master League"
-        },
-        {
-            "title": "Journey to Paldea",
-            "article_url": "https://leekduck.com/events/journey-to-paldea/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-02-journey-to-paldea/journey-to-paldea.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× XP for evolving Pokémon",
-                    "2× XP for winning Raid Battles",
-                    "Increased chance to encounter Shiny Larvitar and Shiny Bagon"
-                ],
-                "features": [
-                    "Garganacl",
-                    "Nacli",
-                    "Naclstack"
-                ],
-                "spawns": [
-                    "Bagon",
-                    "Clauncher",
-                    "Drifloon",
-                    "Gulpin",
-                    "Larvitar",
-                    "Misdreavus",
-                    "Nacli",
-                    "Nymble",
-                    "Oranguru",
-                    "Passimian",
-                    "Pawmi",
-                    "Skrelp",
-                    "Smoliv",
-                    "Stunky"
-                ],
-                "raids": [
-                    "Bombirdier",
-                    "Dondozo",
-                    "Paldean Tauros (Aqua)",
-                    "Paldean Tauros (Blaze)",
-                    "Paldean Tauros (Combat)"
-                ],
-                "shiny": [
-                    "Bagon",
-                    "Larvitar"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-02T10:00:00",
-            "end_time": "2025-12-09T20:00:00",
-            "description": "Journey to Paldea! Discover Nacli, Naclstack, and Garganacl making their Pokémon GO debuts!"
-        },
-        {
-            "title": "Well Armed",
-            "article_url": "https://leekduck.com/events/well-armed-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-11-well-armed-2025/well-armed.jpg?v2",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× Candy for catching Pokémon",
-                    "Increased chance to encounter Shiny Dynamax Hitmonlee and Shiny Dynamax Hitmonchan"
-                ],
-                "features": [
-                    "Clobbopus",
-                    "Grapploct",
-                    "Jangmo-o",
-                    "Mienfoo"
-                ],
-                "spawns": [
-                    "Clobbopus",
-                    "Grapploct",
-                    "Jangmo-o",
-                    "Machop",
-                    "Makuhita",
-                    "Mienfoo",
-                    "Octillery",
-                    "Poliwag"
-                ],
-                "shiny": [
-                    "Hitmonchan",
-                    "Hitmonlee"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-11T10:00:00",
-            "end_time": "2025-12-16T20:00:00",
-            "description": "Train and take on Global Challenges during the Well Armed event!"
-        },
-        {
-            "title": "Winter Holiday Part 1",
-            "article_url": "https://leekduck.com/events/winter-holiday-part-1-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-18-winter-holiday-part-1-2025/winter-holiday-2025-part-1.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
-                    "2× Stardust from opening Gifts",
-                    "2× XP from catching Pokémon",
-                    "2× XP from sending Gifts",
-                    "50% more XP for winning Raid Battles",
-                    "Additional items may be rewarded from opening Gifts",
-                    "Increased chance to hatch Shiny Pichu wearing a festive hat and Shiny Cubchoo wearing a holiday ribbon from 7 km Eggs"
-                ],
-                "features": [
-                    "Winter Attire Charjabug",
-                    "Winter Attire Sudowoodo",
-                    "Winter Attire Vikavolt"
-                ],
-                "spawns": [
-                    "Snorunt",
-                    "Spheal",
-                    "Swinub",
-                    "Winter Attire Charjabug",
-                    "Winter Attire Sudowoodo"
-                ],
-                "eggs": [
-                    "Cryogonal",
-                    "Festive Hat Pichu",
-                    "Holiday Cubchoo",
-                    "Smoochum",
-                    "Snom"
-                ],
-                "raids": [
-                    "Hisuian Avalugg",
-                    "Winter Attire Charjabug",
-                    "Winter Attire Sudowoodo"
-                ],
-                "shiny": [
-                    "Winter Attire Charjabug",
-                    "Winter Attire Sudowoodo",
-                    "Winter Attire Vikavolt"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-18T10:00:00",
-            "end_time": "2025-12-24T10:00:00",
-            "description": "Celebrate the holidays with new costumed Pokémon during Winter Holiday Part 1!"
-        },
-        {
-            "title": "Winter Weekend",
-            "article_url": "https://leekduck.com/events/winter-weekend-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-27T10:00:00",
-            "end_time": "2025-12-28T20:00:00",
-            "description": "The Winter Weekend event will take place from December 27, 2025 at 10 am to December 28, 2025 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Winter Holiday Part 2",
-            "article_url": "https://leekduck.com/events/winter-holiday-part-2-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-24T10:00:00",
-            "end_time": "2025-12-29T20:00:00",
-            "description": "The Winter Holiday Part 2 event will take place from December 24, 2025 at 10 am to December 29, 2025 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "New Year's 2026",
-            "article_url": "https://leekduck.com/events/new-years-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-31T10:00:00",
-            "end_time": "2026-01-04T20:00:00",
-            "description": "The New Year’s 2026 event will take place from December 31, 2025 at 10 am to January 4, 2026 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Catch Mastery Day",
-            "article_url": "https://leekduck.com/events/catch-mastery-day-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-07T10:00:00",
-            "end_time": "2026-02-07T20:00:00",
-            "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details."
-        }
-    ],
     "GO Battle League": [
         {
             "title": "Great League, Ultra League, and Master League | Precious Paths",
@@ -442,6 +204,187 @@
             "start_time": "2025-12-30T18:00:00",
             "end_time": "2025-12-30T19:00:00",
             "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of December.\nDecember 30: The featured Pokémon is Delibird and the special bonus is 2× Catch Stardust."
+        }
+    ],
+    "Event": [
+        {
+            "title": "Journey to Paldea",
+            "article_url": "https://leekduck.com/events/journey-to-paldea/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-02-journey-to-paldea/journey-to-paldea.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× XP for evolving Pokémon",
+                    "2× XP for winning Raid Battles",
+                    "Increased chance to encounter Shiny Larvitar and Shiny Bagon"
+                ],
+                "features": [
+                    "Garganacl",
+                    "Nacli",
+                    "Naclstack"
+                ],
+                "spawns": [
+                    "Bagon",
+                    "Clauncher",
+                    "Drifloon",
+                    "Gulpin",
+                    "Larvitar",
+                    "Misdreavus",
+                    "Nacli",
+                    "Nymble",
+                    "Oranguru",
+                    "Passimian",
+                    "Pawmi",
+                    "Skrelp",
+                    "Smoliv",
+                    "Stunky"
+                ],
+                "raids": [
+                    "Bombirdier",
+                    "Dondozo",
+                    "Paldean Tauros (Aqua)",
+                    "Paldean Tauros (Blaze)",
+                    "Paldean Tauros (Combat)"
+                ],
+                "shiny": [
+                    "Bagon",
+                    "Larvitar"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-02T10:00:00",
+            "end_time": "2025-12-09T20:00:00",
+            "description": "Journey to Paldea! Discover Nacli, Naclstack, and Garganacl making their Pokémon GO debuts!"
+        },
+        {
+            "title": "Well Armed",
+            "article_url": "https://leekduck.com/events/well-armed-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-11-well-armed-2025/well-armed.jpg?v2",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Candy for catching Pokémon",
+                    "Increased chance to encounter Shiny Dynamax Hitmonlee and Shiny Dynamax Hitmonchan"
+                ],
+                "features": [
+                    "Clobbopus",
+                    "Grapploct",
+                    "Jangmo-o",
+                    "Mienfoo"
+                ],
+                "spawns": [
+                    "Clobbopus",
+                    "Grapploct",
+                    "Jangmo-o",
+                    "Machop",
+                    "Makuhita",
+                    "Mienfoo",
+                    "Octillery",
+                    "Poliwag"
+                ],
+                "shiny": [
+                    "Hitmonchan",
+                    "Hitmonlee"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-11T10:00:00",
+            "end_time": "2025-12-16T20:00:00",
+            "description": "Train and take on Global Challenges during the Well Armed event!"
+        },
+        {
+            "title": "Winter Holiday Part 1",
+            "article_url": "https://leekduck.com/events/winter-holiday-part-1-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-18-winter-holiday-part-1-2025/winter-holiday-2025-part-1.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
+                    "2× Stardust from opening Gifts",
+                    "2× XP from catching Pokémon",
+                    "2× XP from sending Gifts",
+                    "50% more XP for winning Raid Battles",
+                    "Additional items may be rewarded from opening Gifts",
+                    "Increased chance to hatch Shiny Pichu wearing a festive hat and Shiny Cubchoo wearing a holiday ribbon from 7 km Eggs"
+                ],
+                "features": [
+                    "Winter Attire Charjabug",
+                    "Winter Attire Sudowoodo",
+                    "Winter Attire Vikavolt"
+                ],
+                "spawns": [
+                    "Snorunt",
+                    "Spheal",
+                    "Swinub",
+                    "Winter Attire Charjabug",
+                    "Winter Attire Sudowoodo"
+                ],
+                "eggs": [
+                    "Cryogonal",
+                    "Festive Hat Pichu",
+                    "Holiday Cubchoo",
+                    "Smoochum",
+                    "Snom"
+                ],
+                "raids": [
+                    "Hisuian Avalugg",
+                    "Winter Attire Charjabug",
+                    "Winter Attire Sudowoodo"
+                ],
+                "shiny": [
+                    "Winter Attire Charjabug",
+                    "Winter Attire Sudowoodo",
+                    "Winter Attire Vikavolt"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-18T10:00:00",
+            "end_time": "2025-12-24T10:00:00",
+            "description": "Celebrate the holidays with new costumed Pokémon during Winter Holiday Part 1!"
+        },
+        {
+            "title": "Winter Weekend",
+            "article_url": "https://leekduck.com/events/winter-weekend-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-27T10:00:00",
+            "end_time": "2025-12-28T20:00:00",
+            "description": "The Winter Weekend event will take place from December 27, 2025 at 10 am to December 28, 2025 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Winter Holiday Part 2",
+            "article_url": "https://leekduck.com/events/winter-holiday-part-2-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-24T10:00:00",
+            "end_time": "2025-12-29T20:00:00",
+            "description": "The Winter Holiday Part 2 event will take place from December 24, 2025 at 10 am to December 29, 2025 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "New Year's 2026",
+            "article_url": "https://leekduck.com/events/new-years-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-31T10:00:00",
+            "end_time": "2026-01-04T20:00:00",
+            "description": "The New Year’s 2026 event will take place from December 31, 2025 at 10 am to January 4, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Catch Mastery Day",
+            "article_url": "https://leekduck.com/events/catch-mastery-day-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-07T10:00:00",
+            "end_time": "2026-02-07T20:00:00",
+            "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details."
         }
     ],
     "Raid Hour": [
@@ -894,6 +837,41 @@
             "description": "The Max Battle Day event will take place on February 15, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Kabuto during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-12-15/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-15T18:00:00",
+            "end_time": "2025-12-15T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 15, 2025, the featured Dynamax Pokémon is Kabuto.\n- Kabuto"
+        },
+        {
+            "title": "Dynamax Spheal during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-12-22/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-22T18:00:00",
+            "end_time": "2025-12-22T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 22, 2025, the featured Dynamax Pokémon is Spheal.\n- Spheal"
+        },
+        {
+            "title": "Dynamax Omanyte during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-12-29/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-29T18:00:00",
+            "end_time": "2025-12-29T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 29, 2025, the featured Dynamax Pokémon is Omanyte.\n- Omanyte"
+        }
+    ],
     "Research": [
         {
             "title": "Celestial Research Day",
@@ -973,19 +951,18 @@
         {
             "title": "Grookey Community Day",
             "article_url": "https://leekduck.com/events/january-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-18-january-communityday2026/grookey-community-day-january-2026.jpg",
             "category": "Community Day",
             "details": {
                 "bonuses": [
-                    "1-hour Lures***",
+                    "1-hour Lures*",
                     "2x Catch Candy",
                     "2x Chance to receive Candy XL from catching Pokémon",
-                    "3-hour Incense*",
-                    "3-hour Lures**",
+                    "3-hour Incense",
                     "3x Catch Stardust",
                     "Increased Spawns",
-                    "One additional Special Trade can be made for a maximum of three for the day",
-                    "Trades made will require 50% less Stardust"
+                    "One additional Special Trade can be made for a maximum of three for the day*",
+                    "Trades made will require 50% less Stardust*"
                 ],
                 "features": [
                     "Grookey"
