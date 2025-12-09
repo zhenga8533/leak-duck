@@ -1,28 +1,4 @@
 {
-    "PokéStop Showcase": [
-        {
-            "title": "Kommo-o, Feraligatr, Corviknight, and Vanilluxe PokéStop Showcases",
-            "article_url": "https://leekduck.com/events/pokemon-showcase-kommo-o-feraligatr-corviknight-vanilluxe/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-06T10:00:00",
-            "end_time": "2025-12-07T20:00:00",
-            "description": "There will be PokéStop Showcases featuring Kommo-o, Feraligatr, Corviknight, and Vanilluxe. Top the leaderboard to win rewards including Premium Items!\n- Feraligatr\n- Vanilluxe\n- Kommo-o\n- Corviknight"
-        },
-        {
-            "title": "Nacli, Garganacl, Tyranitar, and Salamence PokéStop Showcases",
-            "article_url": "https://leekduck.com/events/pokemon-showcase-nacli-garganacl-tyranitar-salamence/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-08T10:00:00",
-            "end_time": "2025-12-10T20:00:00",
-            "description": "There will be PokéStop Showcases featuring Nacli, Garganacl, Tyranitar, and Salamence. Top the leaderboard to win rewards including Premium Items!\n- Tyranitar\n- Salamence\n- Nacli\n- Garganacl"
-        }
-    ],
     "Max Mondays": [
         {
             "title": "Dynamax Cryogonal during Max Monday",
@@ -169,13 +145,52 @@
         {
             "title": "Winter Holiday Part 1",
             "article_url": "https://leekduck.com/events/winter-holiday-part-1-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-18-winter-holiday-part-1-2025/winter-holiday-2025-part-1.jpg",
             "category": "Event",
-            "details": {},
+            "details": {
+                "bonuses": [
+                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
+                    "2× Stardust from opening Gifts",
+                    "2× XP from catching Pokémon",
+                    "2× XP from sending Gifts",
+                    "50% more XP for winning Raid Battles",
+                    "Additional items may be rewarded from opening Gifts",
+                    "Increased chance to hatch Shiny Pichu wearing a festive hat and Shiny Cubchoo wearing a holiday ribbon from 7 km Eggs"
+                ],
+                "features": [
+                    "Winter Attire Charjabug",
+                    "Winter Attire Sudowoodo",
+                    "Winter Attire Vikavolt"
+                ],
+                "spawns": [
+                    "Snorunt",
+                    "Spheal",
+                    "Swinub",
+                    "Winter Attire Charjabug",
+                    "Winter Attire Sudowoodo"
+                ],
+                "eggs": [
+                    "Cryogonal",
+                    "Festive Hat Pichu",
+                    "Holiday Cubchoo",
+                    "Smoochum",
+                    "Snom"
+                ],
+                "raids": [
+                    "Hisuian Avalugg",
+                    "Winter Attire Charjabug",
+                    "Winter Attire Sudowoodo"
+                ],
+                "shiny": [
+                    "Winter Attire Charjabug",
+                    "Winter Attire Sudowoodo",
+                    "Winter Attire Vikavolt"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2025-12-18T10:00:00",
-            "end_time": "2025-12-24T20:00:00",
-            "description": "The Winter Holiday Part 1 event will take place from December 18, 2025 at 10 am to December 24, 2025 at 8 pm. Stay tuned for more details."
+            "end_time": "2025-12-24T10:00:00",
+            "description": "Celebrate the holidays with new costumed Pokémon during Winter Holiday Part 1!"
         },
         {
             "title": "Winter Weekend",
@@ -473,6 +488,19 @@
             "start_time": "2025-12-31T18:00:00",
             "end_time": "2025-12-31T19:00:00",
             "description": "A Raid Hour featuring Blacephalon is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        }
+    ],
+    "PokéStop Showcase": [
+        {
+            "title": "Nacli, Garganacl, Tyranitar, and Salamence PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-nacli-garganacl-tyranitar-salamence/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-08T10:00:00",
+            "end_time": "2025-12-10T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Nacli, Garganacl, Tyranitar, and Salamence. Top the leaderboard to win rewards including Premium Items!\n- Tyranitar\n- Salamence\n- Nacli\n- Garganacl"
         }
     ],
     "Raid Battles": [
@@ -866,55 +894,47 @@
             "description": "The Max Battle Day event will take place on February 15, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
-    "Research Day": [
+    "Research": [
         {
-            "title": "Research Day",
-            "article_url": "https://leekduck.com/events/research-day-december-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Research Day",
-            "details": {},
+            "title": "Celestial Research Day",
+            "article_url": "https://leekduck.com/events/celestial-research-day/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-20-celestial-research-day/celestial-research-day.jpg",
+            "category": "Research",
+            "details": {
+                "features": [
+                    "Lunatone",
+                    "Solrock"
+                ],
+                "shiny": [
+                    "Lunatone",
+                    "Solrock"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2025-12-20T14:00:00",
             "end_time": "2025-12-20T17:00:00",
-            "description": "The Research Day event will take place on December 20, 2025 from 2 pm to 5 pm. Stay tuned for more details."
-        }
-    ],
-    "Community Day": [
-        {
-            "title": "January Community Day Classic",
-            "article_url": "https://leekduck.com/events/january-communitydayclassic2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
-            "category": "Community Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-04T14:00:00",
-            "end_time": "2026-01-04T17:00:00",
-            "description": "January Community Day Classic is on January 4, 2026. Stay tuned for the announcement of the featured Pokémon."
+            "description": "Get ready for an astronomically cool Celestial Research Day!"
         },
         {
-            "title": "January Community Day",
-            "article_url": "https://leekduck.com/events/january-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
-            "category": "Community Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-18T14:00:00",
-            "end_time": "2026-01-18T17:00:00",
-            "description": "January Community Day is on January 18, 2026. Stay tuned for the announcement of the featured Pokémon."
-        },
-        {
-            "title": "February Community Day",
-            "article_url": "https://leekduck.com/events/february-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
-            "category": "Community Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-01T14:00:00",
-            "end_time": "2026-02-01T17:00:00",
-            "description": "February Community Day is on February 1, 2026. Stay tuned for the announcement of the featured Pokémon."
+            "title": "Masterwork Research: A Precious Catch",
+            "article_url": "https://leekduck.com/events/masterwork-research-a-precious-catch/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-02-masterwork-research-a-precious-catch/masterball.jpg",
+            "category": "Research",
+            "error": "InvalidTimes"
         }
     ],
     "GO Pass": [
+        {
+            "title": "GO Pass: Winter Holiday 2025",
+            "article_url": "https://leekduck.com/events/go-pass-winter-holiday-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-18-go-pass-winter-holiday-2025/snom-beanie.jpg",
+            "category": "GO Pass",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-18T10:00:00",
+            "end_time": "2025-12-29T20:00:00",
+            "description": "From Thursday, December 18, at 10:00 a.m. to Monday, December 29, 2025, at 8:00 p.m. local time, the GO Pass and GO Pass Deluxe for Winter Holiday Part 1 and Part 2 will be available in Pokémon GO!"
+        },
         {
             "title": "GO Pass: December",
             "article_url": "https://leekduck.com/events/go-pass-december-2025/",
@@ -936,6 +956,64 @@
             "start_time": "2025-12-02T10:00:00",
             "end_time": "2026-01-06T10:00:00",
             "description": "Palkia and the Timed Incubator return for GO Pass: December!\nFrom Tuesday, December 2, 2025, at 10:00 a.m. to Tuesday, January 6, 2026, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for December will be available in Pokémon GO!"
+        }
+    ],
+    "Community Day": [
+        {
+            "title": "January Community Day Classic",
+            "article_url": "https://leekduck.com/events/january-communitydayclassic2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "category": "Community Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-04T14:00:00",
+            "end_time": "2026-01-04T17:00:00",
+            "description": "January Community Day Classic is on January 4, 2026. Stay tuned for the announcement of the featured Pokémon."
+        },
+        {
+            "title": "Grookey Community Day",
+            "article_url": "https://leekduck.com/events/january-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "category": "Community Day",
+            "details": {
+                "bonuses": [
+                    "1-hour Lures***",
+                    "2x Catch Candy",
+                    "2x Chance to receive Candy XL from catching Pokémon",
+                    "3-hour Incense*",
+                    "3-hour Lures**",
+                    "3x Catch Stardust",
+                    "Increased Spawns",
+                    "One additional Special Trade can be made for a maximum of three for the day",
+                    "Trades made will require 50% less Stardust"
+                ],
+                "features": [
+                    "Grookey"
+                ],
+                "spawns": [
+                    "Grookey"
+                ],
+                "shiny": [
+                    "Grookey",
+                    "Rillaboom",
+                    "Thwackey"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-18T14:00:00",
+            "end_time": "2026-01-18T17:00:00",
+            "description": "Grookey, the Chimp Pokémon, will be featured during January Community Day!"
+        },
+        {
+            "title": "February Community Day",
+            "article_url": "https://leekduck.com/events/february-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "category": "Community Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-01T14:00:00",
+            "end_time": "2026-02-01T17:00:00",
+            "description": "February Community Day is on February 1, 2026. Stay tuned for the announcement of the featured Pokémon."
         }
     ],
     "Raid Day": [
@@ -1398,15 +1476,6 @@
             "start_time": "2026-02-28T10:00:00",
             "end_time": "2026-03-01T18:00:00",
             "description": "Other Event Locations:\n- Los Angeles\n- Tainan\n- Global (this page)\nBuy tickets: Pokémon GO Web Store\nJoin millions of Trainers across the globe for Pokémon GO Tour: Kalos – Global! Take part in this worldwide event inspired by the Kalos region, first featured in Pokémon X and Pokémon Y on the Nintendo 3DS.\nGet ready to experience new gameplay inspired by the stories and characters of Pokémon X and Pokémon Y. From longtime Kalos fans to new Trainers picking up Pokémon GO for the first time, anyone can take part in this exciting two-day event at no cost!\nLooking to enhance your GO Tour adventure with exclusive Special Research, additional bonuses, and an increased chance of encountering Shiny Pokémon? Purchase a global event ticket from the Pokémon GO Web Store!"
-        }
-    ],
-    "Research": [
-        {
-            "title": "Masterwork Research: A Precious Catch",
-            "article_url": "https://leekduck.com/events/masterwork-research-a-precious-catch/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-02-masterwork-research-a-precious-catch/masterball.jpg",
-            "category": "Research",
-            "error": "InvalidTimes"
         }
     ],
     "Season": [
