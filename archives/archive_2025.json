@@ -563,6 +563,55 @@
             "start_time": "2025-12-04T00:00:00",
             "end_time": "2025-12-08T23:59:00",
             "description": "- 4× Stardust from win rewards. (This does not include end-of-set rewards.)\n- The maximum number of sets you can play per day will increase from five to 20—for a total of 100 battles—from 12:00 a.m. to 11:59 p.m. local time.\n- Pokémon encountered via GO Battle League rewards will have a wider variance of Attack, Defense, and HP.\n- You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration.\n- Great League\n- Ultra League\n- Master League"
+        },
+        {
+            "title": "Journey to Paldea",
+            "article_url": "https://leekduck.com/events/journey-to-paldea/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-02-journey-to-paldea/journey-to-paldea.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× XP for evolving Pokémon",
+                    "2× XP for winning Raid Battles",
+                    "Increased chance to encounter Shiny Larvitar and Shiny Bagon"
+                ],
+                "features": [
+                    "Garganacl",
+                    "Nacli",
+                    "Naclstack"
+                ],
+                "spawns": [
+                    "Bagon",
+                    "Clauncher",
+                    "Drifloon",
+                    "Gulpin",
+                    "Larvitar",
+                    "Misdreavus",
+                    "Nacli",
+                    "Nymble",
+                    "Oranguru",
+                    "Passimian",
+                    "Pawmi",
+                    "Skrelp",
+                    "Smoliv",
+                    "Stunky"
+                ],
+                "raids": [
+                    "Bombirdier",
+                    "Dondozo",
+                    "Paldean Tauros (Aqua)",
+                    "Paldean Tauros (Blaze)",
+                    "Paldean Tauros (Combat)"
+                ],
+                "shiny": [
+                    "Bagon",
+                    "Larvitar"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-02T10:00:00",
+            "end_time": "2025-12-09T20:00:00",
+            "description": "Journey to Paldea! Discover Nacli, Naclstack, and Garganacl making their Pokémon GO debuts!"
         }
     ],
     "PokéStop Showcase": [
@@ -1681,6 +1730,21 @@
             "start_time": "2025-12-02T18:00:00",
             "end_time": "2025-12-02T19:00:00",
             "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of December.\nDecember 2: The featured Pokémon is Cranidos and the special bonus is 2× Transfer Candy."
+        },
+        {
+            "title": "Shieldon Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-12-09/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Shieldon"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-09T18:00:00",
+            "end_time": "2025-12-09T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of December.\nDecember 9: The featured Pokémon is Shieldon and the special bonus is 2× Catch XP."
         }
     ],
     "Raid Hour": [

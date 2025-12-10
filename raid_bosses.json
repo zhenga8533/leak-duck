@@ -73,92 +73,56 @@
     ],
     "Tier 3": [
         {
-            "name": "Paldean Tauros (Combat Breed)",
+            "name": "Sandslash",
             "tier": 3,
             "shiny_available": false,
             "cp_range": {
-                "min": 1546,
-                "max": 1621
+                "min": 1288,
+                "max": 1356
             },
             "boosted_cp_range": {
-                "min": 1932,
-                "max": 2026
+                "min": 1610,
+                "max": 1696
             },
             "types": [
-                "Fighting"
+                "Ground"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm128.fPALDEA_COMBAT.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm28.icon.png"
         },
         {
-            "name": "Paldean Blaze Tauros",
+            "name": "Clefable",
             "tier": 3,
             "shiny_available": false,
             "cp_range": {
-                "min": 1546,
-                "max": 1621
+                "min": 1322,
+                "max": 1392
             },
             "boosted_cp_range": {
-                "min": 1932,
-                "max": 2026
+                "min": 1653,
+                "max": 1741
             },
             "types": [
-                "Fighting",
-                "Fire"
+                "Fairy"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm128.fPALDEA_BLAZE.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm36.icon.png"
         },
         {
-            "name": "Paldean Aqua Tauros",
+            "name": "Bronzong",
             "tier": 3,
             "shiny_available": false,
             "cp_range": {
-                "min": 1546,
-                "max": 1621
+                "min": 1212,
+                "max": 1279
             },
             "boosted_cp_range": {
-                "min": 1932,
-                "max": 2026
+                "min": 1515,
+                "max": 1599
             },
             "types": [
-                "Fighting",
-                "Water"
+                "Steel",
+                "Psychic"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm128.fPALDEA_AQUA.icon.png"
-        },
-        {
-            "name": "Bombirdier",
-            "tier": 3,
-            "shiny_available": true,
-            "cp_range": {
-                "min": 1351,
-                "max": 1421
-            },
-            "boosted_cp_range": {
-                "min": 1688,
-                "max": 1777
-            },
-            "types": [
-                "Flying",
-                "Dark"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm962.icon.png"
-        },
-        {
-            "name": "Dondozo",
-            "tier": 3,
-            "shiny_available": true,
-            "cp_range": {
-                "min": 1633,
-                "max": 1712
-            },
-            "boosted_cp_range": {
-                "min": 2041,
-                "max": 2140
-            },
-            "types": [
-                "Water"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm977.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm437.icon.png"
         }
     ],
     "Tier 5": [
