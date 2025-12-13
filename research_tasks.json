@@ -999,10 +999,10 @@
                 },
                 {
                     "type": "encounter",
-                    "name": "Frillish",
+                    "name": "Frillish (Female)",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm592.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm592.fFEMALE.icon.png"
                 }
             ]
         },
