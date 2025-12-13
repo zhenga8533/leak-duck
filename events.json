@@ -390,6 +390,19 @@
             "description": "The Max Battle Day event will take place on February 15, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
+    "PokéStop Showcase": [
+        {
+            "title": "Hitmonchan, Hitmonlee, and Snorlax PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-hitmonchan-hitmonlee-snorlax/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-13T10:00:00",
+            "end_time": "2025-12-14T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Hitmonchan, Hitmonlee, and Snorlax. Top the leaderboard to win rewards including Premium Items!\n- Hitmonlee\n- Hitmonchan\n- Snorlax"
+        }
+    ],
     "Max Mondays": [
         {
             "title": "Dynamax Kabuto during Max Monday",
