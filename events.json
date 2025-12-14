@@ -1,342 +1,22 @@
 {
-    "Raid Battles": [
-        {
-            "title": "Kyurem in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/kyurem-in-5-star-raid-battles-december-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/kyurem.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Kyurem"
-                ],
-                "shiny": [
-                    "Kyurem"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-04T10:00:00",
-            "end_time": "2025-12-13T10:00:00",
-            "description": "Kyurem will be in five-star raid battles from December 4, 2025 to December 13, 2025.\nThere will also be a Raid Hour featuring Kyurem from 6:00 pm to 7:00 pm local time on the following dates:\n- December 10"
-        },
-        {
-            "title": "Mega Gyarados in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-gyarados-in-mega-raids-december-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Gyarados"
-                ],
-                "shiny": [
-                    "Gyarados",
-                    "Mega Gyarados"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-04T10:00:00",
-            "end_time": "2025-12-13T10:00:00",
-            "description": "Mega Gyarados return to Mega Raids on December 4, 2025, at 10 am local time."
-        },
-        {
-            "title": "Mega Abomasnow in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-abomasnow-in-mega-raids-december-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Abomasnow"
-                ],
-                "shiny": [
-                    "Abomasnow",
-                    "Mega Abomasnow"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-13T10:00:00",
-            "end_time": "2025-12-22T10:00:00",
-            "description": "Mega Abomasnow return to Mega Raids on December 13, 2025, at 10 am local time."
-        },
-        {
-            "title": "Reshiram in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/reshiram-in-5-star-raid-battles-december-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/reshiram.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Reshiram"
-                ],
-                "shiny": [
-                    "Reshiram"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-13T10:00:00",
-            "end_time": "2025-12-22T10:00:00",
-            "description": "Reshiram will be in five-star raid battles from December 13, 2025 to December 22, 2025.\nThere will also be a Raid Hour featuring Reshiram from 6:00 pm to 7:00 pm local time on the following dates:\n- December 17"
-        },
-        {
-            "title": "Mega Glalie in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-glalie-in-mega-raids-december-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Glalie"
-                ],
-                "shiny": [
-                    "Glalie",
-                    "Mega Glalie"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-22T10:00:00",
-            "end_time": "2025-12-31T10:00:00",
-            "description": "Mega Glalie return to Mega Raids on December 22, 2025, at 10 am local time."
-        },
-        {
-            "title": "Zekrom in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/zekrom-in-5-star-raid-battles-december-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/zekrom2.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Zekrom"
-                ],
-                "shiny": [
-                    "Zekrom"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-22T10:00:00",
-            "end_time": "2025-12-31T10:00:00",
-            "description": "Zekrom will be in five-star raid battles from December 22, 2025 to December 31, 2025.\nThere will also be a Raid Hour featuring Zekrom from 6:00 pm to 7:00 pm local time on the following dates:\n- December 24"
-        },
-        {
-            "title": "Shadow Heatran in Shadow Raids",
-            "article_url": "https://leekduck.com/events/shadow-heatran-in-shadow-raids-december-january-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Heatran"
-                ],
-                "shiny": [
-                    "Heatran"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-02T06:00:00",
-            "end_time": "2026-01-01T22:00:00",
-            "description": "Shadow Heatran will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Heatran!\nShadow Heatran will appear in five-star Shadow Raids every weekend from December 2 to January 1:\n- December 6 - December 7\n- December 13 - December 14\n- December 20 - December 21\n- December 27 - December 28"
-        }
-    ],
     "City Safari": [
         {
             "title": "Sydney, Australia - Pokémon GO City Safari",
             "article_url": "https://leekduck.com/events/pokemon-go-city-safari-sydney-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-13-pokemon-go-city-safari-sydney-2025/city-safari-sydney-2025.jpg?v2",
-            "category": "City Safari",
-            "details": {
-                "bonuses": [
-                    "1 additional Candy XL awarded for catching Pokémon in five-star raids and Mega Raids (Trainers level 31+)",
-                    "1/2 Egg Hatch Distance",
-                    "1/2 Stardust Cost for trades within the city",
-                    "2× Hatch Candy",
-                    "2× Hatch Stardust",
-                    "2× Hatch XP",
-                    "3 additional Candy awarded for catching Pokémon in five-star raids and Mega Raids",
-                    "Additional 5,000 XP from completed raids",
-                    "An increased chance of encountering Shiny Pokémon",
-                    "Lure Modules (excluding Golden Lures) activated during the event will last for four hours",
-                    "Lure Modules activated during the event will last for four hours",
-                    "Trades will require 50% less Stardust",
-                    "Up to 12 free Raid Passes per day by spinning Photo Discs at Gyms",
-                    "Up to five Special Trades can be made during the day on your ticket while in Sydney!",
-                    "Up to five Special Trades daily within the city",
-                    "Your buddy may find the City Safari–exclusive Tiny Compass souvenir"
-                ],
-                "features": [
-                    "Explorer Eevee",
-                    "Explorer Espeon",
-                    "Explorer Flareon",
-                    "Explorer Glaceon",
-                    "Explorer Jolteon",
-                    "Explorer Leafeon",
-                    "Explorer Umbreon",
-                    "Explorer Vaporeon"
-                ],
-                "spawns": [
-                    "Amaura",
-                    "Bruxish",
-                    "Emolga",
-                    "Fomantis",
-                    "Gossifleur",
-                    "Komala",
-                    "Kricketot",
-                    "Litwick",
-                    "Mareanie",
-                    "Mudbray",
-                    "Oricorio (Baile Style)",
-                    "Pawniard",
-                    "Scraggy",
-                    "Shuckle",
-                    "Skarmory",
-                    "Skrelp",
-                    "Timburr",
-                    "Trapinch",
-                    "Unown B",
-                    "Unown M",
-                    "Unown S"
-                ],
-                "eggs": [
-                    "Komala",
-                    "Mudbray",
-                    "Oricorio (Baile Style)",
-                    "Pawniard"
-                ]
-            },
-            "is_local_time": false,
-            "start_time": 1765580400,
-            "end_time": 1765695600,
-            "description": "Pokémon GO City Safari is coming to Sydney, Australia, on December 13 and 14, 2025! Set off on a citywide adventure as you discover the vibrant stories, new friends, and exciting Pokémon waiting for you in Sydney!\nWhether you’re a resident of Sydney or a first-time visitor, your Pokémon GO City Safari will take you across the city in an all-new way—from historic landmarks to local favorites, get ready for a taste of the city with Pokémon GO by your side!\nOne-day Tickets are AU$19 (including any applicable taxes and fees) on either December 13, 2025 or December 14, 2025, from 10 am to 6 pm AEDT."
+            "category": "City Safari"
         },
         {
             "title": "Buenos Aires, Argentina - Pokémon GO City Safari",
             "article_url": "https://leekduck.com/events/pokemon-go-city-safari-buenos-aires-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-13-pokemon-go-city-safari-buenos-aires-2025/city-safari-buenos-aires-2025.jpg?v2",
-            "category": "City Safari",
-            "details": {
-                "bonuses": [
-                    "1 additional Candy XL awarded for catching Pokémon in five-star raids and Mega Raids (Trainers level 31+)",
-                    "1/2 Egg Hatch Distance",
-                    "1/2 Stardust Cost for trades within the city",
-                    "2× Hatch Candy",
-                    "2× Hatch Stardust",
-                    "2× Hatch XP",
-                    "3 additional Candy awarded for catching Pokémon in five-star raids and Mega Raids",
-                    "Additional 5,000 XP from completed raids",
-                    "An increased chance of encountering Shiny Pokémon",
-                    "Lure Modules (excluding Golden Lures) activated during the event will last for four hours",
-                    "Lure Modules activated during the event will last for four hours",
-                    "Trades will require 50% less Stardust",
-                    "Up to 12 free Raid Passes per day by spinning Photo Discs at Gyms",
-                    "Up to five Special Trades can be made during the day on your ticket while in Buenos Aires!",
-                    "Up to five Special Trades daily within the city",
-                    "Your buddy may find the City Safari–exclusive Tiny Compass souvenir"
-                ],
-                "features": [
-                    "Explorer Eevee",
-                    "Explorer Espeon",
-                    "Explorer Flareon",
-                    "Explorer Glaceon",
-                    "Explorer Jolteon",
-                    "Explorer Leafeon",
-                    "Explorer Umbreon",
-                    "Explorer Vaporeon"
-                ],
-                "spawns": [
-                    "Amaura",
-                    "Bruxish",
-                    "Emolga",
-                    "Fomantis",
-                    "Gossifleur",
-                    "Komala",
-                    "Kricketot",
-                    "Litwick",
-                    "Mareanie",
-                    "Mudbray",
-                    "Oricorio (Baile Style)",
-                    "Pawniard",
-                    "Scraggy",
-                    "Shuckle",
-                    "Skarmory",
-                    "Skrelp",
-                    "Timburr",
-                    "Trapinch",
-                    "Unown B",
-                    "Unown M",
-                    "Unown S"
-                ],
-                "eggs": [
-                    "Komala",
-                    "Mudbray",
-                    "Oricorio (Baile Style)",
-                    "Pawniard"
-                ]
-            },
-            "is_local_time": false,
-            "start_time": 1765630800,
-            "end_time": 1765746000,
-            "description": "Pokémon GO City Safari is coming to Buenos Aires, Argentina, on December 13 and 14, 2025! Set off on a citywide adventure as you discover the vibrant stories, new friends, and exciting Pokémon waiting for you in Buenos Aires!\nWhether you’re a resident of Buenos Aires or a first-time visitor, your Pokémon GO City Safari will take you across the city in an all-new way—from historic landmarks to local favorites, get ready for a taste of the city with Pokémon GO by your side!\nOne-day Tickets are ARS$13,000 (including any applicable taxes and fees) on either December 13, 2025 or December 14, 2025, from 10 am to 6 pm ART."
+            "category": "City Safari"
         },
         {
             "title": "Miami, USA - Pokémon GO City Safari",
             "article_url": "https://leekduck.com/events/pokemon-go-city-safari-miami-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-13-pokemon-go-city-safari-miami-2025/city-safari-miami-2025.jpg?v2",
-            "category": "City Safari",
-            "details": {
-                "bonuses": [
-                    "1 additional Candy XL awarded for catching Pokémon in five-star raids and Mega Raids (Trainers level 31+)",
-                    "1/2 Egg Hatch Distance",
-                    "1/2 Stardust Cost for trades within the city",
-                    "2× Hatch Candy",
-                    "2× Hatch Stardust",
-                    "2× Hatch XP",
-                    "3 additional Candy awarded for catching Pokémon in five-star raids and Mega Raids",
-                    "Additional 5,000 XP from completed raids",
-                    "An increased chance of encountering Shiny Pokémon",
-                    "Lure Modules (excluding Golden Lures) activated during the event will last for four hours",
-                    "Lure Modules activated during the event will last for four hours",
-                    "Trades will require 50% less Stardust",
-                    "Up to 12 free Raid Passes per day by spinning Photo Discs at Gyms",
-                    "Up to five Special Trades can be made during the day on your ticket while in Miami!",
-                    "Up to five Special Trades daily within the city",
-                    "Your buddy may find the City Safari–exclusive Tiny Compass souvenir"
-                ],
-                "features": [
-                    "Explorer Eevee",
-                    "Explorer Espeon",
-                    "Explorer Flareon",
-                    "Explorer Glaceon",
-                    "Explorer Jolteon",
-                    "Explorer Leafeon",
-                    "Explorer Umbreon",
-                    "Explorer Vaporeon"
-                ],
-                "spawns": [
-                    "Amaura",
-                    "Bruxish",
-                    "Emolga",
-                    "Fomantis",
-                    "Gossifleur",
-                    "Komala",
-                    "Kricketot",
-                    "Litwick",
-                    "Mareanie",
-                    "Mudbray",
-                    "Oricorio (Baile Style)",
-                    "Pawniard",
-                    "Scraggy",
-                    "Shuckle",
-                    "Skarmory",
-                    "Skrelp",
-                    "Timburr",
-                    "Trapinch",
-                    "Unown B",
-                    "Unown M",
-                    "Unown S"
-                ],
-                "eggs": [
-                    "Komala",
-                    "Mudbray",
-                    "Oricorio (Baile Style)",
-                    "Pawniard"
-                ]
-            },
-            "is_local_time": false,
-            "start_time": 1765638000,
-            "end_time": 1765753200,
-            "description": "Pokémon GO City Safari is coming to Miami, USA, on December 13 and 14, 2025! Set off on a citywide adventure as you discover the vibrant stories, new friends, and exciting Pokémon waiting for you in Miami!\nWhether you’re a resident of Miami or a first-time visitor, your Pokémon GO City Safari will take you across the city in an all-new way—from historic landmarks to local favorites, get ready for a taste of the city with Pokémon GO by your side!\nOne-day Tickets are $10 (including any applicable taxes and fees) on either December 13, 2025 or December 14, 2025, from 10 am to 6 pm EST."
+            "category": "City Safari"
         }
     ],
     "Max Battles": [
@@ -344,50 +24,19 @@
             "title": "Gigantamax Snorlax Max Battle Day",
             "article_url": "https://leekduck.com/events/gigantamax-snorlax-max-battle-day-december-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-14-gigantamax-snorlax-max-battle-day-december-2025/gigantamax-snorlax-december-2025.jpg",
-            "category": "Max Battles",
-            "details": {
-                "bonuses": [
-                    "1/4 adventuring distance to receive Max Particles*",
-                    "2× Max Particles from exploring*",
-                    "2× XP from Max Battles",
-                    "8× Max Particles from Power Spots",
-                    "All Power Spots will host Gigantamax Battles",
-                    "From December 13 at 5:00 p.m. to December 14 at 8:00 p.m. PST (GMT −8), the daily Remote Raid limit will increase from 10 to 20",
-                    "Max Particle collection limit increased to 1,600",
-                    "Max Particle collection limit increased to 5,600",
-                    "Power Spots will refresh more frequently",
-                    "Two additional Special Trades"
-                ],
-                "features": [
-                    "Gigantamax Snorlax"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-14T14:00:00",
-            "end_time": "2025-12-14T17:00:00",
-            "description": "Gigantamax Snorlax returns for an end-of-year Max Battle Day!"
+            "category": "Max Battles"
         },
         {
             "title": "Max Battle Weekend",
             "article_url": "https://leekduck.com/events/max-battle-weekend-february-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Max Battles",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-31T06:00:00",
-            "end_time": "2026-02-01T21:00:00",
-            "description": "The Max Battle Weekend event will take place from January 31, 2026 at 6 am to February 1, 2026 at 9 pm. Stay tuned for more details."
+            "category": "Max Battles"
         },
         {
             "title": "Max Battle Day",
             "article_url": "https://leekduck.com/events/max-battle-day-february-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Max Battles",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-15T14:00:00",
-            "end_time": "2026-02-15T17:00:00",
-            "description": "The Max Battle Day event will take place on February 15, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+            "category": "Max Battles"
         }
     ],
     "PokéStop Showcase": [
@@ -395,12 +44,7 @@
             "title": "Hitmonchan, Hitmonlee, and Snorlax PokéStop Showcases",
             "article_url": "https://leekduck.com/events/pokemon-showcase-hitmonchan-hitmonlee-snorlax/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-13T10:00:00",
-            "end_time": "2025-12-14T20:00:00",
-            "description": "There will be PokéStop Showcases featuring Hitmonchan, Hitmonlee, and Snorlax. Top the leaderboard to win rewards including Premium Items!\n- Hitmonlee\n- Hitmonchan\n- Snorlax"
+            "category": "PokéStop Showcase"
         }
     ],
     "Max Mondays": [
@@ -408,34 +52,19 @@
             "title": "Dynamax Kabuto during Max Monday",
             "article_url": "https://leekduck.com/events/max-mondays-2025-12-15/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-15T18:00:00",
-            "end_time": "2025-12-15T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 15, 2025, the featured Dynamax Pokémon is Kabuto.\n- Kabuto"
+            "category": "Max Mondays"
         },
         {
             "title": "Dynamax Spheal during Max Monday",
             "article_url": "https://leekduck.com/events/max-mondays-2025-12-22/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-22T18:00:00",
-            "end_time": "2025-12-22T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 22, 2025, the featured Dynamax Pokémon is Spheal.\n- Spheal"
+            "category": "Max Mondays"
         },
         {
             "title": "Dynamax Omanyte during Max Monday",
             "article_url": "https://leekduck.com/events/max-mondays-2025-12-29/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-29T18:00:00",
-            "end_time": "2025-12-29T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 29, 2025, the featured Dynamax Pokémon is Omanyte.\n- Omanyte"
+            "category": "Max Mondays"
         }
     ],
     "GO Battle League": [
@@ -443,133 +72,73 @@
             "title": "Ultra League and Scroll Cup: Great League Edition | Precious Paths",
             "article_url": "https://leekduck.com/events/gbl-precious-paths_ultra-league_scroll-cup-great-league-edition/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1765314000,
-            "end_time": 1765918800,
-            "description": "The Ultra League and Scroll Cup: Great League Edition will run from December 9, 2025, at 1:00 p.m. to December 16, 2025, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Water-, Fighting-, and Dark-type Pokémon are eligible.\nThe following Pokémon will not be allowed.\n- Primarina"
+            "category": "GO Battle League"
         },
         {
             "title": "Master League and Holiday Cup: Great League Edition | Precious Paths",
             "article_url": "https://leekduck.com/events/gbl-precious-paths_master-league_holiday-cup-great-league-edition/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1765918800,
-            "end_time": 1766523600,
-            "description": "The Master League and Holiday Cup: Great League Edition will run from December 16, 2025, at 1:00 p.m. to December 23, 2025, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Normal-, Grass-, Electric-, Ice-, Flying-, and Ghost-type Pokémon are eligible."
+            "category": "GO Battle League"
         },
         {
             "title": "Great League and Holiday Cup: Ultra League Edition | Precious Paths",
             "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_holiday-cup-ultra-league-edition/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1766523600,
-            "end_time": 1767128400,
-            "description": "The Great League and Holiday Cup: Ultra League Edition will run from December 23, 2025, at 1:00 p.m. to December 30, 2025, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- Only Normal-, Grass-, Electric-, Ice-, Flying-, and Ghost-type Pokémon are eligible."
+            "category": "GO Battle League"
         },
         {
             "title": "Great League, Ultra League, and Master League | Precious Paths",
             "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-split-2/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1767128400,
-            "end_time": 1767733200,
-            "description": "The Great League, Ultra League, and Master League will run from December 30, 2025, at 1:00 p.m. to January 6, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
+            "category": "GO Battle League"
         },
         {
             "title": "Ultra League and Sunshine Cup: Great League Edition | Precious Paths",
             "article_url": "https://leekduck.com/events/gbl-precious-paths_ultra-league_sunshine-cup-great-league-edition/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1767733200,
-            "end_time": 1768338000,
-            "description": "The Ultra League and Sunshine Cup: Great League Edition will run from January 6, 2026, at 1:00 p.m. to January 13, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Normal-, Fire-, Grass-, and Ground-type Pokémon are eligible.\n- Charizard is not allowed.\nThe following Pokémon will not be allowed.\n- Charizard"
+            "category": "GO Battle League"
         },
         {
             "title": "Master Premier and Retro Cup: Great League Edition | Precious Paths",
             "article_url": "https://leekduck.com/events/gbl-precious-paths_master-premier_retro-cup-great-league-edition/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1768338000,
-            "end_time": 1768942800,
-            "description": "The Master Premier and Retro Cup: Great League Edition will run from January 13, 2026, at 1:00 p.m. to January 20, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- No CP limit.\n- Legendary Pokémon, Mythical Pokémon, and Ultra Beasts are not eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Dark-, Steel-, and Fairy-type Pokémon are not eligible."
+            "category": "GO Battle League"
         },
         {
             "title": "Great League and Ultra Premier | Precious Paths",
             "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-premier/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1768942800,
-            "end_time": 1769547600,
-            "description": "The Great League and Ultra Premier will run from January 20, 2026, at 1:00 p.m. to January 27, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- Legendary Pokémon, Mythical Pokémon, and Ultra Beasts are not eligible."
+            "category": "GO Battle League"
         },
         {
             "title": "Great League, Ultra League, and Master League | Precious Paths",
             "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-split-3/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1769547600,
-            "end_time": 1770152400,
-            "description": "The Great League, Ultra League, and Master League will run from January 27, 2026, at 1:00 p.m. to February 3, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
+            "category": "GO Battle League"
         },
         {
             "title": "Ultra League and 2026 Championship Series Cup | Precious Paths",
             "article_url": "https://leekduck.com/events/gbl-precious-paths_ultra-league_2026-championship-series-cup/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1770152400,
-            "end_time": 1770757200,
-            "description": "The Ultra League and 2026 Championship Series Cup will run from February 3, 2026, at 1:00 p.m. to February 10, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Bug-, Dark-, Normal-, and Dragon-type Pokémon are eligible.\n- Fighting-, Flying-, and Steel-type Pokémon are not eligible.\n- Legendary Pokémon, Mythical Pokémon, Mega Pokémon, and Ultra Beasts are not eligible.\n- The following Pokémon will be allowed: Seaking, Politoed, Milotic, and Froslass.\nThe following Pokémon will not be allowed.\n- Wigglytuff\n- Chansey\n- Crustle\n- Diggersby\n- Ribombee\n- Araquanid\n- Turtonator\n- Morgrem\n- Morpeko"
+            "category": "GO Battle League"
         },
         {
             "title": "Master League and 2026 Championship Series Cup | Precious Paths",
             "article_url": "https://leekduck.com/events/gbl-precious-paths_master-league_2026-championship-series-cup/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1770757200,
-            "end_time": 1771362000,
-            "description": "The Master League and 2026 Championship Series Cup will run from February 10, 2026, at 1:00 p.m. to February 17, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Bug-, Dark-, Normal-, and Dragon-type Pokémon are eligible.\n- Fighting-, Flying-, and Steel-type Pokémon are not eligible.\n- Legendary Pokémon, Mythical Pokémon, Mega Pokémon, and Ultra Beasts are not eligible.\n- The following Pokémon will be allowed: Seaking, Politoed, Milotic, and Froslass.\nThe following Pokémon will not be allowed.\n- Wigglytuff\n- Chansey\n- Crustle\n- Diggersby\n- Ribombee\n- Araquanid\n- Turtonator\n- Morgrem\n- Morpeko"
+            "category": "GO Battle League"
         },
         {
             "title": "Great League and Love Cup: Great League Edition | Precious Paths",
             "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_love-cup-great-league-edition/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1771362000,
-            "end_time": 1771966800,
-            "description": "The Great League and Love Cup: Great League Edition will run from February 17, 2026, at 1:00 p.m. to February 24, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only red- or pink-colored Pokémon are eligible."
+            "category": "GO Battle League"
         },
         {
             "title": "Great League, Ultra League, and Master League: Mega Edition | Precious Paths",
             "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-mega-edition/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1771966800,
-            "end_time": 1772571600,
-            "description": "The Great League, Ultra League, and Master League: Mega Edition will run from February 24, 2026, at 1:00 p.m. to March 3, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
+            "category": "GO Battle League"
         }
     ],
     "Pokémon Spotlight Hour": [
@@ -577,46 +146,19 @@
             "title": "Mienfoo Spotlight Hour",
             "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-12-16/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Mienfoo"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-16T18:00:00",
-            "end_time": "2025-12-16T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of December.\nDecember 16: The featured Pokémon is Mienfoo and the special bonus is 2× Catch Candy."
+            "category": "Pokémon Spotlight Hour"
         },
         {
             "title": "Spheal Spotlight Hour",
             "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-12-23/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Spheal"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-23T18:00:00",
-            "end_time": "2025-12-23T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of December.\nDecember 23: The featured Pokémon is Spheal and the special bonus is 2× Evolution XP."
+            "category": "Pokémon Spotlight Hour"
         },
         {
             "title": "Delibird Spotlight Hour",
             "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-12-30/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Delibird"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-30T18:00:00",
-            "end_time": "2025-12-30T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of December.\nDecember 30: The featured Pokémon is Delibird and the special bonus is 2× Catch Stardust."
+            "category": "Pokémon Spotlight Hour"
         }
     ],
     "Event": [
@@ -624,188 +166,37 @@
             "title": "Well Armed",
             "article_url": "https://leekduck.com/events/well-armed-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-11-well-armed-2025/well-armed.jpg?v2",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× Candy for catching Pokémon",
-                    "Increased Candy and Candy XL from Max Battles",
-                    "Increased chance to encounter Shiny Dynamax Hitmonlee and Shiny Dynamax Hitmonchan"
-                ],
-                "features": [
-                    "Clobbopus",
-                    "Grapploct",
-                    "Jangmo-o",
-                    "Mienfoo"
-                ],
-                "spawns": [
-                    "Clobbopus",
-                    "Grapploct",
-                    "Inkay",
-                    "Jangmo-o",
-                    "Machop",
-                    "Makuhita",
-                    "Mienfoo",
-                    "Octillery",
-                    "Pawmi",
-                    "Poliwag",
-                    "Ralts",
-                    "Tentacool",
-                    "Tepig",
-                    "Timburr"
-                ],
-                "shiny": [
-                    "Hitmonchan",
-                    "Hitmonlee"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-11T10:00:00",
-            "end_time": "2025-12-16T20:00:00",
-            "description": "Train and take on Global Challenges during the Well Armed event!"
+            "category": "Event"
         },
         {
             "title": "Winter Holiday Part 1",
             "article_url": "https://leekduck.com/events/winter-holiday-part-1-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-18-winter-holiday-part-1-2025/winter-holiday-2025-part-1.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
-                    "2× Stardust from opening Gifts",
-                    "2× XP from catching Pokémon",
-                    "2× XP from sending Gifts",
-                    "50% more XP for winning Raid Battles",
-                    "Additional items may be rewarded from opening Gifts",
-                    "Increased chance to hatch Shiny Pichu wearing a festive hat and Shiny Cubchoo wearing a holiday ribbon from 7 km Eggs"
-                ],
-                "features": [
-                    "Winter Attire Charjabug",
-                    "Winter Attire Sudowoodo",
-                    "Winter Attire Vikavolt"
-                ],
-                "spawns": [
-                    "Snorunt",
-                    "Spheal",
-                    "Swinub",
-                    "Winter Attire Charjabug",
-                    "Winter Attire Sudowoodo"
-                ],
-                "eggs": [
-                    "Cryogonal",
-                    "Festive Hat Pichu",
-                    "Holiday Cubchoo",
-                    "Smoochum",
-                    "Snom"
-                ],
-                "raids": [
-                    "Hisuian Avalugg",
-                    "Winter Attire Charjabug",
-                    "Winter Attire Sudowoodo"
-                ],
-                "shiny": [
-                    "Winter Attire Charjabug",
-                    "Winter Attire Sudowoodo",
-                    "Winter Attire Vikavolt"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-18T10:00:00",
-            "end_time": "2025-12-24T10:00:00",
-            "description": "Celebrate the holidays with new costumed Pokémon during Winter Holiday Part 1!"
+            "category": "Event"
         },
         {
             "title": "Winter Weekend",
             "article_url": "https://leekduck.com/events/winter-weekend-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-27-winter-weekend-2025/winter-weekend-eevee.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "Bonus daily quests for your GO Pass: Winter Holiday 2025",
-                    "There's no daily limit for how many GO Points you can earn!"
-                ],
-                "shiny": [
-                    "Holiday Hat Eevee"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-27T10:00:00",
-            "end_time": "2025-12-28T20:00:00",
-            "description": "The Winter Weekend event will take place from December 27, 2025 at 10 am to December 28, 2025 at 8 pm."
+            "category": "Event"
         },
         {
             "title": "Winter Holiday Part 2",
             "article_url": "https://leekduck.com/events/winter-holiday-part-2-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-24-winter-holiday-part-2-2025/winter-holiday-2025-part-2.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
-                    "2× Stardust from opening Gifts",
-                    "2× XP from catching Pokémon",
-                    "2× XP from sending Gifts",
-                    "50% more XP for winning Raid Battles",
-                    "Additional items may be rewarded from opening Gifts",
-                    "Catching event-themed Pokémon in the wild may award items such as Fast TMs, Charged TMs, Silver Pinap Berries, Golden Razz Berries, and Rare Candy",
-                    "Increased chance to encounter Shiny Stantler wearing a holiday outfit and Shiny Dedenne wearing holiday attire."
-                ],
-                "features": [
-                    "Carkol",
-                    "Coalossal",
-                    "Rolycoly"
-                ],
-                "spawns": [
-                    "Bergmite",
-                    "Cetoddle",
-                    "Galarian Darumaka",
-                    "Holiday Attire Dedenne",
-                    "Rolycoly"
-                ],
-                "eggs": [
-                    "Cryogonal",
-                    "Festive Hat Pichu",
-                    "Holiday Cubchoo",
-                    "Smoochum",
-                    "Snom"
-                ],
-                "raids": [
-                    "Alolan Sandshrew",
-                    "Galarian Darumaka",
-                    "Galarian Mr. Mime",
-                    "Rolycoly",
-                    "Winter Attire Charjabug",
-                    "Winter Attire Sudowoodo"
-                ],
-                "shiny": [
-                    "Holiday Attire Dedenne",
-                    "Holiday Stantler"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-24T10:00:00",
-            "end_time": "2025-12-29T20:00:00",
-            "description": "The festivities continue during Winter Holiday Part 2 with Rolycoly’s debut, plus a special Winter Weekend event!"
+            "category": "Event"
         },
         {
             "title": "New Year's 2026",
             "article_url": "https://leekduck.com/events/new-years-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-31T10:00:00",
-            "end_time": "2026-01-04T20:00:00",
-            "description": "The New Year’s 2026 event will take place from December 31, 2025 at 10 am to January 4, 2026 at 8 pm. Stay tuned for more details."
+            "category": "Event"
         },
         {
             "title": "Catch Mastery Day",
             "article_url": "https://leekduck.com/events/catch-mastery-day-february-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-07T10:00:00",
-            "end_time": "2026-02-07T20:00:00",
-            "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details."
+            "category": "Event"
         }
     ],
     "Raid Hour": [
@@ -813,34 +204,19 @@
             "title": "Reshiram Raid Hour",
             "article_url": "https://leekduck.com/events/raidhour20251217/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-17T18:00:00",
-            "end_time": "2025-12-17T19:00:00",
-            "description": "A Raid Hour featuring Reshiram is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+            "category": "Raid Hour"
         },
         {
             "title": "Zekrom Raid Hour",
             "article_url": "https://leekduck.com/events/raidhour20251224/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-24T18:00:00",
-            "end_time": "2025-12-24T19:00:00",
-            "description": "A Raid Hour featuring Zekrom is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+            "category": "Raid Hour"
         },
         {
             "title": "Blacephalon Raid Hour",
             "article_url": "https://leekduck.com/events/raidhour20251231/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-31T18:00:00",
-            "end_time": "2025-12-31T19:00:00",
-            "description": "A Raid Hour featuring Blacephalon is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+            "category": "Raid Hour"
         }
     ],
     "Research": [
@@ -848,28 +224,45 @@
             "title": "Celestial Research Day",
             "article_url": "https://leekduck.com/events/celestial-research-day/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-20-celestial-research-day/celestial-research-day.jpg",
-            "category": "Research",
-            "details": {
-                "features": [
-                    "Lunatone",
-                    "Solrock"
-                ],
-                "shiny": [
-                    "Lunatone",
-                    "Solrock"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-20T14:00:00",
-            "end_time": "2025-12-20T17:00:00",
-            "description": "Get ready for an astronomically cool Celestial Research Day!"
+            "category": "Research"
         },
         {
             "title": "Masterwork Research: A Precious Catch",
             "article_url": "https://leekduck.com/events/masterwork-research-a-precious-catch/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-02-masterwork-research-a-precious-catch/masterball.jpg",
-            "category": "Research",
-            "error": "InvalidTimes"
+            "category": "Research"
+        }
+    ],
+    "Raid Battles": [
+        {
+            "title": "Mega Abomasnow in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-abomasnow-in-mega-raids-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles"
+        },
+        {
+            "title": "Reshiram in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/reshiram-in-5-star-raid-battles-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/reshiram.jpg",
+            "category": "Raid Battles"
+        },
+        {
+            "title": "Mega Glalie in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-glalie-in-mega-raids-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles"
+        },
+        {
+            "title": "Zekrom in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/zekrom-in-5-star-raid-battles-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/zekrom2.jpg",
+            "category": "Raid Battles"
+        },
+        {
+            "title": "Shadow Heatran in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-heatran-in-shadow-raids-december-january-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles"
         }
     ],
     "GO Pass": [
@@ -877,34 +270,13 @@
             "title": "GO Pass: Winter Holiday 2025",
             "article_url": "https://leekduck.com/events/go-pass-winter-holiday-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-18-go-pass-winter-holiday-2025/snom-beanie.jpg",
-            "category": "GO Pass",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-18T10:00:00",
-            "end_time": "2025-12-29T20:00:00",
-            "description": "From Thursday, December 18, at 10:00 a.m. to Monday, December 29, 2025, at 8:00 p.m. local time, the GO Pass and GO Pass Deluxe for Winter Holiday Part 1 and Part 2 will be available in Pokémon GO!"
+            "category": "GO Pass"
         },
         {
             "title": "GO Pass: December",
             "article_url": "https://leekduck.com/events/go-pass-december-2025/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-02-go-pass-december-2025/go-pass-december-2025.jpg",
-            "category": "GO Pass",
-            "details": {
-                "bonuses": [
-                    "2× Daily Adventure Incense duration",
-                    "Additional rewards for completing in-person raids and Max Battles",
-                    "Hold up to 10 additional Gifts in your Item Bag",
-                    "Hold up to 20 additional Gifts in your Item Bag",
-                    "Open up to 40 Gifts per day",
-                    "Open up to 50 Gifts per day",
-                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
-                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-02T10:00:00",
-            "end_time": "2026-01-06T10:00:00",
-            "description": "Palkia and the Timed Incubator return for GO Pass: December!\nFrom Tuesday, December 2, 2025, at 10:00 a.m. to Tuesday, January 6, 2026, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for December will be available in Pokémon GO!"
+            "category": "GO Pass"
         }
     ],
     "Community Day": [
@@ -912,74 +284,19 @@
             "title": "Piplup Community Day Classic",
             "article_url": "https://leekduck.com/events/january-communitydayclassic2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-04-january-communitydayclassic2026/piplup-community-day-classic.jpg",
-            "category": "Community Day",
-            "details": {
-                "bonuses": [
-                    "1-hour Lures**",
-                    "1/4 Hatch Distance",
-                    "3-hour Incense*",
-                    "Increased Spawns"
-                ],
-                "features": [
-                    "Piplup"
-                ],
-                "spawns": [
-                    "Piplup"
-                ],
-                "shiny": [
-                    "Empoleon",
-                    "Piplup",
-                    "Prinplup"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-04T14:00:00",
-            "end_time": "2026-01-04T17:00:00",
-            "description": "Piplup, the Penguin Pokémon, will be featured during January Community Day Classic!"
+            "category": "Community Day"
         },
         {
             "title": "Grookey Community Day",
             "article_url": "https://leekduck.com/events/january-communityday2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-18-january-communityday2026/grookey-community-day-january-2026.jpg",
-            "category": "Community Day",
-            "details": {
-                "bonuses": [
-                    "1-hour Lures*",
-                    "2x Catch Candy",
-                    "2x Chance to receive Candy XL from catching Pokémon",
-                    "3-hour Incense",
-                    "3x Catch Stardust",
-                    "Increased Spawns",
-                    "One additional Special Trade can be made for a maximum of three for the day*",
-                    "Trades made will require 50% less Stardust*"
-                ],
-                "features": [
-                    "Grookey"
-                ],
-                "spawns": [
-                    "Grookey"
-                ],
-                "shiny": [
-                    "Grookey",
-                    "Rillaboom",
-                    "Thwackey"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-18T14:00:00",
-            "end_time": "2026-01-18T17:00:00",
-            "description": "Grookey, the Chimp Pokémon, will be featured during January Community Day!"
+            "category": "Community Day"
         },
         {
             "title": "February Community Day",
             "article_url": "https://leekduck.com/events/february-communityday2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
-            "category": "Community Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-01T14:00:00",
-            "end_time": "2026-02-01T17:00:00",
-            "description": "February Community Day is on February 1, 2026. Stay tuned for the announcement of the featured Pokémon."
+            "category": "Community Day"
         }
     ],
     "Raid Day": [
@@ -987,34 +304,19 @@
             "title": "Raid Day",
             "article_url": "https://leekduck.com/events/raid-day-january-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-10T14:00:00",
-            "end_time": "2026-01-10T17:00:00",
-            "description": "The Raid Day event will take place on January 10, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+            "category": "Raid Day"
         },
         {
             "title": "Shadow Raid Day",
             "article_url": "https://leekduck.com/events/shadow-raid-day-january-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-24T14:00:00",
-            "end_time": "2026-01-24T17:00:00",
-            "description": "The Shadow Raid Day event will take place on January 24, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+            "category": "Raid Day"
         },
         {
             "title": "Raid Day",
             "article_url": "https://leekduck.com/events/raid-day-february-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-14T14:00:00",
-            "end_time": "2026-02-14T17:00:00",
-            "description": "The Raid Day event will take place on February 14, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+            "category": "Raid Day"
         }
     ],
     "Pokémon GO Tour": [
@@ -1022,426 +324,31 @@
             "title": "Pokémon GO Tour: Kalos - Tainan 2026",
             "article_url": "https://leekduck.com/events/pokemon-go-tour-kalos-tainan-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-20-pokemon-go-tour-kalos-tainan-2026/pokemon-go-tour-kalos-tainan-2026.jpg",
-            "category": "Pokémon GO Tour",
-            "details": {
-                "bonuses": [
-                    "1/2 Hatch Distance for Eggs placed in Incubators during the event",
-                    "1/2 Stardust cost for trades",
-                    "1/4 Egg Hatch Distance*",
-                    "3 additional Candy XL for catching Pokémon in five-star and Mega raids (Trainers level 31+)",
-                    "3× Hatch Candy",
-                    "3× Hatch Stardust",
-                    "3× Hatch XP",
-                    "5,000 additional XP awarded for completed raids",
-                    "6 additional Candy for catching Pokémon in five-star and Mega raids",
-                    "Increased chance of 10 km Eggs from spinning PokéStops and Photo Discs at Gyms",
-                    "Increased chance of encountering Shiny Pokémon",
-                    "Up to 18 daily Raid Passes per day from spinning Photo Discs at Gyms",
-                    "Up to 6 Special Trades can be made during your ticketed event day",
-                    "Up to 9 daily Raid Passes per day from spinning Photo Discs at Gyms"
-                ],
-                "features": [
-                    "Hawlucha",
-                    "Honedge",
-                    "Klefki"
-                ],
-                "spawns": [
-                    "Amaura",
-                    "Bergmite",
-                    "Binacle",
-                    "Bunnelby",
-                    "Calem's Hat Pikachu",
-                    "Carbink",
-                    "Chespin",
-                    "Clauncher",
-                    "Dedenne",
-                    "Eevee",
-                    "Espurr",
-                    "Fennekin",
-                    "Fletchling",
-                    "Froakie",
-                    "Furfrou (Natural)",
-                    "Goomy",
-                    "Helioptile",
-                    "Inkay",
-                    "Litleo",
-                    "Noibat",
-                    "Orange Flower Flabébé",
-                    "Pancham",
-                    "Phantump",
-                    "Pumpkaboo",
-                    "Serena's Hat Pikachu",
-                    "Skiddo",
-                    "Skrelp",
-                    "Spritzee",
-                    "Swirlix",
-                    "Tyrunt",
-                    "Unown A",
-                    "Unown X",
-                    "Unown Y",
-                    "Unown Z",
-                    "White Flower Flabébé"
-                ],
-                "eggs": [
-                    "Bagon",
-                    "Beldum",
-                    "Blue Flower Flabébé",
-                    "Gible",
-                    "Hawlucha",
-                    "Heracross",
-                    "Kangaskhan",
-                    "Klefki",
-                    "Larvitar",
-                    "Orange Flower Flabébé",
-                    "Red Flower Flabébé",
-                    "White Flower Flabébé",
-                    "Yellow Flower Flabébé"
-                ],
-                "raids": [
-                    "Honedge",
-                    "Mega Absol",
-                    "Mega Gardevoir",
-                    "Mega Gyarados",
-                    "Mega Lucario",
-                    "Xerneas",
-                    "Yveltal"
-                ],
-                "research": [
-                    "Furfrou (Debutante)",
-                    "Furfrou (Heart)",
-                    "Furfrou (Kabuki)",
-                    "Furfrou (La Reine)",
-                    "Furfrou (Pharaoh)",
-                    "Furfrou (Star)"
-                ],
-                "shiny": [
-                    "Hawlucha",
-                    "Honedge",
-                    "Klefki"
-                ]
-            },
-            "is_local_time": false,
-            "start_time": 1771549200,
-            "end_time": 1771750800,
-            "description": "Location: Tainan Metropolitan Park, Tainan, Taiwan\nDates: February 20–22, 2026\nTime: 9:00 a.m. – 5:00 p.m. GMT+8\nTicket Price: NT $733 (Early Bird, regular $818) – Early Bird Discount available through December 31\nExperience an exclusive in-person Pokémon GO event in Tainan! Inspired by a place where dreams and adventures begin, Pokémon GO Tour is bringing the Kalos region to life in Tainan. Embark on a journey of beauty and bonds as you collect Pokémon, discover legendary stories, and experience the community of Pokémon GO in-person.\nAll event gameplay is exclusive to ticket holders. You will only be able to experience the event gameplay within Tainan Metropolitan Park during the date and time noted on your event ticket.\nOther Event Locations:\n- Los Angeles\n- Tainan (this page)\n- Global\nBuy tickets: Pokémon GO Tour Website"
+            "category": "Pokémon GO Tour"
         },
         {
             "title": "Mega Night at Pokémon GO Tour: Kalos - Tainan 2026",
             "article_url": "https://leekduck.com/events/mega-night-pokemon-go-tour-kalos-tainan-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-20-mega-night-pokemon-go-tour-kalos-tainan-2026/mega-night-pokemon-go-tour-kalos-tainan-2026.jpg",
-            "category": "Pokémon GO Tour",
-            "details": {
-                "bonuses": [
-                    "2× Candy for catching Pokémon",
-                    "Additional 5,000 XP from completed raids",
-                    "Chance of Mega Energy from spinning PokéStops and Photo Discs at Gyms"
-                ],
-                "spawns": [
-                    "Bagon",
-                    "Carbink",
-                    "Charizard",
-                    "Charmander",
-                    "Garchomp",
-                    "Gible",
-                    "Goomy",
-                    "Mareep",
-                    "Noibat",
-                    "Skrelp",
-                    "Swablu",
-                    "Treecko",
-                    "Tyrunt"
-                ],
-                "raids": [
-                    "Mega Altaria",
-                    "Mega Ampharos",
-                    "Mega Charizard X",
-                    "Mega Garchomp",
-                    "Mega Salamence",
-                    "Mega Sceptile"
-                ]
-            },
-            "is_local_time": false,
-            "start_time": 1771578000,
-            "end_time": 1771758000,
-            "description": "Location: Tainan Metropolitan Park, Tainan, Taiwan\nDates: February 20, 21, 22, 2026\nTime: 5:00 p.m. – 7:00 p.m. GMT+8\nTicket Price: NT$529.00\nAn all-new nighttime celebration is coming to Pokémon GO Tour: Kalos!\nAttendees may purchase this ticket as an addition to their primary Pokémon GO Tour: Kalos – Tainan ticket. Add-on tickets are NT$529.00 (or the equivalent pricing tier in your local currency, plus any applicable taxes and fees) and are available for purchase on the Pokémon GO Tour website. Event gameplay will be available only at the date, time, and location specified on your ticket.\nNote: Tickets to this event are nonrefundable (subject to applicable law and the exceptions set forth in the Terms of Service). Tickets are first come, first served and are available for purchase while supplies last.\n- Pokémon GO Tour: Kalos - Tainan 2026\nIt’s a night of fun, friends, and Pokémon adventures!\nFor the first time ever, we’re excited to offer a new nighttime event experience at Pokémon GO Tour, available to purchase as an add-on to your main event ticket. Mega Night is a ticketed evening event, taking place after the main daytime Pokémon GO Tour event.\nLook forward to unique gameplay, special entertainment and more during this “after hours” extravaganza!\nAll event gameplay is exclusive to Mega Night ticket holders.\nPlease note: You will only be able to experience the event gameplay within Tainan Metropolitan Park during the date and time noted on your add-on ticket."
+            "category": "Pokémon GO Tour"
         },
         {
             "title": "Pokémon GO Tour: Kalos - Los Angeles 2026",
             "article_url": "https://leekduck.com/events/pokemon-go-tour-kalos-los-angeles-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-20-pokemon-go-tour-kalos-los-angeles-2026/pokemon-go-tour-kalos-los-angeles-2026.jpg",
-            "category": "Pokémon GO Tour",
-            "details": {
-                "bonuses": [
-                    "1/2 Hatch Distance for Eggs placed in Incubators during the event",
-                    "1/2 Stardust cost for trades",
-                    "1/4 Egg Hatch Distance*",
-                    "3 additional Candy XL for catching Pokémon in five-star and Mega raids (Trainers level 31+)",
-                    "3× Hatch Candy",
-                    "3× Hatch Stardust",
-                    "3× Hatch XP",
-                    "5,000 additional XP awarded for completed raids",
-                    "6 additional Candy for catching Pokémon in five-star and Mega raids",
-                    "Increased chance of 10 km Eggs from spinning PokéStops and Photo Discs at Gyms",
-                    "Increased chance of encountering Shiny Pokémon",
-                    "Up to 18 daily Raid Passes per day from spinning Photo Discs at Gyms",
-                    "Up to 6 Special Trades can be made during your ticketed event day",
-                    "Up to 9 daily Raid Passes per day from spinning Photo Discs at Gyms"
-                ],
-                "features": [
-                    "Hawlucha",
-                    "Honedge",
-                    "Klefki"
-                ],
-                "spawns": [
-                    "Amaura",
-                    "Bergmite",
-                    "Binacle",
-                    "Bunnelby",
-                    "Calem's Hat Pikachu",
-                    "Carbink",
-                    "Chespin",
-                    "Clauncher",
-                    "Dedenne",
-                    "Eevee",
-                    "Espurr",
-                    "Fennekin",
-                    "Fletchling",
-                    "Froakie",
-                    "Furfrou (Natural)",
-                    "Goomy",
-                    "Helioptile",
-                    "Inkay",
-                    "Litleo",
-                    "Noibat",
-                    "Orange Flower Flabébé",
-                    "Pancham",
-                    "Phantump",
-                    "Pumpkaboo",
-                    "Serena's Hat Pikachu",
-                    "Skiddo",
-                    "Skrelp",
-                    "Spritzee",
-                    "Swirlix",
-                    "Tyrunt",
-                    "Unown A",
-                    "Unown X",
-                    "Unown Y",
-                    "Unown Z",
-                    "White Flower Flabébé"
-                ],
-                "eggs": [
-                    "Bagon",
-                    "Beldum",
-                    "Blue Flower Flabébé",
-                    "Gible",
-                    "Hawlucha",
-                    "Heracross",
-                    "Kangaskhan",
-                    "Klefki",
-                    "Larvitar",
-                    "Orange Flower Flabébé",
-                    "Red Flower Flabébé",
-                    "White Flower Flabébé",
-                    "Yellow Flower Flabébé"
-                ],
-                "raids": [
-                    "Honedge",
-                    "Mega Absol",
-                    "Mega Gardevoir",
-                    "Mega Gyarados",
-                    "Mega Lucario",
-                    "Xerneas",
-                    "Yveltal"
-                ],
-                "research": [
-                    "Furfrou (Diamond)",
-                    "Furfrou (Heart)",
-                    "Furfrou (Kabuki)",
-                    "Furfrou (La Reine)",
-                    "Furfrou (Pharaoh)",
-                    "Furfrou (Star)"
-                ],
-                "shiny": [
-                    "Hawlucha",
-                    "Honedge",
-                    "Klefki"
-                ]
-            },
-            "is_local_time": false,
-            "start_time": 1771606800,
-            "end_time": 1771808400,
-            "description": "Location: Rose Bowl Stadium, Los Angeles, United States\nDates: February 20–22, 2026\nTime: 9:00 a.m. – 5:00 p.m. PST\nTicket Price: US $30.00 (Early Bird $25.00 through December 31) – Early Bird Discount available through December 31\nExperience an exclusive in-person Pokémon GO event in Los Angeles! Inspired by a place where dreams and adventures begin, Pokémon GO Tour is bringing the Kalos region to life in Los Angeles. Embark on a journey of beauty and bonds as you collect Pokémon, discover legendary stories, and experience the community of Pokémon GO in-person.\nAll event gameplay is exclusive to ticket holders. You will only be able to experience the event gameplay within Rose Bowl Stadium during the date and time noted on your event ticket.\nOther Event Locations:\n- Los Angeles (this page)\n- Tainan\n- Global\nBuy tickets: Pokémon GO Tour Website\nPrice:\n- Regular: US $30.00\n- Early Bird Special: US $25.00 (through December 31)\nNote:\n- Tickets are US $30.00 (or the equivalent pricing tier in your local currency, plus any applicable taxes and fees)\n- Event gameplay is EXCLUSIVE to ticket holders\n- Event gameplay only available within Rose Bowl Stadium during specified date and time\n- Tickets are nonrefundable (subject to applicable law)\n- First come, first served while supplies last\nTickets include one day of event gameplay. Attendees may purchase add-ons that extend citywide gameplay for an additional day."
+            "category": "Pokémon GO Tour"
         },
         {
             "title": "Mega Night at Pokémon GO Tour: Kalos - Los Angeles 2026",
             "article_url": "https://leekduck.com/events/mega-night-pokemon-go-tour-kalos-los-angeles-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-20-mega-night-pokemon-go-tour-kalos-los-angeles-2026/mega-night-pokemon-go-tour-kalos-los-angeles-2026.jpg",
-            "category": "Pokémon GO Tour",
-            "details": {
-                "bonuses": [
-                    "2× Candy for catching Pokémon",
-                    "Additional 5,000 XP from completed raids",
-                    "Chance of Mega Energy from spinning PokéStops and Photo Discs at Gyms"
-                ],
-                "spawns": [
-                    "Bagon",
-                    "Carbink",
-                    "Charizard",
-                    "Charmander",
-                    "Garchomp",
-                    "Gible",
-                    "Goomy",
-                    "Mareep",
-                    "Noibat",
-                    "Skrelp",
-                    "Swablu",
-                    "Treecko",
-                    "Tyrunt"
-                ],
-                "raids": [
-                    "Mega Altaria",
-                    "Mega Ampharos",
-                    "Mega Charizard X",
-                    "Mega Garchomp",
-                    "Mega Salamence",
-                    "Mega Sceptile"
-                ]
-            },
-            "is_local_time": false,
-            "start_time": 1771639200,
-            "end_time": 1771819200,
-            "description": "Location: Rose Bowl Stadium and Brookside Golf Course, Los Angeles, United States\nDates: February 20, 21, 22, 2026\nTime: 6:00 p.m. – 8:00 p.m. PST\nTicket Price: US $20.00\nAn all-new nighttime celebration is coming to Pokémon GO Tour: Kalos!\nAttendees may purchase this ticket as an addition to their primary Pokémon GO Tour: Kalos – Los Angeles ticket. Add-on tickets are US$20.00 (or the equivalent pricing tier in your local currency, plus any applicable taxes and fees) and are available for purchase on the Pokémon GO Tour website. Event gameplay will be available only at the date, time, and location specified on your ticket.\nNote: Tickets to this event are nonrefundable (subject to applicable law and the exceptions set forth in the Terms of Service). Tickets are first come, first served and are available for purchase while supplies last.\n- Pokémon GO Tour: Kalos - Los Angeles 2026\nIt’s a night of fun, friends, and Pokémon adventures!\nFor the first time ever, we’re excited to offer a new nighttime event experience at Pokémon GO Tour, available to purchase as an add-on to your main event ticket. Mega Night is a ticketed evening event, taking place after the main daytime Pokémon GO Tour event.\nLook forward to unique gameplay, special entertainment and more during this “after hours” extravaganza!\nAll event gameplay is exclusive to Mega Night ticket holders.\nPlease note: You will only be able to experience the event gameplay within Rose Bowl Stadium and Brookside Golf Course during the date and time noted on your add-on ticket."
+            "category": "Pokémon GO Tour"
         },
         {
             "title": "Pokémon GO Tour: Kalos - Global 2026",
             "article_url": "https://leekduck.com/events/pokemon-go-tour-kalos-global-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-28-pokemon-go-tour-kalos-global-2026/pokemon-go-tour-kalos-global-2026.jpg",
-            "category": "Pokémon GO Tour",
-            "details": {
-                "bonuses": [
-                    "1/2 Hatch Distance for Eggs placed in Incubators during the event",
-                    "1/2 Stardust cost for trades",
-                    "Increased chance of encountering Shiny Pokémon*",
-                    "Mega-Evolved Pokémon will receive a CP boost",
-                    "One GO Snapshot surprise event encounter per day—Latias may appear on Saturday and Latios may appear on Sunday!",
-                    "Up to six Special Trades per day"
-                ],
-                "features": [
-                    "Blue Flower Flabébé",
-                    "Hawlucha",
-                    "Honedge",
-                    "Klefki",
-                    "Orange Flower Flabébé",
-                    "Red Flower Flabébé",
-                    "White Flower Flabébé",
-                    "Yellow Flower Flabébé"
-                ],
-                "spawns": [
-                    "Absol",
-                    "Amaura",
-                    "Bergmite",
-                    "Binacle",
-                    "Bulbasaur",
-                    "Bunnelby",
-                    "Carbink",
-                    "Charmander",
-                    "Chespin",
-                    "Clauncher",
-                    "Dedenne",
-                    "Eevee",
-                    "Espurr",
-                    "Fennekin",
-                    "Fletchling",
-                    "Froakie",
-                    "Furfrou (Natural)",
-                    "Goomy",
-                    "Helioptile",
-                    "Inkay",
-                    "Litleo",
-                    "Mudkip",
-                    "Noibat",
-                    "Pancham",
-                    "Phantump",
-                    "Pidgey",
-                    "Pumpkaboo",
-                    "Ralts",
-                    "Scyther",
-                    "Skiddo",
-                    "Skrelp",
-                    "Spritzee",
-                    "Squirtle",
-                    "Swirlix",
-                    "Torchic",
-                    "Treecko",
-                    "Tyrunt",
-                    "Unown A",
-                    "Unown K",
-                    "Unown L",
-                    "Unown O",
-                    "Unown S"
-                ],
-                "eggs": [
-                    "Bagon",
-                    "Beldum",
-                    "Blue Flower Flabébé",
-                    "Gible",
-                    "Hawlucha",
-                    "Heracross",
-                    "Kangaskhan",
-                    "Klefki",
-                    "Larvitar",
-                    "Orange Flower Flabébé",
-                    "Red Flower Flabébé",
-                    "White Flower Flabébé",
-                    "Yellow Flower Flabébé"
-                ],
-                "raids": [
-                    "Calem's Hat Pikachu",
-                    "Honedge",
-                    "Mega Absol",
-                    "Mega Blastoise",
-                    "Mega Blaziken",
-                    "Mega Charizard X",
-                    "Mega Charizard Y",
-                    "Mega Gallade",
-                    "Mega Garchomp",
-                    "Mega Gardevoir",
-                    "Mega Heracross",
-                    "Mega Kangaskhan",
-                    "Mega Latias",
-                    "Mega Latios",
-                    "Mega Lucario",
-                    "Mega Metagross",
-                    "Mega Pidgeot",
-                    "Mega Salamence",
-                    "Mega Sceptile",
-                    "Mega Scizor",
-                    "Mega Swampert",
-                    "Mega Tyranitar",
-                    "Mega Venusaur",
-                    "Serena's Hat Pikachu",
-                    "Xerneas",
-                    "Yveltal"
-                ],
-                "research": [
-                    "Furfrou (Debutante)",
-                    "Furfrou (Diamond)",
-                    "Furfrou (Kabuki)",
-                    "Furfrou (La Reine)",
-                    "Furfrou (Pharaoh)",
-                    "Furfrou (Star)"
-                ],
-                "shiny": [
-                    "Diancie",
-                    "Hawlucha",
-                    "Honedge",
-                    "Klefki"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-28T10:00:00",
-            "end_time": "2026-03-01T18:00:00",
-            "description": "Other Event Locations:\n- Los Angeles\n- Tainan\n- Global (this page)\nBuy tickets: Pokémon GO Web Store\nJoin millions of Trainers across the globe for Pokémon GO Tour: Kalos – Global! Take part in this worldwide event inspired by the Kalos region, first featured in Pokémon X and Pokémon Y on the Nintendo 3DS.\nGet ready to experience new gameplay inspired by the stories and characters of Pokémon X and Pokémon Y. From longtime Kalos fans to new Trainers picking up Pokémon GO for the first time, anyone can take part in this exciting two-day event at no cost!\nLooking to enhance your GO Tour adventure with exclusive Special Research, additional bonuses, and an increased chance of encountering Shiny Pokémon? Purchase a global event ticket from the Pokémon GO Web Store!"
+            "category": "Pokémon GO Tour"
         }
     ],
     "Season": [
@@ -1449,103 +356,7 @@
             "title": "Precious Paths",
             "article_url": "https://leekduck.com/events/season-21-precious-paths/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-02-season-21-precious-paths/season-21-precious-paths.jpg",
-            "category": "Season",
-            "details": {
-                "bonuses": [
-                    "Increased Stardust for the first catch of the day",
-                    "Increased friendship bonus damage dealt by Pokémon in raids",
-                    "One additional Special Trade per day"
-                ],
-                "features": [
-                    "Dreepy",
-                    "Galarian Mr. Mime",
-                    "Honedge",
-                    "Lapras",
-                    "Sinistea",
-                    "Snorlax"
-                ],
-                "eggs": [
-                    "Alolan Diglett",
-                    "Alolan Geodude",
-                    "Archen",
-                    "Audino",
-                    "Beldum",
-                    "Bergmite",
-                    "Bonsly",
-                    "Bulbasaur",
-                    "Carbink",
-                    "Charcadet",
-                    "Charmander",
-                    "Chespin",
-                    "Chikorita",
-                    "Chimchar",
-                    "Cleffa",
-                    "Crabrawler",
-                    "Cyndaquil",
-                    "Drampa",
-                    "Dreepy",
-                    "Ducklett",
-                    "Elgyem",
-                    "Fennekin",
-                    "Frigibax",
-                    "Froakie",
-                    "Fuecoco",
-                    "Galarian Corsola",
-                    "Galarian Darumaka",
-                    "Galarian Meowth",
-                    "Galarian Slowpoke",
-                    "Galarian Stunfisk",
-                    "Galarian Zigzagoon",
-                    "Gible",
-                    "Grookey",
-                    "Hisuian Growlithe",
-                    "Hisuian Sneasel",
-                    "Honedge",
-                    "Igglybuff",
-                    "Indeedee (Female)",
-                    "Indeedee (Male)",
-                    "Inkay",
-                    "Jangmo-o",
-                    "Komala",
-                    "Litleo",
-                    "Litten",
-                    "Meditite",
-                    "Mudkip",
-                    "Munchlax",
-                    "Oshawott",
-                    "Pawniard",
-                    "Petilil",
-                    "Piplup",
-                    "Popplio",
-                    "Quaxly",
-                    "Riolu",
-                    "Rowlet",
-                    "Scorbunny",
-                    "Skarmory",
-                    "Smoliv",
-                    "Smoochum",
-                    "Snivy",
-                    "Snom",
-                    "Sobble",
-                    "Sprigatito",
-                    "Squirtle",
-                    "Tepig",
-                    "Tinkatink",
-                    "Tirtouga",
-                    "Togedemaru",
-                    "Torchic",
-                    "Totodile",
-                    "Toxel",
-                    "Treecko",
-                    "Turtonator",
-                    "Turtwig",
-                    "Wimpod"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-02T10:00:00",
-            "end_time": "2026-03-03T10:00:00",
-            "description": "Welcome to the next Pokémon GO Season: Precious Paths!"
+            "category": "Season"
         }
     ]
 }

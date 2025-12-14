@@ -2567,6 +2567,75 @@
                     "Sigilyph"
                 ]
             }
+        },
+        {
+            "title": "Sydney, Australia - Pokémon GO City Safari",
+            "article_url": "https://leekduck.com/events/pokemon-go-city-safari-sydney-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-13-pokemon-go-city-safari-sydney-2025/city-safari-sydney-2025.jpg?v2",
+            "category": "City Safari",
+            "details": {
+                "bonuses": [
+                    "1 additional Candy XL awarded for catching Pokémon in five-star raids and Mega Raids (Trainers level 31+)",
+                    "1/2 Egg Hatch Distance",
+                    "1/2 Stardust Cost for trades within the city",
+                    "2× Hatch Candy",
+                    "2× Hatch Stardust",
+                    "2× Hatch XP",
+                    "3 additional Candy awarded for catching Pokémon in five-star raids and Mega Raids",
+                    "Additional 5,000 XP from completed raids",
+                    "An increased chance of encountering Shiny Pokémon",
+                    "Lure Modules (excluding Golden Lures) activated during the event will last for four hours",
+                    "Lure Modules activated during the event will last for four hours",
+                    "Trades will require 50% less Stardust",
+                    "Up to 12 free Raid Passes per day by spinning Photo Discs at Gyms",
+                    "Up to five Special Trades can be made during the day on your ticket while in Sydney!",
+                    "Up to five Special Trades daily within the city",
+                    "Your buddy may find the City Safari–exclusive Tiny Compass souvenir"
+                ],
+                "features": [
+                    "Explorer Eevee",
+                    "Explorer Espeon",
+                    "Explorer Flareon",
+                    "Explorer Glaceon",
+                    "Explorer Jolteon",
+                    "Explorer Leafeon",
+                    "Explorer Umbreon",
+                    "Explorer Vaporeon"
+                ],
+                "spawns": [
+                    "Amaura",
+                    "Bruxish",
+                    "Emolga",
+                    "Fomantis",
+                    "Gossifleur",
+                    "Komala",
+                    "Kricketot",
+                    "Litwick",
+                    "Mareanie",
+                    "Mudbray",
+                    "Oricorio (Baile Style)",
+                    "Pawniard",
+                    "Scraggy",
+                    "Shuckle",
+                    "Skarmory",
+                    "Skrelp",
+                    "Timburr",
+                    "Trapinch",
+                    "Unown B",
+                    "Unown M",
+                    "Unown S"
+                ],
+                "eggs": [
+                    "Komala",
+                    "Mudbray",
+                    "Oricorio (Baile Style)",
+                    "Pawniard"
+                ]
+            },
+            "is_local_time": false,
+            "start_time": 1765580400,
+            "end_time": 1765695600,
+            "description": "Pokémon GO City Safari is coming to Sydney, Australia, on December 13 and 14, 2025! Set off on a citywide adventure as you discover the vibrant stories, new friends, and exciting Pokémon waiting for you in Sydney!\nWhether you’re a resident of Sydney or a first-time visitor, your Pokémon GO City Safari will take you across the city in an all-new way—from historic landmarks to local favorites, get ready for a taste of the city with Pokémon GO by your side!\nOne-day Tickets are AU$19 (including any applicable taxes and fees) on either December 13, 2025 or December 14, 2025, from 10 am to 6 pm AEDT."
         }
     ],
     "GO Pass": [
