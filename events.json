@@ -276,7 +276,7 @@
             "article_url": "https://leekduck.com/events/pokemon-showcase-clobbopus-grapploct/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
             "category": "PokéStop Showcase",
-            "error": "ConnectionError: ReadTimeoutError"
+            "error": "TimeoutException"
         }
     ],
     "Max Mondays": [
