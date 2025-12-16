@@ -1,168 +1,170 @@
 {
     "Tier 1": [
         {
-            "name": "Geodude",
+            "name": "Machop",
             "tier": 1,
             "shiny_available": true,
             "cp_range": {
-                "min": 688,
-                "max": 739
+                "min": 678,
+                "max": 730
             },
             "boosted_cp_range": {
-                "min": 860,
-                "max": 923
+                "min": 848,
+                "max": 913
             },
             "types": [
-                "Rock",
-                "Ground"
+                "Fighting"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm74.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm66.icon.png"
         },
         {
-            "name": "Aipom",
+            "name": "Shuckle",
             "tier": 1,
             "shiny_available": true,
             "cp_range": {
-                "min": 718,
-                "max": 770
+                "min": 189,
+                "max": 231
             },
             "boosted_cp_range": {
-                "min": 898,
-                "max": 963
+                "min": 236,
+                "max": 289
             },
             "types": [
-                "Normal"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm190.icon.png"
-        },
-        {
-            "name": "Aron",
-            "tier": 1,
-            "shiny_available": true,
-            "cp_range": {
-                "min": 696,
-                "max": 747
-            },
-            "boosted_cp_range": {
-                "min": 870,
-                "max": 934
-            },
-            "types": [
-                "Steel",
+                "Bug",
                 "Rock"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm304.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm213.icon.png"
         },
         {
-            "name": "Gulpin",
+            "name": "Meditite",
             "tier": 1,
             "shiny_available": true,
             "cp_range": {
-                "min": 452,
-                "max": 495
+                "min": 359,
+                "max": 396
             },
             "boosted_cp_range": {
-                "min": 565,
-                "max": 618
+                "min": 449,
+                "max": 495
             },
             "types": [
-                "Poison"
+                "Fighting",
+                "Psychic"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm316.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm307.icon.png"
+        },
+        {
+            "name": "Scraggy",
+            "tier": 1,
+            "shiny_available": true,
+            "cp_range": {
+                "min": 732,
+                "max": 784
+            },
+            "boosted_cp_range": {
+                "min": 915,
+                "max": 980
+            },
+            "types": [
+                "Dark",
+                "Fighting"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm559.icon.png"
         }
     ],
     "Tier 3": [
         {
-            "name": "Sandslash",
+            "name": "Rhydon",
             "tier": 3,
             "shiny_available": false,
             "cp_range": {
-                "min": 1288,
-                "max": 1356
+                "min": 1736,
+                "max": 1816
             },
             "boosted_cp_range": {
-                "min": 1610,
-                "max": 1696
+                "min": 2170,
+                "max": 2270
             },
             "types": [
-                "Ground"
+                "Ground",
+                "Rock"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm28.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm112.icon.png"
         },
         {
-            "name": "Clefable",
+            "name": "Hariyama",
             "tier": 3,
             "shiny_available": false,
             "cp_range": {
-                "min": 1322,
-                "max": 1392
+                "min": 1537,
+                "max": 1616
             },
             "boosted_cp_range": {
-                "min": 1653,
-                "max": 1741
+                "min": 1921,
+                "max": 2020
             },
             "types": [
-                "Fairy"
+                "Fighting"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm36.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm297.icon.png"
         },
         {
-            "name": "Bronzong",
+            "name": "Crustle",
             "tier": 3,
             "shiny_available": false,
             "cp_range": {
-                "min": 1212,
-                "max": 1279
+                "min": 1381,
+                "max": 1452
             },
             "boosted_cp_range": {
-                "min": 1515,
-                "max": 1599
+                "min": 1726,
+                "max": 1815
             },
             "types": [
-                "Steel",
-                "Psychic"
+                "Bug",
+                "Rock"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm437.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm558.icon.png"
         }
     ],
     "Tier 5": [
         {
-            "name": "Kyurem",
+            "name": "Reshiram",
             "tier": 5,
             "shiny_available": true,
             "cp_range": {
-                "min": 1957,
-                "max": 2042
+                "min": 2217,
+                "max": 2307
             },
             "boosted_cp_range": {
-                "min": 2446,
-                "max": 2553
+                "min": 2771,
+                "max": 2884
             },
             "types": [
                 "Dragon",
-                "Ice"
+                "Fire"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_11.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm643.icon.png"
         }
     ],
     "Mega": [
         {
-            "name": "Mega Gyarados",
+            "name": "Mega Abomasnow",
             "tier": "Mega",
             "shiny_available": true,
             "cp_range": {
-                "min": 1855,
-                "max": 1937
+                "min": 1281,
+                "max": 1349
             },
             "boosted_cp_range": {
-                "min": 2319,
-                "max": 2422
+                "min": 1601,
+                "max": 1687
             },
             "types": [
-                "Water",
-                "Dark"
+                "Grass",
+                "Ice"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm130.fMEGA.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm460.fMEGA.icon.png"
         }
     ],
     "Shadow Tier 1": [

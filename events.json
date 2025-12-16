@@ -1,39 +1,4 @@
 {
-    "Max Mondays": [
-        {
-            "title": "Dynamax Kabuto during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-12-15/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-15T18:00:00",
-            "end_time": "2025-12-15T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 15, 2025, the featured Dynamax Pokémon is Kabuto.\n- Kabuto"
-        },
-        {
-            "title": "Dynamax Spheal during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-12-22/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-22T18:00:00",
-            "end_time": "2025-12-22T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 22, 2025, the featured Dynamax Pokémon is Spheal.\n- Spheal"
-        },
-        {
-            "title": "Dynamax Omanyte during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-12-29/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-29T18:00:00",
-            "end_time": "2025-12-29T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 29, 2025, the featured Dynamax Pokémon is Omanyte.\n- Omanyte"
-        }
-    ],
     "GO Battle League": [
         {
             "title": "Ultra League and Scroll Cup: Great League Edition | Precious Paths",
@@ -599,6 +564,30 @@
             "start_time": "2025-12-02T06:00:00",
             "end_time": "2026-01-01T22:00:00",
             "description": "Shadow Heatran will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Heatran!\nShadow Heatran will appear in five-star Shadow Raids every weekend from December 2 to January 1:\n- December 6 - December 7\n- December 13 - December 14\n- December 20 - December 21\n- December 27 - December 28"
+        }
+    ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Spheal during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-12-22/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-22T18:00:00",
+            "end_time": "2025-12-22T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 22, 2025, the featured Dynamax Pokémon is Spheal.\n- Spheal"
+        },
+        {
+            "title": "Dynamax Omanyte during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-12-29/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-29T18:00:00",
+            "end_time": "2025-12-29T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 29, 2025, the featured Dynamax Pokémon is Omanyte.\n- Omanyte"
         }
     ],
     "GO Pass": [
