@@ -1,284 +1,4 @@
 {
-    "City Safari": [
-        {
-            "title": "Sydney, Australia - Pokémon GO City Safari",
-            "article_url": "https://leekduck.com/events/pokemon-go-city-safari-sydney-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-13-pokemon-go-city-safari-sydney-2025/city-safari-sydney-2025.jpg?v2",
-            "category": "City Safari",
-            "details": {
-                "bonuses": [
-                    "1 additional Candy XL awarded for catching Pokémon in five-star raids and Mega Raids (Trainers level 31+)",
-                    "1/2 Egg Hatch Distance",
-                    "1/2 Stardust Cost for trades within the city",
-                    "2× Hatch Candy",
-                    "2× Hatch Stardust",
-                    "2× Hatch XP",
-                    "3 additional Candy awarded for catching Pokémon in five-star raids and Mega Raids",
-                    "Additional 5,000 XP from completed raids",
-                    "An increased chance of encountering Shiny Pokémon",
-                    "Lure Modules (excluding Golden Lures) activated during the event will last for four hours",
-                    "Lure Modules activated during the event will last for four hours",
-                    "Trades will require 50% less Stardust",
-                    "Up to 12 free Raid Passes per day by spinning Photo Discs at Gyms",
-                    "Up to five Special Trades can be made during the day on your ticket while in Sydney!",
-                    "Up to five Special Trades daily within the city",
-                    "Your buddy may find the City Safari–exclusive Tiny Compass souvenir"
-                ],
-                "features": [
-                    "Explorer Eevee",
-                    "Explorer Espeon",
-                    "Explorer Flareon",
-                    "Explorer Glaceon",
-                    "Explorer Jolteon",
-                    "Explorer Leafeon",
-                    "Explorer Umbreon",
-                    "Explorer Vaporeon"
-                ],
-                "spawns": [
-                    "Amaura",
-                    "Bruxish",
-                    "Emolga",
-                    "Fomantis",
-                    "Gossifleur",
-                    "Komala",
-                    "Kricketot",
-                    "Litwick",
-                    "Mareanie",
-                    "Mudbray",
-                    "Oricorio (Baile Style)",
-                    "Pawniard",
-                    "Scraggy",
-                    "Shuckle",
-                    "Skarmory",
-                    "Skrelp",
-                    "Timburr",
-                    "Trapinch",
-                    "Unown B",
-                    "Unown M",
-                    "Unown S"
-                ],
-                "eggs": [
-                    "Komala",
-                    "Mudbray",
-                    "Oricorio (Baile Style)",
-                    "Pawniard"
-                ]
-            },
-            "is_local_time": false,
-            "start_time": 1765580400,
-            "end_time": 1765695600,
-            "description": "Pokémon GO City Safari is coming to Sydney, Australia, on December 13 and 14, 2025! Set off on a citywide adventure as you discover the vibrant stories, new friends, and exciting Pokémon waiting for you in Sydney!\nWhether you’re a resident of Sydney or a first-time visitor, your Pokémon GO City Safari will take you across the city in an all-new way—from historic landmarks to local favorites, get ready for a taste of the city with Pokémon GO by your side!\nOne-day Tickets are AU$19 (including any applicable taxes and fees) on either December 13, 2025 or December 14, 2025, from 10 am to 6 pm AEDT."
-        },
-        {
-            "title": "Buenos Aires, Argentina - Pokémon GO City Safari",
-            "article_url": "https://leekduck.com/events/pokemon-go-city-safari-buenos-aires-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-13-pokemon-go-city-safari-buenos-aires-2025/city-safari-buenos-aires-2025.jpg?v2",
-            "category": "City Safari",
-            "details": {
-                "bonuses": [
-                    "1 additional Candy XL awarded for catching Pokémon in five-star raids and Mega Raids (Trainers level 31+)",
-                    "1/2 Egg Hatch Distance",
-                    "1/2 Stardust Cost for trades within the city",
-                    "2× Hatch Candy",
-                    "2× Hatch Stardust",
-                    "2× Hatch XP",
-                    "3 additional Candy awarded for catching Pokémon in five-star raids and Mega Raids",
-                    "Additional 5,000 XP from completed raids",
-                    "An increased chance of encountering Shiny Pokémon",
-                    "Lure Modules (excluding Golden Lures) activated during the event will last for four hours",
-                    "Lure Modules activated during the event will last for four hours",
-                    "Trades will require 50% less Stardust",
-                    "Up to 12 free Raid Passes per day by spinning Photo Discs at Gyms",
-                    "Up to five Special Trades can be made during the day on your ticket while in Buenos Aires!",
-                    "Up to five Special Trades daily within the city",
-                    "Your buddy may find the City Safari–exclusive Tiny Compass souvenir"
-                ],
-                "features": [
-                    "Explorer Eevee",
-                    "Explorer Espeon",
-                    "Explorer Flareon",
-                    "Explorer Glaceon",
-                    "Explorer Jolteon",
-                    "Explorer Leafeon",
-                    "Explorer Umbreon",
-                    "Explorer Vaporeon"
-                ],
-                "spawns": [
-                    "Amaura",
-                    "Bruxish",
-                    "Emolga",
-                    "Fomantis",
-                    "Gossifleur",
-                    "Komala",
-                    "Kricketot",
-                    "Litwick",
-                    "Mareanie",
-                    "Mudbray",
-                    "Oricorio (Baile Style)",
-                    "Pawniard",
-                    "Scraggy",
-                    "Shuckle",
-                    "Skarmory",
-                    "Skrelp",
-                    "Timburr",
-                    "Trapinch",
-                    "Unown B",
-                    "Unown M",
-                    "Unown S"
-                ],
-                "eggs": [
-                    "Komala",
-                    "Mudbray",
-                    "Oricorio (Baile Style)",
-                    "Pawniard"
-                ]
-            },
-            "is_local_time": false,
-            "start_time": 1765630800,
-            "end_time": 1765746000,
-            "description": "Pokémon GO City Safari is coming to Buenos Aires, Argentina, on December 13 and 14, 2025! Set off on a citywide adventure as you discover the vibrant stories, new friends, and exciting Pokémon waiting for you in Buenos Aires!\nWhether you’re a resident of Buenos Aires or a first-time visitor, your Pokémon GO City Safari will take you across the city in an all-new way—from historic landmarks to local favorites, get ready for a taste of the city with Pokémon GO by your side!\nOne-day Tickets are ARS$13,000 (including any applicable taxes and fees) on either December 13, 2025 or December 14, 2025, from 10 am to 6 pm ART."
-        },
-        {
-            "title": "Miami, USA - Pokémon GO City Safari",
-            "article_url": "https://leekduck.com/events/pokemon-go-city-safari-miami-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-13-pokemon-go-city-safari-miami-2025/city-safari-miami-2025.jpg?v2",
-            "category": "City Safari",
-            "details": {
-                "bonuses": [
-                    "1 additional Candy XL awarded for catching Pokémon in five-star raids and Mega Raids (Trainers level 31+)",
-                    "1/2 Egg Hatch Distance",
-                    "1/2 Stardust Cost for trades within the city",
-                    "2× Hatch Candy",
-                    "2× Hatch Stardust",
-                    "2× Hatch XP",
-                    "3 additional Candy awarded for catching Pokémon in five-star raids and Mega Raids",
-                    "Additional 5,000 XP from completed raids",
-                    "An increased chance of encountering Shiny Pokémon",
-                    "Lure Modules (excluding Golden Lures) activated during the event will last for four hours",
-                    "Lure Modules activated during the event will last for four hours",
-                    "Trades will require 50% less Stardust",
-                    "Up to 12 free Raid Passes per day by spinning Photo Discs at Gyms",
-                    "Up to five Special Trades can be made during the day on your ticket while in Miami!",
-                    "Up to five Special Trades daily within the city",
-                    "Your buddy may find the City Safari–exclusive Tiny Compass souvenir"
-                ],
-                "features": [
-                    "Explorer Eevee",
-                    "Explorer Espeon",
-                    "Explorer Flareon",
-                    "Explorer Glaceon",
-                    "Explorer Jolteon",
-                    "Explorer Leafeon",
-                    "Explorer Umbreon",
-                    "Explorer Vaporeon"
-                ],
-                "spawns": [
-                    "Amaura",
-                    "Bruxish",
-                    "Emolga",
-                    "Fomantis",
-                    "Gossifleur",
-                    "Komala",
-                    "Kricketot",
-                    "Litwick",
-                    "Mareanie",
-                    "Mudbray",
-                    "Oricorio (Baile Style)",
-                    "Pawniard",
-                    "Scraggy",
-                    "Shuckle",
-                    "Skarmory",
-                    "Skrelp",
-                    "Timburr",
-                    "Trapinch",
-                    "Unown B",
-                    "Unown M",
-                    "Unown S"
-                ],
-                "eggs": [
-                    "Komala",
-                    "Mudbray",
-                    "Oricorio (Baile Style)",
-                    "Pawniard"
-                ]
-            },
-            "is_local_time": false,
-            "start_time": 1765638000,
-            "end_time": 1765753200,
-            "description": "Pokémon GO City Safari is coming to Miami, USA, on December 13 and 14, 2025! Set off on a citywide adventure as you discover the vibrant stories, new friends, and exciting Pokémon waiting for you in Miami!\nWhether you’re a resident of Miami or a first-time visitor, your Pokémon GO City Safari will take you across the city in an all-new way—from historic landmarks to local favorites, get ready for a taste of the city with Pokémon GO by your side!\nOne-day Tickets are $10 (including any applicable taxes and fees) on either December 13, 2025 or December 14, 2025, from 10 am to 6 pm EST."
-        }
-    ],
-    "Max Battles": [
-        {
-            "title": "Gigantamax Snorlax Max Battle Day",
-            "article_url": "https://leekduck.com/events/gigantamax-snorlax-max-battle-day-december-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-14-gigantamax-snorlax-max-battle-day-december-2025/gigantamax-snorlax-december-2025.jpg",
-            "category": "Max Battles",
-            "details": {
-                "bonuses": [
-                    "1/4 adventuring distance to receive Max Particles*",
-                    "2× Max Particles from exploring*",
-                    "2× XP from Max Battles",
-                    "8× Max Particles from Power Spots",
-                    "All Power Spots will host Gigantamax Battles",
-                    "From December 13 at 5:00 p.m. to December 14 at 8:00 p.m. PST (GMT −8), the daily Remote Raid limit will increase from 10 to 20",
-                    "Max Particle collection limit increased to 1,600",
-                    "Max Particle collection limit increased to 5,600",
-                    "Power Spots will refresh more frequently",
-                    "Two additional Special Trades"
-                ],
-                "features": [
-                    "Gigantamax Snorlax"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-14T14:00:00",
-            "end_time": "2025-12-14T17:00:00",
-            "description": "Gigantamax Snorlax returns for an end-of-year Max Battle Day!"
-        },
-        {
-            "title": "Max Battle Weekend",
-            "article_url": "https://leekduck.com/events/max-battle-weekend-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Max Battles",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-31T06:00:00",
-            "end_time": "2026-02-01T21:00:00",
-            "description": "The Max Battle Weekend event will take place from January 31, 2026 at 6 am to February 1, 2026 at 9 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Max Battle Day",
-            "article_url": "https://leekduck.com/events/max-battle-day-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Max Battles",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-15T14:00:00",
-            "end_time": "2026-02-15T17:00:00",
-            "description": "The Max Battle Day event will take place on February 15, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        }
-    ],
-    "PokéStop Showcase": [
-        {
-            "title": "Hitmonchan, Hitmonlee, and Snorlax PokéStop Showcases",
-            "article_url": "https://leekduck.com/events/pokemon-showcase-hitmonchan-hitmonlee-snorlax/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-13T10:00:00",
-            "end_time": "2025-12-14T20:00:00",
-            "description": "There will be PokéStop Showcases featuring Hitmonchan, Hitmonlee, and Snorlax. Top the leaderboard to win rewards including Premium Items!\n- Hitmonlee\n- Hitmonchan\n- Snorlax"
-        },
-        {
-            "title": "Clobbopus and Grapploct PokéStop Showcases",
-            "article_url": "https://leekduck.com/events/pokemon-showcase-clobbopus-grapploct/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "error": "TimeoutException"
-        }
-    ],
     "Max Mondays": [
         {
             "title": "Dynamax Kabuto during Max Monday",
@@ -666,13 +386,37 @@
         {
             "title": "New Year's 2026",
             "article_url": "https://leekduck.com/events/new-years-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-31-new-years-2026/new-years-2026.jpg",
             "category": "Event",
-            "details": {},
+            "details": {
+                "bonuses": [
+                    "2× Stardust from Raid Battles",
+                    "2× XP from Raid Battles",
+                    "Increased chance to encounter Shiny Party Top Hat Pikachu",
+                    "One additional Raid Pass per day from spinning Photo Discs at Gyms (for a daily total of two)"
+                ],
+                "spawns": [
+                    "New Years Hat Hoothoot",
+                    "Party Hat Bulbasaur",
+                    "Party Top Hat Pikachu",
+                    "Ribbon Jigglypuff"
+                ],
+                "raids": [
+                    "Gengar",
+                    "Nidorino",
+                    "Party Hat Wobbuffet",
+                    "Party Hat Wurmple",
+                    "Party Top Hat Pikachu",
+                    "Raticate"
+                ],
+                "shiny": [
+                    "Party Top Hat Pikachu"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2025-12-31T10:00:00",
             "end_time": "2026-01-04T20:00:00",
-            "description": "The New Year’s 2026 event will take place from December 31, 2025 at 10 am to January 4, 2026 at 8 pm. Stay tuned for more details."
+            "description": "Ring in 2026 with Pokémon GO’s New Year’s event!"
         },
         {
             "title": "Catch Mastery Day",
@@ -719,6 +463,19 @@
             "start_time": "2025-12-31T18:00:00",
             "end_time": "2025-12-31T19:00:00",
             "description": "A Raid Hour featuring Blacephalon is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        }
+    ],
+    "PokéStop Showcase": [
+        {
+            "title": "Clobbopus and Grapploct PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-clobbopus-grapploct/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-15T10:00:00",
+            "end_time": "2025-12-17T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Clobbopus and Grapploct. Top the leaderboard to win rewards including Premium Items!\n- Clobbopus\n- Grapploct"
         }
     ],
     "Research": [
@@ -1000,6 +757,30 @@
             "start_time": "2026-02-14T14:00:00",
             "end_time": "2026-02-14T17:00:00",
             "description": "The Raid Day event will take place on February 14, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        }
+    ],
+    "Max Battles": [
+        {
+            "title": "Max Battle Weekend",
+            "article_url": "https://leekduck.com/events/max-battle-weekend-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Max Battles",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-31T06:00:00",
+            "end_time": "2026-02-01T21:00:00",
+            "description": "The Max Battle Weekend event will take place from January 31, 2026 at 6 am to February 1, 2026 at 9 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Max Battle Day",
+            "article_url": "https://leekduck.com/events/max-battle-day-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Max Battles",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-15T14:00:00",
+            "end_time": "2026-02-15T17:00:00",
+            "description": "The Max Battle Day event will take place on February 15, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
     "Pokémon GO Tour": [
