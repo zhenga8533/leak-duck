@@ -715,15 +715,45 @@
     ],
     "Raid Day": [
         {
-            "title": "Raid Day",
-            "article_url": "https://leekduck.com/events/raid-day-january-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "title": "Kyurem Fusion Raid Day",
+            "article_url": "https://leekduck.com/events/kyurem-fusion-raid-day/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-10-kyurem-fusion-raid-day/fusion-raid-day.jpg",
             "category": "Raid Day",
-            "details": {},
+            "details": {
+                "bonuses": [
+                    "2× Stardust from Raid Battles",
+                    "50% more XP from Raid Battles",
+                    "Eight additional Raid Passes from spinning Gym Photo Discs (for a daily total of 14)",
+                    "Increased chance to encounter Shiny Reshiram, Shiny Zekrom, and Shiny Kyurem in raids",
+                    "Increased chance to get Rare Candy XL from Raid Battles",
+                    "Receive up to five additional free Raid Passes from spinning Gym Photo Discs (for a total of six)",
+                    "Reshiram, Zekrom, Black Kyurem* and White Kyurem* will appear more frequently in raids, and these Raid Bosses will alternate each half hour during event hours. Reshiram and Black Kyurem will appear in raids first, followed by Zekrom and White Kyurem",
+                    "The Remote Raid Pass limit will increase to 20 from Friday, January 9, at 5:00 p.m. to Saturday, January 10, 2026, at 8:00 p.m. PST"
+                ],
+                "features": [
+                    "Kyurem (Black)",
+                    "Kyurem (White)",
+                    "Reshiram",
+                    "Zekrom"
+                ],
+                "raids": [
+                    "Kyurem (Black)",
+                    "Kyurem (White)",
+                    "Reshiram",
+                    "Zekrom"
+                ],
+                "shiny": [
+                    "Kyurem",
+                    "Kyurem (Black)",
+                    "Kyurem (White)",
+                    "Reshiram",
+                    "Zekrom"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-01-10T14:00:00",
             "end_time": "2026-01-10T17:00:00",
-            "description": "The Raid Day event will take place on January 10, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+            "description": "Battle with the twin heroes for truth or ideals during Kyurem Fusion Raid Day!"
         },
         {
             "title": "Shadow Raid Day",
