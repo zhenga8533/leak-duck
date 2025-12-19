@@ -255,17 +255,6 @@
         },
         {
             "title": "Dynamax Drampa during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-01-05/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-05T18:00:00",
-            "end_time": "2026-01-05T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 5, 2026, the featured Dynamax Pokémon is Drampa.\n- Drampa"
-        },
-        {
-            "title": "Dynamax Drampa during Max Monday",
             "article_url": "https://leekduck.com/events/max-mondays-2026-01-05/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
             "category": "Max Mondays",
@@ -274,17 +263,6 @@
             "start_time": "2026-01-05T18:00:00",
             "end_time": "2026-01-05T19:00:00",
             "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 5, 2026, the featured Dynamax Pokémon is Drampa.\n- Drampa"
-        },
-        {
-            "title": "Dynamax Caterpie during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-01-12/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-12T18:00:00",
-            "end_time": "2026-01-12T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 12, 2026, the featured Dynamax Pokémon is Caterpie.\n- Caterpie"
         },
         {
             "title": "Dynamax Caterpie during Max Monday",
@@ -778,17 +756,6 @@
             "description": "The Into the Depths event will take place from January 27, 2026 at 10 am to February 1, 2026 at 8 pm. Stay tuned for more details."
         },
         {
-            "title": "Dynamax Weekend",
-            "article_url": "https://leekduck.com/events/dynamax-weekend-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-31T10:00:00",
-            "end_time": "2026-02-01T20:00:00",
-            "description": "The Dynamax Weekend event will take place from January 31, 2026 at 10 am to February 1, 2026 at 8 pm. Stay tuned for more details."
-        },
-        {
             "title": "Catch Mastery Day",
             "article_url": "https://leekduck.com/events/catch-mastery-day-february-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
@@ -910,6 +877,28 @@
             "start_time": "2025-12-02T10:00:00",
             "end_time": "2026-01-06T10:00:00",
             "description": "Palkia and the Timed Incubator return for GO Pass: December!\nFrom Tuesday, December 2, 2025, at 10:00 a.m. to Tuesday, January 6, 2026, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for December will be available in Pokémon GO!"
+        },
+        {
+            "title": "GO Pass: January",
+            "article_url": "https://leekduck.com/events/go-pass-january-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-06-go-pass-january-2026/go-pass-january-2026.jpg",
+            "category": "GO Pass",
+            "details": {
+                "bonuses": [
+                    "2× Daily Adventure Incense duration",
+                    "Additional rewards for completing in-person raids and Max Battles",
+                    "Hold 10 more Gifts in your Item Bag",
+                    "Hold up to 20 more Gifts in your Item Bag",
+                    "Open up to 40 Gifts per day",
+                    "Open up to 50 Gifts per day",
+                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-06T10:00:00",
+            "end_time": "2026-02-03T10:00:00",
+            "description": "Dialga and the Lucky Trinket return for GO Pass: January!\nFrom Tuesday, January 6, at 10:00 a.m. to Tuesday, February 3, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for January will be available in Pokémon GO!"
         }
     ],
     "Timed Research": [
@@ -1080,15 +1069,15 @@
     ],
     "Max Battles": [
         {
-            "title": "Max Battle Weekend",
-            "article_url": "https://leekduck.com/events/max-battle-weekend-february-2026/",
+            "title": "Dynamax Weekend",
+            "article_url": "https://leekduck.com/events/dynamax-weekend-february-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
             "category": "Max Battles",
             "details": {},
             "is_local_time": true,
-            "start_time": "2026-01-31T06:00:00",
-            "end_time": "2026-02-01T21:00:00",
-            "description": "The Max Battle Weekend event will take place from January 31, 2026 at 6 am to February 1, 2026 at 9 pm. Stay tuned for more details."
+            "start_time": "2026-01-31T10:00:00",
+            "end_time": "2026-02-01T20:00:00",
+            "description": "The Dynamax Weekend event will take place from January 31, 2026 at 10 am to February 1, 2026 at 8 pm. Stay tuned for more details."
         },
         {
             "title": "Max Battle Day",
