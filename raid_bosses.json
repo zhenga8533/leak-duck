@@ -74,57 +74,57 @@
     ],
     "Tier 3": [
         {
-            "name": "Rhydon",
+            "name": "Sudowoodo",
             "tier": 3,
-            "shiny_available": false,
+            "shiny_available": true,
             "cp_range": {
-                "min": 1736,
-                "max": 1816
+                "min": 1162,
+                "max": 1227
             },
             "boosted_cp_range": {
-                "min": 2170,
-                "max": 2270
+                "min": 1452,
+                "max": 1534
             },
             "types": [
-                "Ground",
                 "Rock"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm112.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm185.fWINTER_2025.icon.png"
         },
         {
-            "name": "Hariyama",
+            "name": "Hisuian Avalugg",
             "tier": 3,
-            "shiny_available": false,
+            "shiny_available": true,
             "cp_range": {
-                "min": 1537,
-                "max": 1616
+                "min": 1892,
+                "max": 1975
             },
             "boosted_cp_range": {
-                "min": 1921,
-                "max": 2020
+                "min": 2365,
+                "max": 2469
             },
             "types": [
-                "Fighting"
+                "Ice",
+                "Rock"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm297.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm713.fHISUIAN.icon.png"
         },
         {
-            "name": "Crustle",
+            "name": "Charjabug",
             "tier": 3,
             "shiny_available": false,
             "cp_range": {
-                "min": 1381,
-                "max": 1452
+                "min": 912,
+                "max": 970
             },
             "boosted_cp_range": {
-                "min": 1726,
-                "max": 1815
+                "min": 1140,
+                "max": 1212
             },
             "types": [
                 "Bug",
-                "Rock"
+                "Electric"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm558.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm737.fWINTER_2025.icon.png"
         }
     ],
     "Tier 5": [
