@@ -28,6 +28,19 @@
             "error": "InvalidTimes"
         }
     ],
+    "PokéStop Showcase": [
+        {
+            "title": "Lunatone and Solrock PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-lunatone-solrock/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-20T10:00:00",
+            "end_time": "2025-12-21T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Lunatone and Solrock. Top the leaderboard to win rewards including Premium Items!\n- Lunatone\n- Solrock"
+        }
+    ],
     "Raid Battles": [
         {
             "title": "Mega Abomasnow in Mega Raids",
