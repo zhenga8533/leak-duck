@@ -1,78 +1,77 @@
 {
     "Tier 1": [
         {
-            "name": "Marill",
+            "name": "Alolan Sandshrew",
             "tier": 1,
             "shiny_available": true,
             "cp_range": {
-                "min": 229,
-                "max": 263
+                "min": 688,
+                "max": 739
             },
             "boosted_cp_range": {
-                "min": 287,
-                "max": 329
+                "min": 860,
+                "max": 924
             },
             "types": [
-                "Water",
-                "Fairy"
+                "Ice",
+                "Steel"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm183.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm27.fALOLA.icon.png"
         },
         {
-            "name": "Snorunt",
+            "name": "Galarian Darumaka",
             "tier": 1,
             "shiny_available": true,
             "cp_range": {
-                "min": 465,
-                "max": 507
+                "min": 768,
+                "max": 823
             },
             "boosted_cp_range": {
-                "min": 581,
-                "max": 634
+                "min": 961,
+                "max": 1030
             },
             "types": [
                 "Ice"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm361.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm554.fGALARIAN.icon.png"
         },
         {
-            "name": "Woobat",
+            "name": "Rolycoly",
             "tier": 1,
-            "shiny_available": true,
+            "shiny_available": false,
             "cp_range": {
-                "min": 535,
-                "max": 580
+                "min": 315,
+                "max": 349
             },
             "boosted_cp_range": {
-                "min": 669,
-                "max": 726
+                "min": 393,
+                "max": 437
             },
             "types": [
-                "Psychic",
-                "Flying"
+                "Rock"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm527.icon.png"
-        },
-        {
-            "name": "Cottonee",
-            "tier": 1,
-            "shiny_available": true,
-            "cp_range": {
-                "min": 362,
-                "max": 400
-            },
-            "boosted_cp_range": {
-                "min": 453,
-                "max": 500
-            },
-            "types": [
-                "Grass",
-                "Fairy"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm546.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm837.icon.png"
         }
     ],
     "Tier 3": [
+        {
+            "name": "Galarian Mr. Mime",
+            "tier": 3,
+            "shiny_available": true,
+            "cp_range": {
+                "min": 1117,
+                "max": 1181
+            },
+            "boosted_cp_range": {
+                "min": 1396,
+                "max": 1477
+            },
+            "types": [
+                "Ice",
+                "Psychic"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm122.fGALARIAN.icon.png"
+        },
         {
             "name": "Sudowoodo",
             "tier": 3,
@@ -91,27 +90,9 @@
             "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm185.fWINTER_2025.icon.png"
         },
         {
-            "name": "Hisuian Avalugg",
-            "tier": 3,
-            "shiny_available": true,
-            "cp_range": {
-                "min": 1892,
-                "max": 1975
-            },
-            "boosted_cp_range": {
-                "min": 2365,
-                "max": 2469
-            },
-            "types": [
-                "Ice",
-                "Rock"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm713.fHISUIAN.icon.png"
-        },
-        {
             "name": "Charjabug",
             "tier": 3,
-            "shiny_available": false,
+            "shiny_available": true,
             "cp_range": {
                 "min": 912,
                 "max": 970
