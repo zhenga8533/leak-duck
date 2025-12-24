@@ -1,72 +1,4 @@
 {
-    "Max Mondays": [
-        {
-            "title": "Dynamax Spheal during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-12-22/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-22T18:00:00",
-            "end_time": "2025-12-22T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 22, 2025, the featured Dynamax Pokémon is Spheal.\n- Spheal"
-        },
-        {
-            "title": "Dynamax Omanyte during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-12-29/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-29T18:00:00",
-            "end_time": "2025-12-29T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 29, 2025, the featured Dynamax Pokémon is Omanyte.\n- Omanyte"
-        },
-        {
-            "title": "Dynamax Drampa during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-01-05/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-05T18:00:00",
-            "end_time": "2026-01-05T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 5, 2026, the featured Dynamax Pokémon is Drampa.\n- Drampa"
-        },
-        {
-            "title": "Dynamax Caterpie during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-01-12/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-12T18:00:00",
-            "end_time": "2026-01-12T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 12, 2026, the featured Dynamax Pokémon is Caterpie.\n- Caterpie"
-        },
-        {
-            "title": "Dynamax Beldum during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-01-19/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-19T18:00:00",
-            "end_time": "2026-01-19T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 19, 2026, the featured Dynamax Pokémon is Beldum.\n- Beldum"
-        },
-        {
-            "title": "Dynamax Roggenrola during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-01-26/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-26T18:00:00",
-            "end_time": "2026-01-26T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 26, 2026, the featured Dynamax Pokémon is Roggenrola.\n- Roggenrola"
-        }
-    ],
     "GO Battle League": [
         {
             "title": "Master League and Holiday Cup: Great League Edition | Precious Paths",
@@ -380,11 +312,20 @@
                     "Rolycoly"
                 ],
                 "spawns": [
+                    "Alolan Vulpix",
                     "Bergmite",
                     "Cetoddle",
+                    "Cubchoo",
                     "Galarian Darumaka",
                     "Holiday Attire Dedenne",
-                    "Rolycoly"
+                    "Holiday Delibird",
+                    "Holiday Stantler",
+                    "Rolycoly",
+                    "Snorunt",
+                    "Snover",
+                    "Spheal",
+                    "Swinub",
+                    "Vanillite"
                 ],
                 "eggs": [
                     "Cryogonal",
@@ -615,6 +556,63 @@
             "start_time": "2025-12-22T10:00:00",
             "end_time": "2025-12-24T20:00:00",
             "description": "There will be PokéStop Showcases featuring Sudowoodo and Charjabug. Top the leaderboard to win rewards including Premium Items!\n- Sudowoodo\n- Charjabug"
+        }
+    ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Omanyte during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-12-29/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-29T18:00:00",
+            "end_time": "2025-12-29T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 29, 2025, the featured Dynamax Pokémon is Omanyte.\n- Omanyte"
+        },
+        {
+            "title": "Dynamax Drampa during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-01-05/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-05T18:00:00",
+            "end_time": "2026-01-05T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 5, 2026, the featured Dynamax Pokémon is Drampa.\n- Drampa"
+        },
+        {
+            "title": "Dynamax Caterpie during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-01-12/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-12T18:00:00",
+            "end_time": "2026-01-12T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 12, 2026, the featured Dynamax Pokémon is Caterpie.\n- Caterpie"
+        },
+        {
+            "title": "Dynamax Beldum during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-01-19/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-19T18:00:00",
+            "end_time": "2026-01-19T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 19, 2026, the featured Dynamax Pokémon is Beldum.\n- Beldum"
+        },
+        {
+            "title": "Dynamax Roggenrola during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-01-26/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-26T18:00:00",
+            "end_time": "2026-01-26T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 26, 2026, the featured Dynamax Pokémon is Roggenrola.\n- Roggenrola"
         }
     ],
     "GO Pass": [
