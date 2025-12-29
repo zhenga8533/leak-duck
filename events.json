@@ -1,24 +1,128 @@
 {
-    "Event": [
+    "Max Mondays": [
         {
-            "title": "Winter Weekend",
-            "article_url": "https://leekduck.com/events/winter-weekend-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-27-winter-weekend-2025/winter-weekend-eevee.jpg",
-            "category": "Event",
+            "title": "Dynamax Omanyte during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-12-29/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-29T18:00:00",
+            "end_time": "2025-12-29T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 29, 2025, the featured Dynamax Pokémon is Omanyte.\n- Omanyte"
+        },
+        {
+            "title": "Dynamax Drampa during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-01-05/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-05T18:00:00",
+            "end_time": "2026-01-05T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 5, 2026, the featured Dynamax Pokémon is Drampa.\n- Drampa"
+        },
+        {
+            "title": "Dynamax Caterpie during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-01-12/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-12T18:00:00",
+            "end_time": "2026-01-12T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 12, 2026, the featured Dynamax Pokémon is Caterpie.\n- Caterpie"
+        },
+        {
+            "title": "Dynamax Beldum during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-01-19/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-19T18:00:00",
+            "end_time": "2026-01-19T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 19, 2026, the featured Dynamax Pokémon is Beldum.\n- Beldum"
+        },
+        {
+            "title": "Dynamax Roggenrola during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-01-26/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-26T18:00:00",
+            "end_time": "2026-01-26T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 26, 2026, the featured Dynamax Pokémon is Roggenrola.\n- Roggenrola"
+        }
+    ],
+    "GO Pass": [
+        {
+            "title": "GO Pass: Winter Holiday 2025",
+            "article_url": "https://leekduck.com/events/go-pass-winter-holiday-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-18-go-pass-winter-holiday-2025/snom-beanie.jpg",
+            "category": "GO Pass",
             "details": {
                 "bonuses": [
-                    "Bonus daily quests for your GO Pass: Winter Holiday 2025",
-                    "There's no daily limit for how many GO Points you can earn!"
-                ],
-                "shiny": [
-                    "Holiday Hat Eevee"
+                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
+                    "2× Stardust from opening Gifts",
+                    "2× XP from catching Pokémon",
+                    "2× XP from sending Gifts",
+                    "50% more XP for winning Raid Battles",
+                    "Additional items may be rewarded from opening Gifts"
                 ]
             },
             "is_local_time": true,
-            "start_time": "2025-12-27T10:00:00",
-            "end_time": "2025-12-28T20:00:00",
-            "description": "The Winter Weekend event will take place from December 27, 2025 at 10 am to December 28, 2025 at 8 pm."
+            "start_time": "2025-12-18T10:00:00",
+            "end_time": "2025-12-29T20:00:00",
+            "description": "From Thursday, December 18, at 10:00 a.m. to Monday, December 29, 2025, at 8:00 p.m. local time, the GO Pass and GO Pass Deluxe for Winter Holiday Part 1 and Part 2 will be available in Pokémon GO!"
         },
+        {
+            "title": "GO Pass: December",
+            "article_url": "https://leekduck.com/events/go-pass-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-02-go-pass-december-2025/go-pass-december-2025.jpg",
+            "category": "GO Pass",
+            "details": {
+                "bonuses": [
+                    "2× Daily Adventure Incense duration",
+                    "Additional rewards for completing in-person raids and Max Battles",
+                    "Hold up to 10 additional Gifts in your Item Bag",
+                    "Hold up to 20 additional Gifts in your Item Bag",
+                    "Open up to 40 Gifts per day",
+                    "Open up to 50 Gifts per day",
+                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-02T10:00:00",
+            "end_time": "2026-01-06T10:00:00",
+            "description": "Palkia and the Timed Incubator return for GO Pass: December!\nFrom Tuesday, December 2, 2025, at 10:00 a.m. to Tuesday, January 6, 2026, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for December will be available in Pokémon GO!"
+        },
+        {
+            "title": "GO Pass: January",
+            "article_url": "https://leekduck.com/events/go-pass-january-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-06-go-pass-january-2026/go-pass-january-2026.jpg",
+            "category": "GO Pass",
+            "details": {
+                "bonuses": [
+                    "2× Daily Adventure Incense duration",
+                    "Additional rewards for completing in-person raids and Max Battles",
+                    "Hold 10 more Gifts in your Item Bag",
+                    "Hold up to 20 more Gifts in your Item Bag",
+                    "Open up to 40 Gifts per day",
+                    "Open up to 50 Gifts per day",
+                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-06T10:00:00",
+            "end_time": "2026-02-03T10:00:00",
+            "description": "Dialga and the Lucky Trinket return for GO Pass: January!\nFrom Tuesday, January 6, at 10:00 a.m. to Tuesday, February 3, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for January will be available in Pokémon GO!"
+        }
+    ],
+    "Event": [
         {
             "title": "Winter Holiday Part 2",
             "article_url": "https://leekduck.com/events/winter-holiday-part-2-2025/",
@@ -204,149 +308,6 @@
             "start_time": "2026-02-07T10:00:00",
             "end_time": "2026-02-07T20:00:00",
             "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details."
-        }
-    ],
-    "PokéStop Showcase": [
-        {
-            "title": "Eevee PokéStop Showcase",
-            "article_url": "https://leekduck.com/events/pokemon-showcase-eevee/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-27T10:00:00",
-            "end_time": "2025-12-28T20:00:00",
-            "description": "There will be PokéStop Showcases featuring Eevee. Top the leaderboard to win rewards including Premium Items!\n- Eevee"
-        },
-        {
-            "title": "Stantler, Rolycoly, and Coalossal PokéStop Showcase",
-            "article_url": "https://leekduck.com/events/pokemon-showcase-stantler-rolycoly-coalossal/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "error": "TimeoutException"
-        }
-    ],
-    "Max Mondays": [
-        {
-            "title": "Dynamax Omanyte during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-12-29/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-29T18:00:00",
-            "end_time": "2025-12-29T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 29, 2025, the featured Dynamax Pokémon is Omanyte.\n- Omanyte"
-        },
-        {
-            "title": "Dynamax Drampa during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-01-05/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-05T18:00:00",
-            "end_time": "2026-01-05T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 5, 2026, the featured Dynamax Pokémon is Drampa.\n- Drampa"
-        },
-        {
-            "title": "Dynamax Caterpie during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-01-12/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-12T18:00:00",
-            "end_time": "2026-01-12T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 12, 2026, the featured Dynamax Pokémon is Caterpie.\n- Caterpie"
-        },
-        {
-            "title": "Dynamax Beldum during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-01-19/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-19T18:00:00",
-            "end_time": "2026-01-19T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 19, 2026, the featured Dynamax Pokémon is Beldum.\n- Beldum"
-        },
-        {
-            "title": "Dynamax Roggenrola during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-01-26/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-26T18:00:00",
-            "end_time": "2026-01-26T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 26, 2026, the featured Dynamax Pokémon is Roggenrola.\n- Roggenrola"
-        }
-    ],
-    "GO Pass": [
-        {
-            "title": "GO Pass: Winter Holiday 2025",
-            "article_url": "https://leekduck.com/events/go-pass-winter-holiday-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-18-go-pass-winter-holiday-2025/snom-beanie.jpg",
-            "category": "GO Pass",
-            "details": {
-                "bonuses": [
-                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
-                    "2× Stardust from opening Gifts",
-                    "2× XP from catching Pokémon",
-                    "2× XP from sending Gifts",
-                    "50% more XP for winning Raid Battles",
-                    "Additional items may be rewarded from opening Gifts"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-18T10:00:00",
-            "end_time": "2025-12-29T20:00:00",
-            "description": "From Thursday, December 18, at 10:00 a.m. to Monday, December 29, 2025, at 8:00 p.m. local time, the GO Pass and GO Pass Deluxe for Winter Holiday Part 1 and Part 2 will be available in Pokémon GO!"
-        },
-        {
-            "title": "GO Pass: December",
-            "article_url": "https://leekduck.com/events/go-pass-december-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-02-go-pass-december-2025/go-pass-december-2025.jpg",
-            "category": "GO Pass",
-            "details": {
-                "bonuses": [
-                    "2× Daily Adventure Incense duration",
-                    "Additional rewards for completing in-person raids and Max Battles",
-                    "Hold up to 10 additional Gifts in your Item Bag",
-                    "Hold up to 20 additional Gifts in your Item Bag",
-                    "Open up to 40 Gifts per day",
-                    "Open up to 50 Gifts per day",
-                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
-                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-02T10:00:00",
-            "end_time": "2026-01-06T10:00:00",
-            "description": "Palkia and the Timed Incubator return for GO Pass: December!\nFrom Tuesday, December 2, 2025, at 10:00 a.m. to Tuesday, January 6, 2026, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for December will be available in Pokémon GO!"
-        },
-        {
-            "title": "GO Pass: January",
-            "article_url": "https://leekduck.com/events/go-pass-january-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-06-go-pass-january-2026/go-pass-january-2026.jpg",
-            "category": "GO Pass",
-            "details": {
-                "bonuses": [
-                    "2× Daily Adventure Incense duration",
-                    "Additional rewards for completing in-person raids and Max Battles",
-                    "Hold 10 more Gifts in your Item Bag",
-                    "Hold up to 20 more Gifts in your Item Bag",
-                    "Open up to 40 Gifts per day",
-                    "Open up to 50 Gifts per day",
-                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
-                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-06T10:00:00",
-            "end_time": "2026-02-03T10:00:00",
-            "description": "Dialga and the Lucky Trinket return for GO Pass: January!\nFrom Tuesday, January 6, at 10:00 a.m. to Tuesday, February 3, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for January will be available in Pokémon GO!"
         }
     ],
     "Timed Research": [
@@ -771,6 +732,19 @@
             "start_time": "2026-01-28T18:00:00",
             "end_time": "2026-01-28T19:00:00",
             "description": "A Raid Hour featuring Tornadus (Incarnate Forme) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        }
+    ],
+    "PokéStop Showcase": [
+        {
+            "title": "Stantler, Rolycoly, and Coalossal PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-stantler-rolycoly-coalossal/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-29T10:00:00",
+            "end_time": "2025-12-31T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Stantler, Rolycoly, and Coalossal. Top the leaderboard to win rewards including Premium Items!\n- Stantler\n- Rolycoly\n- Coalossal"
         }
     ],
     "Community Day": [

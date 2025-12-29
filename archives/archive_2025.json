@@ -655,6 +655,25 @@
             "start_time": "2025-12-11T10:00:00",
             "end_time": "2025-12-16T20:00:00",
             "description": "Train and take on Global Challenges during the Well Armed event!"
+        },
+        {
+            "title": "Winter Weekend",
+            "article_url": "https://leekduck.com/events/winter-weekend-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-27-winter-weekend-2025/winter-weekend-eevee.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "Bonus daily quests for your GO Pass: Winter Holiday 2025",
+                    "There's no daily limit for how many GO Points you can earn!"
+                ],
+                "shiny": [
+                    "Holiday Hat Eevee"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-27T10:00:00",
+            "end_time": "2025-12-28T20:00:00",
+            "description": "The Winter Weekend event will take place from December 27, 2025 at 10 am to December 28, 2025 at 8 pm."
         }
     ],
     "PokéStop Showcase": [
@@ -995,6 +1014,17 @@
             "start_time": "2025-12-22T10:00:00",
             "end_time": "2025-12-24T20:00:00",
             "description": "There will be PokéStop Showcases featuring Sudowoodo and Charjabug. Top the leaderboard to win rewards including Premium Items!\n- Sudowoodo\n- Charjabug"
+        },
+        {
+            "title": "Eevee PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-eevee/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-27T10:00:00",
+            "end_time": "2025-12-28T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Eevee. Top the leaderboard to win rewards including Premium Items!\n- Eevee"
         }
     ],
     "Max Mondays": [
