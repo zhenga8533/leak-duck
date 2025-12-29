@@ -217,6 +217,13 @@
             "start_time": "2025-12-27T10:00:00",
             "end_time": "2025-12-28T20:00:00",
             "description": "There will be PokéStop Showcases featuring Eevee. Top the leaderboard to win rewards including Premium Items!\n- Eevee"
+        },
+        {
+            "title": "Stantler, Rolycoly, and Coalossal PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-stantler-rolycoly-coalossal/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "error": "TimeoutException"
         }
     ],
     "Max Mondays": [
