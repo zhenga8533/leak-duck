@@ -674,6 +674,68 @@
             "start_time": "2025-12-27T10:00:00",
             "end_time": "2025-12-28T20:00:00",
             "description": "The Winter Weekend event will take place from December 27, 2025 at 10 am to December 28, 2025 at 8 pm."
+        },
+        {
+            "title": "Winter Holiday Part 2",
+            "article_url": "https://leekduck.com/events/winter-holiday-part-2-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-24-winter-holiday-part-2-2025/winter-holiday-2025-part-2.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
+                    "2× Stardust from opening Gifts",
+                    "2× XP from catching Pokémon",
+                    "2× XP from sending Gifts",
+                    "50% more XP for winning Raid Battles",
+                    "Additional items may be rewarded from opening Gifts",
+                    "Catching event-themed Pokémon in the wild may award items such as Fast TMs, Charged TMs, Silver Pinap Berries, Golden Razz Berries, and Rare Candy",
+                    "Increased chance to encounter Shiny Stantler wearing a holiday outfit and Shiny Dedenne wearing holiday attire."
+                ],
+                "features": [
+                    "Carkol",
+                    "Coalossal",
+                    "Rolycoly"
+                ],
+                "spawns": [
+                    "Alolan Vulpix",
+                    "Bergmite",
+                    "Cetoddle",
+                    "Cubchoo",
+                    "Galarian Darumaka",
+                    "Holiday Attire Dedenne",
+                    "Holiday Delibird",
+                    "Holiday Stantler",
+                    "Rolycoly",
+                    "Snorunt",
+                    "Snover",
+                    "Spheal",
+                    "Swinub",
+                    "Vanillite"
+                ],
+                "eggs": [
+                    "Cryogonal",
+                    "Festive Hat Pichu",
+                    "Holiday Cubchoo",
+                    "Smoochum",
+                    "Snom"
+                ],
+                "raids": [
+                    "Alolan Sandshrew",
+                    "Galarian Darumaka",
+                    "Galarian Mr. Mime",
+                    "Rolycoly",
+                    "Winter Attire Charjabug",
+                    "Winter Attire Sudowoodo"
+                ],
+                "shiny": [
+                    "Holiday Attire Dedenne",
+                    "Holiday Stantler"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-24T10:00:00",
+            "end_time": "2025-12-29T20:00:00",
+            "description": "The festivities continue during Winter Holiday Part 2 with Rolycoly’s debut, plus a special Winter Weekend event!"
         }
     ],
     "PokéStop Showcase": [
@@ -1190,6 +1252,17 @@
             "start_time": "2025-12-22T18:00:00",
             "end_time": "2025-12-22T19:00:00",
             "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 22, 2025, the featured Dynamax Pokémon is Spheal.\n- Spheal"
+        },
+        {
+            "title": "Dynamax Omanyte during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2025-12-29/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-29T18:00:00",
+            "end_time": "2025-12-29T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 29, 2025, the featured Dynamax Pokémon is Omanyte.\n- Omanyte"
         }
     ],
     "Raid Battles": [
@@ -3157,6 +3230,26 @@
             "start_time": "2025-11-04T10:00:00",
             "end_time": "2025-12-02T10:00:00",
             "description": "The Lucky Trinket returns in GO Pass: November!\nFrom Tuesday, November 4, at 10:00 a.m. to Tuesday, December 2, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for November will be available in Pokémon GO!"
+        },
+        {
+            "title": "GO Pass: Winter Holiday 2025",
+            "article_url": "https://leekduck.com/events/go-pass-winter-holiday-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-18-go-pass-winter-holiday-2025/snom-beanie.jpg",
+            "category": "GO Pass",
+            "details": {
+                "bonuses": [
+                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
+                    "2× Stardust from opening Gifts",
+                    "2× XP from catching Pokémon",
+                    "2× XP from sending Gifts",
+                    "50% more XP for winning Raid Battles",
+                    "Additional items may be rewarded from opening Gifts"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-18T10:00:00",
+            "end_time": "2025-12-29T20:00:00",
+            "description": "From Thursday, December 18, at 10:00 a.m. to Monday, December 29, 2025, at 8:00 p.m. local time, the GO Pass and GO Pass Deluxe for Winter Holiday Part 1 and Part 2 will be available in Pokémon GO!"
         }
     ],
     "Max Battles": [
@@ -3684,6 +3777,19 @@
             "start_time": "2025-09-02T10:00:00",
             "end_time": "2025-12-02T10:00:00",
             "description": "Welcome to the next Pokémon GO Season: Tales of Transformation!"
+        }
+    ],
+    "Timed Research": [
+        {
+            "title": "Best Friends Forever Timed Research",
+            "article_url": "https://leekduck.com/events/best-friends-forever-timed-research/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-15-best-friends-forever-timed-research/best-friends-forever.jpg",
+            "category": "Timed Research",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2025-12-15T10:00:00",
+            "end_time": "2025-12-29T20:00:00",
+            "description": "There will be a free Timed Research opportunity available to Trainers starting Monday, December 15, at 10:00 a.m. to Monday, December 29, 2025, at 8:00 p.m. local time.\nComplete the Timed Research to encounter a Scatterbug. Timed Research tasks will also award XP, Stardust, and more!"
         }
     ]
 }

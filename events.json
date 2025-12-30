@@ -1,328 +1,4 @@
 {
-    "Max Mondays": [
-        {
-            "title": "Dynamax Omanyte during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2025-12-29/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-29T18:00:00",
-            "end_time": "2025-12-29T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn December 29, 2025, the featured Dynamax Pokémon is Omanyte.\n- Omanyte"
-        },
-        {
-            "title": "Dynamax Drampa during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-01-05/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-05T18:00:00",
-            "end_time": "2026-01-05T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 5, 2026, the featured Dynamax Pokémon is Drampa.\n- Drampa"
-        },
-        {
-            "title": "Dynamax Caterpie during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-01-12/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-12T18:00:00",
-            "end_time": "2026-01-12T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 12, 2026, the featured Dynamax Pokémon is Caterpie.\n- Caterpie"
-        },
-        {
-            "title": "Dynamax Beldum during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-01-19/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-19T18:00:00",
-            "end_time": "2026-01-19T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 19, 2026, the featured Dynamax Pokémon is Beldum.\n- Beldum"
-        },
-        {
-            "title": "Dynamax Roggenrola during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-01-26/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-26T18:00:00",
-            "end_time": "2026-01-26T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 26, 2026, the featured Dynamax Pokémon is Roggenrola.\n- Roggenrola"
-        }
-    ],
-    "GO Pass": [
-        {
-            "title": "GO Pass: Winter Holiday 2025",
-            "article_url": "https://leekduck.com/events/go-pass-winter-holiday-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-18-go-pass-winter-holiday-2025/snom-beanie.jpg",
-            "category": "GO Pass",
-            "details": {
-                "bonuses": [
-                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
-                    "2× Stardust from opening Gifts",
-                    "2× XP from catching Pokémon",
-                    "2× XP from sending Gifts",
-                    "50% more XP for winning Raid Battles",
-                    "Additional items may be rewarded from opening Gifts"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-18T10:00:00",
-            "end_time": "2025-12-29T20:00:00",
-            "description": "From Thursday, December 18, at 10:00 a.m. to Monday, December 29, 2025, at 8:00 p.m. local time, the GO Pass and GO Pass Deluxe for Winter Holiday Part 1 and Part 2 will be available in Pokémon GO!"
-        },
-        {
-            "title": "GO Pass: December",
-            "article_url": "https://leekduck.com/events/go-pass-december-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-02-go-pass-december-2025/go-pass-december-2025.jpg",
-            "category": "GO Pass",
-            "details": {
-                "bonuses": [
-                    "2× Daily Adventure Incense duration",
-                    "Additional rewards for completing in-person raids and Max Battles",
-                    "Hold up to 10 additional Gifts in your Item Bag",
-                    "Hold up to 20 additional Gifts in your Item Bag",
-                    "Open up to 40 Gifts per day",
-                    "Open up to 50 Gifts per day",
-                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
-                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-02T10:00:00",
-            "end_time": "2026-01-06T10:00:00",
-            "description": "Palkia and the Timed Incubator return for GO Pass: December!\nFrom Tuesday, December 2, 2025, at 10:00 a.m. to Tuesday, January 6, 2026, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for December will be available in Pokémon GO!"
-        },
-        {
-            "title": "GO Pass: January",
-            "article_url": "https://leekduck.com/events/go-pass-january-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-06-go-pass-january-2026/go-pass-january-2026.jpg",
-            "category": "GO Pass",
-            "details": {
-                "bonuses": [
-                    "2× Daily Adventure Incense duration",
-                    "Additional rewards for completing in-person raids and Max Battles",
-                    "Hold 10 more Gifts in your Item Bag",
-                    "Hold up to 20 more Gifts in your Item Bag",
-                    "Open up to 40 Gifts per day",
-                    "Open up to 50 Gifts per day",
-                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
-                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-06T10:00:00",
-            "end_time": "2026-02-03T10:00:00",
-            "description": "Dialga and the Lucky Trinket return for GO Pass: January!\nFrom Tuesday, January 6, at 10:00 a.m. to Tuesday, February 3, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for January will be available in Pokémon GO!"
-        }
-    ],
-    "Event": [
-        {
-            "title": "Winter Holiday Part 2",
-            "article_url": "https://leekduck.com/events/winter-holiday-part-2-2025/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-24-winter-holiday-part-2-2025/winter-holiday-2025-part-2.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
-                    "2× Stardust from opening Gifts",
-                    "2× XP from catching Pokémon",
-                    "2× XP from sending Gifts",
-                    "50% more XP for winning Raid Battles",
-                    "Additional items may be rewarded from opening Gifts",
-                    "Catching event-themed Pokémon in the wild may award items such as Fast TMs, Charged TMs, Silver Pinap Berries, Golden Razz Berries, and Rare Candy",
-                    "Increased chance to encounter Shiny Stantler wearing a holiday outfit and Shiny Dedenne wearing holiday attire."
-                ],
-                "features": [
-                    "Carkol",
-                    "Coalossal",
-                    "Rolycoly"
-                ],
-                "spawns": [
-                    "Alolan Vulpix",
-                    "Bergmite",
-                    "Cetoddle",
-                    "Cubchoo",
-                    "Galarian Darumaka",
-                    "Holiday Attire Dedenne",
-                    "Holiday Delibird",
-                    "Holiday Stantler",
-                    "Rolycoly",
-                    "Snorunt",
-                    "Snover",
-                    "Spheal",
-                    "Swinub",
-                    "Vanillite"
-                ],
-                "eggs": [
-                    "Cryogonal",
-                    "Festive Hat Pichu",
-                    "Holiday Cubchoo",
-                    "Smoochum",
-                    "Snom"
-                ],
-                "raids": [
-                    "Alolan Sandshrew",
-                    "Galarian Darumaka",
-                    "Galarian Mr. Mime",
-                    "Rolycoly",
-                    "Winter Attire Charjabug",
-                    "Winter Attire Sudowoodo"
-                ],
-                "shiny": [
-                    "Holiday Attire Dedenne",
-                    "Holiday Stantler"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-24T10:00:00",
-            "end_time": "2025-12-29T20:00:00",
-            "description": "The festivities continue during Winter Holiday Part 2 with Rolycoly’s debut, plus a special Winter Weekend event!"
-        },
-        {
-            "title": "New Year's 2026",
-            "article_url": "https://leekduck.com/events/new-years-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-31-new-years-2026/new-years-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× Stardust from Raid Battles",
-                    "2× XP from Raid Battles",
-                    "Increased chance to encounter Shiny Party Top Hat Pikachu",
-                    "One additional Raid Pass per day from spinning Photo Discs at Gyms (for a daily total of two)"
-                ],
-                "spawns": [
-                    "New Years Hat Hoothoot",
-                    "Party Hat Bulbasaur",
-                    "Party Top Hat Pikachu",
-                    "Ribbon Jigglypuff"
-                ],
-                "raids": [
-                    "Gengar",
-                    "Nidorino",
-                    "Party Hat Wobbuffet",
-                    "Party Hat Wurmple",
-                    "Party Top Hat Pikachu",
-                    "Raticate"
-                ],
-                "shiny": [
-                    "Party Top Hat Pikachu"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-31T10:00:00",
-            "end_time": "2026-01-04T20:00:00",
-            "description": "Ring in 2026 with Pokémon GO’s New Year’s event!"
-        },
-        {
-            "title": "Pinch Perfect",
-            "article_url": "https://leekduck.com/events/pinch-perfect-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-06-pinch-perfect-2026/pinch-perfect-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× XP for catching Pokémon",
-                    "Increased chance of encountering Shiny Corphish, Shiny Dwebble, and Shiny Clauncher"
-                ],
-                "features": [
-                    "Dhelmise",
-                    "Klawf"
-                ],
-                "spawns": [
-                    "Archen",
-                    "Clauncher",
-                    "Corphish",
-                    "Dwebble",
-                    "Tirtouga"
-                ],
-                "raids": [
-                    "Clauncher",
-                    "Corphish",
-                    "Dhelmise",
-                    "Dondozo",
-                    "Dwebble"
-                ],
-                "research": [
-                    "Clauncher",
-                    "Corphish",
-                    "Dwebble",
-                    "Klawf"
-                ],
-                "shiny": [
-                    "Clauncher",
-                    "Corphish",
-                    "Dwebble"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-06T10:00:00",
-            "end_time": "2026-01-11T20:00:00",
-            "description": "Beware and prepare for Klawf and more during the Pinch Perfect event!"
-        },
-        {
-            "title": "High Zaptitude",
-            "article_url": "https://leekduck.com/events/high-zaptitude-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-13T10:00:00",
-            "end_time": "2026-01-18T20:00:00",
-            "description": "The High Zaptitude event will take place from January 13, 2026 at 10 am to January 18, 2026 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Precious Pals",
-            "article_url": "https://leekduck.com/events/precious-pals-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-20T10:00:00",
-            "end_time": "2026-01-25T20:00:00",
-            "description": "The Precious Pals event will take place from January 20, 2026 at 10 am to January 25, 2026 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Into the Depths",
-            "article_url": "https://leekduck.com/events/into-the-depths-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-27T10:00:00",
-            "end_time": "2026-02-01T20:00:00",
-            "description": "The Into the Depths event will take place from January 27, 2026 at 10 am to February 1, 2026 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Catch Mastery Day",
-            "article_url": "https://leekduck.com/events/catch-mastery-day-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-07T10:00:00",
-            "end_time": "2026-02-07T20:00:00",
-            "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details."
-        }
-    ],
-    "Timed Research": [
-        {
-            "title": "Best Friends Forever Timed Research",
-            "article_url": "https://leekduck.com/events/best-friends-forever-timed-research/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-15-best-friends-forever-timed-research/best-friends-forever.jpg",
-            "category": "Timed Research",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2025-12-15T10:00:00",
-            "end_time": "2025-12-29T20:00:00",
-            "description": "There will be a free Timed Research opportunity available to Trainers starting Monday, December 15, at 10:00 a.m. to Monday, December 29, 2025, at 8:00 p.m. local time.\nComplete the Timed Research to encounter a Scatterbug. Timed Research tasks will also award XP, Stardust, and more!"
-        }
-    ],
     "GO Battle League": [
         {
             "title": "Great League and Holiday Cup: Ultra League Edition | Precious Paths",
@@ -820,6 +496,224 @@
             "start_time": "2026-02-01T14:00:00",
             "end_time": "2026-02-01T17:00:00",
             "description": "February Community Day is on February 1, 2026. Stay tuned for the announcement of the featured Pokémon."
+        }
+    ],
+    "Event": [
+        {
+            "title": "New Year's 2026",
+            "article_url": "https://leekduck.com/events/new-years-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-31-new-years-2026/new-years-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Stardust from Raid Battles",
+                    "2× XP from Raid Battles",
+                    "Increased chance to encounter Shiny Party Top Hat Pikachu",
+                    "One additional Raid Pass per day from spinning Photo Discs at Gyms (for a daily total of two)"
+                ],
+                "spawns": [
+                    "New Years Hat Hoothoot",
+                    "Party Hat Bulbasaur",
+                    "Party Top Hat Pikachu",
+                    "Ribbon Jigglypuff"
+                ],
+                "raids": [
+                    "Gengar",
+                    "Nidorino",
+                    "Party Hat Wobbuffet",
+                    "Party Hat Wurmple",
+                    "Party Top Hat Pikachu",
+                    "Raticate"
+                ],
+                "shiny": [
+                    "Party Top Hat Pikachu"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-31T10:00:00",
+            "end_time": "2026-01-04T20:00:00",
+            "description": "Ring in 2026 with Pokémon GO’s New Year’s event!"
+        },
+        {
+            "title": "Pinch Perfect",
+            "article_url": "https://leekduck.com/events/pinch-perfect-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-06-pinch-perfect-2026/pinch-perfect-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× XP for catching Pokémon",
+                    "Increased chance of encountering Shiny Corphish, Shiny Dwebble, and Shiny Clauncher"
+                ],
+                "features": [
+                    "Dhelmise",
+                    "Klawf"
+                ],
+                "spawns": [
+                    "Archen",
+                    "Clauncher",
+                    "Corphish",
+                    "Dwebble",
+                    "Tirtouga"
+                ],
+                "raids": [
+                    "Clauncher",
+                    "Corphish",
+                    "Dhelmise",
+                    "Dondozo",
+                    "Dwebble"
+                ],
+                "research": [
+                    "Clauncher",
+                    "Corphish",
+                    "Dwebble",
+                    "Klawf"
+                ],
+                "shiny": [
+                    "Clauncher",
+                    "Corphish",
+                    "Dwebble"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-06T10:00:00",
+            "end_time": "2026-01-11T20:00:00",
+            "description": "Beware and prepare for Klawf and more during the Pinch Perfect event!"
+        },
+        {
+            "title": "High Zaptitude",
+            "article_url": "https://leekduck.com/events/high-zaptitude-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-13T10:00:00",
+            "end_time": "2026-01-18T20:00:00",
+            "description": "The High Zaptitude event will take place from January 13, 2026 at 10 am to January 18, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Precious Pals",
+            "article_url": "https://leekduck.com/events/precious-pals-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-20T10:00:00",
+            "end_time": "2026-01-25T20:00:00",
+            "description": "The Precious Pals event will take place from January 20, 2026 at 10 am to January 25, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Into the Depths",
+            "article_url": "https://leekduck.com/events/into-the-depths-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-27T10:00:00",
+            "end_time": "2026-02-01T20:00:00",
+            "description": "The Into the Depths event will take place from January 27, 2026 at 10 am to February 1, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Catch Mastery Day",
+            "article_url": "https://leekduck.com/events/catch-mastery-day-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-07T10:00:00",
+            "end_time": "2026-02-07T20:00:00",
+            "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details."
+        }
+    ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Drampa during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-01-05/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-05T18:00:00",
+            "end_time": "2026-01-05T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 5, 2026, the featured Dynamax Pokémon is Drampa.\n- Drampa"
+        },
+        {
+            "title": "Dynamax Caterpie during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-01-12/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-12T18:00:00",
+            "end_time": "2026-01-12T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 12, 2026, the featured Dynamax Pokémon is Caterpie.\n- Caterpie"
+        },
+        {
+            "title": "Dynamax Beldum during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-01-19/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-19T18:00:00",
+            "end_time": "2026-01-19T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 19, 2026, the featured Dynamax Pokémon is Beldum.\n- Beldum"
+        },
+        {
+            "title": "Dynamax Roggenrola during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-01-26/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-26T18:00:00",
+            "end_time": "2026-01-26T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 26, 2026, the featured Dynamax Pokémon is Roggenrola.\n- Roggenrola"
+        }
+    ],
+    "GO Pass": [
+        {
+            "title": "GO Pass: December",
+            "article_url": "https://leekduck.com/events/go-pass-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-02-go-pass-december-2025/go-pass-december-2025.jpg",
+            "category": "GO Pass",
+            "details": {
+                "bonuses": [
+                    "2× Daily Adventure Incense duration",
+                    "Additional rewards for completing in-person raids and Max Battles",
+                    "Hold up to 10 additional Gifts in your Item Bag",
+                    "Hold up to 20 additional Gifts in your Item Bag",
+                    "Open up to 40 Gifts per day",
+                    "Open up to 50 Gifts per day",
+                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-02T10:00:00",
+            "end_time": "2026-01-06T10:00:00",
+            "description": "Palkia and the Timed Incubator return for GO Pass: December!\nFrom Tuesday, December 2, 2025, at 10:00 a.m. to Tuesday, January 6, 2026, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for December will be available in Pokémon GO!"
+        },
+        {
+            "title": "GO Pass: January",
+            "article_url": "https://leekduck.com/events/go-pass-january-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-06-go-pass-january-2026/go-pass-january-2026.jpg",
+            "category": "GO Pass",
+            "details": {
+                "bonuses": [
+                    "2× Daily Adventure Incense duration",
+                    "Additional rewards for completing in-person raids and Max Battles",
+                    "Hold 10 more Gifts in your Item Bag",
+                    "Hold up to 20 more Gifts in your Item Bag",
+                    "Open up to 40 Gifts per day",
+                    "Open up to 50 Gifts per day",
+                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-06T10:00:00",
+            "end_time": "2026-02-03T10:00:00",
+            "description": "Dialga and the Lucky Trinket return for GO Pass: January!\nFrom Tuesday, January 6, at 10:00 a.m. to Tuesday, February 3, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for January will be available in Pokémon GO!"
         }
     ],
     "Raid Day": [
