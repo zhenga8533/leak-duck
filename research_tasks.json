@@ -1,4 +1,28 @@
 {
+    "New Year's 2026 Tasks": [
+        {
+            "task": "Catch 26 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Stardust",
+                    "quantity": 2026,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+                }
+            ]
+        },
+        {
+            "task": "Win a raid",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Stardust",
+                    "quantity": 2026,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+                }
+            ]
+        }
+    ],
     "Winter Holiday Part 2 Tasks": [
         {
             "task": "Catch 10 Pokémon",
@@ -51,62 +75,6 @@
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm54.cHOLIDAY_2023.icon.png"
-                }
-            ]
-        }
-    ],
-    "Winter Holiday Part 1 Tasks": [
-        {
-            "task": "Catch 10 Pokémon",
-            "rewards": [
-                {
-                    "type": "item",
-                    "name": "Stardust",
-                    "quantity": 1500,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
-                }
-            ]
-        },
-        {
-            "task": "Catch 15 Pokémon",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Pikachu with a Holiday Hat",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.cHOLIDAY_2016.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Pikachu wearing holiday attire",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.cHOLIDAY_2023.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Send 5 Gifts to friends",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Delibird",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm225.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Send 15 Gifts to friends",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Spheal wearing a holiday scarf",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm363.cHOLIDAY_2021_NOEVOLVE.icon.png"
                 }
             ]
         }

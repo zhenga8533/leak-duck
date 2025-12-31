@@ -1,116 +1,4 @@
 {
-    "GO Battle League": [
-        {
-            "title": "Great League and Holiday Cup: Ultra League Edition | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_holiday-cup-ultra-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1766523600,
-            "end_time": 1767128400,
-            "description": "The Great League and Holiday Cup: Ultra League Edition will run from December 23, 2025, at 1:00 p.m. to December 30, 2025, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- Only Normal-, Grass-, Electric-, Ice-, Flying-, and Ghost-type Pokémon are eligible."
-        },
-        {
-            "title": "Great League, Ultra League, and Master League | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-split-2/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1767128400,
-            "end_time": 1767733200,
-            "description": "The Great League, Ultra League, and Master League will run from December 30, 2025, at 1:00 p.m. to January 6, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
-        },
-        {
-            "title": "Ultra League and Sunshine Cup: Great League Edition | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_ultra-league_sunshine-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1767733200,
-            "end_time": 1768338000,
-            "description": "The Ultra League and Sunshine Cup: Great League Edition will run from January 6, 2026, at 1:00 p.m. to January 13, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Normal-, Fire-, Grass-, and Ground-type Pokémon are eligible.\n- Charizard is not allowed.\nThe following Pokémon will not be allowed.\n- Charizard"
-        },
-        {
-            "title": "Master Premier and Retro Cup: Great League Edition | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_master-premier_retro-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1768338000,
-            "end_time": 1768942800,
-            "description": "The Master Premier and Retro Cup: Great League Edition will run from January 13, 2026, at 1:00 p.m. to January 20, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- No CP limit.\n- Legendary Pokémon, Mythical Pokémon, and Ultra Beasts are not eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Dark-, Steel-, and Fairy-type Pokémon are not eligible."
-        },
-        {
-            "title": "Great League and Ultra Premier | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-premier/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1768942800,
-            "end_time": 1769547600,
-            "description": "The Great League and Ultra Premier will run from January 20, 2026, at 1:00 p.m. to January 27, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- Legendary Pokémon, Mythical Pokémon, and Ultra Beasts are not eligible."
-        },
-        {
-            "title": "Great League, Ultra League, and Master League | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-split-3/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1769547600,
-            "end_time": 1770152400,
-            "description": "The Great League, Ultra League, and Master League will run from January 27, 2026, at 1:00 p.m. to February 3, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
-        },
-        {
-            "title": "Ultra League and 2026 Championship Series Cup | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_ultra-league_2026-championship-series-cup/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1770152400,
-            "end_time": 1770757200,
-            "description": "The Ultra League and 2026 Championship Series Cup will run from February 3, 2026, at 1:00 p.m. to February 10, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Bug-, Dark-, Normal-, and Dragon-type Pokémon are eligible.\n- Fighting-, Flying-, and Steel-type Pokémon are not eligible.\n- Legendary Pokémon, Mythical Pokémon, Mega Pokémon, and Ultra Beasts are not eligible.\n- The following Pokémon will be allowed: Seaking, Politoed, Milotic, and Froslass.\nThe following Pokémon will not be allowed.\n- Wigglytuff\n- Chansey\n- Crustle\n- Diggersby\n- Ribombee\n- Araquanid\n- Turtonator\n- Morgrem\n- Morpeko"
-        },
-        {
-            "title": "Master League and 2026 Championship Series Cup | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_master-league_2026-championship-series-cup/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1770757200,
-            "end_time": 1771362000,
-            "description": "The Master League and 2026 Championship Series Cup will run from February 10, 2026, at 1:00 p.m. to February 17, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Bug-, Dark-, Normal-, and Dragon-type Pokémon are eligible.\n- Fighting-, Flying-, and Steel-type Pokémon are not eligible.\n- Legendary Pokémon, Mythical Pokémon, Mega Pokémon, and Ultra Beasts are not eligible.\n- The following Pokémon will be allowed: Seaking, Politoed, Milotic, and Froslass.\nThe following Pokémon will not be allowed.\n- Wigglytuff\n- Chansey\n- Crustle\n- Diggersby\n- Ribombee\n- Araquanid\n- Turtonator\n- Morgrem\n- Morpeko"
-        },
-        {
-            "title": "Great League and Love Cup: Great League Edition | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_love-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1771362000,
-            "end_time": 1771966800,
-            "description": "The Great League and Love Cup: Great League Edition will run from February 17, 2026, at 1:00 p.m. to February 24, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only red- or pink-colored Pokémon are eligible."
-        },
-        {
-            "title": "Great League, Ultra League, and Master League: Mega Edition | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-mega-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1771966800,
-            "end_time": 1772571600,
-            "description": "The Great League, Ultra League, and Master League: Mega Edition will run from February 24, 2026, at 1:00 p.m. to March 3, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
-        }
-    ],
     "Pokémon Spotlight Hour": [
         {
             "title": "Delibird Spotlight Hour",
@@ -243,6 +131,43 @@
             "start_time": "2025-12-02T06:00:00",
             "end_time": "2026-01-01T22:00:00",
             "description": "Shadow Heatran will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Heatran!\nShadow Heatran will appear in five-star Shadow Raids every weekend from December 2 to January 1:\n- December 6 - December 7\n- December 13 - December 14\n- December 20 - December 21\n- December 27 - December 28"
+        },
+        {
+            "title": "Blacephalon in Raids",
+            "article_url": "https://leekduck.com/events/blacephalon-in-raids-january-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Blacephalon"
+                ],
+                "shiny": [
+                    "Blacephalon"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-31T10:00:00",
+            "end_time": "2026-01-05T10:00:00",
+            "description": "Blacephalon return to raids on December 31, 2025, at 10 am local time."
+        },
+        {
+            "title": "Mega Swampert in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-swampert-in-mega-raids-january-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Swampert"
+                ],
+                "shiny": [
+                    "Mega Swampert",
+                    "Swampert"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-31T10:00:00",
+            "end_time": "2026-01-05T10:00:00",
+            "description": "Mega Swampert return to Mega Raids on December 31, 2025, at 10 am local time."
         },
         {
             "title": "Genesect (Burn Drive), Genesect (Chill Drive) in 5-star Raid Battles",
@@ -514,11 +439,16 @@
                 "spawns": [
                     "New Years Hat Hoothoot",
                     "Party Hat Bulbasaur",
+                    "Party Hat Charmander",
+                    "Party Hat Squirtle",
+                    "Party Hat Wurmple",
                     "Party Top Hat Pikachu",
                     "Ribbon Jigglypuff"
                 ],
                 "raids": [
+                    "Blacephalon",
                     "Gengar",
+                    "Mega Swampert",
                     "Nidorino",
                     "Party Hat Wobbuffet",
                     "Party Hat Wurmple",
@@ -714,6 +644,107 @@
             "start_time": "2026-01-06T10:00:00",
             "end_time": "2026-02-03T10:00:00",
             "description": "Dialga and the Lucky Trinket return for GO Pass: January!\nFrom Tuesday, January 6, at 10:00 a.m. to Tuesday, February 3, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for January will be available in Pokémon GO!"
+        }
+    ],
+    "GO Battle League": [
+        {
+            "title": "Great League, Ultra League, and Master League | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-split-2/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1767128400,
+            "end_time": 1767733200,
+            "description": "The Great League, Ultra League, and Master League will run from December 30, 2025, at 1:00 p.m. to January 6, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
+        },
+        {
+            "title": "Ultra League and Sunshine Cup: Great League Edition | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_ultra-league_sunshine-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1767733200,
+            "end_time": 1768338000,
+            "description": "The Ultra League and Sunshine Cup: Great League Edition will run from January 6, 2026, at 1:00 p.m. to January 13, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Normal-, Fire-, Grass-, and Ground-type Pokémon are eligible.\n- Charizard is not allowed.\nThe following Pokémon will not be allowed.\n- Charizard"
+        },
+        {
+            "title": "Master Premier and Retro Cup: Great League Edition | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_master-premier_retro-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1768338000,
+            "end_time": 1768942800,
+            "description": "The Master Premier and Retro Cup: Great League Edition will run from January 13, 2026, at 1:00 p.m. to January 20, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- No CP limit.\n- Legendary Pokémon, Mythical Pokémon, and Ultra Beasts are not eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Dark-, Steel-, and Fairy-type Pokémon are not eligible."
+        },
+        {
+            "title": "Great League and Ultra Premier | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-premier/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1768942800,
+            "end_time": 1769547600,
+            "description": "The Great League and Ultra Premier will run from January 20, 2026, at 1:00 p.m. to January 27, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- Legendary Pokémon, Mythical Pokémon, and Ultra Beasts are not eligible."
+        },
+        {
+            "title": "Great League, Ultra League, and Master League | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-split-3/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1769547600,
+            "end_time": 1770152400,
+            "description": "The Great League, Ultra League, and Master League will run from January 27, 2026, at 1:00 p.m. to February 3, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
+        },
+        {
+            "title": "Ultra League and 2026 Championship Series Cup | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_ultra-league_2026-championship-series-cup/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1770152400,
+            "end_time": 1770757200,
+            "description": "The Ultra League and 2026 Championship Series Cup will run from February 3, 2026, at 1:00 p.m. to February 10, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Bug-, Dark-, Normal-, and Dragon-type Pokémon are eligible.\n- Fighting-, Flying-, and Steel-type Pokémon are not eligible.\n- Legendary Pokémon, Mythical Pokémon, Mega Pokémon, and Ultra Beasts are not eligible.\n- The following Pokémon will be allowed: Seaking, Politoed, Milotic, and Froslass.\nThe following Pokémon will not be allowed.\n- Wigglytuff\n- Chansey\n- Crustle\n- Diggersby\n- Ribombee\n- Araquanid\n- Turtonator\n- Morgrem\n- Morpeko"
+        },
+        {
+            "title": "Master League and 2026 Championship Series Cup | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_master-league_2026-championship-series-cup/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1770757200,
+            "end_time": 1771362000,
+            "description": "The Master League and 2026 Championship Series Cup will run from February 10, 2026, at 1:00 p.m. to February 17, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Bug-, Dark-, Normal-, and Dragon-type Pokémon are eligible.\n- Fighting-, Flying-, and Steel-type Pokémon are not eligible.\n- Legendary Pokémon, Mythical Pokémon, Mega Pokémon, and Ultra Beasts are not eligible.\n- The following Pokémon will be allowed: Seaking, Politoed, Milotic, and Froslass.\nThe following Pokémon will not be allowed.\n- Wigglytuff\n- Chansey\n- Crustle\n- Diggersby\n- Ribombee\n- Araquanid\n- Turtonator\n- Morgrem\n- Morpeko"
+        },
+        {
+            "title": "Great League and Love Cup: Great League Edition | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_love-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1771362000,
+            "end_time": 1771966800,
+            "description": "The Great League and Love Cup: Great League Edition will run from February 17, 2026, at 1:00 p.m. to February 24, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only red- or pink-colored Pokémon are eligible."
+        },
+        {
+            "title": "Great League, Ultra League, and Master League: Mega Edition | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-mega-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1771966800,
+            "end_time": 1772571600,
+            "description": "The Great League, Ultra League, and Master League: Mega Edition will run from February 24, 2026, at 1:00 p.m. to March 3, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
         }
     ],
     "Raid Day": [
