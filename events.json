@@ -1,81 +1,4 @@
 {
-    "Pokémon Spotlight Hour": [
-        {
-            "title": "Delibird Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2025-12-30/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Delibird"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-30T18:00:00",
-            "end_time": "2025-12-30T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of December.\nDecember 30: The featured Pokémon is Delibird and the special bonus is 2× Catch Stardust."
-        },
-        {
-            "title": "Barboach Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-01-06/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Barboach"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-06T18:00:00",
-            "end_time": "2026-01-06T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of January.\nJanuary 6: The featured Pokémon is Barboach and the special bonus is 2× Catch XP."
-        },
-        {
-            "title": "Mareep Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-01-13/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Mareep"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-13T18:00:00",
-            "end_time": "2026-01-13T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of January.\nJanuary 13: The featured Pokémon is Mareep and the special bonus is 2× Evolution XP."
-        },
-        {
-            "title": "Hatenna Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-01-20/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Hatenna"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-20T18:00:00",
-            "end_time": "2026-01-20T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of January.\nJanuary 20: The featured Pokémon is Hatenna and the special bonus is 2× Transfer Candy."
-        },
-        {
-            "title": "Foongus Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-01-27/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Foongus"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-27T18:00:00",
-            "end_time": "2026-01-27T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of January.\nJanuary 27: The featured Pokémon is Foongus and the special bonus is 2× Catch Stardust."
-        }
-    ],
     "Raid Battles": [
         {
             "title": "Mega Glalie in Mega Raids",
@@ -447,13 +370,13 @@
                 ],
                 "raids": [
                     "Blacephalon",
-                    "Gengar",
                     "Mega Swampert",
-                    "Nidorino",
+                    "Party Hat Gengar",
+                    "Party Hat Nidorino",
+                    "Party Hat Raticate",
                     "Party Hat Wobbuffet",
                     "Party Hat Wurmple",
-                    "Party Top Hat Pikachu",
-                    "Raticate"
+                    "Party Top Hat Pikachu"
                 ],
                 "shiny": [
                     "Party Top Hat Pikachu"
@@ -745,6 +668,68 @@
             "start_time": 1771966800,
             "end_time": 1772571600,
             "description": "The Great League, Ultra League, and Master League: Mega Edition will run from February 24, 2026, at 1:00 p.m. to March 3, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
+        }
+    ],
+    "Pokémon Spotlight Hour": [
+        {
+            "title": "Barboach Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-01-06/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Barboach"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-06T18:00:00",
+            "end_time": "2026-01-06T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of January.\nJanuary 6: The featured Pokémon is Barboach and the special bonus is 2× Catch XP."
+        },
+        {
+            "title": "Mareep Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-01-13/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Mareep"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-13T18:00:00",
+            "end_time": "2026-01-13T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of January.\nJanuary 13: The featured Pokémon is Mareep and the special bonus is 2× Evolution XP."
+        },
+        {
+            "title": "Hatenna Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-01-20/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Hatenna"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-20T18:00:00",
+            "end_time": "2026-01-20T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of January.\nJanuary 20: The featured Pokémon is Hatenna and the special bonus is 2× Transfer Candy."
+        },
+        {
+            "title": "Foongus Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-01-27/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Foongus"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-27T18:00:00",
+            "end_time": "2026-01-27T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of January.\nJanuary 27: The featured Pokémon is Foongus and the special bonus is 2× Catch Stardust."
         }
     ],
     "Raid Day": [
