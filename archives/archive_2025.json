@@ -1692,6 +1692,43 @@
             "start_time": "2025-12-13T10:00:00",
             "end_time": "2025-12-22T10:00:00",
             "description": "Reshiram will be in five-star raid battles from December 13, 2025 to December 22, 2025.\nThere will also be a Raid Hour featuring Reshiram from 6:00 pm to 7:00 pm local time on the following dates:\n- December 17"
+        },
+        {
+            "title": "Mega Glalie in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-glalie-in-mega-raids-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Glalie"
+                ],
+                "shiny": [
+                    "Glalie",
+                    "Mega Glalie"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-22T10:00:00",
+            "end_time": "2025-12-31T10:00:00",
+            "description": "Mega Glalie return to Mega Raids on December 22, 2025, at 10 am local time."
+        },
+        {
+            "title": "Zekrom in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/zekrom-in-5-star-raid-battles-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/zekrom2.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Zekrom"
+                ],
+                "shiny": [
+                    "Zekrom"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-22T10:00:00",
+            "end_time": "2025-12-31T10:00:00",
+            "description": "Zekrom will be in five-star raid battles from December 22, 2025 to December 31, 2025.\nThere will also be a Raid Hour featuring Zekrom from 6:00 pm to 7:00 pm local time on the following dates:\n- December 24"
         }
     ],
     "GO Battle League": [
