@@ -1,0 +1,22 @@
+{
+    "Raid Battles": [
+        {
+            "title": "Shadow Heatran in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-heatran-in-shadow-raids-december-january-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Heatran"
+                ],
+                "shiny": [
+                    "Heatran"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-02T06:00:00",
+            "end_time": "2026-01-01T22:00:00",
+            "description": "Shadow Heatran will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Heatran!\nShadow Heatran will appear in five-star Shadow Raids every weekend from December 2 to January 1:\n- December 6 - December 7\n- December 13 - December 14\n- December 20 - December 21\n- December 27 - December 28"
+        }
+    ]
+}
