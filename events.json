@@ -205,6 +205,19 @@
             "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details."
         }
     ],
+    "PokéStop Showcase": [
+        {
+            "title": "Pikachu PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-pikachu/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-03T10:00:00",
+            "end_time": "2026-01-04T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Pikachu. Top the leaderboard to win rewards including Premium Items!\n- Pikachu"
+        }
+    ],
     "Raid Battles": [
         {
             "title": "Blacephalon in Raids",
