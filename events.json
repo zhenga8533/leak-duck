@@ -216,6 +216,17 @@
             "start_time": "2026-01-03T10:00:00",
             "end_time": "2026-01-04T20:00:00",
             "description": "There will be PokéStop Showcases featuring Pikachu. Top the leaderboard to win rewards including Premium Items!\n- Pikachu"
+        },
+        {
+            "title": "Water-type and Grass-type PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-water-grass-type/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-05T10:00:00",
+            "end_time": "2026-01-07T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Water-type Pokémon and Grass-type Pokémon. Top the leaderboard to win rewards including Premium Items!"
         }
     ],
     "Raid Battles": [
