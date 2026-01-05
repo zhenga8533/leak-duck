@@ -1,234 +1,4 @@
 {
-    "Community Day": [
-        {
-            "title": "Piplup Community Day Classic",
-            "article_url": "https://leekduck.com/events/january-communitydayclassic2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-04-january-communitydayclassic2026/piplup-community-day-classic.jpg",
-            "category": "Community Day",
-            "details": {
-                "bonuses": [
-                    "1-hour Lures**",
-                    "1/4 Hatch Distance",
-                    "3-hour Incense*",
-                    "Increased Spawns"
-                ],
-                "features": [
-                    "Piplup"
-                ],
-                "spawns": [
-                    "Piplup"
-                ],
-                "shiny": [
-                    "Empoleon",
-                    "Piplup",
-                    "Prinplup"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-04T14:00:00",
-            "end_time": "2026-01-04T17:00:00",
-            "description": "Piplup, the Penguin Pokémon, will be featured during January Community Day Classic!"
-        },
-        {
-            "title": "Grookey Community Day",
-            "article_url": "https://leekduck.com/events/january-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-18-january-communityday2026/grookey-community-day-january-2026.jpg",
-            "category": "Community Day",
-            "details": {
-                "bonuses": [
-                    "1-hour Lures*",
-                    "2x Catch Candy",
-                    "2x Chance to receive Candy XL from catching Pokémon",
-                    "3-hour Incense",
-                    "3x Catch Stardust",
-                    "Increased Spawns",
-                    "One additional Special Trade can be made for a maximum of three for the day*",
-                    "Trades made will require 50% less Stardust*"
-                ],
-                "features": [
-                    "Grookey"
-                ],
-                "spawns": [
-                    "Grookey"
-                ],
-                "shiny": [
-                    "Grookey",
-                    "Rillaboom",
-                    "Thwackey"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-18T14:00:00",
-            "end_time": "2026-01-18T17:00:00",
-            "description": "Grookey, the Chimp Pokémon, will be featured during January Community Day!"
-        },
-        {
-            "title": "February Community Day",
-            "article_url": "https://leekduck.com/events/february-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
-            "category": "Community Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-01T14:00:00",
-            "end_time": "2026-02-01T17:00:00",
-            "description": "February Community Day is on February 1, 2026. Stay tuned for the announcement of the featured Pokémon."
-        }
-    ],
-    "Event": [
-        {
-            "title": "New Year's 2026",
-            "article_url": "https://leekduck.com/events/new-years-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-31-new-years-2026/new-years-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× Stardust from Raid Battles",
-                    "2× XP from Raid Battles",
-                    "Increased chance to encounter Shiny Party Top Hat Pikachu",
-                    "One additional Raid Pass per day from spinning Photo Discs at Gyms (for a daily total of two)"
-                ],
-                "spawns": [
-                    "New Years Hat Hoothoot",
-                    "Party Hat Bulbasaur",
-                    "Party Hat Charmander",
-                    "Party Hat Squirtle",
-                    "Party Hat Wurmple",
-                    "Party Top Hat Pikachu",
-                    "Ribbon Jigglypuff"
-                ],
-                "raids": [
-                    "Blacephalon",
-                    "Mega Swampert",
-                    "Party Hat Gengar",
-                    "Party Hat Nidorino",
-                    "Party Hat Raticate",
-                    "Party Hat Wobbuffet",
-                    "Party Hat Wurmple",
-                    "Party Top Hat Pikachu"
-                ],
-                "shiny": [
-                    "Party Top Hat Pikachu"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-31T10:00:00",
-            "end_time": "2026-01-04T20:00:00",
-            "description": "Ring in 2026 with Pokémon GO’s New Year’s event!"
-        },
-        {
-            "title": "Pinch Perfect",
-            "article_url": "https://leekduck.com/events/pinch-perfect-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-06-pinch-perfect-2026/pinch-perfect-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× XP for catching Pokémon",
-                    "Increased chance of encountering Shiny Corphish, Shiny Dwebble, and Shiny Clauncher"
-                ],
-                "features": [
-                    "Dhelmise",
-                    "Klawf"
-                ],
-                "spawns": [
-                    "Archen",
-                    "Clauncher",
-                    "Corphish",
-                    "Dwebble",
-                    "Tirtouga"
-                ],
-                "raids": [
-                    "Clauncher",
-                    "Corphish",
-                    "Dhelmise",
-                    "Dondozo",
-                    "Dwebble"
-                ],
-                "research": [
-                    "Clauncher",
-                    "Corphish",
-                    "Dwebble",
-                    "Klawf"
-                ],
-                "shiny": [
-                    "Clauncher",
-                    "Corphish",
-                    "Dwebble"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-06T10:00:00",
-            "end_time": "2026-01-11T20:00:00",
-            "description": "Beware and prepare for Klawf and more during the Pinch Perfect event!"
-        },
-        {
-            "title": "High Zaptitude",
-            "article_url": "https://leekduck.com/events/high-zaptitude-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-13T10:00:00",
-            "end_time": "2026-01-18T20:00:00",
-            "description": "The High Zaptitude event will take place from January 13, 2026 at 10 am to January 18, 2026 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Precious Pals",
-            "article_url": "https://leekduck.com/events/precious-pals-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-20T10:00:00",
-            "end_time": "2026-01-25T20:00:00",
-            "description": "The Precious Pals event will take place from January 20, 2026 at 10 am to January 25, 2026 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Into the Depths",
-            "article_url": "https://leekduck.com/events/into-the-depths-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-27T10:00:00",
-            "end_time": "2026-02-01T20:00:00",
-            "description": "The Into the Depths event will take place from January 27, 2026 at 10 am to February 1, 2026 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Catch Mastery Day",
-            "article_url": "https://leekduck.com/events/catch-mastery-day-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-07T10:00:00",
-            "end_time": "2026-02-07T20:00:00",
-            "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details."
-        }
-    ],
-    "PokéStop Showcase": [
-        {
-            "title": "Pikachu PokéStop Showcase",
-            "article_url": "https://leekduck.com/events/pokemon-showcase-pikachu/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-03T10:00:00",
-            "end_time": "2026-01-04T20:00:00",
-            "description": "There will be PokéStop Showcases featuring Pikachu. Top the leaderboard to win rewards including Premium Items!\n- Pikachu"
-        },
-        {
-            "title": "Water-type and Grass-type PokéStop Showcases",
-            "article_url": "https://leekduck.com/events/pokemon-showcase-water-grass-type/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-05T10:00:00",
-            "end_time": "2026-01-07T20:00:00",
-            "description": "There will be PokéStop Showcases featuring Water-type Pokémon and Grass-type Pokémon. Top the leaderboard to win rewards including Premium Items!"
-        }
-    ],
     "Raid Battles": [
         {
             "title": "Blacephalon in Raids",
@@ -270,7 +40,7 @@
         {
             "title": "Genesect (Burn Drive), Genesect (Chill Drive) in 5-star Raid Battles",
             "article_url": "https://leekduck.com/events/genesect-burn-drive-genesect-chill-drive-in-5-star-raid-battles-january-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/genesect.jpg",
             "category": "Raid Battles",
             "details": {},
             "is_local_time": true,
@@ -677,6 +447,19 @@
             "description": "A Raid Hour featuring Tornadus (Incarnate Forme) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
         }
     ],
+    "PokéStop Showcase": [
+        {
+            "title": "Water-type and Grass-type PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-water-grass-type/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-05T10:00:00",
+            "end_time": "2026-01-07T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Water-type Pokémon and Grass-type Pokémon. Top the leaderboard to win rewards including Premium Items!"
+        }
+    ],
     "Raid Day": [
         {
             "title": "Kyurem Fusion Raid Day",
@@ -740,6 +523,143 @@
             "start_time": "2026-02-14T14:00:00",
             "end_time": "2026-02-14T17:00:00",
             "description": "The Raid Day event will take place on February 14, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        }
+    ],
+    "Event": [
+        {
+            "title": "Pinch Perfect",
+            "article_url": "https://leekduck.com/events/pinch-perfect-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-06-pinch-perfect-2026/pinch-perfect-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× XP for catching Pokémon",
+                    "Increased chance of encountering Shiny Corphish, Shiny Dwebble, and Shiny Clauncher"
+                ],
+                "features": [
+                    "Dhelmise",
+                    "Klawf"
+                ],
+                "spawns": [
+                    "Archen",
+                    "Clauncher",
+                    "Corphish",
+                    "Dwebble",
+                    "Tirtouga"
+                ],
+                "raids": [
+                    "Clauncher",
+                    "Corphish",
+                    "Dhelmise",
+                    "Dondozo",
+                    "Dwebble"
+                ],
+                "research": [
+                    "Clauncher",
+                    "Corphish",
+                    "Dwebble",
+                    "Klawf"
+                ],
+                "shiny": [
+                    "Clauncher",
+                    "Corphish",
+                    "Dwebble"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-06T10:00:00",
+            "end_time": "2026-01-11T20:00:00",
+            "description": "Beware and prepare for Klawf and more during the Pinch Perfect event!"
+        },
+        {
+            "title": "High Zaptitude",
+            "article_url": "https://leekduck.com/events/high-zaptitude-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-13T10:00:00",
+            "end_time": "2026-01-18T20:00:00",
+            "description": "The High Zaptitude event will take place from January 13, 2026 at 10 am to January 18, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Precious Pals",
+            "article_url": "https://leekduck.com/events/precious-pals-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-20T10:00:00",
+            "end_time": "2026-01-25T20:00:00",
+            "description": "The Precious Pals event will take place from January 20, 2026 at 10 am to January 25, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Into the Depths",
+            "article_url": "https://leekduck.com/events/into-the-depths-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-27T10:00:00",
+            "end_time": "2026-02-01T20:00:00",
+            "description": "The Into the Depths event will take place from January 27, 2026 at 10 am to February 1, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Catch Mastery Day",
+            "article_url": "https://leekduck.com/events/catch-mastery-day-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-07T10:00:00",
+            "end_time": "2026-02-07T20:00:00",
+            "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details."
+        }
+    ],
+    "Community Day": [
+        {
+            "title": "Grookey Community Day",
+            "article_url": "https://leekduck.com/events/january-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-18-january-communityday2026/grookey-community-day-january-2026.jpg",
+            "category": "Community Day",
+            "details": {
+                "bonuses": [
+                    "1-hour Lures*",
+                    "2x Catch Candy",
+                    "2x Chance to receive Candy XL from catching Pokémon",
+                    "3-hour Incense",
+                    "3x Catch Stardust",
+                    "Increased Spawns",
+                    "One additional Special Trade can be made for a maximum of three for the day*",
+                    "Trades made will require 50% less Stardust*"
+                ],
+                "features": [
+                    "Grookey"
+                ],
+                "spawns": [
+                    "Grookey"
+                ],
+                "shiny": [
+                    "Grookey",
+                    "Rillaboom",
+                    "Thwackey"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-18T14:00:00",
+            "end_time": "2026-01-18T17:00:00",
+            "description": "Grookey, the Chimp Pokémon, will be featured during January Community Day!"
+        },
+        {
+            "title": "February Community Day",
+            "article_url": "https://leekduck.com/events/february-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "category": "Community Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-01T14:00:00",
+            "end_time": "2026-02-01T17:00:00",
+            "description": "February Community Day is on February 1, 2026. Stay tuned for the announcement of the featured Pokémon."
         }
     ],
     "Team GO Rocket": [

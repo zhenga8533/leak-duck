@@ -18,5 +18,91 @@
             "end_time": "2026-01-01T22:00:00",
             "description": "Shadow Heatran will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Heatran!\nShadow Heatran will appear in five-star Shadow Raids every weekend from December 2 to January 1:\n- December 6 - December 7\n- December 13 - December 14\n- December 20 - December 21\n- December 27 - December 28"
         }
+    ],
+    "Community Day": [
+        {
+            "title": "Piplup Community Day Classic",
+            "article_url": "https://leekduck.com/events/january-communitydayclassic2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-04-january-communitydayclassic2026/piplup-community-day-classic.jpg",
+            "category": "Community Day",
+            "details": {
+                "bonuses": [
+                    "1-hour Lures**",
+                    "1/4 Hatch Distance",
+                    "3-hour Incense*",
+                    "Increased Spawns"
+                ],
+                "features": [
+                    "Piplup"
+                ],
+                "spawns": [
+                    "Piplup"
+                ],
+                "shiny": [
+                    "Empoleon",
+                    "Piplup",
+                    "Prinplup"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-04T14:00:00",
+            "end_time": "2026-01-04T17:00:00",
+            "description": "Piplup, the Penguin Pokémon, will be featured during January Community Day Classic!"
+        }
+    ],
+    "Event": [
+        {
+            "title": "New Year's 2026",
+            "article_url": "https://leekduck.com/events/new-years-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-31-new-years-2026/new-years-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Stardust from Raid Battles",
+                    "2× XP from Raid Battles",
+                    "Increased chance to encounter Shiny Party Top Hat Pikachu",
+                    "One additional Raid Pass per day from spinning Photo Discs at Gyms (for a daily total of two)"
+                ],
+                "spawns": [
+                    "New Years Hat Hoothoot",
+                    "Party Hat Bulbasaur",
+                    "Party Hat Charmander",
+                    "Party Hat Squirtle",
+                    "Party Hat Wurmple",
+                    "Party Top Hat Pikachu",
+                    "Ribbon Jigglypuff"
+                ],
+                "raids": [
+                    "Blacephalon",
+                    "Mega Swampert",
+                    "Party Hat Gengar",
+                    "Party Hat Nidorino",
+                    "Party Hat Raticate",
+                    "Party Hat Wobbuffet",
+                    "Party Hat Wurmple",
+                    "Party Top Hat Pikachu"
+                ],
+                "shiny": [
+                    "Party Top Hat Pikachu"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-31T10:00:00",
+            "end_time": "2026-01-04T20:00:00",
+            "description": "Ring in 2026 with Pokémon GO’s New Year’s event!"
+        }
+    ],
+    "PokéStop Showcase": [
+        {
+            "title": "Pikachu PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-pikachu/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-03T10:00:00",
+            "end_time": "2026-01-04T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Pikachu. Top the leaderboard to win rewards including Premium Items!\n- Pikachu"
+        }
     ]
 }
