@@ -1,151 +1,4 @@
 {
-    "Raid Battles": [
-        {
-            "title": "Blacephalon in Raids",
-            "article_url": "https://leekduck.com/events/blacephalon-in-raids-january-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Blacephalon"
-                ],
-                "shiny": [
-                    "Blacephalon"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-31T10:00:00",
-            "end_time": "2026-01-05T10:00:00",
-            "description": "Blacephalon return to raids on December 31, 2025, at 10 am local time."
-        },
-        {
-            "title": "Mega Swampert in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-swampert-in-mega-raids-january-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Swampert"
-                ],
-                "shiny": [
-                    "Mega Swampert",
-                    "Swampert"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2025-12-31T10:00:00",
-            "end_time": "2026-01-05T10:00:00",
-            "description": "Mega Swampert return to Mega Raids on December 31, 2025, at 10 am local time."
-        },
-        {
-            "title": "Genesect (Burn Drive), Genesect (Chill Drive) in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/genesect-burn-drive-genesect-chill-drive-in-5-star-raid-battles-january-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/genesect.jpg",
-            "category": "Raid Battles",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-05T10:00:00",
-            "end_time": "2026-01-16T10:00:00",
-            "description": "Genesect (Burn Drive) and Genesect (Chill Drive) will be in five-star raid battles from January 5, 2026 to January 16, 2026.\nThere will also be Raid Hours featuring Genesect (Burn Drive) and Genesect (Chill Drive) from 6:00 pm to 7:00 pm local time on the following dates:\n- January 7\n- January 14"
-        },
-        {
-            "title": "Mega Blaziken in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-blaziken-in-mega-raids-january-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Blaziken"
-                ],
-                "shiny": [
-                    "Blaziken",
-                    "Mega Blaziken"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-05T10:00:00",
-            "end_time": "2026-01-16T10:00:00",
-            "description": "Mega Blaziken return to Mega Raids on January 5, 2026, at 10 am local time."
-        },
-        {
-            "title": "Mega Sceptile in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-sceptile-in-mega-raids-january-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Sceptile"
-                ],
-                "shiny": [
-                    "Mega Sceptile",
-                    "Sceptile"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-16T10:00:00",
-            "end_time": "2026-01-25T10:00:00",
-            "description": "Mega Sceptile return to Mega Raids on January 16, 2026, at 10 am local time."
-        },
-        {
-            "title": "Thundurus (Incarnate Forme) in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/thundurus-incarnate-forme-in-5-star-raid-battles-january-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-16T10:00:00",
-            "end_time": "2026-01-25T10:00:00",
-            "description": "Thundurus (Incarnate Forme) will be in five-star raid battles from January 16, 2026 to January 25, 2026.\nThere will also be a Raid Hour featuring Thundurus (Incarnate Forme) from 6:00 pm to 7:00 pm local time on the following date:\n- January 21"
-        },
-        {
-            "title": "Shadow Cresselia in Shadow Raids",
-            "article_url": "https://leekduck.com/events/shadow-cresselia-in-shadow-raids-january-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Cresselia"
-                ],
-                "shiny": [
-                    "Cresselia"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-02T06:00:00",
-            "end_time": "2026-02-01T22:00:00",
-            "description": "Shadow Cresselia will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Cresselia!\nShadow Cresselia will appear in five-star Shadow Raids every weekend from January 2 to February 1:\n- January 3 - January 4\n- January 10 - January 11\n- January 17 - January 18\n- January 24 - January 25\n- January 31 - February 1"
-        },
-        {
-            "title": "Mega Ampharos in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-ampharos-in-mega-raids-january-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Ampharos"
-                ],
-                "shiny": [
-                    "Ampharos",
-                    "Mega Ampharos"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-25T10:00:00",
-            "end_time": "2026-02-04T10:00:00",
-            "description": "Mega Ampharos return to Mega Raids on January 25, 2026, at 10 am local time."
-        },
-        {
-            "title": "Tornadus (Incarnate Forme) in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/tornadus-incarnate-forme-in-5-star-raid-battles-january-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-25T10:00:00",
-            "end_time": "2026-02-04T10:00:00",
-            "description": "Tornadus (Incarnate Forme) will be in five-star raid battles from January 25, 2026 to February 4, 2026.\nThere will also be a Raid Hour featuring Tornadus (Incarnate Forme) from 6:00 pm to 7:00 pm local time on the following date:\n- January 28"
-        }
-    ],
     "Max Mondays": [
         {
             "title": "Dynamax Drampa during Max Monday",
@@ -542,10 +395,18 @@
                 ],
                 "spawns": [
                     "Archen",
+                    "Binacle",
                     "Clauncher",
                     "Corphish",
+                    "Drilbur",
                     "Dwebble",
-                    "Tirtouga"
+                    "Magikarp",
+                    "Onix",
+                    "Rhyhorn",
+                    "Sandshrew",
+                    "Tentacool",
+                    "Tirtouga",
+                    "Trapinch"
                 ],
                 "raids": [
                     "Clauncher",
@@ -557,7 +418,6 @@
                 "research": [
                     "Clauncher",
                     "Corphish",
-                    "Dwebble",
                     "Klawf"
                 ],
                 "shiny": [
@@ -574,13 +434,42 @@
         {
             "title": "High Zaptitude",
             "article_url": "https://leekduck.com/events/high-zaptitude-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-13-high-zaptitude-2026/high-zaptitude-2026.jpg?v2",
             "category": "Event",
-            "details": {},
+            "details": {
+                "bonuses": [
+                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
+                    "2× Stardust for catching Pokémon",
+                    "2× Stardust for hatching Pokémon",
+                    "2× XP for catching Pokémon",
+                    "2× XP for hatching Pokémon",
+                    "Increased chance to hatch Shiny Tadbulb"
+                ],
+                "features": [
+                    "Kilowattrel",
+                    "Wattrel"
+                ],
+                "spawns": [
+                    "Chinchou",
+                    "Helioptile",
+                    "Shinx",
+                    "Tadbulb"
+                ],
+                "eggs": [
+                    "Elekid",
+                    "Pichu",
+                    "Tadbulb",
+                    "Toxel"
+                ],
+                "shiny": [
+                    "Bellibolt",
+                    "Tadbulb"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-01-13T10:00:00",
             "end_time": "2026-01-18T20:00:00",
-            "description": "The High Zaptitude event will take place from January 13, 2026 at 10 am to January 18, 2026 at 8 pm. Stay tuned for more details."
+            "description": "Charge up for the High Zaptitude event to unlock Wattrel’s debut!"
         },
         {
             "title": "Precious Pals",
@@ -614,6 +503,116 @@
             "start_time": "2026-02-07T10:00:00",
             "end_time": "2026-02-07T20:00:00",
             "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details."
+        }
+    ],
+    "Raid Battles": [
+        {
+            "title": "Genesect (Burn Drive), Genesect (Chill Drive) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/genesect-burn-drive-genesect-chill-drive-in-5-star-raid-battles-january-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/genesect.jpg",
+            "category": "Raid Battles",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-05T10:00:00",
+            "end_time": "2026-01-16T10:00:00",
+            "description": "Genesect (Burn Drive) and Genesect (Chill Drive) will be in five-star raid battles from January 5, 2026 to January 16, 2026.\nThere will also be Raid Hours featuring Genesect (Burn Drive) and Genesect (Chill Drive) from 6:00 pm to 7:00 pm local time on the following dates:\n- January 7\n- January 14"
+        },
+        {
+            "title": "Mega Blaziken in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-blaziken-in-mega-raids-january-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Blaziken"
+                ],
+                "shiny": [
+                    "Blaziken",
+                    "Mega Blaziken"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-05T10:00:00",
+            "end_time": "2026-01-16T10:00:00",
+            "description": "Mega Blaziken return to Mega Raids on January 5, 2026, at 10 am local time."
+        },
+        {
+            "title": "Mega Sceptile in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-sceptile-in-mega-raids-january-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Sceptile"
+                ],
+                "shiny": [
+                    "Mega Sceptile",
+                    "Sceptile"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-16T10:00:00",
+            "end_time": "2026-01-25T10:00:00",
+            "description": "Mega Sceptile return to Mega Raids on January 16, 2026, at 10 am local time."
+        },
+        {
+            "title": "Thundurus (Incarnate Forme) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/thundurus-incarnate-forme-in-5-star-raid-battles-january-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-16T10:00:00",
+            "end_time": "2026-01-25T10:00:00",
+            "description": "Thundurus (Incarnate Forme) will be in five-star raid battles from January 16, 2026 to January 25, 2026.\nThere will also be a Raid Hour featuring Thundurus (Incarnate Forme) from 6:00 pm to 7:00 pm local time on the following date:\n- January 21"
+        },
+        {
+            "title": "Shadow Cresselia in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-cresselia-in-shadow-raids-january-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Cresselia"
+                ],
+                "shiny": [
+                    "Cresselia"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-02T06:00:00",
+            "end_time": "2026-02-01T22:00:00",
+            "description": "Shadow Cresselia will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Cresselia!\nShadow Cresselia will appear in five-star Shadow Raids every weekend from January 2 to February 1:\n- January 3 - January 4\n- January 10 - January 11\n- January 17 - January 18\n- January 24 - January 25\n- January 31 - February 1"
+        },
+        {
+            "title": "Mega Ampharos in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-ampharos-in-mega-raids-january-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Ampharos"
+                ],
+                "shiny": [
+                    "Ampharos",
+                    "Mega Ampharos"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-25T10:00:00",
+            "end_time": "2026-02-04T10:00:00",
+            "description": "Mega Ampharos return to Mega Raids on January 25, 2026, at 10 am local time."
+        },
+        {
+            "title": "Tornadus (Incarnate Forme) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/tornadus-incarnate-forme-in-5-star-raid-battles-january-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-25T10:00:00",
+            "end_time": "2026-02-04T10:00:00",
+            "description": "Tornadus (Incarnate Forme) will be in five-star raid battles from January 25, 2026 to February 4, 2026.\nThere will also be a Raid Hour featuring Tornadus (Incarnate Forme) from 6:00 pm to 7:00 pm local time on the following date:\n- January 28"
         }
     ],
     "Community Day": [
