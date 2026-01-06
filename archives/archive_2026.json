@@ -141,5 +141,18 @@
             "end_time": "2026-01-04T20:00:00",
             "description": "There will be PokéStop Showcases featuring Pikachu. Top the leaderboard to win rewards including Premium Items!\n- Pikachu"
         }
+    ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Drampa during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-01-05/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-05T18:00:00",
+            "end_time": "2026-01-05T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 5, 2026, the featured Dynamax Pokémon is Drampa.\n- Drampa"
+        }
     ]
 }
