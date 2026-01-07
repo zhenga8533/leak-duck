@@ -154,5 +154,42 @@
             "end_time": "2026-01-05T19:00:00",
             "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn January 5, 2026, the featured Dynamax Pokémon is Drampa.\n- Drampa"
         }
+    ],
+    "GO Pass": [
+        {
+            "title": "GO Pass: December",
+            "article_url": "https://leekduck.com/events/go-pass-december-2025/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-02-go-pass-december-2025/go-pass-december-2025.jpg",
+            "category": "GO Pass",
+            "details": {
+                "bonuses": [
+                    "2× Daily Adventure Incense duration",
+                    "Additional rewards for completing in-person raids and Max Battles",
+                    "Hold up to 10 additional Gifts in your Item Bag",
+                    "Hold up to 20 additional Gifts in your Item Bag",
+                    "Open up to 40 Gifts per day",
+                    "Open up to 50 Gifts per day",
+                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-02T10:00:00",
+            "end_time": "2026-01-06T10:00:00",
+            "description": "Palkia and the Timed Incubator return for GO Pass: December!\nFrom Tuesday, December 2, 2025, at 10:00 a.m. to Tuesday, January 6, 2026, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for December will be available in Pokémon GO!"
+        }
+    ],
+    "GO Battle League": [
+        {
+            "title": "Great League, Ultra League, and Master League | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-split-2/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1767128400,
+            "end_time": 1767733200,
+            "description": "The Great League, Ultra League, and Master League will run from December 30, 2025, at 1:00 p.m. to January 6, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
+        }
     ]
 }
