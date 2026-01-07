@@ -191,5 +191,22 @@
             "end_time": 1767733200,
             "description": "The Great League, Ultra League, and Master League will run from December 30, 2025, at 1:00 p.m. to January 6, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
         }
+    ],
+    "Pokémon Spotlight Hour": [
+        {
+            "title": "Barboach Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-01-06/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Barboach"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-06T18:00:00",
+            "end_time": "2026-01-06T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of January.\nJanuary 6: The featured Pokémon is Barboach and the special bonus is 2× Catch XP."
+        }
     ]
 }
