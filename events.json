@@ -162,7 +162,6 @@
                 ],
                 "research": [
                     "Clauncher",
-                    "Corphish",
                     "Klawf"
                 ],
                 "shiny": [
@@ -219,13 +218,39 @@
         {
             "title": "Precious Pals",
             "article_url": "https://leekduck.com/events/precious-pals-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-20-precious-pals-2026/precious-pals.jpg",
             "category": "Event",
-            "details": {},
+            "details": {
+                "bonuses": [
+                    "Additional Candy XL when walking with your Buddy Pokémon",
+                    "Earn additional hearts with your Buddy Pokémon",
+                    "Increased chance to encounter Shiny Goldeen",
+                    "Increased chance to hatch Shiny Goldeen and Shiny Fidough"
+                ],
+                "spawns": [
+                    "Espurr",
+                    "Fidough",
+                    "Goldeen",
+                    "Wimpod",
+                    "Zorua"
+                ],
+                "eggs": [
+                    "Fidough",
+                    "Goldeen",
+                    "Happiny",
+                    "Riolu",
+                    "Togepi"
+                ],
+                "shiny": [
+                    "Dachsbun",
+                    "Fidough",
+                    "Goldeen"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-01-20T10:00:00",
             "end_time": "2026-01-25T20:00:00",
-            "description": "The Precious Pals event will take place from January 20, 2026 at 10 am to January 25, 2026 at 8 pm. Stay tuned for more details."
+            "description": "Make memories with your Buddy Pokémon during the Precious Pals event!"
         },
         {
             "title": "Into the Depths",
