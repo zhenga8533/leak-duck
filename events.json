@@ -216,6 +216,15 @@
             "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details."
         }
     ],
+    "PokéStop Showcase": [
+        {
+            "title": "Klawf and Dhelmise PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-klawf-dhelmise/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "error": "ConnectionError: ReadTimeoutError"
+        }
+    ],
     "Max Mondays": [
         {
             "title": "Dynamax Caterpie during Max Monday",
