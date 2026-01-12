@@ -127,6 +127,57 @@
             "start_time": "2025-12-31T10:00:00",
             "end_time": "2026-01-04T20:00:00",
             "description": "Ring in 2026 with Pokémon GO’s New Year’s event!"
+        },
+        {
+            "title": "Pinch Perfect",
+            "article_url": "https://leekduck.com/events/pinch-perfect-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-06-pinch-perfect-2026/pinch-perfect-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× XP for catching Pokémon",
+                    "Increased chance of encountering Shiny Corphish, Shiny Dwebble, and Shiny Clauncher"
+                ],
+                "features": [
+                    "Dhelmise",
+                    "Klawf"
+                ],
+                "spawns": [
+                    "Archen",
+                    "Binacle",
+                    "Clauncher",
+                    "Corphish",
+                    "Drilbur",
+                    "Dwebble",
+                    "Magikarp",
+                    "Onix",
+                    "Rhyhorn",
+                    "Sandshrew",
+                    "Tentacool",
+                    "Tirtouga",
+                    "Trapinch"
+                ],
+                "raids": [
+                    "Clauncher",
+                    "Corphish",
+                    "Dhelmise",
+                    "Dondozo",
+                    "Dwebble"
+                ],
+                "research": [
+                    "Clauncher",
+                    "Klawf"
+                ],
+                "shiny": [
+                    "Clauncher",
+                    "Corphish",
+                    "Dwebble"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-06T10:00:00",
+            "end_time": "2026-01-11T20:00:00",
+            "description": "Beware and prepare for Klawf and more during the Pinch Perfect event!"
         }
     ],
     "PokéStop Showcase": [
@@ -151,6 +202,17 @@
             "start_time": "2026-01-05T10:00:00",
             "end_time": "2026-01-07T20:00:00",
             "description": "There will be PokéStop Showcases featuring Water-type Pokémon and Grass-type Pokémon. Top the leaderboard to win rewards including Premium Items!"
+        },
+        {
+            "title": "Klawf and Dhelmise PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-klawf-dhelmise/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-10T10:00:00",
+            "end_time": "2026-01-11T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Klawf and Dhelmise. Top the leaderboard to win rewards including Premium Items!\n- Dhelmise\n- Klawf"
         }
     ],
     "Max Mondays": [
