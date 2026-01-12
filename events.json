@@ -1,69 +1,4 @@
 {
-    "Raid Day": [
-        {
-            "title": "Kyurem Fusion Raid Day",
-            "article_url": "https://leekduck.com/events/kyurem-fusion-raid-day/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-10-kyurem-fusion-raid-day/fusion-raid-day.jpg",
-            "category": "Raid Day",
-            "details": {
-                "bonuses": [
-                    "2× Stardust from Raid Battles",
-                    "50% more XP from Raid Battles",
-                    "Eight additional Raid Passes from spinning Gym Photo Discs (for a daily total of 14)",
-                    "Increased chance to encounter Shiny Reshiram, Shiny Zekrom, and Shiny Kyurem in raids",
-                    "Increased chance to get Rare Candy XL from Raid Battles",
-                    "Receive up to five additional free Raid Passes from spinning Gym Photo Discs (for a total of six)",
-                    "Reshiram, Zekrom, Black Kyurem* and White Kyurem* will appear more frequently in raids, and these Raid Bosses will alternate each half hour during event hours. Reshiram and Black Kyurem will appear in raids first, followed by Zekrom and White Kyurem",
-                    "The Remote Raid Pass limit will increase to 20 from Friday, January 9, at 5:00 p.m. to Saturday, January 10, 2026, at 8:00 p.m. PST"
-                ],
-                "features": [
-                    "Kyurem (Black)",
-                    "Kyurem (White)",
-                    "Reshiram",
-                    "Zekrom"
-                ],
-                "raids": [
-                    "Kyurem (Black)",
-                    "Kyurem (White)",
-                    "Reshiram",
-                    "Zekrom"
-                ],
-                "shiny": [
-                    "Kyurem",
-                    "Kyurem (Black)",
-                    "Kyurem (White)",
-                    "Reshiram",
-                    "Zekrom"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-10T14:00:00",
-            "end_time": "2026-01-10T17:00:00",
-            "description": "Battle with the twin heroes for truth or ideals during Kyurem Fusion Raid Day!"
-        },
-        {
-            "title": "Shadow Raid Day",
-            "article_url": "https://leekduck.com/events/shadow-raid-day-january-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-24T14:00:00",
-            "end_time": "2026-01-24T17:00:00",
-            "description": "The Shadow Raid Day event will take place on January 24, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Raid Day",
-            "article_url": "https://leekduck.com/events/raid-day-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-14T14:00:00",
-            "end_time": "2026-02-14T17:00:00",
-            "description": "The Raid Day event will take place on February 14, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        }
-    ],
     "Event": [
         {
             "title": "Pinch Perfect",
@@ -227,6 +162,17 @@
             "start_time": "2026-01-10T10:00:00",
             "end_time": "2026-01-11T20:00:00",
             "description": "There will be PokéStop Showcases featuring Klawf and Dhelmise. Top the leaderboard to win rewards including Premium Items!\n- Dhelmise\n- Klawf"
+        },
+        {
+            "title": "Rock-type Pokémon PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-rock-type/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-12T10:00:00",
+            "end_time": "2026-01-14T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Rock-type Pokémon. Top the leaderboard to win rewards including Premium Items!"
         }
     ],
     "Max Mondays": [
@@ -590,6 +536,30 @@
             "start_time": "2026-02-01T14:00:00",
             "end_time": "2026-02-01T17:00:00",
             "description": "February Community Day is on February 1, 2026. Stay tuned for the announcement of the featured Pokémon."
+        }
+    ],
+    "Raid Day": [
+        {
+            "title": "Shadow Raid Day",
+            "article_url": "https://leekduck.com/events/shadow-raid-day-january-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-24T14:00:00",
+            "end_time": "2026-01-24T17:00:00",
+            "description": "The Shadow Raid Day event will take place on January 24, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Raid Day",
+            "article_url": "https://leekduck.com/events/raid-day-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-14T14:00:00",
+            "end_time": "2026-02-14T17:00:00",
+            "description": "The Raid Day event will take place on February 14, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
     "Team GO Rocket": [
