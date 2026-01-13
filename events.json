@@ -395,11 +395,19 @@
                     "Wattrel"
                 ],
                 "spawns": [
+                    "Alolan Geodude",
+                    "Blitzle",
                     "Chinchou",
+                    "Dedenne",
+                    "Emolga",
                     "Helioptile",
+                    "Hisuian Voltorb",
+                    "Pikachu",
                     "Shinx",
                     "Tadbulb",
-                    "Wattrel"
+                    "Tynamo",
+                    "Wattrel",
+                    "Yamper"
                 ],
                 "eggs": [
                     "Elekid",
