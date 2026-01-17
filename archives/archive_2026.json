@@ -54,6 +54,36 @@
             "start_time": "2025-12-31T10:00:00",
             "end_time": "2026-01-05T10:00:00",
             "description": "Mega Swampert return to Mega Raids on December 31, 2025, at 10 am local time."
+        },
+        {
+            "title": "Genesect (Burn Drive), Genesect (Chill Drive) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/genesect-burn-drive-genesect-chill-drive-in-5-star-raid-battles-january-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/genesect.jpg",
+            "category": "Raid Battles",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-05T10:00:00",
+            "end_time": "2026-01-16T10:00:00",
+            "description": "Genesect (Burn Drive) and Genesect (Chill Drive) will be in five-star raid battles from January 5, 2026 to January 16, 2026.\nThere will also be Raid Hours featuring Genesect (Burn Drive) and Genesect (Chill Drive) from 6:00 pm to 7:00 pm local time on the following dates:\n- January 7\n- January 14"
+        },
+        {
+            "title": "Mega Blaziken in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-blaziken-in-mega-raids-january-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Blaziken"
+                ],
+                "shiny": [
+                    "Blaziken",
+                    "Mega Blaziken"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-05T10:00:00",
+            "end_time": "2026-01-16T10:00:00",
+            "description": "Mega Blaziken return to Mega Raids on January 5, 2026, at 10 am local time."
         }
     ],
     "Community Day": [
