@@ -115,6 +115,36 @@
             "start_time": "2026-01-04T14:00:00",
             "end_time": "2026-01-04T17:00:00",
             "description": "Piplup, the Penguin Pokémon, will be featured during January Community Day Classic!"
+        },
+        {
+            "title": "Grookey Community Day",
+            "article_url": "https://leekduck.com/events/january-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-18-january-communityday2026/grookey-community-day-january-2026.jpg",
+            "category": "Community Day",
+            "details": {
+                "bonuses": [
+                    "1-hour Lures*",
+                    "2x Catch Candy",
+                    "2x Chance to receive Candy XL from catching Pokémon",
+                    "3-hour Incense",
+                    "3x Catch Stardust",
+                    "Increased Spawns",
+                    "One additional Special Trade can be made for a maximum of three for the day*",
+                    "Trades made will require 50% less Stardust*"
+                ],
+                "spawns": [
+                    "Grookey"
+                ],
+                "shiny": [
+                    "Grookey",
+                    "Rillaboom",
+                    "Thwackey"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-18T14:00:00",
+            "end_time": "2026-01-18T17:00:00",
+            "description": "Grookey, the Chimp Pokémon, will be featured during January Community Day!"
         }
     ],
     "Event": [
@@ -208,6 +238,54 @@
             "start_time": "2026-01-06T10:00:00",
             "end_time": "2026-01-11T20:00:00",
             "description": "Beware and prepare for Klawf and more during the Pinch Perfect event!"
+        },
+        {
+            "title": "High Zaptitude",
+            "article_url": "https://leekduck.com/events/high-zaptitude-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-13-high-zaptitude-2026/high-zaptitude-2026.jpg?v2",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
+                    "2× Stardust for catching Pokémon",
+                    "2× Stardust for hatching Pokémon",
+                    "2× XP for catching Pokémon",
+                    "2× XP for hatching Pokémon",
+                    "Increased chance to hatch Shiny Tadbulb"
+                ],
+                "features": [
+                    "Kilowattrel",
+                    "Wattrel"
+                ],
+                "spawns": [
+                    "Alolan Geodude",
+                    "Chinchou",
+                    "Dedenne",
+                    "Emolga",
+                    "Helioptile",
+                    "Hisuian Voltorb",
+                    "Pikachu",
+                    "Shinx",
+                    "Tadbulb",
+                    "Tynamo",
+                    "Wattrel",
+                    "Yamper"
+                ],
+                "eggs": [
+                    "Elekid",
+                    "Pichu",
+                    "Tadbulb",
+                    "Toxel"
+                ],
+                "shiny": [
+                    "Bellibolt",
+                    "Tadbulb"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-13T10:00:00",
+            "end_time": "2026-01-18T20:00:00",
+            "description": "Charge up for the High Zaptitude event to unlock Wattrel’s debut!"
         }
     ],
     "PokéStop Showcase": [
@@ -254,6 +332,17 @@
             "start_time": "2026-01-12T10:00:00",
             "end_time": "2026-01-14T20:00:00",
             "description": "There will be PokéStop Showcases featuring Rock-type Pokémon. Top the leaderboard to win rewards including Premium Items!"
+        },
+        {
+            "title": "Tadbulb, Bellibolt, Wattrel, and Kilowattrel PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-tadbulb-bellibolt-wattrel-kilowattrel/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-17T10:00:00",
+            "end_time": "2026-01-18T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Tadbulb, Bellibolt, Wattrel, and Kilowattrel. Top the leaderboard to win rewards including Premium Items!\n- Tadbulb\n- Bellibolt\n- Wattrel\n- Kilowattrel"
         }
     ],
     "Max Mondays": [

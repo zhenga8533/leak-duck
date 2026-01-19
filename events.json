@@ -1,201 +1,4 @@
 {
-    "Community Day": [
-        {
-            "title": "Grookey Community Day",
-            "article_url": "https://leekduck.com/events/january-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-18-january-communityday2026/grookey-community-day-january-2026.jpg",
-            "category": "Community Day",
-            "details": {
-                "bonuses": [
-                    "1-hour Lures*",
-                    "2x Catch Candy",
-                    "2x Chance to receive Candy XL from catching Pokémon",
-                    "3-hour Incense",
-                    "3x Catch Stardust",
-                    "Increased Spawns",
-                    "One additional Special Trade can be made for a maximum of three for the day*",
-                    "Trades made will require 50% less Stardust*"
-                ],
-                "spawns": [
-                    "Grookey"
-                ],
-                "shiny": [
-                    "Grookey",
-                    "Rillaboom",
-                    "Thwackey"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-18T14:00:00",
-            "end_time": "2026-01-18T17:00:00",
-            "description": "Grookey, the Chimp Pokémon, will be featured during January Community Day!"
-        },
-        {
-            "title": "February Community Day",
-            "article_url": "https://leekduck.com/events/february-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
-            "category": "Community Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-01T14:00:00",
-            "end_time": "2026-02-01T17:00:00",
-            "description": "February Community Day is on February 1, 2026. Stay tuned for the announcement of the featured Pokémon."
-        }
-    ],
-    "Event": [
-        {
-            "title": "High Zaptitude",
-            "article_url": "https://leekduck.com/events/high-zaptitude-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-13-high-zaptitude-2026/high-zaptitude-2026.jpg?v2",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
-                    "2× Stardust for catching Pokémon",
-                    "2× Stardust for hatching Pokémon",
-                    "2× XP for catching Pokémon",
-                    "2× XP for hatching Pokémon",
-                    "Increased chance to hatch Shiny Tadbulb"
-                ],
-                "features": [
-                    "Kilowattrel",
-                    "Wattrel"
-                ],
-                "spawns": [
-                    "Alolan Geodude",
-                    "Chinchou",
-                    "Dedenne",
-                    "Emolga",
-                    "Helioptile",
-                    "Hisuian Voltorb",
-                    "Pikachu",
-                    "Shinx",
-                    "Tadbulb",
-                    "Tynamo",
-                    "Wattrel",
-                    "Yamper"
-                ],
-                "eggs": [
-                    "Elekid",
-                    "Pichu",
-                    "Tadbulb",
-                    "Toxel"
-                ],
-                "shiny": [
-                    "Bellibolt",
-                    "Tadbulb"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-13T10:00:00",
-            "end_time": "2026-01-18T20:00:00",
-            "description": "Charge up for the High Zaptitude event to unlock Wattrel’s debut!"
-        },
-        {
-            "title": "Precious Pals",
-            "article_url": "https://leekduck.com/events/precious-pals-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-20-precious-pals-2026/precious-pals.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "Additional Candy XL when walking with your Buddy Pokémon",
-                    "Earn additional hearts with your Buddy Pokémon",
-                    "Increased chance to encounter Shiny Goldeen",
-                    "Increased chance to hatch Shiny Goldeen and Shiny Fidough"
-                ],
-                "spawns": [
-                    "Espurr",
-                    "Fidough",
-                    "Goldeen",
-                    "Wimpod",
-                    "Zorua"
-                ],
-                "eggs": [
-                    "Fidough",
-                    "Goldeen",
-                    "Happiny",
-                    "Riolu",
-                    "Togepi"
-                ],
-                "shiny": [
-                    "Dachsbun",
-                    "Fidough",
-                    "Goldeen"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-20T10:00:00",
-            "end_time": "2026-01-25T20:00:00",
-            "description": "Make memories with your Buddy Pokémon during the Precious Pals event!"
-        },
-        {
-            "title": "Into the Depths",
-            "article_url": "https://leekduck.com/events/into-the-depths-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-27-into-the-depths-2026/into-the-depths-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "1/2 Egg Hatch Distance",
-                    "3× XP from completing Routes"
-                ],
-                "features": [
-                    "Glimmet"
-                ],
-                "spawns": [
-                    "Diglett",
-                    "Dunsparce",
-                    "Meditite",
-                    "Yungoos"
-                ],
-                "eggs": [
-                    "Bagon",
-                    "Deino",
-                    "Diglett",
-                    "Larvitar",
-                    "Yungoos"
-                ],
-                "shiny": [
-                    "Diglett",
-                    "Yungoos"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-27T10:00:00",
-            "end_time": "2026-02-01T20:00:00",
-            "description": "Plunge Into the Depths for Glimmet’s debut in Pokémon GO!"
-        },
-        {
-            "title": "Catch Mastery Day",
-            "article_url": "https://leekduck.com/events/catch-mastery-day-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-07T10:00:00",
-            "end_time": "2026-02-07T20:00:00",
-            "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details."
-        }
-    ],
-    "PokéStop Showcase": [
-        {
-            "title": "Tadbulb, Bellibolt, Wattrel, and Kilowattrel PokéStop Showcase",
-            "article_url": "https://leekduck.com/events/pokemon-showcase-tadbulb-bellibolt-wattrel-kilowattrel/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-17T10:00:00",
-            "end_time": "2026-01-18T20:00:00",
-            "description": "There will be PokéStop Showcases featuring Tadbulb, Bellibolt, Wattrel, and Kilowattrel. Top the leaderboard to win rewards including Premium Items!\n- Tadbulb\n- Bellibolt\n- Wattrel\n- Kilowattrel"
-        },
-        {
-            "title": "Fidough and Dachsbun PokéStop Showcases",
-            "article_url": "https://leekduck.com/events/pokemon-showcase-fidough-dachsbun/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "error": "TimeoutException"
-        }
-    ],
     "Max Mondays": [
         {
             "title": "Dynamax Beldum during Max Monday",
@@ -355,6 +158,19 @@
             "description": "A Raid Hour featuring Tornadus (Incarnate Forme) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
         }
     ],
+    "PokéStop Showcase": [
+        {
+            "title": "Fidough and Dachsbun PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-fidough-dachsbun/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-19T10:00:00",
+            "end_time": "2026-01-21T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Fidough and Dachsbun. Top the leaderboard to win rewards including Premium Items!\n- Fidough\n- Dachsbun"
+        }
+    ],
     "Raid Day": [
         {
             "title": "Shadow Raikou Raid Day",
@@ -500,6 +316,109 @@
             "start_time": "2026-01-23T00:00:00",
             "end_time": "2026-01-25T20:00:00",
             "description": "Rescue Shadow Incarnate Forme Thundurus during Precious Pals: Taken Over!"
+        }
+    ],
+    "Event": [
+        {
+            "title": "Precious Pals",
+            "article_url": "https://leekduck.com/events/precious-pals-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-20-precious-pals-2026/precious-pals.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "Additional Candy XL when walking with your Buddy Pokémon",
+                    "Earn additional hearts with your Buddy Pokémon",
+                    "Increased chance to encounter Shiny Goldeen",
+                    "Increased chance to hatch Shiny Goldeen and Shiny Fidough"
+                ],
+                "features": [
+                    "Dachsbun",
+                    "Fidough"
+                ],
+                "spawns": [
+                    "Espurr",
+                    "Fidough",
+                    "Goldeen",
+                    "Wimpod",
+                    "Zorua"
+                ],
+                "eggs": [
+                    "Fidough",
+                    "Goldeen",
+                    "Happiny",
+                    "Riolu",
+                    "Togepi"
+                ],
+                "shiny": [
+                    "Dachsbun",
+                    "Fidough",
+                    "Goldeen"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-20T10:00:00",
+            "end_time": "2026-01-25T20:00:00",
+            "description": "Make memories with your Buddy Pokémon during the Precious Pals event!"
+        },
+        {
+            "title": "Into the Depths",
+            "article_url": "https://leekduck.com/events/into-the-depths-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-27-into-the-depths-2026/into-the-depths-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "1/2 Egg Hatch Distance",
+                    "3× XP from completing Routes"
+                ],
+                "features": [
+                    "Glimmet"
+                ],
+                "spawns": [
+                    "Diglett",
+                    "Dunsparce",
+                    "Meditite",
+                    "Yungoos"
+                ],
+                "eggs": [
+                    "Bagon",
+                    "Deino",
+                    "Diglett",
+                    "Larvitar",
+                    "Yungoos"
+                ],
+                "shiny": [
+                    "Diglett",
+                    "Yungoos"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-27T10:00:00",
+            "end_time": "2026-02-01T20:00:00",
+            "description": "Plunge Into the Depths for Glimmet’s debut in Pokémon GO!"
+        },
+        {
+            "title": "Catch Mastery Day",
+            "article_url": "https://leekduck.com/events/catch-mastery-day-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-07T10:00:00",
+            "end_time": "2026-02-07T20:00:00",
+            "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details."
+        }
+    ],
+    "Community Day": [
+        {
+            "title": "February Community Day",
+            "article_url": "https://leekduck.com/events/february-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "category": "Community Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-01T14:00:00",
+            "end_time": "2026-02-01T17:00:00",
+            "description": "February Community Day is on February 1, 2026. Stay tuned for the announcement of the featured Pokémon."
         }
     ],
     "Max Battles": [
