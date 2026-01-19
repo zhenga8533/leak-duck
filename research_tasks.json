@@ -39,7 +39,7 @@
     ],
     "Grookey Community Day - Special backgrounds Tasks": [
         {
-            "task": "Win a five-star or higher raid",
+            "task": "Catch 5 Pokémon while in a Party",
             "rewards": [
                 {
                     "type": "encounter",
@@ -51,19 +51,7 @@
             ]
         },
         {
-            "task": "Trade a Pokémon",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Grookey",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm810.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Complete a Party Challenge",
+            "task": "Catch 50 Pokémon",
             "rewards": [
                 {
                     "type": "encounter",
