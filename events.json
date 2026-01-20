@@ -209,6 +209,39 @@
             "start_time": "2026-02-14T14:00:00",
             "end_time": "2026-02-14T17:00:00",
             "description": "The Raid Day event will take place on February 14, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Raid Day",
+            "article_url": "https://leekduck.com/events/raid-day-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-04-04T14:00:00",
+            "end_time": "2026-04-04T17:00:00",
+            "description": "The Raid Day event will take place on April 4, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Shadow Raid Day",
+            "article_url": "https://leekduck.com/events/shadow-raid-day-may-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-02T14:00:00",
+            "end_time": "2026-05-02T17:00:00",
+            "description": "The Shadow Raid Day event will take place on May 2, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Raid Day",
+            "article_url": "https://leekduck.com/events/raid-day-may-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-23T14:00:00",
+            "end_time": "2026-05-23T17:00:00",
+            "description": "The Raid Day event will take place on May 23, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
     "Raid Battles": [
@@ -336,9 +369,15 @@
                     "Fidough"
                 ],
                 "spawns": [
+                    "Eevee",
                     "Espurr",
                     "Fidough",
                     "Goldeen",
+                    "Magikarp",
+                    "Pancham",
+                    "Pawmi",
+                    "Stufful",
+                    "Swablu",
                     "Wimpod",
                     "Zorua"
                 ],
@@ -406,32 +445,123 @@
             "start_time": "2026-02-07T10:00:00",
             "end_time": "2026-02-07T20:00:00",
             "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Hatch Day",
+            "article_url": "https://leekduck.com/events/hatch-day-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-04-18T14:00:00",
+            "end_time": "2026-04-18T17:00:00",
+            "description": "The Hatch Day event will take place on April 18, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
     "Community Day": [
         {
-            "title": "February Community Day",
+            "title": "Vulpix Community Day",
             "article_url": "https://leekduck.com/events/february-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-01-february-communityday2026/vulpix-community-day-temp.jpg",
+            "category": "Community Day",
+            "details": {
+                "bonuses": [
+                    "1-hour Lures",
+                    "2x Catch Candy",
+                    "2x Chance to receive Candy XL from catching Pokémon",
+                    "3-hour Incense",
+                    "???",
+                    "Increased Spawns",
+                    "One additional Special Trade can be made for a maximum of three for the day*",
+                    "Trades made will require 50% less Stardust*"
+                ],
+                "spawns": [
+                    "Alolan Vulpix",
+                    "Vulpix"
+                ],
+                "shiny": [
+                    "Alolan Ninetales",
+                    "Alolan Vulpix",
+                    "Ninetales",
+                    "Vulpix"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-01T14:00:00",
+            "end_time": "2026-02-01T17:00:00",
+            "description": "Vulpix and Alolan Vulpix, the Fox Pokémon, will be featured during February Community Day!"
+        },
+        {
+            "title": "March Community Day",
+            "article_url": "https://leekduck.com/events/march-communityday2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
             "category": "Community Day",
             "details": {},
             "is_local_time": true,
-            "start_time": "2026-02-01T14:00:00",
-            "end_time": "2026-02-01T17:00:00",
-            "description": "February Community Day is on February 1, 2026. Stay tuned for the announcement of the featured Pokémon."
+            "start_time": "2026-03-14T14:00:00",
+            "end_time": "2026-03-14T17:00:00",
+            "description": "The March Community Day event will take place on March 14, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "April Community Day",
+            "article_url": "https://leekduck.com/events/april-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "category": "Community Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-04-11T14:00:00",
+            "end_time": "2026-04-11T17:00:00",
+            "description": "The April Community Day event will take place on April 11, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "May Community Day",
+            "article_url": "https://leekduck.com/events/may-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "category": "Community Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-09T14:00:00",
+            "end_time": "2026-05-09T17:00:00",
+            "description": "The May Community Day event will take place on May 9, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "May Community Day Classic",
+            "article_url": "https://leekduck.com/events/may-communitydayclassic2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "category": "Community Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-16T14:00:00",
+            "end_time": "2026-05-16T17:00:00",
+            "description": "The May Community Day Classic event will take place on May 16, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
     "Max Battles": [
         {
-            "title": "Dynamax Weekend",
-            "article_url": "https://leekduck.com/events/dynamax-weekend-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "title": "Dynamax Ho-Oh Max Battle Weekend",
+            "article_url": "https://leekduck.com/events/dynamax-ho-oh-max-battle-weekend/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-31-dynamax-ho-oh-max-battle-weekend/dynamax-ho-oh-max-battle-weekend.jpg?v2",
             "category": "Max Battles",
-            "details": {},
+            "details": {
+                "bonuses": [
+                    "1/4 Adventuring distance to receive Max Particles*",
+                    "2× XP from Max Battles",
+                    "8× Max Particles from Power Spots",
+                    "Increased Candy and Candy XL from five-star Max Battles",
+                    "Max Particle collection limit increased to 1,600",
+                    "Power Spots will refresh more frequently"
+                ],
+                "features": [
+                    "Ho-Oh"
+                ],
+                "shiny": [
+                    "Ho-Oh"
+                ]
+            },
             "is_local_time": true,
-            "start_time": "2026-01-31T10:00:00",
-            "end_time": "2026-02-01T20:00:00",
-            "description": "The Dynamax Weekend event will take place from January 31, 2026 at 10 am to February 1, 2026 at 8 pm. Stay tuned for more details."
+            "start_time": "2026-01-31T06:00:00",
+            "end_time": "2026-02-01T21:00:00",
+            "description": "Let colors fly during Dynamax Ho-Oh Max Battle Weekend!"
         },
         {
             "title": "Max Battle Day",
@@ -443,6 +573,28 @@
             "start_time": "2026-02-15T14:00:00",
             "end_time": "2026-02-15T17:00:00",
             "description": "The Max Battle Day event will take place on February 15, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Max Battle Day",
+            "article_url": "https://leekduck.com/events/max-battle-day-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Max Battles",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-28T14:00:00",
+            "end_time": "2026-03-28T17:00:00",
+            "description": "The Max Battle Day event will take place on March 28, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Max Battle Day",
+            "article_url": "https://leekduck.com/events/max-battle-day-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Max Battles",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-04-25T14:00:00",
+            "end_time": "2026-04-25T17:00:00",
+            "description": "The Max Battle Day event will take place on April 25, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
     "GO Pass": [
@@ -1007,6 +1159,30 @@
             "start_time": "2025-12-02T10:00:00",
             "end_time": "2026-03-03T10:00:00",
             "description": "Welcome to the next Pokémon GO Season: Precious Paths!"
+        },
+        {
+            "title": "Season Event",
+            "article_url": "https://leekduck.com/events/season-event-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Season",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-07T10:00:00",
+            "end_time": "2026-03-09T20:00:00",
+            "description": "The Season Event event will take place from March 7, 2026 at 10 am to March 9, 2026 at 8 pm. Stay tuned for more details."
+        }
+    ],
+    "Research Day": [
+        {
+            "title": "Research Day",
+            "article_url": "https://leekduck.com/events/research-day-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Research Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-21T14:00:00",
+            "end_time": "2026-03-21T17:00:00",
+            "description": "The Research Day event will take place on March 21, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ]
 }

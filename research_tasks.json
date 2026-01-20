@@ -1,64 +1,63 @@
 {
-    "Grookey Community Day Tasks": [
+    "Precious Pals Tasks": [
         {
-            "task": "Catch 3 Grookey",
+            "task": "Earn a Candy exploring with your buddy",
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Grookey",
+                    "name": "Fidough",
                     "shiny_available": false,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm810.icon.png"
-                },
-                {
-                    "type": "item",
-                    "name": "Great Ball",
-                    "quantity": 5,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Great Ball.png"
-                },
-                {
-                    "type": "item",
-                    "name": "Ultra Ball",
-                    "quantity": 2,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Ultra Ball.png"
-                },
-                {
-                    "type": "item",
-                    "name": "Pinap Berry",
-                    "quantity": 2,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Pinap Berry.png"
-                },
-                {
-                    "type": "item",
-                    "name": "Stardust",
-                    "quantity": 500,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
-                }
-            ]
-        }
-    ],
-    "Grookey Community Day - Special backgrounds Tasks": [
-        {
-            "task": "Catch 5 Pokémon while in a Party",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Grookey",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm810.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm926.icon.png"
                 }
             ]
         },
         {
-            "task": "Catch 50 Pokémon",
+            "task": "Give your buddy 1 treats",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Razz Berry",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Razz Berry.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Nanab Berry",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Nanab Berry.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Pinap Berry",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Pinap Berry.png"
+                }
+            ]
+        },
+        {
+            "task": "Take a snapshot of your buddy",
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Grookey",
-                    "shiny_available": false,
+                    "name": "Goldeen",
+                    "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm810.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm118.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Eevee",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm133.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pawmi",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm921.icon.png"
                 }
             ]
         }
