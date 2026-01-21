@@ -6,7 +6,7 @@
                 {
                     "type": "encounter",
                     "name": "Fidough",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm926.icon.png"
                 }
@@ -58,72 +58,6 @@
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm921.icon.png"
-                }
-            ]
-        }
-    ],
-    "High Zaptitude Tasks": [
-        {
-            "task": "Catch 5 Pokémon",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Chinchou",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm170.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Tynamo",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm602.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Helioptile",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm694.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Catch 15 Pokémon",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Emolga",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm587.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Yamper",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm835.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Tadbulb",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm938.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Hatch an Egg",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Wattrel",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm940.icon.png"
                 }
             ]
         }
@@ -1521,7 +1455,7 @@
                 {
                     "type": "encounter",
                     "name": "Fidough",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm926.icon.png"
                 }
