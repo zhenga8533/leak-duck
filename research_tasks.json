@@ -1,4 +1,39 @@
 {
+    "Precious Pals: Taken Over Tasks": [
+        {
+            "task": "???",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Fast TM",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Fast TM.png"
+                }
+            ]
+        },
+        {
+            "task": "???",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Charged TM",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Charged TM.png"
+                }
+            ]
+        },
+        {
+            "task": "???",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Mysterious Component",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Mysterious Component.png"
+                }
+            ]
+        }
+    ],
     "Precious Pals Tasks": [
         {
             "task": "Earn a Candy exploring with your buddy",
