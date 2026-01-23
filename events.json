@@ -161,7 +161,7 @@
             "details": {
                 "bonuses": [
                     "Pokémon caught via one-star and three-star Shadow Raids during the event will have a wider variance of Attack, Defense, and HP.",
-                    "Team GO Rocket will appear more frequently at PokéStops and in balloons.",
+                    "Team GO Rocket will appear more frequently at PokéStops and in balloons*",
                     "You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration."
                 ],
                 "features": [
@@ -170,7 +170,19 @@
                 "shadow": [
                     "Chespin",
                     "Fennekin",
-                    "Froakie"
+                    "Froakie",
+                    "Hoppip",
+                    "Magikarp",
+                    "Mawile"
+                ],
+                "raids": [
+                    "Alolan Marowak",
+                    "Cacnea",
+                    "Dratini",
+                    "Gligar",
+                    "Joltik",
+                    "Lapras",
+                    "Stantler"
                 ]
             },
             "is_local_time": true,
@@ -273,6 +285,39 @@
             "start_time": "2026-02-07T10:00:00",
             "end_time": "2026-02-07T20:00:00",
             "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Carnival of Flamigo",
+            "article_url": "https://leekduck.com/events/carnival-of-flamigo/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-03-carnival-of-flamigo/carnival-of-flamigo.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Daily Adventure Incense duration",
+                    "2× Incense duration",
+                    "500 Additional Stardust for catching Flamigo",
+                    "Increased chance to encounter Shiny Lotad, Shiny Spritzee, and Shiny Pikipek"
+                ],
+                "features": [
+                    "Flamigo"
+                ],
+                "spawns": [
+                    "Buneary",
+                    "Flamigo",
+                    "Lotad",
+                    "Pikipek",
+                    "Spritzee"
+                ],
+                "shiny": [
+                    "Lotad",
+                    "Pikipek",
+                    "Spritzee"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-03T10:00:00",
+            "end_time": "2026-02-08T20:00:00",
+            "description": "Celebrate the spirit of Carnival with Flamigo’s Pokémon GO debut!\nThe Carnival of Flamigo event will take place from February 3, 2026 at 10 am to February 8, 2026 at 8 pm."
         },
         {
             "title": "Hatch Day",
