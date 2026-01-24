@@ -396,9 +396,9 @@
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm365.icon.png"
                 },
                 {
-                    "name": "Kabutops",
+                    "name": "Tentacruel",
                     "shiny_available": false,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm141.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm73.icon.png"
                 }
             ],
             "is_encounter": false
@@ -975,7 +975,7 @@
             "pokemons": [
                 {
                     "name": "Venonat",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm48.icon.png"
                 },
                 {
@@ -996,7 +996,7 @@
             "pokemons": [
                 {
                     "name": "Pinsir",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm127.icon.png"
                 },
                 {
@@ -1039,11 +1039,6 @@
             "slot": 1,
             "pokemons": [
                 {
-                    "name": "Kabuto",
-                    "shiny_available": false,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm140.icon.png"
-                },
-                {
                     "name": "Shuckle",
                     "shiny_available": false,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm213.icon.png"
@@ -1052,6 +1047,11 @@
                     "name": "Omanyte",
                     "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm138.icon.png"
+                },
+                {
+                    "name": "Cranidos",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm408.icon.png"
                 }
             ],
             "is_encounter": true
@@ -1300,7 +1300,7 @@
                 },
                 {
                     "name": "Aron",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm304.icon.png"
                 }
             ],

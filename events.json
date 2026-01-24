@@ -39,17 +39,6 @@
             "description": "The Raid Day event will take place on February 14, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         },
         {
-            "title": "Raid Day 2026",
-            "article_url": "https://leekduck.com/events/raid-day-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-14T14:00:00",
-            "end_time": "2026-02-14T17:00:00",
-            "description": "The Raid Day 2026 event will take place on February 14, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        },
-        {
             "title": "Raid Day",
             "article_url": "https://leekduck.com/events/raid-day-april-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
@@ -414,17 +403,6 @@
             "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details."
         },
         {
-            "title": "Catch Mastery 2026",
-            "article_url": "https://leekduck.com/events/catch-mastery-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-07T10:00:00",
-            "end_time": "2026-02-07T20:00:00",
-            "description": "The Catch Mastery 2026 event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details."
-        },
-        {
             "title": "Carnival of Flamigo",
             "article_url": "https://leekduck.com/events/carnival-of-flamigo/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-03-carnival-of-flamigo/carnival-of-flamigo.jpg",
@@ -458,17 +436,6 @@
             "description": "Celebrate the spirit of Carnival with Flamigo’s Pokémon GO debut!\nThe Carnival of Flamigo event will take place from February 3, 2026 at 10 am to February 8, 2026 at 8 pm."
         },
         {
-            "title": "Carnival of Flamigo 2026",
-            "article_url": "https://leekduck.com/events/carnival-of-flamigo-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-03T10:00:00",
-            "end_time": "2026-02-08T20:00:00",
-            "description": "The Carnival of Flamigo 2026 event will take place from February 3, 2026 at 10 am to February 8, 2026 at 8 pm. Stay tuned for more details."
-        },
-        {
             "title": "Valentine's Day 2026",
             "article_url": "https://leekduck.com/events/valentines-day-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
@@ -478,17 +445,6 @@
             "start_time": "2026-02-10T10:00:00",
             "end_time": "2026-02-15T20:00:00",
             "description": "The Valentine’s Day 2026 event will take place from February 10, 2026 at 10 am to February 15, 2026 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Max Battle Day 2026",
-            "article_url": "https://leekduck.com/events/max-battle-day-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-15T10:00:00",
-            "end_time": "2026-02-15T20:00:00",
-            "description": "The Max Battle Day 2026 event will take place on February 15, 2026 from 10 am to 8 pm. Stay tuned for more details."
         },
         {
             "title": "Lunar New Year 2026",
@@ -511,6 +467,19 @@
             "start_time": "2026-04-18T14:00:00",
             "end_time": "2026-04-18T17:00:00",
             "description": "The Hatch Day event will take place on April 18, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        }
+    ],
+    "PokéStop Showcase": [
+        {
+            "title": "Ultra Buddy and Best Buddy PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-ultra-buddy-or-higher/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-24T10:00:00",
+            "end_time": "2026-01-25T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Ultra Buddy or higher. Top the leaderboard to win rewards including Premium Items!"
         }
     ],
     "Max Mondays": [
