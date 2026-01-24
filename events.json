@@ -219,9 +219,6 @@
             "details": {
                 "raids": [
                     "Solgaleo"
-                ],
-                "shiny": [
-                    "Solgaleo"
                 ]
             },
             "is_local_time": true,
@@ -236,9 +233,6 @@
             "category": "Raid Battles",
             "details": {
                 "raids": [
-                    "Lunala"
-                ],
-                "shiny": [
                     "Lunala"
                 ]
             },
