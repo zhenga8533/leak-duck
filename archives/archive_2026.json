@@ -573,6 +573,33 @@
             "start_time": "2026-01-10T14:00:00",
             "end_time": "2026-01-10T17:00:00",
             "description": "Battle with the twin heroes for truth or ideals during Kyurem Fusion Raid Day!"
+        },
+        {
+            "title": "Shadow Raikou Raid Day",
+            "article_url": "https://leekduck.com/events/shadow-raikou-raid-day-january-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-24-shadow-raikou-raid-day-january-2026/shadow-raikou-raid-day.jpg",
+            "category": "Raid Day",
+            "details": {
+                "bonuses": [
+                    "2× Stardust from Raid Battles",
+                    "50% more XP from Raid Battles",
+                    "Eight additional Raid Passes from spinning Gym Photo Discs (for a daily total of 14)",
+                    "Increased chance of encountering Shiny Raikou from Shadow Raids",
+                    "Increased chance to get Rare Candy XL from Raid Battles",
+                    "The Remote Raid limit will increase to 20 from Friday, January 23, at 4:00 p.m. to Saturday, January 24, 2026, at 7:00 p.m. PST",
+                    "Up to five additional free Raid Passes from spinning Gym Photo Discs (for a total of six)"
+                ],
+                "raids": [
+                    "Raikou"
+                ],
+                "shiny": [
+                    "Raikou"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-24T14:00:00",
+            "end_time": "2026-01-24T17:00:00",
+            "description": "Unite with fellow Trainers to rescue Shadow Raikou from Team GO Rocket during a Shadow Raid Day event!"
         }
     ]
 }
