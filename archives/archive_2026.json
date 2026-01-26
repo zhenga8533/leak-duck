@@ -84,6 +84,36 @@
             "start_time": "2026-01-05T10:00:00",
             "end_time": "2026-01-16T10:00:00",
             "description": "Mega Blaziken return to Mega Raids on January 5, 2026, at 10 am local time."
+        },
+        {
+            "title": "Mega Sceptile in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-sceptile-in-mega-raids-january-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Sceptile"
+                ],
+                "shiny": [
+                    "Mega Sceptile",
+                    "Sceptile"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-16T10:00:00",
+            "end_time": "2026-01-25T10:00:00",
+            "description": "Mega Sceptile return to Mega Raids on January 16, 2026, at 10 am local time."
+        },
+        {
+            "title": "Thundurus (Incarnate Forme) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/thundurus-incarnate-forme-in-5-star-raid-battles-january-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-16T10:00:00",
+            "end_time": "2026-01-25T10:00:00",
+            "description": "Thundurus (Incarnate Forme) will be in five-star raid battles from January 16, 2026 to January 25, 2026.\nThere will also be a Raid Hour featuring Thundurus (Incarnate Forme) from 6:00 pm to 7:00 pm local time on the following date:\n- January 21"
         }
     ],
     "Community Day": [
