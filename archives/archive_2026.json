@@ -316,6 +316,53 @@
             "start_time": "2026-01-13T10:00:00",
             "end_time": "2026-01-18T20:00:00",
             "description": "Charge up for the High Zaptitude event to unlock Wattrel’s debut!"
+        },
+        {
+            "title": "Precious Pals",
+            "article_url": "https://leekduck.com/events/precious-pals-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-20-precious-pals-2026/precious-pals.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "Additional Candy XL when walking with your Buddy Pokémon",
+                    "Earn additional hearts with your Buddy Pokémon",
+                    "Increased chance to encounter Shiny Goldeen",
+                    "Increased chance to hatch Shiny Goldeen and Shiny Fidough"
+                ],
+                "features": [
+                    "Dachsbun",
+                    "Fidough"
+                ],
+                "spawns": [
+                    "Eevee",
+                    "Espurr",
+                    "Fidough",
+                    "Goldeen",
+                    "Magikarp",
+                    "Pancham",
+                    "Pawmi",
+                    "Stufful",
+                    "Swablu",
+                    "Wimpod",
+                    "Zorua"
+                ],
+                "eggs": [
+                    "Fidough",
+                    "Goldeen",
+                    "Happiny",
+                    "Riolu",
+                    "Togepi"
+                ],
+                "shiny": [
+                    "Dachsbun",
+                    "Fidough",
+                    "Goldeen"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-20T10:00:00",
+            "end_time": "2026-01-25T20:00:00",
+            "description": "Make memories with your Buddy Pokémon during the Precious Pals event!"
         }
     ],
     "PokéStop Showcase": [
@@ -384,6 +431,17 @@
             "start_time": "2026-01-19T10:00:00",
             "end_time": "2026-01-21T20:00:00",
             "description": "There will be PokéStop Showcases featuring Fidough and Dachsbun. Top the leaderboard to win rewards including Premium Items!\n- Fidough\n- Dachsbun"
+        },
+        {
+            "title": "Ultra Buddy and Best Buddy PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-ultra-buddy-or-higher/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-24T10:00:00",
+            "end_time": "2026-01-25T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Ultra Buddy or higher. Top the leaderboard to win rewards including Premium Items!"
         }
     ],
     "Max Mondays": [
@@ -630,6 +688,45 @@
             "start_time": "2026-01-24T14:00:00",
             "end_time": "2026-01-24T17:00:00",
             "description": "Unite with fellow Trainers to rescue Shadow Raikou from Team GO Rocket during a Shadow Raid Day event!"
+        }
+    ],
+    "Team GO Rocket": [
+        {
+            "title": "Precious Pals: Taken Over",
+            "article_url": "https://leekduck.com/events/precious-pals-taken-over-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-23-precious-pals-taken-over-2026/precious-pals-taken-over.jpg",
+            "category": "Team GO Rocket",
+            "details": {
+                "bonuses": [
+                    "Pokémon caught via one-star and three-star Shadow Raids during the event will have a wider variance of Attack, Defense, and HP.",
+                    "Team GO Rocket will appear more frequently at PokéStops and in balloons*",
+                    "You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration."
+                ],
+                "features": [
+                    "Thundurus (Incarnate)"
+                ],
+                "shadow": [
+                    "Chespin",
+                    "Fennekin",
+                    "Froakie",
+                    "Hoppip",
+                    "Magikarp",
+                    "Mawile"
+                ],
+                "raids": [
+                    "Alolan Marowak",
+                    "Cacnea",
+                    "Dratini",
+                    "Gligar",
+                    "Joltik",
+                    "Lapras",
+                    "Stantler"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-23T00:00:00",
+            "end_time": "2026-01-25T20:00:00",
+            "description": "Rescue Shadow Incarnate Forme Thundurus during Precious Pals: Taken Over!"
         }
     ]
 }

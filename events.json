@@ -1,494 +1,4 @@
 {
-    "Raid Day": [
-        {
-            "title": "Shadow Raikou Raid Day",
-            "article_url": "https://leekduck.com/events/shadow-raikou-raid-day-january-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-24-shadow-raikou-raid-day-january-2026/shadow-raikou-raid-day.jpg",
-            "category": "Raid Day",
-            "details": {
-                "bonuses": [
-                    "2× Stardust from Raid Battles",
-                    "50% more XP from Raid Battles",
-                    "Eight additional Raid Passes from spinning Gym Photo Discs (for a daily total of 14)",
-                    "Increased chance of encountering Shiny Raikou from Shadow Raids",
-                    "Increased chance to get Rare Candy XL from Raid Battles",
-                    "The Remote Raid limit will increase to 20 from Friday, January 23, at 4:00 p.m. to Saturday, January 24, 2026, at 7:00 p.m. PST",
-                    "Up to five additional free Raid Passes from spinning Gym Photo Discs (for a total of six)"
-                ],
-                "raids": [
-                    "Raikou"
-                ],
-                "shiny": [
-                    "Raikou"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-24T14:00:00",
-            "end_time": "2026-01-24T17:00:00",
-            "description": "Unite with fellow Trainers to rescue Shadow Raikou from Team GO Rocket during a Shadow Raid Day event!"
-        },
-        {
-            "title": "Raid Day",
-            "article_url": "https://leekduck.com/events/raid-day-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-14T14:00:00",
-            "end_time": "2026-02-14T17:00:00",
-            "description": "The Raid Day event will take place on February 14, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Raid Day",
-            "article_url": "https://leekduck.com/events/raid-day-april-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-04-04T14:00:00",
-            "end_time": "2026-04-04T17:00:00",
-            "description": "The Raid Day event will take place on April 4, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Shadow Raid Day",
-            "article_url": "https://leekduck.com/events/shadow-raid-day-may-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-05-02T14:00:00",
-            "end_time": "2026-05-02T17:00:00",
-            "description": "The Shadow Raid Day event will take place on May 2, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Raid Day",
-            "article_url": "https://leekduck.com/events/raid-day-may-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-05-23T14:00:00",
-            "end_time": "2026-05-23T17:00:00",
-            "description": "The Raid Day event will take place on May 23, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        }
-    ],
-    "Raid Battles": [
-        {
-            "title": "Mega Sceptile in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-sceptile-in-mega-raids-january-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Sceptile"
-                ],
-                "shiny": [
-                    "Mega Sceptile",
-                    "Sceptile"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-16T10:00:00",
-            "end_time": "2026-01-25T10:00:00",
-            "description": "Mega Sceptile return to Mega Raids on January 16, 2026, at 10 am local time."
-        },
-        {
-            "title": "Thundurus (Incarnate Forme) in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/thundurus-incarnate-forme-in-5-star-raid-battles-january-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-16T10:00:00",
-            "end_time": "2026-01-25T10:00:00",
-            "description": "Thundurus (Incarnate Forme) will be in five-star raid battles from January 16, 2026 to January 25, 2026.\nThere will also be a Raid Hour featuring Thundurus (Incarnate Forme) from 6:00 pm to 7:00 pm local time on the following date:\n- January 21"
-        },
-        {
-            "title": "Shadow Cresselia in Shadow Raids",
-            "article_url": "https://leekduck.com/events/shadow-cresselia-in-shadow-raids-january-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Cresselia"
-                ],
-                "shiny": [
-                    "Cresselia"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-02T06:00:00",
-            "end_time": "2026-02-01T22:00:00",
-            "description": "Shadow Cresselia will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Cresselia!\nShadow Cresselia will appear in five-star Shadow Raids every weekend from January 2 to February 1:\n- January 3 - January 4\n- January 10 - January 11\n- January 17 - January 18\n- January 24 - January 25\n- January 31 - February 1"
-        },
-        {
-            "title": "Mega Ampharos in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-ampharos-in-mega-raids-january-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Ampharos"
-                ],
-                "shiny": [
-                    "Ampharos",
-                    "Mega Ampharos"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-25T10:00:00",
-            "end_time": "2026-02-04T10:00:00",
-            "description": "Mega Ampharos return to Mega Raids on January 25, 2026, at 10 am local time."
-        },
-        {
-            "title": "Tornadus (Incarnate Forme) in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/tornadus-incarnate-forme-in-5-star-raid-battles-january-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Tornadus (Incarnate)"
-                ],
-                "shiny": [
-                    "Tornadus (Incarnate)"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-25T10:00:00",
-            "end_time": "2026-02-04T10:00:00",
-            "description": "Tornadus (Incarnate) will be in five-star raid battles from January 25, 2026 to February 4, 2026.\nThere will also be a Raid Hour featuring Tornadus (Incarnate Forme) from 6:00 pm to 7:00 pm local time on the following date:\n- January 28"
-        },
-        {
-            "title": "Landorus (Incarnate Forme) in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/landorus-incarnate-forme-in-5-star-raid-battles-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/landorus-raids-mar2020.jpg",
-            "category": "Raid Battles",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-04T10:00:00",
-            "end_time": "2026-02-16T10:00:00",
-            "description": "Landorus (Incarnate Forme) will be in five-star raid battles from February 4, 2026 to February 16, 2026.\nThere will also be a Raid Hour featuring Landorus (Incarnate Forme) from 6:00 pm to 7:00 pm local time on the following dates:\n- February 4\n- February 11"
-        },
-        {
-            "title": "Mega Pidgeot in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-pidgeot-in-mega-raids-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Pidgeot"
-                ],
-                "shiny": [
-                    "Mega Pidgeot",
-                    "Pidgeot"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-04T10:00:00",
-            "end_time": "2026-02-16T10:00:00",
-            "description": "Mega Pidgeot return to Mega Raids on February 4, 2026, at 10 am local time."
-        },
-        {
-            "title": "Mega Sableye in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-sableye-in-mega-raids-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Sableye"
-                ],
-                "shiny": [
-                    "Mega Sableye",
-                    "Sableye"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-16T10:00:00",
-            "end_time": "2026-02-21T10:00:00",
-            "description": "Mega Sableye return to Mega Raids on February 16, 2026, at 10 am local time."
-        },
-        {
-            "title": "Solgaleo in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/solgaleo-in-5-star-raid-battles-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/solgaleo.jpg?v2",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Solgaleo"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-16T10:00:00",
-            "end_time": "2026-02-21T10:00:00",
-            "description": "Solgaleo will be in five-star raid battles from February 16, 2026 to February 21, 2026.\nThere will also be a Raid Hour featuring Solgaleo from 6:00 pm to 7:00 pm local time on the following date:\n- February 18"
-        },
-        {
-            "title": "Lunala in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/lunala-in-5-star-raid-battles-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/lunala.jpg?v2",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Lunala"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-21T10:00:00",
-            "end_time": "2026-03-04T10:00:00",
-            "description": "Lunala will be in five-star raid battles from February 21, 2026 to March 4, 2026.\nThere will also be a Raid Hour featuring Lunala from 6:00 pm to 7:00 pm local time on the following date:\n- February 25"
-        },
-        {
-            "title": "Mega Absol in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-absol-in-mega-raids-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Absol"
-                ],
-                "shiny": [
-                    "Absol",
-                    "Mega Absol"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-21T10:00:00",
-            "end_time": "2026-03-04T10:00:00",
-            "description": "Mega Absol return to Mega Raids on February 21, 2026, at 10 am local time."
-        },
-        {
-            "title": "Shadow Regigigas in Shadow Raids",
-            "article_url": "https://leekduck.com/events/shadow-regigigas-in-shadow-raids-february-march-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Regigigas"
-                ],
-                "shiny": [
-                    "Regigigas"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-01T06:00:00",
-            "end_time": "2026-03-04T22:00:00",
-            "description": "Shadow Regigigas will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Regigigas!"
-        }
-    ],
-    "Team GO Rocket": [
-        {
-            "title": "Precious Pals: Taken Over",
-            "article_url": "https://leekduck.com/events/precious-pals-taken-over-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-23-precious-pals-taken-over-2026/precious-pals-taken-over.jpg",
-            "category": "Team GO Rocket",
-            "details": {
-                "bonuses": [
-                    "Pokémon caught via one-star and three-star Shadow Raids during the event will have a wider variance of Attack, Defense, and HP.",
-                    "Team GO Rocket will appear more frequently at PokéStops and in balloons*",
-                    "You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration."
-                ],
-                "features": [
-                    "Thundurus (Incarnate)"
-                ],
-                "shadow": [
-                    "Chespin",
-                    "Fennekin",
-                    "Froakie",
-                    "Hoppip",
-                    "Magikarp",
-                    "Mawile"
-                ],
-                "raids": [
-                    "Alolan Marowak",
-                    "Cacnea",
-                    "Dratini",
-                    "Gligar",
-                    "Joltik",
-                    "Lapras",
-                    "Stantler"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-23T00:00:00",
-            "end_time": "2026-01-25T20:00:00",
-            "description": "Rescue Shadow Incarnate Forme Thundurus during Precious Pals: Taken Over!"
-        }
-    ],
-    "Event": [
-        {
-            "title": "Precious Pals",
-            "article_url": "https://leekduck.com/events/precious-pals-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-20-precious-pals-2026/precious-pals.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "Additional Candy XL when walking with your Buddy Pokémon",
-                    "Earn additional hearts with your Buddy Pokémon",
-                    "Increased chance to encounter Shiny Goldeen",
-                    "Increased chance to hatch Shiny Goldeen and Shiny Fidough"
-                ],
-                "features": [
-                    "Dachsbun",
-                    "Fidough"
-                ],
-                "spawns": [
-                    "Eevee",
-                    "Espurr",
-                    "Fidough",
-                    "Goldeen",
-                    "Magikarp",
-                    "Pancham",
-                    "Pawmi",
-                    "Stufful",
-                    "Swablu",
-                    "Wimpod",
-                    "Zorua"
-                ],
-                "eggs": [
-                    "Fidough",
-                    "Goldeen",
-                    "Happiny",
-                    "Riolu",
-                    "Togepi"
-                ],
-                "shiny": [
-                    "Dachsbun",
-                    "Fidough",
-                    "Goldeen"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-20T10:00:00",
-            "end_time": "2026-01-25T20:00:00",
-            "description": "Make memories with your Buddy Pokémon during the Precious Pals event!"
-        },
-        {
-            "title": "Into the Depths",
-            "article_url": "https://leekduck.com/events/into-the-depths-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-27-into-the-depths-2026/into-the-depths-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "1/2 Egg Hatch Distance",
-                    "3× XP from completing Routes"
-                ],
-                "features": [
-                    "Glimmet"
-                ],
-                "spawns": [
-                    "Diglett",
-                    "Dunsparce",
-                    "Meditite",
-                    "Yungoos"
-                ],
-                "eggs": [
-                    "Bagon",
-                    "Deino",
-                    "Diglett",
-                    "Larvitar",
-                    "Yungoos"
-                ],
-                "shiny": [
-                    "Diglett",
-                    "Yungoos"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-27T10:00:00",
-            "end_time": "2026-02-01T20:00:00",
-            "description": "Plunge Into the Depths for Glimmet’s debut in Pokémon GO!"
-        },
-        {
-            "title": "Catch Mastery Day",
-            "article_url": "https://leekduck.com/events/catch-mastery-day-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-07T10:00:00",
-            "end_time": "2026-02-07T20:00:00",
-            "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Carnival of Flamigo",
-            "article_url": "https://leekduck.com/events/carnival-of-flamigo/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-03-carnival-of-flamigo/carnival-of-flamigo.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× Daily Adventure Incense duration",
-                    "2× Incense duration",
-                    "500 Additional Stardust for catching Flamigo",
-                    "Increased chance to encounter Shiny Lotad, Shiny Spritzee, and Shiny Pikipek"
-                ],
-                "features": [
-                    "Flamigo"
-                ],
-                "spawns": [
-                    "Buneary",
-                    "Flamigo",
-                    "Lotad",
-                    "Pikipek",
-                    "Spritzee"
-                ],
-                "shiny": [
-                    "Lotad",
-                    "Pikipek",
-                    "Spritzee"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-03T10:00:00",
-            "end_time": "2026-02-08T20:00:00",
-            "description": "Celebrate the spirit of Carnival with Flamigo’s Pokémon GO debut!\nThe Carnival of Flamigo event will take place from February 3, 2026 at 10 am to February 8, 2026 at 8 pm."
-        },
-        {
-            "title": "Valentine's Day 2026",
-            "article_url": "https://leekduck.com/events/valentines-day-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-10T10:00:00",
-            "end_time": "2026-02-15T20:00:00",
-            "description": "The Valentine’s Day 2026 event will take place from February 10, 2026 at 10 am to February 15, 2026 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Lunar New Year 2026",
-            "article_url": "https://leekduck.com/events/lunar-new-year-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-17T10:00:00",
-            "end_time": "2026-02-21T20:00:00",
-            "description": "The Lunar New Year 2026 event will take place from February 17, 2026 at 10 am to February 21, 2026 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Hatch Day",
-            "article_url": "https://leekduck.com/events/hatch-day-april-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-04-18T14:00:00",
-            "end_time": "2026-04-18T17:00:00",
-            "description": "The Hatch Day event will take place on April 18, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        }
-    ],
-    "PokéStop Showcase": [
-        {
-            "title": "Ultra Buddy and Best Buddy PokéStop Showcases",
-            "article_url": "https://leekduck.com/events/pokemon-showcase-ultra-buddy-or-higher/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-24T10:00:00",
-            "end_time": "2026-01-25T20:00:00",
-            "description": "There will be PokéStop Showcases featuring Ultra Buddy or higher. Top the leaderboard to win rewards including Premium Items!"
-        }
-    ],
     "Max Mondays": [
         {
             "title": "Dynamax Roggenrola during Max Monday",
@@ -748,6 +258,19 @@
             "description": "A Raid Hour featuring Lunala is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
         }
     ],
+    "PokéStop Showcase": [
+        {
+            "title": "Normal-type PokéStop Showcases",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-normal-type/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-26T10:00:00",
+            "end_time": "2026-01-28T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Normal-type. Top the leaderboard to win rewards including Premium Items!\nTrainers will be able to enter any Normal-type Pokémon in to these Showcases. However, unlike previous type specific showcases, the score will be relative to their own species rather than each other. This means that any XXL-sized Normal-type Pokémon will be competitive."
+        }
+    ],
     "Community Day": [
         {
             "title": "Vulpix Community Day",
@@ -780,17 +303,6 @@
             "start_time": "2026-02-01T14:00:00",
             "end_time": "2026-02-01T17:00:00",
             "description": "Vulpix and Alolan Vulpix, the Fox Pokémon, will be featured during February Community Day!"
-        },
-        {
-            "title": "February Community Day 2026",
-            "article_url": "https://leekduck.com/events/february-community-day-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Community Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-01T14:00:00",
-            "end_time": "2026-02-01T17:00:00",
-            "description": "The February Community Day 2026 event will take place on February 1, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         },
         {
             "title": "March Community Day",
@@ -835,6 +347,121 @@
             "start_time": "2026-05-16T14:00:00",
             "end_time": "2026-05-16T17:00:00",
             "description": "The May Community Day Classic event will take place on May 16, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        }
+    ],
+    "Event": [
+        {
+            "title": "Into the Depths",
+            "article_url": "https://leekduck.com/events/into-the-depths-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-27-into-the-depths-2026/into-the-depths-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "1/2 Egg Hatch Distance",
+                    "3× XP from completing Routes"
+                ],
+                "features": [
+                    "Glimmet"
+                ],
+                "spawns": [
+                    "Diglett",
+                    "Dunsparce",
+                    "Meditite",
+                    "Yungoos"
+                ],
+                "eggs": [
+                    "Bagon",
+                    "Deino",
+                    "Diglett",
+                    "Larvitar",
+                    "Yungoos"
+                ],
+                "shiny": [
+                    "Diglett",
+                    "Yungoos"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-27T10:00:00",
+            "end_time": "2026-02-01T20:00:00",
+            "description": "Plunge Into the Depths for Glimmet’s debut in Pokémon GO!"
+        },
+        {
+            "title": "Catch Mastery Day",
+            "article_url": "https://leekduck.com/events/catch-mastery-day-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-07T10:00:00",
+            "end_time": "2026-02-07T20:00:00",
+            "description": "The Catch Mastery Day event will take place on February 7, 2026 from 10 am to 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Carnival of Flamigo",
+            "article_url": "https://leekduck.com/events/carnival-of-flamigo/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-03-carnival-of-flamigo/carnival-of-flamigo.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Daily Adventure Incense duration",
+                    "2× Incense duration",
+                    "500 Additional Stardust for catching Flamigo",
+                    "Increased chance to encounter Shiny Lotad, Shiny Spritzee, and Shiny Pikipek"
+                ],
+                "features": [
+                    "Flamigo"
+                ],
+                "spawns": [
+                    "Buneary",
+                    "Flamigo",
+                    "Lotad",
+                    "Pikipek",
+                    "Spritzee"
+                ],
+                "shiny": [
+                    "Lotad",
+                    "Pikipek",
+                    "Spritzee"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-03T10:00:00",
+            "end_time": "2026-02-08T20:00:00",
+            "description": "Celebrate the spirit of Carnival with Flamigo’s Pokémon GO debut!\nThe Carnival of Flamigo event will take place from February 3, 2026 at 10 am to February 8, 2026 at 8 pm."
+        },
+        {
+            "title": "Valentine's Day 2026",
+            "article_url": "https://leekduck.com/events/valentines-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-10T10:00:00",
+            "end_time": "2026-02-15T20:00:00",
+            "description": "The Valentine’s Day 2026 event will take place from February 10, 2026 at 10 am to February 15, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Lunar New Year 2026",
+            "article_url": "https://leekduck.com/events/lunar-new-year-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-17T10:00:00",
+            "end_time": "2026-02-21T20:00:00",
+            "description": "The Lunar New Year 2026 event will take place from February 17, 2026 at 10 am to February 21, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Hatch Day",
+            "article_url": "https://leekduck.com/events/hatch-day-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-04-18T14:00:00",
+            "end_time": "2026-04-18T17:00:00",
+            "description": "The Hatch Day event will take place on April 18, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
     "Max Battles": [
@@ -898,6 +525,179 @@
             "description": "The Max Battle Day event will take place on April 25, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
+    "Raid Battles": [
+        {
+            "title": "Shadow Cresselia in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-cresselia-in-shadow-raids-january-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Cresselia"
+                ],
+                "shiny": [
+                    "Cresselia"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-02T06:00:00",
+            "end_time": "2026-02-01T22:00:00",
+            "description": "Shadow Cresselia will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Cresselia!\nShadow Cresselia will appear in five-star Shadow Raids every weekend from January 2 to February 1:\n- January 3 - January 4\n- January 10 - January 11\n- January 17 - January 18\n- January 24 - January 25\n- January 31 - February 1"
+        },
+        {
+            "title": "Mega Ampharos in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-ampharos-in-mega-raids-january-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Ampharos"
+                ],
+                "shiny": [
+                    "Ampharos",
+                    "Mega Ampharos"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-25T10:00:00",
+            "end_time": "2026-02-04T10:00:00",
+            "description": "Mega Ampharos return to Mega Raids on January 25, 2026, at 10 am local time."
+        },
+        {
+            "title": "Tornadus (Incarnate Forme) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/tornadus-incarnate-forme-in-5-star-raid-battles-january-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Tornadus (Incarnate)"
+                ],
+                "shiny": [
+                    "Tornadus (Incarnate)"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-25T10:00:00",
+            "end_time": "2026-02-04T10:00:00",
+            "description": "Tornadus (Incarnate) will be in five-star raid battles from January 25, 2026 to February 4, 2026.\nThere will also be a Raid Hour featuring Tornadus (Incarnate Forme) from 6:00 pm to 7:00 pm local time on the following date:\n- January 28"
+        },
+        {
+            "title": "Landorus (Incarnate Forme) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/landorus-incarnate-forme-in-5-star-raid-battles-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/landorus-raids-mar2020.jpg",
+            "category": "Raid Battles",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-04T10:00:00",
+            "end_time": "2026-02-16T10:00:00",
+            "description": "Landorus (Incarnate Forme) will be in five-star raid battles from February 4, 2026 to February 16, 2026.\nThere will also be a Raid Hour featuring Landorus (Incarnate Forme) from 6:00 pm to 7:00 pm local time on the following dates:\n- February 4\n- February 11"
+        },
+        {
+            "title": "Mega Pidgeot in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-pidgeot-in-mega-raids-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Pidgeot"
+                ],
+                "shiny": [
+                    "Mega Pidgeot",
+                    "Pidgeot"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-04T10:00:00",
+            "end_time": "2026-02-16T10:00:00",
+            "description": "Mega Pidgeot return to Mega Raids on February 4, 2026, at 10 am local time."
+        },
+        {
+            "title": "Mega Sableye in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-sableye-in-mega-raids-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Sableye"
+                ],
+                "shiny": [
+                    "Mega Sableye",
+                    "Sableye"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-16T10:00:00",
+            "end_time": "2026-02-21T10:00:00",
+            "description": "Mega Sableye return to Mega Raids on February 16, 2026, at 10 am local time."
+        },
+        {
+            "title": "Solgaleo in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/solgaleo-in-5-star-raid-battles-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/solgaleo.jpg?v2",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Solgaleo"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-16T10:00:00",
+            "end_time": "2026-02-21T10:00:00",
+            "description": "Solgaleo will be in five-star raid battles from February 16, 2026 to February 21, 2026.\nThere will also be a Raid Hour featuring Solgaleo from 6:00 pm to 7:00 pm local time on the following date:\n- February 18"
+        },
+        {
+            "title": "Lunala in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/lunala-in-5-star-raid-battles-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/lunala.jpg?v2",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Lunala"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-21T10:00:00",
+            "end_time": "2026-03-04T10:00:00",
+            "description": "Lunala will be in five-star raid battles from February 21, 2026 to March 4, 2026.\nThere will also be a Raid Hour featuring Lunala from 6:00 pm to 7:00 pm local time on the following date:\n- February 25"
+        },
+        {
+            "title": "Mega Absol in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-absol-in-mega-raids-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Absol"
+                ],
+                "shiny": [
+                    "Absol",
+                    "Mega Absol"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-21T10:00:00",
+            "end_time": "2026-03-04T10:00:00",
+            "description": "Mega Absol return to Mega Raids on February 21, 2026, at 10 am local time."
+        },
+        {
+            "title": "Shadow Regigigas in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-regigigas-in-shadow-raids-february-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Regigigas"
+                ],
+                "shiny": [
+                    "Regigigas"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-01T06:00:00",
+            "end_time": "2026-03-04T22:00:00",
+            "description": "Shadow Regigigas will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Regigigas!"
+        }
+    ],
     "GO Pass": [
         {
             "title": "GO Pass: January",
@@ -920,6 +720,52 @@
             "start_time": "2026-01-06T10:00:00",
             "end_time": "2026-02-03T10:00:00",
             "description": "Dialga and the Lucky Trinket return for GO Pass: January!\nFrom Tuesday, January 6, at 10:00 a.m. to Tuesday, February 3, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for January will be available in Pokémon GO!"
+        }
+    ],
+    "Raid Day": [
+        {
+            "title": "Raid Day",
+            "article_url": "https://leekduck.com/events/raid-day-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-14T14:00:00",
+            "end_time": "2026-02-14T17:00:00",
+            "description": "The Raid Day event will take place on February 14, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Raid Day",
+            "article_url": "https://leekduck.com/events/raid-day-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-04-04T14:00:00",
+            "end_time": "2026-04-04T17:00:00",
+            "description": "The Raid Day event will take place on April 4, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Shadow Raid Day",
+            "article_url": "https://leekduck.com/events/shadow-raid-day-may-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-02T14:00:00",
+            "end_time": "2026-05-02T17:00:00",
+            "description": "The Shadow Raid Day event will take place on May 2, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Raid Day",
+            "article_url": "https://leekduck.com/events/raid-day-may-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-23T14:00:00",
+            "end_time": "2026-05-23T17:00:00",
+            "description": "The Raid Day event will take place on May 23, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
     "Pokémon GO Tour": [
