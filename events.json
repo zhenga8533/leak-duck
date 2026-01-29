@@ -1,81 +1,4 @@
 {
-    "Pokémon Spotlight Hour": [
-        {
-            "title": "Foongus Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-01-27/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Foongus"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-27T18:00:00",
-            "end_time": "2026-01-27T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of January.\nJanuary 27: The featured Pokémon is Foongus and the special bonus is 2× Catch Stardust."
-        },
-        {
-            "title": "Whismur Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-02-03/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Whismur"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-03T18:00:00",
-            "end_time": "2026-02-03T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of February.\nFebruary 3: The featured Pokémon is Whismur and the special bonus is 2× Catch Candy."
-        },
-        {
-            "title": "Munna Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-02-10/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Munna"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-10T18:00:00",
-            "end_time": "2026-02-10T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of February.\nFebruary 10: The featured Pokémon is Munna and the special bonus is 2× Catch XP."
-        },
-        {
-            "title": "Horsea Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-02-17/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Horsea"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-17T18:00:00",
-            "end_time": "2026-02-17T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of February.\nFebruary 17: The featured Pokémon is Horsea and the special bonus is 2× Transfer Candy."
-        },
-        {
-            "title": "Totodile Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-02-24/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Totodile"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-24T18:00:00",
-            "end_time": "2026-02-24T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of February.\nFebruary 24: The featured Pokémon is Totodile and the special bonus is 2× Catch Stardust."
-        }
-    ],
     "Raid Hour": [
         {
             "title": "Tornadus (Incarnate Forme) Raid Hour",
@@ -236,7 +159,8 @@
                     "3× XP from completing Routes"
                 ],
                 "features": [
-                    "Glimmet"
+                    "Glimmet",
+                    "Glimmora"
                 ],
                 "spawns": [
                     "Diglett",
@@ -347,6 +271,130 @@
             "start_time": "2026-02-17T10:00:00",
             "end_time": "2026-02-21T20:00:00",
             "description": "The Lunar New Year 2026 event will take place from February 17, 2026 at 10 am to February 21, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Road to Kalos",
+            "article_url": "https://leekduck.com/events/road-to-kalos/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-23-road-to-kalos/road-to-kalos.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
+                    "The Remote Raid Pass limit will be increased to 30 from Monday, February 23 to Friday, February 27, 2026",
+                    "There will be no limit on Remote Raids from Saturday, February 28, to Sunday, March 1, 2026"
+                ],
+                "features": [
+                    "Akari's Kerchief Pikachu",
+                    "Articuno",
+                    "Brendan's Hat Pikachu",
+                    "Dawn's Hat Pikachu",
+                    "Dialga",
+                    "Ethan's Hat Pikachu",
+                    "Groudon",
+                    "Hilbert's Hat Pikachu",
+                    "Hilda's Hat Pikachu",
+                    "Ho-Oh",
+                    "Kyogre",
+                    "Kyurem",
+                    "Leaf's Hat Pikachu",
+                    "Lucas's Hat Pikachu",
+                    "Lugia",
+                    "Lyra's Hat Pikachu",
+                    "May's Hat Pikachu",
+                    "Moltres",
+                    "Nate's Visor Pikachu",
+                    "Palkia",
+                    "Red's Hat Pikachu",
+                    "Rei's Cap Pikachu",
+                    "Reshiram",
+                    "Rosa's Visor Pikachu",
+                    "Zapdos",
+                    "Zekrom"
+                ],
+                "spawns": [
+                    "Bidoof",
+                    "Bulbasaur",
+                    "Charmander",
+                    "Chikorita",
+                    "Chimchar",
+                    "Clefairy",
+                    "Cyndaquil",
+                    "Darumaka",
+                    "Gothita",
+                    "Hoppip",
+                    "Lillipup",
+                    "Marill",
+                    "Meowth",
+                    "Mudkip",
+                    "Nincada",
+                    "Oshawott",
+                    "Pikachu",
+                    "Piplup",
+                    "Poochyena",
+                    "Shinx",
+                    "Snivy",
+                    "Snover",
+                    "Squirtle",
+                    "Taillow",
+                    "Teddiursa",
+                    "Tepig",
+                    "Torchic",
+                    "Totodile",
+                    "Treecko",
+                    "Turtwig"
+                ],
+                "eggs": [
+                    "Bagon",
+                    "Beldum",
+                    "Gible",
+                    "Larvitar"
+                ],
+                "raids": [
+                    "Akari's Kerchief Pikachu",
+                    "Articuno",
+                    "Brendan's Hat Pikachu",
+                    "Dawn's Hat Pikachu",
+                    "Dialga",
+                    "Ethan's Hat Pikachu",
+                    "Hilbert's Hat Pikachu",
+                    "Hilda's Hat Pikachu",
+                    "Ho-Oh",
+                    "Kyurem (Black)",
+                    "Kyurem (White)",
+                    "Leaf's Hat Pikachu",
+                    "Lucas's Hat Pikachu",
+                    "Lugia",
+                    "Lyra's Hat Pikachu",
+                    "May's Hat Pikachu",
+                    "Moltres",
+                    "Nate's Visor Pikachu",
+                    "Origin Forme Dialga",
+                    "Origin Forme Palkia",
+                    "Palkia",
+                    "Primal Groudon",
+                    "Primal Kyogre",
+                    "Red's Hat Pikachu",
+                    "Rei's Cap Pikachu",
+                    "Reshiram",
+                    "Rosa's Visor Pikachu",
+                    "Zapdos",
+                    "Zekrom"
+                ],
+                "moves": [
+                    "Articuno",
+                    "Groudon",
+                    "Kyogre",
+                    "Kyurem",
+                    "Moltres",
+                    "Reshiram",
+                    "Zapdos",
+                    "Zekrom"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-23T00:00:00",
+            "end_time": "2026-02-27T23:59:00",
+            "description": "We’re en route to Pokémon GO Tour: Kalos, and we can’t forget about an important stop along the way: the Road to Kalos event! Before Pokémon GO Tour: Kalos – Global begins on February 28, 2026, you’re invited to this week-long “rewind” of previous GO Tour events, which celebrate the Kanto, Johto, Hoenn, Sinnoh, and Unova regions!\nPlus, early readings are showing that certain Legendary Pokémon, previously featured at each GO Tour event, are getting ready to reappear… Could this be the work of the Mythical Pokémon Hoopa?\nTrainers attending the in-person Pokémon GO Tour: Kalos events in Tainan and Los Angeles can jump into the Kalos-inspired fun even sooner! Check out the event site for more details on how to attend. Pokémon GO Tour: Kalos – Global is a free event available to all Trainers on Saturday, February 28, and Sunday, March 1, 2026, from 10:00 a.m. to 6:00 p.m. local time. Learn more about the event and purchase tickets here!"
         },
         {
             "title": "Hatch Day",
@@ -662,6 +710,37 @@
             "start_time": "2026-01-06T10:00:00",
             "end_time": "2026-02-03T10:00:00",
             "description": "Dialga and the Lucky Trinket return for GO Pass: January!\nFrom Tuesday, January 6, at 10:00 a.m. to Tuesday, February 3, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for January will be available in Pokémon GO!"
+        },
+        {
+            "title": "GO Pass: Road to Kalos",
+            "article_url": "https://leekduck.com/events/go-pass-road-to-kalos/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-23-go-pass-road-to-kalos/go-pass-road-to-kalos.jpg",
+            "category": "GO Pass",
+            "details": {
+                "bonuses": [
+                    "1 additional Candy XL awarded for catching Pokémon in five-star raids, Mega Raids, Primal Raids, and Shadow Raids (Trainers level 31+)",
+                    "1 additional Candy awarded for catching Pokémon in five-star raids, Mega Raids, Primal Raids, and Shadow Raids",
+                    "1.5× Catch XP",
+                    "2× Catch XP",
+                    "2× Hatch Candy",
+                    "2× Hatch Stardust",
+                    "2× Hatch XP",
+                    "2× Stardust from completed raids",
+                    "3× Catch XP",
+                    "Additional 5,000 XP from completed raids",
+                    "Hold up to 40 total Gifts in your Item Bag",
+                    "Large increase to the catch effectiveness of Premier Balls",
+                    "Open up to 100 Gifts per day",
+                    "Receive up to 200 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Scatterbug will appear even more frequently when you pin Gifts!",
+                    "Scatterbug will appear more frequently when you pin Gifts!",
+                    "Substantial increase to the catch effectiveness of Premier Balls"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-23T10:00:00",
+            "end_time": "2026-03-01T18:00:00",
+            "description": "From Monday, February 23, at 10:00 a.m. to Sunday, March 1, at 6:00 p.m. local time, the GO Pass and the GO Pass Deluxe for Road to Kalos will be available in Pokémon GO!"
         }
     ],
     "GO Battle League": [
@@ -719,6 +798,68 @@
             "start_time": 1771966800,
             "end_time": 1772571600,
             "description": "The Great League, Ultra League, and Master League: Mega Edition will run from February 24, 2026, at 1:00 p.m. to March 3, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
+        }
+    ],
+    "Pokémon Spotlight Hour": [
+        {
+            "title": "Whismur Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-02-03/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Whismur"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-03T18:00:00",
+            "end_time": "2026-02-03T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of February.\nFebruary 3: The featured Pokémon is Whismur and the special bonus is 2× Catch Candy."
+        },
+        {
+            "title": "Munna Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-02-10/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Munna"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-10T18:00:00",
+            "end_time": "2026-02-10T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of February.\nFebruary 10: The featured Pokémon is Munna and the special bonus is 2× Catch XP."
+        },
+        {
+            "title": "Horsea Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-02-17/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Horsea"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-17T18:00:00",
+            "end_time": "2026-02-17T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of February.\nFebruary 17: The featured Pokémon is Horsea and the special bonus is 2× Transfer Candy."
+        },
+        {
+            "title": "Totodile Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-02-24/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Totodile"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-24T18:00:00",
+            "end_time": "2026-02-24T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of February.\nFebruary 24: The featured Pokémon is Totodile and the special bonus is 2× Catch Stardust."
         }
     ],
     "Raid Day": [
