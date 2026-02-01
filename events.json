@@ -442,6 +442,19 @@
             "description": "The Max Battle Day event will take place on April 25, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
+    "PokéStop Showcase": [
+        {
+            "title": "Ho-Oh PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-ho-oh/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-31T06:00:00",
+            "end_time": "2026-02-01T21:00:00",
+            "description": "There will be PokéStop Showcases featuring Ho-Oh. Top the leaderboard to win rewards including Premium Items!\n- Ho-Oh"
+        }
+    ],
     "Raid Battles": [
         {
             "title": "Shadow Cresselia in Shadow Raids",
