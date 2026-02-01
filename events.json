@@ -381,6 +381,19 @@
             "description": "The Hatch Day event will take place on April 18, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
+    "PokéStop Showcase": [
+        {
+            "title": "Ho-Oh PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-ho-oh/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-31T06:00:00",
+            "end_time": "2026-02-01T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Ho-Oh. Top the leaderboard to win rewards including Premium Items!\n- Ho-Oh"
+        }
+    ],
     "Max Battles": [
         {
             "title": "Dynamax Ho-Oh Max Battle Weekend",
@@ -440,201 +453,6 @@
             "start_time": "2026-04-25T14:00:00",
             "end_time": "2026-04-25T17:00:00",
             "description": "The Max Battle Day event will take place on April 25, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        }
-    ],
-    "PokéStop Showcase": [
-        {
-            "title": "Ho-Oh PokéStop Showcase",
-            "article_url": "https://leekduck.com/events/pokemon-showcase-ho-oh/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-31T06:00:00",
-            "end_time": "2026-02-01T21:00:00",
-            "description": "There will be PokéStop Showcases featuring Ho-Oh. Top the leaderboard to win rewards including Premium Items!\n- Ho-Oh"
-        }
-    ],
-    "Raid Battles": [
-        {
-            "title": "Shadow Cresselia in Shadow Raids",
-            "article_url": "https://leekduck.com/events/shadow-cresselia-in-shadow-raids-january-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Cresselia"
-                ],
-                "shiny": [
-                    "Cresselia"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-02T06:00:00",
-            "end_time": "2026-02-01T22:00:00",
-            "description": "Shadow Cresselia will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Cresselia!\nShadow Cresselia will appear in five-star Shadow Raids every weekend from January 2 to February 1:\n- January 3 - January 4\n- January 10 - January 11\n- January 17 - January 18\n- January 24 - January 25\n- January 31 - February 1"
-        },
-        {
-            "title": "Mega Ampharos in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-ampharos-in-mega-raids-january-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Ampharos"
-                ],
-                "shiny": [
-                    "Ampharos",
-                    "Mega Ampharos"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-25T10:00:00",
-            "end_time": "2026-02-04T10:00:00",
-            "description": "Mega Ampharos return to Mega Raids on January 25, 2026, at 10 am local time."
-        },
-        {
-            "title": "Tornadus (Incarnate Forme) in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/tornadus-incarnate-forme-in-5-star-raid-battles-january-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Tornadus (Incarnate)"
-                ],
-                "shiny": [
-                    "Tornadus (Incarnate)"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-25T10:00:00",
-            "end_time": "2026-02-04T10:00:00",
-            "description": "Tornadus (Incarnate) will be in five-star raid battles from January 25, 2026 to February 4, 2026.\nThere will also be a Raid Hour featuring Tornadus (Incarnate Forme) from 6:00 pm to 7:00 pm local time on the following date:\n- January 28"
-        },
-        {
-            "title": "Dialga and Palkia in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/landorus-incarnate-forme-in-5-star-raid-battles-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/landorus-raids-mar2020.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Dialga",
-                    "Palkia"
-                ],
-                "shiny": [
-                    "Dialga",
-                    "Palkia"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-04T10:00:00",
-            "end_time": "2026-02-16T10:00:00",
-            "description": "Dialga and Palkia will be in five-star raid battles from February 4, 2026 to February 16, 2026.\nThere will also be a Raid Hour featuring Dialga and Palkia from 6:00 pm to 7:00 pm local time on the following dates:\n- February 4\n- February 11"
-        },
-        {
-            "title": "Mega Pidgeot in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-pidgeot-in-mega-raids-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Pidgeot"
-                ],
-                "shiny": [
-                    "Mega Pidgeot",
-                    "Pidgeot"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-04T10:00:00",
-            "end_time": "2026-02-16T10:00:00",
-            "description": "Mega Pidgeot return to Mega Raids on February 4, 2026, at 10 am local time."
-        },
-        {
-            "title": "Mega Sableye in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-sableye-in-mega-raids-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Sableye"
-                ],
-                "shiny": [
-                    "Mega Sableye",
-                    "Sableye"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-16T10:00:00",
-            "end_time": "2026-02-21T10:00:00",
-            "description": "Mega Sableye return to Mega Raids on February 16, 2026, at 10 am local time."
-        },
-        {
-            "title": "Solgaleo in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/solgaleo-in-5-star-raid-battles-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/solgaleo.jpg?v2",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Solgaleo"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-16T10:00:00",
-            "end_time": "2026-02-21T10:00:00",
-            "description": "Solgaleo will be in five-star raid battles from February 16, 2026 to February 21, 2026.\nThere will also be a Raid Hour featuring Solgaleo from 6:00 pm to 7:00 pm local time on the following date:\n- February 18"
-        },
-        {
-            "title": "Lunala in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/lunala-in-5-star-raid-battles-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/lunala.jpg?v2",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Lunala"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-21T10:00:00",
-            "end_time": "2026-03-04T10:00:00",
-            "description": "Lunala will be in five-star raid battles from February 21, 2026 to March 4, 2026.\nThere will also be a Raid Hour featuring Lunala from 6:00 pm to 7:00 pm local time on the following date:\n- February 25"
-        },
-        {
-            "title": "Mega Absol in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-absol-in-mega-raids-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Absol"
-                ],
-                "shiny": [
-                    "Absol",
-                    "Mega Absol"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-21T10:00:00",
-            "end_time": "2026-03-04T10:00:00",
-            "description": "Mega Absol return to Mega Raids on February 21, 2026, at 10 am local time."
-        },
-        {
-            "title": "Shadow Regigigas in Shadow Raids",
-            "article_url": "https://leekduck.com/events/shadow-regigigas-in-shadow-raids-february-march-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Regigigas"
-                ],
-                "shiny": [
-                    "Regigigas"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-01T06:00:00",
-            "end_time": "2026-03-04T22:00:00",
-            "description": "Shadow Regigigas will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Regigigas!"
         }
     ],
     "Max Mondays": [
@@ -879,6 +697,170 @@
             "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of February.\nFebruary 24: The featured Pokémon is Totodile and the special bonus is 2× Catch Stardust."
         }
     ],
+    "Raid Battles": [
+        {
+            "title": "Mega Ampharos in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-ampharos-in-mega-raids-january-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Ampharos"
+                ],
+                "shiny": [
+                    "Ampharos",
+                    "Mega Ampharos"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-25T10:00:00",
+            "end_time": "2026-02-04T10:00:00",
+            "description": "Mega Ampharos return to Mega Raids on January 25, 2026, at 10 am local time."
+        },
+        {
+            "title": "Tornadus (Incarnate Forme) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/tornadus-incarnate-forme-in-5-star-raid-battles-january-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Tornadus (Incarnate)"
+                ],
+                "shiny": [
+                    "Tornadus (Incarnate)"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-25T10:00:00",
+            "end_time": "2026-02-04T10:00:00",
+            "description": "Tornadus (Incarnate) will be in five-star raid battles from January 25, 2026 to February 4, 2026.\nThere will also be a Raid Hour featuring Tornadus (Incarnate Forme) from 6:00 pm to 7:00 pm local time on the following date:\n- January 28"
+        },
+        {
+            "title": "Dialga and Palkia in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/landorus-incarnate-forme-in-5-star-raid-battles-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Dialga",
+                    "Palkia"
+                ],
+                "shiny": [
+                    "Dialga",
+                    "Palkia"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-04T10:00:00",
+            "end_time": "2026-02-16T10:00:00",
+            "description": "Dialga and Palkia will be in five-star raid battles from February 4, 2026 to February 16, 2026.\nThere will also be a Raid Hour featuring Dialga and Palkia from 6:00 pm to 7:00 pm local time on the following dates:\n- February 4\n- February 11"
+        },
+        {
+            "title": "Mega Pidgeot in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-pidgeot-in-mega-raids-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Pidgeot"
+                ],
+                "shiny": [
+                    "Mega Pidgeot",
+                    "Pidgeot"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-04T10:00:00",
+            "end_time": "2026-02-16T10:00:00",
+            "description": "Mega Pidgeot return to Mega Raids on February 4, 2026, at 10 am local time."
+        },
+        {
+            "title": "Mega Sableye in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-sableye-in-mega-raids-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Sableye"
+                ],
+                "shiny": [
+                    "Mega Sableye",
+                    "Sableye"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-16T10:00:00",
+            "end_time": "2026-02-21T10:00:00",
+            "description": "Mega Sableye return to Mega Raids on February 16, 2026, at 10 am local time."
+        },
+        {
+            "title": "Solgaleo in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/solgaleo-in-5-star-raid-battles-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/solgaleo.jpg?v2",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Solgaleo"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-16T10:00:00",
+            "end_time": "2026-02-21T10:00:00",
+            "description": "Solgaleo will be in five-star raid battles from February 16, 2026 to February 21, 2026.\nThere will also be a Raid Hour featuring Solgaleo from 6:00 pm to 7:00 pm local time on the following date:\n- February 18"
+        },
+        {
+            "title": "Lunala in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/lunala-in-5-star-raid-battles-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/lunala.jpg?v2",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Lunala"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-21T10:00:00",
+            "end_time": "2026-03-04T10:00:00",
+            "description": "Lunala will be in five-star raid battles from February 21, 2026 to March 4, 2026.\nThere will also be a Raid Hour featuring Lunala from 6:00 pm to 7:00 pm local time on the following date:\n- February 25"
+        },
+        {
+            "title": "Mega Absol in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-absol-in-mega-raids-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Absol"
+                ],
+                "shiny": [
+                    "Absol",
+                    "Mega Absol"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-21T10:00:00",
+            "end_time": "2026-03-04T10:00:00",
+            "description": "Mega Absol return to Mega Raids on February 21, 2026, at 10 am local time."
+        },
+        {
+            "title": "Shadow Regigigas in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-regigigas-in-shadow-raids-february-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Regigigas"
+                ],
+                "shiny": [
+                    "Regigigas"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-01T06:00:00",
+            "end_time": "2026-03-04T22:00:00",
+            "description": "Shadow Regigigas will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Regigigas!"
+        }
+    ],
     "Raid Hour": [
         {
             "title": "Dialga and Palkia Raid Hour",
@@ -1057,6 +1039,8 @@
                     "Mega Gardevoir",
                     "Mega Gyarados",
                     "Mega Lucario",
+                    "Mega Malamar",
+                    "Mega Victreebel",
                     "Xerneas",
                     "Yveltal"
                 ],
@@ -1204,6 +1188,8 @@
                     "Mega Gardevoir",
                     "Mega Gyarados",
                     "Mega Lucario",
+                    "Mega Malamar",
+                    "Mega Victreebel",
                     "Xerneas",
                     "Yveltal"
                 ],
@@ -1365,6 +1351,7 @@
                     "Mega Latias",
                     "Mega Latios",
                     "Mega Lucario",
+                    "Mega Malamar",
                     "Mega Metagross",
                     "Mega Pidgeot",
                     "Mega Salamence",
@@ -1373,6 +1360,7 @@
                     "Mega Swampert",
                     "Mega Tyranitar",
                     "Mega Venusaur",
+                    "Mega Victreebel",
                     "Serena's Hat Pikachu",
                     "Xerneas",
                     "Yveltal"
