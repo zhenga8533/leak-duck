@@ -175,6 +175,38 @@
             "start_time": "2026-01-18T14:00:00",
             "end_time": "2026-01-18T17:00:00",
             "description": "Grookey, the Chimp Pokémon, will be featured during January Community Day!"
+        },
+        {
+            "title": "Vulpix Community Day",
+            "article_url": "https://leekduck.com/events/february-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-01-february-communityday2026/vulpix-community-day.jpg",
+            "category": "Community Day",
+            "details": {
+                "bonuses": [
+                    "1-hour Lures",
+                    "2x Catch Candy",
+                    "2x Chance to receive Candy XL from catching Pokémon",
+                    "3-hour Incense",
+                    "3x Catch XP",
+                    "Increased Spawns",
+                    "One additional Special Trade can be made for a maximum of three for the day*",
+                    "Trades made will require 50% less Stardust*"
+                ],
+                "spawns": [
+                    "Alolan Vulpix",
+                    "Vulpix"
+                ],
+                "shiny": [
+                    "Alolan Ninetales",
+                    "Alolan Vulpix",
+                    "Ninetales",
+                    "Vulpix"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-01T14:00:00",
+            "end_time": "2026-02-01T17:00:00",
+            "description": "Vulpix and Alolan Vulpix, the Fox Pokémon, will be featured during February Community Day!"
         }
     ],
     "Event": [
@@ -363,6 +395,47 @@
             "start_time": "2026-01-20T10:00:00",
             "end_time": "2026-01-25T20:00:00",
             "description": "Make memories with your Buddy Pokémon during the Precious Pals event!"
+        },
+        {
+            "title": "Into the Depths",
+            "article_url": "https://leekduck.com/events/into-the-depths-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-27-into-the-depths-2026/into-the-depths-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "1/2 Egg Hatch Distance",
+                    "3× XP from completing Routes"
+                ],
+                "features": [
+                    "Glimmet",
+                    "Glimmora"
+                ],
+                "spawns": [
+                    "Diglett",
+                    "Dunsparce",
+                    "Geodude",
+                    "Makuhita",
+                    "Meditite",
+                    "Sableye",
+                    "Slugma",
+                    "Yungoos"
+                ],
+                "eggs": [
+                    "Bagon",
+                    "Deino",
+                    "Diglett",
+                    "Larvitar",
+                    "Yungoos"
+                ],
+                "shiny": [
+                    "Diglett",
+                    "Yungoos"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-27T10:00:00",
+            "end_time": "2026-02-01T20:00:00",
+            "description": "Plunge Into the Depths for Glimmet’s debut in Pokémon GO!"
         }
     ],
     "PokéStop Showcase": [
@@ -453,6 +526,17 @@
             "start_time": "2026-01-26T10:00:00",
             "end_time": "2026-01-28T20:00:00",
             "description": "There will be PokéStop Showcases featuring Normal-type. Top the leaderboard to win rewards including Premium Items!\nTrainers will be able to enter any Normal-type Pokémon in to these Showcases. However, unlike previous type specific showcases, the score will be relative to their own species rather than each other. This means that any XXL-sized Normal-type Pokémon will be competitive."
+        },
+        {
+            "title": "Ho-Oh PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-ho-oh/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-01-31T06:00:00",
+            "end_time": "2026-02-01T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Ho-Oh. Top the leaderboard to win rewards including Premium Items!\n- Ho-Oh"
         }
     ],
     "Max Mondays": [
@@ -786,6 +870,34 @@
             "start_time": "2026-01-23T00:00:00",
             "end_time": "2026-01-25T20:00:00",
             "description": "Rescue Shadow Incarnate Forme Thundurus during Precious Pals: Taken Over!"
+        }
+    ],
+    "Max Battles": [
+        {
+            "title": "Dynamax Ho-Oh Max Battle Weekend",
+            "article_url": "https://leekduck.com/events/dynamax-ho-oh-max-battle-weekend/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-31-dynamax-ho-oh-max-battle-weekend/dynamax-ho-oh-max-battle-weekend.jpg?v2",
+            "category": "Max Battles",
+            "details": {
+                "bonuses": [
+                    "1/4 Adventuring distance to receive Max Particles*",
+                    "2× XP from Max Battles",
+                    "8× Max Particles from Power Spots",
+                    "Increased Candy and Candy XL from five-star Max Battles",
+                    "Max Particle collection limit increased to 1,600",
+                    "Power Spots will refresh more frequently"
+                ],
+                "features": [
+                    "Ho-Oh"
+                ],
+                "shiny": [
+                    "Ho-Oh"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-01-31T06:00:00",
+            "end_time": "2026-02-01T21:00:00",
+            "description": "Let colors fly during Dynamax Ho-Oh Max Battle Weekend!"
         }
     ]
 }

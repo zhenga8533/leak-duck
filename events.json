@@ -392,6 +392,17 @@
             "start_time": "2026-01-31T06:00:00",
             "end_time": "2026-02-01T20:00:00",
             "description": "There will be PokéStop Showcases featuring Ho-Oh. Top the leaderboard to win rewards including Premium Items!\n- Ho-Oh"
+        },
+        {
+            "title": "Toucannon, Ludicolo, and Quaquaval PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/toucannon-ludicolo-quaquaval-showcase-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-02T10:00:00",
+            "end_time": "2026-02-04T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Toucannon, Ludicolo, and Quaquaval. Top the leaderboard to win rewards including Premium Items!"
         }
     ],
     "Max Battles": [
