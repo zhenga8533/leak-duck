@@ -511,7 +511,7 @@
         },
         {
             "name": "Honedge",
-            "shiny_available": false,
+            "shiny_available": true,
             "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm679.icon.png",
             "hatch_distance": 10,
             "rarity_tier": 3

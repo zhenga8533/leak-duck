@@ -1,471 +1,4 @@
 {
-    "Community Day": [
-        {
-            "title": "Vulpix Community Day",
-            "article_url": "https://leekduck.com/events/february-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-01-february-communityday2026/vulpix-community-day.jpg",
-            "category": "Community Day",
-            "details": {
-                "bonuses": [
-                    "1-hour Lures",
-                    "2x Catch Candy",
-                    "2x Chance to receive Candy XL from catching Pokémon",
-                    "3-hour Incense",
-                    "3x Catch XP",
-                    "Increased Spawns",
-                    "One additional Special Trade can be made for a maximum of three for the day*",
-                    "Trades made will require 50% less Stardust*"
-                ],
-                "spawns": [
-                    "Alolan Vulpix",
-                    "Vulpix"
-                ],
-                "shiny": [
-                    "Alolan Ninetales",
-                    "Alolan Vulpix",
-                    "Ninetales",
-                    "Vulpix"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-01T14:00:00",
-            "end_time": "2026-02-01T17:00:00",
-            "description": "Vulpix and Alolan Vulpix, the Fox Pokémon, will be featured during February Community Day!"
-        },
-        {
-            "title": "March Community Day",
-            "article_url": "https://leekduck.com/events/march-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
-            "category": "Community Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-03-14T14:00:00",
-            "end_time": "2026-03-14T17:00:00",
-            "description": "The March Community Day event will take place on March 14, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        },
-        {
-            "title": "April Community Day",
-            "article_url": "https://leekduck.com/events/april-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
-            "category": "Community Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-04-11T14:00:00",
-            "end_time": "2026-04-11T17:00:00",
-            "description": "The April Community Day event will take place on April 11, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        },
-        {
-            "title": "May Community Day",
-            "article_url": "https://leekduck.com/events/may-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
-            "category": "Community Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-05-09T14:00:00",
-            "end_time": "2026-05-09T17:00:00",
-            "description": "The May Community Day event will take place on May 9, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        },
-        {
-            "title": "May Community Day Classic",
-            "article_url": "https://leekduck.com/events/may-communitydayclassic2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
-            "category": "Community Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-05-16T14:00:00",
-            "end_time": "2026-05-16T17:00:00",
-            "description": "The May Community Day Classic event will take place on May 16, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        }
-    ],
-    "Event": [
-        {
-            "title": "Into the Depths",
-            "article_url": "https://leekduck.com/events/into-the-depths-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-27-into-the-depths-2026/into-the-depths-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "1/2 Egg Hatch Distance",
-                    "3× XP from completing Routes"
-                ],
-                "features": [
-                    "Glimmet",
-                    "Glimmora"
-                ],
-                "spawns": [
-                    "Diglett",
-                    "Dunsparce",
-                    "Geodude",
-                    "Makuhita",
-                    "Meditite",
-                    "Sableye",
-                    "Slugma",
-                    "Yungoos"
-                ],
-                "eggs": [
-                    "Bagon",
-                    "Deino",
-                    "Diglett",
-                    "Larvitar",
-                    "Yungoos"
-                ],
-                "shiny": [
-                    "Diglett",
-                    "Yungoos"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-27T10:00:00",
-            "end_time": "2026-02-01T20:00:00",
-            "description": "Plunge Into the Depths for Glimmet’s debut in Pokémon GO!"
-        },
-        {
-            "title": "Oricorio Catch Mastery",
-            "article_url": "https://leekduck.com/events/oricorio-catch-mastery-day-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-07-oricorio-catch-mastery-day-february-2026/oricorio-catch-mastery.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× XP for successfully catching Pokémon with Nice Throws or better",
-                    "Increased Candy for successfully catching Pokémon with Nice Throws or better"
-                ],
-                "spawns": [
-                    "Hoothoot",
-                    "Starly"
-                ],
-                "shiny": [
-                    "Hoothoot",
-                    "Oricorio (Baile Style)",
-                    "Oricorio (Pa'u Style)",
-                    "Oricorio (Pom-Pom Style)",
-                    "Oricorio (Sensu Style)",
-                    "Starly"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-07T10:00:00",
-            "end_time": "2026-02-07T20:00:00",
-            "description": "Master your throwing skills and catch Oricorio, the Dancing Pokémon, during this Catch Mastery event!"
-        },
-        {
-            "title": "Carnival of Flamigo",
-            "article_url": "https://leekduck.com/events/carnival-of-flamigo/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-03-carnival-of-flamigo/carnival-of-flamigo.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× Daily Adventure Incense duration",
-                    "2× Incense duration",
-                    "500 Additional Stardust for catching Flamigo",
-                    "Increased chance to encounter Shiny Lotad, Shiny Spritzee, and Shiny Pikipek"
-                ],
-                "features": [
-                    "Flamigo"
-                ],
-                "spawns": [
-                    "Buneary",
-                    "Flamigo",
-                    "Lotad",
-                    "Pikipek",
-                    "Spritzee"
-                ],
-                "shiny": [
-                    "Lotad",
-                    "Pikipek",
-                    "Spritzee"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-03T10:00:00",
-            "end_time": "2026-02-08T20:00:00",
-            "description": "Celebrate the spirit of Carnival with Flamigo’s Pokémon GO debut!\nThe Carnival of Flamigo event will take place from February 3, 2026 at 10 am to February 8, 2026 at 8 pm."
-        },
-        {
-            "title": "Valentine's Day 2026",
-            "article_url": "https://leekduck.com/events/valentines-day-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-10-valentines-day-2026/valentines-day-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× Stardust from opening Gifts",
-                    "2× XP for catching Pokémon",
-                    "Free Timed Research awarding encounters with Spinda with a heart pattern",
-                    "Gifts may include Rare Candy",
-                    "Increased chance to encounter Shiny Nidoran♀ and Shiny Nidoran♂",
-                    "Increased chance to hatch Shiny Nidoran♀, Shiny Nidoran♂, and Shiny Cherubi",
-                    "Successfully catching a Pokémon with a Curveball Throw will award 750 XP"
-                ],
-                "features": [
-                    "Furfrou (Heart)",
-                    "Furfrou (Natural)"
-                ],
-                "spawns": [
-                    "Audino",
-                    "Furfrou (Natural)",
-                    "Nidoran♀",
-                    "Nidoran♂"
-                ],
-                "eggs": [
-                    "Cherubi",
-                    "Cleffa",
-                    "Happiny",
-                    "Igglybuff",
-                    "Nidoran♀",
-                    "Nidoran♂"
-                ],
-                "raids": [
-                    "Gallade",
-                    "Gardevoir"
-                ],
-                "shiny": [
-                    "Cherubi",
-                    "Nidoran♀",
-                    "Nidoran♂"
-                ],
-                "moves": [
-                    "Gallade",
-                    "Gardevoir",
-                    "Kirlia",
-                    "Ralts"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-10T10:00:00",
-            "end_time": "2026-02-15T20:00:00",
-            "description": "The Valentine’s Day 2026 event will take place from February 10, 2026 at 10 am to February 15, 2026 at 8 pm local time."
-        },
-        {
-            "title": "Lunar New Year 2026",
-            "article_url": "https://leekduck.com/events/lunar-new-year-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-17T10:00:00",
-            "end_time": "2026-02-21T20:00:00",
-            "description": "The Lunar New Year 2026 event will take place from February 17, 2026 at 10 am to February 21, 2026 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Road to Kalos",
-            "article_url": "https://leekduck.com/events/road-to-kalos/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-23-road-to-kalos/road-to-kalos.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
-                    "The Remote Raid Pass limit will be increased to 30 from Monday, February 23 to Friday, February 27, 2026",
-                    "There will be no limit on Remote Raids from Saturday, February 28, to Sunday, March 1, 2026"
-                ],
-                "features": [
-                    "Akari's Kerchief Pikachu",
-                    "Articuno",
-                    "Brendan's Hat Pikachu",
-                    "Dawn's Hat Pikachu",
-                    "Dialga",
-                    "Ethan's Hat Pikachu",
-                    "Groudon",
-                    "Hilbert's Hat Pikachu",
-                    "Hilda's Hat Pikachu",
-                    "Ho-Oh",
-                    "Kyogre",
-                    "Kyurem",
-                    "Leaf's Hat Pikachu",
-                    "Lucas's Hat Pikachu",
-                    "Lugia",
-                    "Lyra's Hat Pikachu",
-                    "May's Hat Pikachu",
-                    "Moltres",
-                    "Nate's Visor Pikachu",
-                    "Palkia",
-                    "Red's Hat Pikachu",
-                    "Rei's Cap Pikachu",
-                    "Reshiram",
-                    "Rosa's Visor Pikachu",
-                    "Zapdos",
-                    "Zekrom"
-                ],
-                "spawns": [
-                    "Bidoof",
-                    "Bulbasaur",
-                    "Charmander",
-                    "Chikorita",
-                    "Chimchar",
-                    "Clefairy",
-                    "Cyndaquil",
-                    "Darumaka",
-                    "Gothita",
-                    "Hoppip",
-                    "Lillipup",
-                    "Marill",
-                    "Meowth",
-                    "Mudkip",
-                    "Nincada",
-                    "Oshawott",
-                    "Pikachu",
-                    "Piplup",
-                    "Poochyena",
-                    "Shinx",
-                    "Snivy",
-                    "Snover",
-                    "Squirtle",
-                    "Taillow",
-                    "Teddiursa",
-                    "Tepig",
-                    "Torchic",
-                    "Totodile",
-                    "Treecko",
-                    "Turtwig"
-                ],
-                "eggs": [
-                    "Bagon",
-                    "Beldum",
-                    "Gible",
-                    "Larvitar"
-                ],
-                "raids": [
-                    "Akari's Kerchief Pikachu",
-                    "Articuno",
-                    "Brendan's Hat Pikachu",
-                    "Dawn's Hat Pikachu",
-                    "Dialga",
-                    "Ethan's Hat Pikachu",
-                    "Hilbert's Hat Pikachu",
-                    "Hilda's Hat Pikachu",
-                    "Ho-Oh",
-                    "Kyurem (Black)",
-                    "Kyurem (White)",
-                    "Leaf's Hat Pikachu",
-                    "Lucas's Hat Pikachu",
-                    "Lugia",
-                    "Lyra's Hat Pikachu",
-                    "May's Hat Pikachu",
-                    "Moltres",
-                    "Nate's Visor Pikachu",
-                    "Origin Forme Dialga",
-                    "Origin Forme Palkia",
-                    "Palkia",
-                    "Primal Groudon",
-                    "Primal Kyogre",
-                    "Red's Hat Pikachu",
-                    "Rei's Cap Pikachu",
-                    "Reshiram",
-                    "Rosa's Visor Pikachu",
-                    "Zapdos",
-                    "Zekrom"
-                ],
-                "moves": [
-                    "Articuno",
-                    "Groudon",
-                    "Kyogre",
-                    "Kyurem",
-                    "Moltres",
-                    "Reshiram",
-                    "Zapdos",
-                    "Zekrom"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-23T00:00:00",
-            "end_time": "2026-02-27T23:59:00",
-            "description": "We’re en route to Pokémon GO Tour: Kalos, and we can’t forget about an important stop along the way: the Road to Kalos event! Before Pokémon GO Tour: Kalos – Global begins on February 28, 2026, you’re invited to this week-long “rewind” of previous GO Tour events, which celebrate the Kanto, Johto, Hoenn, Sinnoh, and Unova regions!\nPlus, early readings are showing that certain Legendary Pokémon, previously featured at each GO Tour event, are getting ready to reappear… Could this be the work of the Mythical Pokémon Hoopa?\nTrainers attending the in-person Pokémon GO Tour: Kalos events in Tainan and Los Angeles can jump into the Kalos-inspired fun even sooner! Check out the event site for more details on how to attend. Pokémon GO Tour: Kalos – Global is a free event available to all Trainers on Saturday, February 28, and Sunday, March 1, 2026, from 10:00 a.m. to 6:00 p.m. local time. Learn more about the event and purchase tickets here!"
-        },
-        {
-            "title": "Hatch Day",
-            "article_url": "https://leekduck.com/events/hatch-day-april-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-04-18T14:00:00",
-            "end_time": "2026-04-18T17:00:00",
-            "description": "The Hatch Day event will take place on April 18, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        }
-    ],
-    "PokéStop Showcase": [
-        {
-            "title": "Ho-Oh PokéStop Showcase",
-            "article_url": "https://leekduck.com/events/pokemon-showcase-ho-oh/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-01-31T06:00:00",
-            "end_time": "2026-02-01T20:00:00",
-            "description": "There will be PokéStop Showcases featuring Ho-Oh. Top the leaderboard to win rewards including Premium Items!\n- Ho-Oh"
-        },
-        {
-            "title": "Toucannon, Ludicolo, and Quaquaval PokéStop Showcase",
-            "article_url": "https://leekduck.com/events/toucannon-ludicolo-quaquaval-showcase-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-02T10:00:00",
-            "end_time": "2026-02-04T20:00:00",
-            "description": "There will be PokéStop Showcases featuring Toucannon, Ludicolo, and Quaquaval. Top the leaderboard to win rewards including Premium Items!"
-        }
-    ],
-    "Max Battles": [
-        {
-            "title": "Dynamax Ho-Oh Max Battle Weekend",
-            "article_url": "https://leekduck.com/events/dynamax-ho-oh-max-battle-weekend/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-31-dynamax-ho-oh-max-battle-weekend/dynamax-ho-oh-max-battle-weekend.jpg?v2",
-            "category": "Max Battles",
-            "details": {
-                "bonuses": [
-                    "1/4 Adventuring distance to receive Max Particles*",
-                    "2× XP from Max Battles",
-                    "8× Max Particles from Power Spots",
-                    "Increased Candy and Candy XL from five-star Max Battles",
-                    "Max Particle collection limit increased to 1,600",
-                    "Power Spots will refresh more frequently"
-                ],
-                "features": [
-                    "Ho-Oh"
-                ],
-                "shiny": [
-                    "Ho-Oh"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-31T06:00:00",
-            "end_time": "2026-02-01T21:00:00",
-            "description": "Let colors fly during Dynamax Ho-Oh Max Battle Weekend!"
-        },
-        {
-            "title": "Max Battle Day",
-            "article_url": "https://leekduck.com/events/max-battle-day-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Max Battles",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-15T14:00:00",
-            "end_time": "2026-02-15T17:00:00",
-            "description": "The Max Battle Day event will take place on February 15, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Max Battle Day",
-            "article_url": "https://leekduck.com/events/max-battle-day-march-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Max Battles",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-03-28T14:00:00",
-            "end_time": "2026-03-28T17:00:00",
-            "description": "The Max Battle Day event will take place on March 28, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Max Battle Day",
-            "article_url": "https://leekduck.com/events/max-battle-day-april-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Max Battles",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-04-25T14:00:00",
-            "end_time": "2026-04-25T17:00:00",
-            "description": "The Max Battle Day event will take place on April 25, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        }
-    ],
     "Max Mondays": [
         {
             "title": "Dynamax Wailmer during Max Monday",
@@ -748,7 +281,7 @@
         },
         {
             "title": "Dialga and Palkia in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/landorus-incarnate-forme-in-5-star-raid-battles-february-2026/",
+            "article_url": "https://leekduck.com/events/dialga-and-palkia-in-5-star-raid-battles-february-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
             "category": "Raid Battles",
             "details": {
@@ -918,6 +451,288 @@
             "description": "A Raid Hour featuring Lunala is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
         }
     ],
+    "PokéStop Showcase": [
+        {
+            "title": "Toucannon, Ludicolo, and Quaquaval PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/toucannon-ludicolo-quaquaval-showcase-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-02T10:00:00",
+            "end_time": "2026-02-04T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Toucannon, Ludicolo, and Quaquaval. Top the leaderboard to win rewards including Premium Items!"
+        }
+    ],
+    "Event": [
+        {
+            "title": "Oricorio Catch Mastery",
+            "article_url": "https://leekduck.com/events/oricorio-catch-mastery-day-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-07-oricorio-catch-mastery-day-february-2026/oricorio-catch-mastery.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× XP for successfully catching Pokémon with Nice Throws or better",
+                    "Increased Candy for successfully catching Pokémon with Nice Throws or better"
+                ],
+                "spawns": [
+                    "Hoothoot",
+                    "Starly"
+                ],
+                "shiny": [
+                    "Hoothoot",
+                    "Oricorio (Baile Style)",
+                    "Oricorio (Pa'u Style)",
+                    "Oricorio (Pom-Pom Style)",
+                    "Oricorio (Sensu Style)",
+                    "Starly"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-07T10:00:00",
+            "end_time": "2026-02-07T20:00:00",
+            "description": "Master your throwing skills and catch Oricorio, the Dancing Pokémon, during this Catch Mastery event!"
+        },
+        {
+            "title": "Carnival of Flamigo",
+            "article_url": "https://leekduck.com/events/carnival-of-flamigo/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-03-carnival-of-flamigo/carnival-of-flamigo.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Daily Adventure Incense duration",
+                    "2× Incense duration",
+                    "500 Additional Stardust for catching Flamigo",
+                    "Increased chance to encounter Shiny Lotad, Shiny Spritzee, and Shiny Pikipek"
+                ],
+                "features": [
+                    "Flamigo"
+                ],
+                "spawns": [
+                    "Bounsweet",
+                    "Buneary",
+                    "Finneon",
+                    "Flamigo",
+                    "Frillish",
+                    "Lotad",
+                    "Petilil",
+                    "Pikipek",
+                    "Spinarak",
+                    "Spritzee",
+                    "Surskit"
+                ],
+                "shiny": [
+                    "Lotad",
+                    "Pikipek",
+                    "Spritzee"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-03T10:00:00",
+            "end_time": "2026-02-08T20:00:00",
+            "description": "Celebrate the spirit of Carnival with Flamigo’s Pokémon GO debut!\nThe Carnival of Flamigo event will take place from February 3, 2026 at 10 am to February 8, 2026 at 8 pm."
+        },
+        {
+            "title": "Valentine's Day 2026",
+            "article_url": "https://leekduck.com/events/valentines-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-10-valentines-day-2026/valentines-day-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Stardust from opening Gifts",
+                    "2× XP for catching Pokémon",
+                    "Free Timed Research awarding encounters with Spinda with a heart pattern",
+                    "Gifts may include Rare Candy",
+                    "Increased chance to encounter Shiny Nidoran♀ and Shiny Nidoran♂",
+                    "Increased chance to hatch Shiny Nidoran♀, Shiny Nidoran♂, and Shiny Cherubi",
+                    "Successfully catching a Pokémon with a Curveball Throw will award 750 XP"
+                ],
+                "features": [
+                    "Furfrou (Heart)",
+                    "Furfrou (Natural)"
+                ],
+                "spawns": [
+                    "Audino",
+                    "Furfrou (Natural)",
+                    "Nidoran♀",
+                    "Nidoran♂"
+                ],
+                "eggs": [
+                    "Cherubi",
+                    "Cleffa",
+                    "Happiny",
+                    "Igglybuff",
+                    "Nidoran♀",
+                    "Nidoran♂"
+                ],
+                "raids": [
+                    "Gallade",
+                    "Gardevoir"
+                ],
+                "shiny": [
+                    "Cherubi",
+                    "Nidoran♀",
+                    "Nidoran♂"
+                ],
+                "moves": [
+                    "Gallade",
+                    "Gardevoir",
+                    "Kirlia",
+                    "Ralts"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-10T10:00:00",
+            "end_time": "2026-02-15T20:00:00",
+            "description": "The Valentine’s Day 2026 event will take place from February 10, 2026 at 10 am to February 15, 2026 at 8 pm local time."
+        },
+        {
+            "title": "Lunar New Year 2026",
+            "article_url": "https://leekduck.com/events/lunar-new-year-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-17T10:00:00",
+            "end_time": "2026-02-21T20:00:00",
+            "description": "The Lunar New Year 2026 event will take place from February 17, 2026 at 10 am to February 21, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Road to Kalos",
+            "article_url": "https://leekduck.com/events/road-to-kalos/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-23-road-to-kalos/road-to-kalos.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
+                    "The Remote Raid Pass limit will be increased to 30 from Monday, February 23 to Friday, February 27, 2026",
+                    "There will be no limit on Remote Raids from Saturday, February 28, to Sunday, March 1, 2026"
+                ],
+                "features": [
+                    "Akari's Kerchief Pikachu",
+                    "Articuno",
+                    "Brendan's Hat Pikachu",
+                    "Dawn's Hat Pikachu",
+                    "Dialga",
+                    "Ethan's Hat Pikachu",
+                    "Groudon",
+                    "Hilbert's Hat Pikachu",
+                    "Hilda's Hat Pikachu",
+                    "Ho-Oh",
+                    "Kyogre",
+                    "Kyurem",
+                    "Leaf's Hat Pikachu",
+                    "Lucas's Hat Pikachu",
+                    "Lugia",
+                    "Lyra's Hat Pikachu",
+                    "May's Hat Pikachu",
+                    "Moltres",
+                    "Nate's Visor Pikachu",
+                    "Palkia",
+                    "Red's Hat Pikachu",
+                    "Rei's Cap Pikachu",
+                    "Reshiram",
+                    "Rosa's Visor Pikachu",
+                    "Zapdos",
+                    "Zekrom"
+                ],
+                "spawns": [
+                    "Bidoof",
+                    "Bulbasaur",
+                    "Charmander",
+                    "Chikorita",
+                    "Chimchar",
+                    "Clefairy",
+                    "Cyndaquil",
+                    "Darumaka",
+                    "Gothita",
+                    "Hoppip",
+                    "Lillipup",
+                    "Marill",
+                    "Meowth",
+                    "Mudkip",
+                    "Nincada",
+                    "Oshawott",
+                    "Pikachu",
+                    "Piplup",
+                    "Poochyena",
+                    "Shinx",
+                    "Snivy",
+                    "Snover",
+                    "Squirtle",
+                    "Taillow",
+                    "Teddiursa",
+                    "Tepig",
+                    "Torchic",
+                    "Totodile",
+                    "Treecko",
+                    "Turtwig"
+                ],
+                "eggs": [
+                    "Bagon",
+                    "Beldum",
+                    "Gible",
+                    "Larvitar"
+                ],
+                "raids": [
+                    "Akari's Kerchief Pikachu",
+                    "Articuno",
+                    "Brendan's Hat Pikachu",
+                    "Dawn's Hat Pikachu",
+                    "Dialga",
+                    "Ethan's Hat Pikachu",
+                    "Hilbert's Hat Pikachu",
+                    "Hilda's Hat Pikachu",
+                    "Ho-Oh",
+                    "Kyurem (Black)",
+                    "Kyurem (White)",
+                    "Leaf's Hat Pikachu",
+                    "Lucas's Hat Pikachu",
+                    "Lugia",
+                    "Lyra's Hat Pikachu",
+                    "May's Hat Pikachu",
+                    "Moltres",
+                    "Nate's Visor Pikachu",
+                    "Origin Forme Dialga",
+                    "Origin Forme Palkia",
+                    "Palkia",
+                    "Primal Groudon",
+                    "Primal Kyogre",
+                    "Red's Hat Pikachu",
+                    "Rei's Cap Pikachu",
+                    "Reshiram",
+                    "Rosa's Visor Pikachu",
+                    "Zapdos",
+                    "Zekrom"
+                ],
+                "moves": [
+                    "Articuno",
+                    "Groudon",
+                    "Kyogre",
+                    "Kyurem",
+                    "Moltres",
+                    "Reshiram",
+                    "Zapdos",
+                    "Zekrom"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-23T00:00:00",
+            "end_time": "2026-02-27T23:59:00",
+            "description": "We’re en route to Pokémon GO Tour: Kalos, and we can’t forget about an important stop along the way: the Road to Kalos event! Before Pokémon GO Tour: Kalos – Global begins on February 28, 2026, you’re invited to this week-long “rewind” of previous GO Tour events, which celebrate the Kanto, Johto, Hoenn, Sinnoh, and Unova regions!\nPlus, early readings are showing that certain Legendary Pokémon, previously featured at each GO Tour event, are getting ready to reappear… Could this be the work of the Mythical Pokémon Hoopa?\nTrainers attending the in-person Pokémon GO Tour: Kalos events in Tainan and Los Angeles can jump into the Kalos-inspired fun even sooner! Check out the event site for more details on how to attend. Pokémon GO Tour: Kalos – Global is a free event available to all Trainers on Saturday, February 28, and Sunday, March 1, 2026, from 10:00 a.m. to 6:00 p.m. local time. Learn more about the event and purchase tickets here!"
+        },
+        {
+            "title": "Hatch Day",
+            "article_url": "https://leekduck.com/events/hatch-day-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-04-18T14:00:00",
+            "end_time": "2026-04-18T17:00:00",
+            "description": "The Hatch Day event will take place on April 18, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        }
+    ],
     "Raid Day": [
         {
             "title": "Raid Day",
@@ -962,6 +777,41 @@
             "start_time": "2026-05-23T14:00:00",
             "end_time": "2026-05-23T17:00:00",
             "description": "The Raid Day event will take place on May 23, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        }
+    ],
+    "Max Battles": [
+        {
+            "title": "Max Battle Day",
+            "article_url": "https://leekduck.com/events/max-battle-day-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Max Battles",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-15T14:00:00",
+            "end_time": "2026-02-15T17:00:00",
+            "description": "The Max Battle Day event will take place on February 15, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Max Battle Day",
+            "article_url": "https://leekduck.com/events/max-battle-day-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Max Battles",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-28T14:00:00",
+            "end_time": "2026-03-28T17:00:00",
+            "description": "The Max Battle Day event will take place on March 28, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Max Battle Day",
+            "article_url": "https://leekduck.com/events/max-battle-day-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Max Battles",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-04-25T14:00:00",
+            "end_time": "2026-04-25T17:00:00",
+            "description": "The Max Battle Day event will take place on April 25, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
     "Pokémon GO Tour": [
@@ -1397,15 +1247,6 @@
             "description": "Other Event Locations:\n- Los Angeles\n- Tainan\n- Global (this page)\nBuy tickets: Pokémon GO Web Store\nJoin millions of Trainers across the globe for Pokémon GO Tour: Kalos – Global! Take part in this worldwide event inspired by the Kalos region, first featured in Pokémon X and Pokémon Y on the Nintendo 3DS.\nGet ready to experience new gameplay inspired by the stories and characters of Pokémon X and Pokémon Y. From longtime Kalos fans to new Trainers picking up Pokémon GO for the first time, anyone can take part in this exciting two-day event at no cost!\nLooking to enhance your GO Tour adventure with exclusive Special Research, additional bonuses, and an increased chance of encountering Shiny Pokémon? Purchase a global event ticket from the Pokémon GO Web Store!"
         }
     ],
-    "Research": [
-        {
-            "title": "Masterwork Research: A Precious Catch",
-            "article_url": "https://leekduck.com/events/masterwork-research-a-precious-catch/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-02-masterwork-research-a-precious-catch/masterball.jpg",
-            "category": "Research",
-            "error": "InvalidTimes"
-        }
-    ],
     "Season": [
         {
             "title": "Precious Paths",
@@ -1519,6 +1360,52 @@
             "start_time": "2026-03-07T10:00:00",
             "end_time": "2026-03-09T20:00:00",
             "description": "The Season Event event will take place from March 7, 2026 at 10 am to March 9, 2026 at 8 pm. Stay tuned for more details."
+        }
+    ],
+    "Community Day": [
+        {
+            "title": "March Community Day",
+            "article_url": "https://leekduck.com/events/march-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "category": "Community Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-14T14:00:00",
+            "end_time": "2026-03-14T17:00:00",
+            "description": "The March Community Day event will take place on March 14, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "April Community Day",
+            "article_url": "https://leekduck.com/events/april-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "category": "Community Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-04-11T14:00:00",
+            "end_time": "2026-04-11T17:00:00",
+            "description": "The April Community Day event will take place on April 11, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "May Community Day",
+            "article_url": "https://leekduck.com/events/may-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "category": "Community Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-09T14:00:00",
+            "end_time": "2026-05-09T17:00:00",
+            "description": "The May Community Day event will take place on May 9, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "May Community Day Classic",
+            "article_url": "https://leekduck.com/events/may-communitydayclassic2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "category": "Community Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-16T14:00:00",
+            "end_time": "2026-05-16T17:00:00",
+            "description": "The May Community Day Classic event will take place on May 16, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
     "Research Day": [

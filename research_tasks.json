@@ -1,85 +1,130 @@
 {
-    "Vulpix Community Day Tasks": [
+    "Carnival of Flamigo Tasks": [
         {
-            "task": "Catch 3 Vulpix",
+            "task": "Catch 10 Pokémon",
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Vulpix",
+                    "name": "Sprigatito",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm37.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm906.icon.png"
                 },
                 {
                     "type": "encounter",
-                    "name": "Alolan Vulpix",
+                    "name": "Fuecoco",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm37.fALOLA.icon.png"
-                },
-                {
-                    "type": "item",
-                    "name": "Great Ball",
-                    "quantity": 5,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Great Ball.png"
-                },
-                {
-                    "type": "item",
-                    "name": "Ultra Ball",
-                    "quantity": 2,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Ultra Ball.png"
-                },
-                {
-                    "type": "item",
-                    "name": "Pinap Berry",
-                    "quantity": 2,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Pinap Berry.png"
-                },
-                {
-                    "type": "item",
-                    "name": "Stardust",
-                    "quantity": 500,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
-                }
-            ]
-        }
-    ],
-    "Vulpix Community Day - Special backgrounds Tasks": [
-        {
-            "task": "Catch 5 Pokémon while in a Party",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Vulpix",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm37.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm909.icon.png"
                 },
                 {
                     "type": "encounter",
-                    "name": "Alolan Vulpix",
+                    "name": "Quaxly",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm37.fALOLA.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm912.icon.png"
                 }
             ]
         },
         {
-            "task": "Catch 50 Pokémon",
+            "task": "Make 3 Curveball Throws in a row",
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Vulpix",
+                    "name": "Lotad",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm37.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm270.icon.png"
                 },
                 {
                     "type": "encounter",
-                    "name": "Alolan Vulpix",
+                    "name": "Flamigo",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm973.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Make 5 Curveball Throws",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Petilil",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm37.fALOLA.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm548.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Frillish",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm592.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pikipek",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm731.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Make a Great Curveball Throw",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Flamigo",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm973.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Spin 5 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Lotad",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm270.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Finneon",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm456.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Bounsweet",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm761.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Explore 2 km",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Surskit",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm283.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Spritzee",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm682.icon.png"
                 }
             ]
         }
