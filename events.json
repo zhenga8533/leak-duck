@@ -1,127 +1,4 @@
 {
-    "Max Mondays": [
-        {
-            "title": "Dynamax Wailmer during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-02-02/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-02T18:00:00",
-            "end_time": "2026-02-02T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn February 2, 2026, the featured Dynamax Pokémon is Wailmer.\n- Wailmer"
-        },
-        {
-            "title": "Dynamax Growlithe during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-02-09/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-09T18:00:00",
-            "end_time": "2026-02-09T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn February 9, 2026, the featured Dynamax Pokémon is Growlithe.\n- Growlithe"
-        },
-        {
-            "title": "Dynamax Machop during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-02-16/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-16T18:00:00",
-            "end_time": "2026-02-16T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn February 16, 2026, the featured Dynamax Pokémon is Machop.\n- Machop"
-        },
-        {
-            "title": "Unannounced Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-02-23/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-23T18:00:00",
-            "end_time": "2026-02-23T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nNote: Chansey will be available from February 23 to March 2, but Max Monday on February 23 will feature different Pokémon."
-        }
-    ],
-    "GO Pass": [
-        {
-            "title": "GO Pass: January",
-            "article_url": "https://leekduck.com/events/go-pass-january-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-01-06-go-pass-january-2026/go-pass-january-2026.jpg",
-            "category": "GO Pass",
-            "details": {
-                "bonuses": [
-                    "2× Daily Adventure Incense duration",
-                    "Additional rewards for completing in-person raids and Max Battles",
-                    "Hold 10 more Gifts in your Item Bag",
-                    "Hold up to 20 more Gifts in your Item Bag",
-                    "Open up to 40 Gifts per day",
-                    "Open up to 50 Gifts per day",
-                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
-                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-01-06T10:00:00",
-            "end_time": "2026-02-03T10:00:00",
-            "description": "Dialga and the Lucky Trinket return for GO Pass: January!\nFrom Tuesday, January 6, at 10:00 a.m. to Tuesday, February 3, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for January will be available in Pokémon GO!"
-        },
-        {
-            "title": "GO Pass: Road to Kalos",
-            "article_url": "https://leekduck.com/events/go-pass-road-to-kalos/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-23-go-pass-road-to-kalos/go-pass-road-to-kalos.jpg",
-            "category": "GO Pass",
-            "details": {
-                "bonuses": [
-                    "1 additional Candy XL awarded for catching Pokémon in five-star raids, Mega Raids, Primal Raids, and Shadow Raids (Trainers level 31+)",
-                    "1 additional Candy awarded for catching Pokémon in five-star raids, Mega Raids, Primal Raids, and Shadow Raids",
-                    "1.5× Catch XP",
-                    "2× Catch XP",
-                    "2× Hatch Candy",
-                    "2× Hatch Stardust",
-                    "2× Hatch XP",
-                    "2× Stardust from completed raids",
-                    "3× Catch XP",
-                    "Additional 5,000 XP from completed raids",
-                    "Hold up to 40 total Gifts in your Item Bag",
-                    "Large increase to the catch effectiveness of Premier Balls",
-                    "Open up to 100 Gifts per day",
-                    "Receive up to 200 Gifts per day from spinning PokéStop and Gym Photo Discs",
-                    "Scatterbug will appear even more frequently when you pin Gifts!",
-                    "Scatterbug will appear more frequently when you pin Gifts!",
-                    "Substantial increase to the catch effectiveness of Premier Balls"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-23T10:00:00",
-            "end_time": "2026-03-01T18:00:00",
-            "description": "From Monday, February 23, at 10:00 a.m. to Sunday, March 1, at 6:00 p.m. local time, the GO Pass and the GO Pass Deluxe for Road to Kalos will be available in Pokémon GO!"
-        },
-        {
-            "title": "GO Pass: February",
-            "article_url": "https://leekduck.com/events/go-pass-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-03-go-pass-february-2026/go-pass-february-2026.jpg",
-            "category": "GO Pass",
-            "details": {
-                "bonuses": [
-                    "2× Daily Adventure Incense duration",
-                    "Hold 10 more Gifts in your Item Bag",
-                    "Hold up to 20 more Gifts in your Item Bag",
-                    "Open up to 40 Gifts per day",
-                    "Open up to 50 Gifts per day",
-                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
-                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs",
-                    "Up to two free Raid Passes from spinning Gym Photo Discs per day"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-03T10:00:00",
-            "end_time": "2026-03-03T10:00:00",
-            "description": "A lovely reward returns! Earn PokéCoins for progressing in GO Pass: February!\nFrom Tuesday, February 3, at 10:00 a.m. to Tuesday, March 3, 2026, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for February will be available in Pokémon GO!"
-        }
-    ],
     "GO Battle League": [
         {
             "title": "Great League, Ultra League, and Master League | Precious Paths",
@@ -589,13 +466,32 @@
         {
             "title": "Lunar New Year 2026",
             "article_url": "https://leekduck.com/events/lunar-new-year-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-17-lunar-new-year-2026/lunar-new-year-2026.jpg",
             "category": "Event",
-            "details": {},
+            "details": {
+                "bonuses": [
+                    "Increased chance to become Lucky Friends",
+                    "Increased chance to encounter Shiny Blitzle, Shiny Darumaka, and Shiny Gimmighoul",
+                    "Increased chance to get Lucky Pokémon in trades",
+                    "PokéStops may turn gold without a Golden Lure Module"
+                ],
+                "spawns": [
+                    "Blitzle",
+                    "Darumaka",
+                    "Fuecoco",
+                    "Galarian Ponyta",
+                    "Ponyta"
+                ],
+                "shiny": [
+                    "Blitzle",
+                    "Darumaka",
+                    "Gimmighoul"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-02-17T10:00:00",
             "end_time": "2026-02-21T20:00:00",
-            "description": "The Lunar New Year 2026 event will take place from February 17, 2026 at 10 am to February 21, 2026 at 8 pm. Stay tuned for more details."
+            "description": "Celebrate the Lunar New Year with Pokémon GO’s 2026 event!\nThe Lunar New Year 2026 event will take place from February 17, 2026 at 10 am to February 21, 2026 at 8 pm local time."
         },
         {
             "title": "Road to Kalos",
@@ -731,6 +627,41 @@
             "start_time": "2026-04-18T14:00:00",
             "end_time": "2026-04-18T17:00:00",
             "description": "The Hatch Day event will take place on April 18, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        }
+    ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Growlithe during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-02-09/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-09T18:00:00",
+            "end_time": "2026-02-09T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn February 9, 2026, the featured Dynamax Pokémon is Growlithe.\n- Growlithe"
+        },
+        {
+            "title": "Dynamax Machop during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-02-16/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-16T18:00:00",
+            "end_time": "2026-02-16T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn February 16, 2026, the featured Dynamax Pokémon is Machop.\n- Machop"
+        },
+        {
+            "title": "Unannounced Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-02-23/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-23T18:00:00",
+            "end_time": "2026-02-23T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nNote: Chansey will be available from February 23 to March 2, but Max Monday on February 23 will feature different Pokémon."
         }
     ],
     "Raid Day": [
@@ -1245,6 +1176,61 @@
             "start_time": "2026-02-28T10:00:00",
             "end_time": "2026-03-01T18:00:00",
             "description": "Other Event Locations:\n- Los Angeles\n- Tainan\n- Global (this page)\nBuy tickets: Pokémon GO Web Store\nJoin millions of Trainers across the globe for Pokémon GO Tour: Kalos – Global! Take part in this worldwide event inspired by the Kalos region, first featured in Pokémon X and Pokémon Y on the Nintendo 3DS.\nGet ready to experience new gameplay inspired by the stories and characters of Pokémon X and Pokémon Y. From longtime Kalos fans to new Trainers picking up Pokémon GO for the first time, anyone can take part in this exciting two-day event at no cost!\nLooking to enhance your GO Tour adventure with exclusive Special Research, additional bonuses, and an increased chance of encountering Shiny Pokémon? Purchase a global event ticket from the Pokémon GO Web Store!"
+        }
+    ],
+    "GO Pass": [
+        {
+            "title": "GO Pass: Road to Kalos",
+            "article_url": "https://leekduck.com/events/go-pass-road-to-kalos/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-23-go-pass-road-to-kalos/go-pass-road-to-kalos.jpg",
+            "category": "GO Pass",
+            "details": {
+                "bonuses": [
+                    "1 additional Candy XL awarded for catching Pokémon in five-star raids, Mega Raids, Primal Raids, and Shadow Raids (Trainers level 31+)",
+                    "1 additional Candy awarded for catching Pokémon in five-star raids, Mega Raids, Primal Raids, and Shadow Raids",
+                    "1.5× Catch XP",
+                    "2× Catch XP",
+                    "2× Hatch Candy",
+                    "2× Hatch Stardust",
+                    "2× Hatch XP",
+                    "2× Stardust from completed raids",
+                    "3× Catch XP",
+                    "Additional 5,000 XP from completed raids",
+                    "Hold up to 40 total Gifts in your Item Bag",
+                    "Large increase to the catch effectiveness of Premier Balls",
+                    "Open up to 100 Gifts per day",
+                    "Receive up to 200 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Scatterbug will appear even more frequently when you pin Gifts!",
+                    "Scatterbug will appear more frequently when you pin Gifts!",
+                    "Substantial increase to the catch effectiveness of Premier Balls"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-23T10:00:00",
+            "end_time": "2026-03-01T18:00:00",
+            "description": "From Monday, February 23, at 10:00 a.m. to Sunday, March 1, at 6:00 p.m. local time, the GO Pass and the GO Pass Deluxe for Road to Kalos will be available in Pokémon GO!"
+        },
+        {
+            "title": "GO Pass: February",
+            "article_url": "https://leekduck.com/events/go-pass-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-03-go-pass-february-2026/go-pass-february-2026.jpg",
+            "category": "GO Pass",
+            "details": {
+                "bonuses": [
+                    "2× Daily Adventure Incense duration",
+                    "Hold 10 more Gifts in your Item Bag",
+                    "Hold up to 20 more Gifts in your Item Bag",
+                    "Open up to 40 Gifts per day",
+                    "Open up to 50 Gifts per day",
+                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Up to two free Raid Passes from spinning Gym Photo Discs per day"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-03T10:00:00",
+            "end_time": "2026-03-03T10:00:00",
+            "description": "A lovely reward returns! Earn PokéCoins for progressing in GO Pass: February!\nFrom Tuesday, February 3, at 10:00 a.m. to Tuesday, March 3, 2026, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for February will be available in Pokémon GO!"
         }
     ],
     "Season": [
