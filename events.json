@@ -1,123 +1,4 @@
 {
-    "GO Battle League": [
-        {
-            "title": "Great League, Ultra League, and Master League | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-split-3/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1769547600,
-            "end_time": 1770152400,
-            "description": "The Great League, Ultra League, and Master League will run from January 27, 2026, at 1:00 p.m. to February 3, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
-        },
-        {
-            "title": "Ultra League and 2026 Championship Series Cup | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_ultra-league_2026-championship-series-cup/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1770152400,
-            "end_time": 1770757200,
-            "description": "The Ultra League and 2026 Championship Series Cup will run from February 3, 2026, at 1:00 p.m. to February 10, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Bug-, Dark-, Normal-, and Dragon-type Pokémon are eligible.\n- Fighting-, Flying-, and Steel-type Pokémon are not eligible.\n- Legendary Pokémon, Mythical Pokémon, Mega Pokémon, and Ultra Beasts are not eligible.\n- The following Pokémon will be allowed: Seaking, Politoed, Milotic, and Froslass.\nThe following Pokémon will not be allowed.\n- Wigglytuff\n- Chansey\n- Crustle\n- Diggersby\n- Ribombee\n- Araquanid\n- Turtonator\n- Morgrem\n- Morpeko"
-        },
-        {
-            "title": "Master League and 2026 Championship Series Cup | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_master-league_2026-championship-series-cup/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1770757200,
-            "end_time": 1771362000,
-            "description": "The Master League and 2026 Championship Series Cup will run from February 10, 2026, at 1:00 p.m. to February 17, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Bug-, Dark-, Normal-, and Dragon-type Pokémon are eligible.\n- Fighting-, Flying-, and Steel-type Pokémon are not eligible.\n- Legendary Pokémon, Mythical Pokémon, Mega Pokémon, and Ultra Beasts are not eligible.\n- The following Pokémon will be allowed: Seaking, Politoed, Milotic, and Froslass.\nThe following Pokémon will not be allowed.\n- Wigglytuff\n- Chansey\n- Crustle\n- Diggersby\n- Ribombee\n- Araquanid\n- Turtonator\n- Morgrem\n- Morpeko"
-        },
-        {
-            "title": "Great League and Love Cup: Great League Edition | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_love-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1771362000,
-            "end_time": 1771966800,
-            "description": "The Great League and Love Cup: Great League Edition will run from February 17, 2026, at 1:00 p.m. to February 24, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only red- or pink-colored Pokémon are eligible."
-        },
-        {
-            "title": "Great League, Ultra League, and Master League: Mega Edition | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-mega-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1771966800,
-            "end_time": 1772571600,
-            "description": "The Great League, Ultra League, and Master League: Mega Edition will run from February 24, 2026, at 1:00 p.m. to March 3, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
-        }
-    ],
-    "Pokémon Spotlight Hour": [
-        {
-            "title": "Whismur Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-02-03/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Whismur"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-03T18:00:00",
-            "end_time": "2026-02-03T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of February.\nFebruary 3: The featured Pokémon is Whismur and the special bonus is 2× Catch Candy."
-        },
-        {
-            "title": "Munna Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-02-10/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Munna"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-10T18:00:00",
-            "end_time": "2026-02-10T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of February.\nFebruary 10: The featured Pokémon is Munna and the special bonus is 2× Catch XP."
-        },
-        {
-            "title": "Horsea Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-02-17/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Horsea"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-17T18:00:00",
-            "end_time": "2026-02-17T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of February.\nFebruary 17: The featured Pokémon is Horsea and the special bonus is 2× Transfer Candy."
-        },
-        {
-            "title": "Totodile Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-02-24/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Totodile"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-24T18:00:00",
-            "end_time": "2026-02-24T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of February.\nFebruary 24: The featured Pokémon is Totodile and the special bonus is 2× Catch Stardust."
-        }
-    ],
     "Raid Battles": [
         {
             "title": "Mega Ampharos in Mega Raids",
@@ -607,6 +488,8 @@
                     "Kyogre",
                     "Kyurem",
                     "Moltres",
+                    "Origin Forme Dialga",
+                    "Origin Forme Palkia",
                     "Reshiram",
                     "Zapdos",
                     "Zekrom"
@@ -662,6 +545,99 @@
             "start_time": "2026-02-23T18:00:00",
             "end_time": "2026-02-23T19:00:00",
             "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nNote: Chansey will be available from February 23 to March 2, but Max Monday on February 23 will feature different Pokémon."
+        }
+    ],
+    "GO Battle League": [
+        {
+            "title": "Ultra League and 2026 Championship Series Cup | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_ultra-league_2026-championship-series-cup/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1770152400,
+            "end_time": 1770757200,
+            "description": "The Ultra League and 2026 Championship Series Cup will run from February 3, 2026, at 1:00 p.m. to February 10, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Bug-, Dark-, Normal-, and Dragon-type Pokémon are eligible.\n- Fighting-, Flying-, and Steel-type Pokémon are not eligible.\n- Legendary Pokémon, Mythical Pokémon, Mega Pokémon, and Ultra Beasts are not eligible.\n- The following Pokémon will be allowed: Seaking, Politoed, Milotic, and Froslass.\nThe following Pokémon will not be allowed.\n- Wigglytuff\n- Chansey\n- Crustle\n- Diggersby\n- Ribombee\n- Araquanid\n- Turtonator\n- Morgrem\n- Morpeko"
+        },
+        {
+            "title": "Master League and 2026 Championship Series Cup | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_master-league_2026-championship-series-cup/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1770757200,
+            "end_time": 1771362000,
+            "description": "The Master League and 2026 Championship Series Cup will run from February 10, 2026, at 1:00 p.m. to February 17, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Bug-, Dark-, Normal-, and Dragon-type Pokémon are eligible.\n- Fighting-, Flying-, and Steel-type Pokémon are not eligible.\n- Legendary Pokémon, Mythical Pokémon, Mega Pokémon, and Ultra Beasts are not eligible.\n- The following Pokémon will be allowed: Seaking, Politoed, Milotic, and Froslass.\nThe following Pokémon will not be allowed.\n- Wigglytuff\n- Chansey\n- Crustle\n- Diggersby\n- Ribombee\n- Araquanid\n- Turtonator\n- Morgrem\n- Morpeko"
+        },
+        {
+            "title": "Great League and Love Cup: Great League Edition | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_love-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1771362000,
+            "end_time": 1771966800,
+            "description": "The Great League and Love Cup: Great League Edition will run from February 17, 2026, at 1:00 p.m. to February 24, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only red- or pink-colored Pokémon are eligible."
+        },
+        {
+            "title": "Great League, Ultra League, and Master League: Mega Edition | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-mega-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1771966800,
+            "end_time": 1772571600,
+            "description": "The Great League, Ultra League, and Master League: Mega Edition will run from February 24, 2026, at 1:00 p.m. to March 3, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
+        }
+    ],
+    "Pokémon Spotlight Hour": [
+        {
+            "title": "Munna Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-02-10/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Munna"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-10T18:00:00",
+            "end_time": "2026-02-10T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of February.\nFebruary 10: The featured Pokémon is Munna and the special bonus is 2× Catch XP."
+        },
+        {
+            "title": "Horsea Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-02-17/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Horsea"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-17T18:00:00",
+            "end_time": "2026-02-17T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of February.\nFebruary 17: The featured Pokémon is Horsea and the special bonus is 2× Transfer Candy."
+        },
+        {
+            "title": "Totodile Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-02-24/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Totodile"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-24T18:00:00",
+            "end_time": "2026-02-24T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of February.\nFebruary 24: The featured Pokémon is Totodile and the special bonus is 2× Catch Stardust."
         }
     ],
     "Raid Day": [
