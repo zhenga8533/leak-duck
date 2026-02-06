@@ -163,7 +163,7 @@
         },
         {
             "name": "Sobble",
-            "shiny_available": true,
+            "shiny_available": false,
             "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm816.icon.png",
             "hatch_distance": 1,
             "rarity_tier": 4
