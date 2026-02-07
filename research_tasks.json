@@ -1,4 +1,30 @@
 {
+    "Oricorio Catch Mastery Tasks": [
+        {
+            "task": "Make 10 Nice Throws",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Starly",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm396.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Make 7 Great Throws",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Hoothoot",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm163.icon.png"
+                }
+            ]
+        }
+    ],
     "Carnival of Flamigo Tasks": [
         {
             "task": "Catch 10 Pokémon",
