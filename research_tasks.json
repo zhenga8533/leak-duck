@@ -9,6 +9,67 @@
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm396.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Oricorio (Baile Style)",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm741.fBAILE.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Oricorio (Pom-Pom Style)",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm741.fPOMPOM.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Oricorio (Pa'u Style)",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm741.fPAU.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Oricorio (Sensu Style)",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm741.fSENSU.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Make 3 Great Throws in a row",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Oricorio (Baile Style)",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm741.fBAILE.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Oricorio (Pom-Pom Style)",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm741.fPOMPOM.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Oricorio (Pa'u Style)",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm741.fPAU.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Oricorio (Sensu Style)",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm741.fSENSU.icon.png"
                 }
             ]
         },
@@ -21,6 +82,67 @@
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm163.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Oricorio (Baile Style)",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm741.fBAILE.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Oricorio (Pom-Pom Style)",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm741.fPOMPOM.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Oricorio (Pa'u Style)",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm741.fPAU.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Oricorio (Sensu Style)",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm741.fSENSU.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Make an Excellent Throw",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Oricorio (Baile Style)",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm741.fBAILE.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Oricorio (Pom-Pom Style)",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm741.fPOMPOM.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Oricorio (Pa'u Style)",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm741.fPAU.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Oricorio (Sensu Style)",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm741.fSENSU.icon.png"
                 }
             ]
         }
