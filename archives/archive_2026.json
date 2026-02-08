@@ -473,6 +473,34 @@
             "start_time": "2026-01-27T10:00:00",
             "end_time": "2026-02-01T20:00:00",
             "description": "Plunge Into the Depths for Glimmet’s debut in Pokémon GO!"
+        },
+        {
+            "title": "Oricorio Catch Mastery",
+            "article_url": "https://leekduck.com/events/oricorio-catch-mastery-day-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-07-oricorio-catch-mastery-day-february-2026/oricorio-catch-mastery.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× XP for successfully catching Pokémon with Nice Throws or better",
+                    "Increased Candy for successfully catching Pokémon with Nice Throws or better"
+                ],
+                "spawns": [
+                    "Hoothoot",
+                    "Starly"
+                ],
+                "shiny": [
+                    "Hoothoot",
+                    "Oricorio (Baile Style)",
+                    "Oricorio (Pa'u Style)",
+                    "Oricorio (Pom-Pom Style)",
+                    "Oricorio (Sensu Style)",
+                    "Starly"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-07T10:00:00",
+            "end_time": "2026-02-07T20:00:00",
+            "description": "Master your throwing skills and catch Oricorio, the Dancing Pokémon, during this Catch Mastery event!"
         }
     ],
     "PokéStop Showcase": [
