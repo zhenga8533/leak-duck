@@ -501,6 +501,45 @@
             "start_time": "2026-02-07T10:00:00",
             "end_time": "2026-02-07T20:00:00",
             "description": "Master your throwing skills and catch Oricorio, the Dancing Pokémon, during this Catch Mastery event!"
+        },
+        {
+            "title": "Carnival of Flamigo",
+            "article_url": "https://leekduck.com/events/carnival-of-flamigo/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-03-carnival-of-flamigo/carnival-of-flamigo.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Daily Adventure Incense duration",
+                    "2× Incense duration",
+                    "500 Additional Stardust for catching Flamigo",
+                    "Increased chance to encounter Shiny Lotad, Shiny Spritzee, and Shiny Pikipek"
+                ],
+                "features": [
+                    "Flamigo"
+                ],
+                "spawns": [
+                    "Bounsweet",
+                    "Buneary",
+                    "Finneon",
+                    "Flamigo",
+                    "Frillish",
+                    "Lotad",
+                    "Petilil",
+                    "Pikipek",
+                    "Spinarak",
+                    "Spritzee",
+                    "Surskit"
+                ],
+                "shiny": [
+                    "Lotad",
+                    "Pikipek",
+                    "Spritzee"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-03T10:00:00",
+            "end_time": "2026-02-08T20:00:00",
+            "description": "Celebrate the spirit of Carnival with Flamigo’s Pokémon GO debut!\nThe Carnival of Flamigo event will take place from February 3, 2026 at 10 am to February 8, 2026 at 8 pm."
         }
     ],
     "PokéStop Showcase": [
@@ -613,6 +652,17 @@
             "start_time": "2026-02-02T10:00:00",
             "end_time": "2026-02-04T20:00:00",
             "description": "There will be PokéStop Showcases featuring Toucannon, Ludicolo, and Quaquaval. Top the leaderboard to win rewards including Premium Items!"
+        },
+        {
+            "title": "Flamigo PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/flamigo-showcase-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-07T10:00:00",
+            "end_time": "2026-02-08T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Flamigo. Top the leaderboard to win rewards including Premium Items!"
         }
     ],
     "Max Mondays": [
