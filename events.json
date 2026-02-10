@@ -327,9 +327,19 @@
                 ],
                 "spawns": [
                     "Audino",
+                    "Chansey",
+                    "Feebas",
+                    "Fomantis",
                     "Furfrou (Natural)",
+                    "Jigglypuff",
+                    "Luvdisc",
+                    "Minun",
+                    "Munna",
                     "Nidoran♀",
-                    "Nidoran♂"
+                    "Nidoran♂",
+                    "Plusle",
+                    "Spritzee",
+                    "Swirlix"
                 ],
                 "eggs": [
                     "Cherubi",
@@ -340,6 +350,8 @@
                     "Nidoran♂"
                 ],
                 "raids": [
+                    "Crown Nidoking",
+                    "Crown Nidoqueen",
                     "Gallade",
                     "Gardevoir"
                 ],
@@ -748,11 +760,11 @@
                 ],
                 "research": [
                     "Furfrou (Debutante)",
+                    "Furfrou (Diamond)",
                     "Furfrou (Heart)",
                     "Furfrou (Kabuki)",
                     "Furfrou (La Reine)",
-                    "Furfrou (Pharaoh)",
-                    "Furfrou (Star)"
+                    "Furfrou (Pharaoh)"
                 ],
                 "shiny": [
                     "Hawlucha",
