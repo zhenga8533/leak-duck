@@ -366,6 +366,19 @@
             "description": "The Hatch Day event will take place on April 18, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
+    "PokéStop Showcase": [
+        {
+            "title": "Enamorus (Therian Forme) PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/enamorus-(therian-forme)-showcase-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-14T10:00:00",
+            "end_time": "2026-02-15T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Enamorus (Therian Forme). Top the leaderboard to win rewards including Premium Items!"
+        }
+    ],
     "Raid Battles": [
         {
             "title": "Dialga and Palkia in 5-star Raid Battles",
