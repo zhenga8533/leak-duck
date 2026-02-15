@@ -1086,6 +1086,40 @@
             "start_time": "2026-01-24T14:00:00",
             "end_time": "2026-01-24T17:00:00",
             "description": "Unite with fellow Trainers to rescue Shadow Raikou from Team GO Rocket during a Shadow Raid Day event!"
+        },
+        {
+            "title": "Therian Forme Enamorus Raid Day",
+            "article_url": "https://leekduck.com/events/therian-forme-enamorus-raid-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-14-therian-forme-enamorus-raid-day-2026/therian-forme-enamorus-raid-day.jpg",
+            "category": "Raid Day",
+            "details": {
+                "bonuses": [
+                    "2× Stardust from Raid Battles",
+                    "50% more XP from Raid Battles",
+                    "Enamorus (Therian Forme) will make its Pokémon GO debut in five-star raids",
+                    "Increased chance of encountering Shiny Luvdisc and Shiny Furfrou** from Raids",
+                    "Increased chance to get Rare Candy XL from Raid Battles",
+                    "Receive up to eight additional Raid Passes from spinning Gym Photo Discs (for a daily total of 14)**",
+                    "Receive up to five additional free Raid Passes from spinning Gym Photo Discs (for a total of six)*",
+                    "The Remote Raid limit will increase to 20 from Friday, February 13, at 4:00 p.m. to Saturday, February 14, 2026, at 7:00 p.m. PST"
+                ],
+                "features": [
+                    "Enamorus (Therian Forme)"
+                ],
+                "raids": [
+                    "Enamorus (Therian Forme)",
+                    "Furfrou (Natural)",
+                    "Luvdisc"
+                ],
+                "shiny": [
+                    "Furfrou (Natural)",
+                    "Luvdisc"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-14T14:00:00",
+            "end_time": "2026-02-14T17:00:00",
+            "description": "Therian Forme Enamorus descends from the clouds for its Pokémon GO debut! The Therian Forme Enamorus Raid Day will take place on February 14, 2026 from 2 pm to 5 pm local time."
         }
     ],
     "Team GO Rocket": [
