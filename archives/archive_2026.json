@@ -540,6 +540,72 @@
             "start_time": "2026-02-03T10:00:00",
             "end_time": "2026-02-08T20:00:00",
             "description": "Celebrate the spirit of Carnival with Flamigo’s Pokémon GO debut!\nThe Carnival of Flamigo event will take place from February 3, 2026 at 10 am to February 8, 2026 at 8 pm."
+        },
+        {
+            "title": "Valentine's Day 2026",
+            "article_url": "https://leekduck.com/events/valentines-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-10-valentines-day-2026/valentines-day-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Stardust from opening Gifts",
+                    "2× XP for catching Pokémon",
+                    "Free Timed Research awarding encounters with Spinda with a heart pattern",
+                    "Gifts may include Rare Candy",
+                    "Increased chance to encounter Shiny Nidoran♀ and Shiny Nidoran♂",
+                    "Increased chance to hatch Shiny Nidoran♀, Shiny Nidoran♂, and Shiny Cherubi",
+                    "Successfully catching a Pokémon with a Curveball Throw will award 750 XP"
+                ],
+                "features": [
+                    "Furfrou (Heart)",
+                    "Furfrou (Natural)"
+                ],
+                "spawns": [
+                    "Audino",
+                    "Chansey",
+                    "Feebas",
+                    "Fomantis",
+                    "Furfrou (Natural)",
+                    "Jigglypuff",
+                    "Luvdisc",
+                    "Minun",
+                    "Munna",
+                    "Nidoran♀",
+                    "Nidoran♂",
+                    "Plusle",
+                    "Spritzee",
+                    "Swirlix"
+                ],
+                "eggs": [
+                    "Cherubi",
+                    "Cleffa",
+                    "Happiny",
+                    "Igglybuff",
+                    "Nidoran♀",
+                    "Nidoran♂"
+                ],
+                "raids": [
+                    "Crown Nidoking",
+                    "Crown Nidoqueen",
+                    "Gallade",
+                    "Gardevoir"
+                ],
+                "shiny": [
+                    "Cherubi",
+                    "Nidoran♀",
+                    "Nidoran♂"
+                ],
+                "moves": [
+                    "Gallade",
+                    "Gardevoir",
+                    "Kirlia",
+                    "Ralts"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-10T10:00:00",
+            "end_time": "2026-02-15T20:00:00",
+            "description": "The Valentine’s Day 2026 event will take place from February 10, 2026 at 10 am to February 15, 2026 at 8 pm local time."
         }
     ],
     "PokéStop Showcase": [
@@ -674,6 +740,17 @@
             "start_time": "2026-02-09T10:00:00",
             "end_time": "2026-02-11T20:00:00",
             "description": "There will be PokéStop Showcases featuring Flying-type Pokémon. Top the leaderboard to win rewards including Premium Items!"
+        },
+        {
+            "title": "Enamorus (Therian Forme) PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/enamorus-(therian-forme)-showcase-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-14T10:00:00",
+            "end_time": "2026-02-15T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Enamorus (Therian Forme). Top the leaderboard to win rewards including Premium Items!"
         }
     ],
     "Max Mondays": [
@@ -1187,6 +1264,32 @@
             "start_time": "2026-01-31T06:00:00",
             "end_time": "2026-02-01T21:00:00",
             "description": "Let colors fly during Dynamax Ho-Oh Max Battle Weekend!"
+        },
+        {
+            "title": "Gigantamax Meowth Max Battle Day",
+            "article_url": "https://leekduck.com/events/gigantamax-meowth-max-battle-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-15-gigantamax-meowth-max-battle-day-2026/gigantamax-meowth-max-battle-day.jpg",
+            "category": "Max Battles",
+            "details": {
+                "bonuses": [
+                    "1/4 Adventuring distance to receive Max Particles*",
+                    "2× Max Particles from exploring*",
+                    "2× XP from Max Battles",
+                    "8× Max Particles from Power Spots",
+                    "All Power Spots will host Gigantamax Battles",
+                    "From February 14 at 4:00 p.m. to February 15 at 8:00 p.m. PST (GMT −8), the daily Remote Raid limit will increase from 10 to 20",
+                    "Max Particle collection limit increased to 1,600",
+                    "Power Spots will refresh more frequently",
+                    "Up to four Special Trades for the day"
+                ],
+                "features": [
+                    "Gigantamax Meowth"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-15T14:00:00",
+            "end_time": "2026-02-15T17:00:00",
+            "description": "The Gigantamax Meowth Max Battle Day event will take place on February 15, 2026 from 2 pm to 5 pm local time."
         }
     ],
     "Research": [
