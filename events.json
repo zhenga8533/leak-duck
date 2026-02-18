@@ -1,63 +1,4 @@
 {
-    "Max Mondays": [
-        {
-            "title": "Dynamax Machop during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-02-16/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-16T18:00:00",
-            "end_time": "2026-02-16T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn February 16, 2026, the featured Dynamax Pokémon is Machop.\n- Machop"
-        },
-        {
-            "title": "Unannounced Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-02-23/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-23T18:00:00",
-            "end_time": "2026-02-23T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nNote: Chansey will be available from February 23 to March 2, but Max Monday on February 23 will feature different Pokémon."
-        }
-    ],
-    "GO Battle League": [
-        {
-            "title": "Master League and 2026 Championship Series Cup | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_master-league_2026-championship-series-cup/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1770757200,
-            "end_time": 1771362000,
-            "description": "The Master League and 2026 Championship Series Cup will run from February 10, 2026, at 1:00 p.m. to February 17, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Bug-, Dark-, Normal-, and Dragon-type Pokémon are eligible.\n- Fighting-, Flying-, and Steel-type Pokémon are not eligible.\n- Legendary Pokémon, Mythical Pokémon, Mega Pokémon, and Ultra Beasts are not eligible.\n- The following Pokémon will be allowed: Seaking, Politoed, Milotic, and Froslass.\nThe following Pokémon will not be allowed.\n- Wigglytuff\n- Chansey\n- Crustle\n- Diggersby\n- Ribombee\n- Araquanid\n- Turtonator\n- Morgrem\n- Morpeko"
-        },
-        {
-            "title": "Great League and Love Cup: Great League Edition | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_love-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1771362000,
-            "end_time": 1771966800,
-            "description": "The Great League and Love Cup: Great League Edition will run from February 17, 2026, at 1:00 p.m. to February 24, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only red- or pink-colored Pokémon are eligible."
-        },
-        {
-            "title": "Great League, Ultra League, and Master League: Mega Edition | Precious Paths",
-            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-mega-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1771966800,
-            "end_time": 1772571600,
-            "description": "The Great League, Ultra League, and Master League: Mega Edition will run from February 24, 2026, at 1:00 p.m. to March 3, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
-        }
-    ],
     "Pokémon Spotlight Hour": [
         {
             "title": "Horsea Spotlight Hour",
@@ -401,6 +342,13 @@
             "start_time": "2026-04-18T14:00:00",
             "end_time": "2026-04-18T17:00:00",
             "description": "The Hatch Day event will take place on April 18, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Example Event Template (Auto ToC Demo)",
+            "article_url": "https://leekduck.com/events/example_event/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/example_event/events-default-img.jpg",
+            "category": "Event",
+            "error": "TimeoutException"
         }
     ],
     "Pokémon GO Tour": [
@@ -717,12 +665,23 @@
                     "Up to six Special Trades per day"
                 ],
                 "features": [
+                    "Bagon",
+                    "Beldum",
                     "Blue Flower Flabébé",
+                    "Calem's Hat Pikachu",
+                    "Chespin",
+                    "Fennekin",
+                    "Froakie",
+                    "Gible",
                     "Hawlucha",
+                    "Heracross",
                     "Honedge",
+                    "Kangaskhan",
                     "Klefki",
+                    "Larvitar",
                     "Orange Flower Flabébé",
                     "Red Flower Flabébé",
+                    "Serena's Hat Pikachu",
                     "White Flower Flabébé",
                     "Yellow Flower Flabébé"
                 ],
@@ -834,6 +793,43 @@
             "start_time": "2026-02-28T10:00:00",
             "end_time": "2026-03-01T18:00:00",
             "description": "Other Event Locations:\n- Los Angeles\n- Tainan\n- Global (this page)\nBuy tickets: Pokémon GO Web Store\nJoin millions of Trainers across the globe for Pokémon GO Tour: Kalos – Global! Take part in this worldwide event inspired by the Kalos region, first featured in Pokémon X and Pokémon Y on the Nintendo 3DS.\nGet ready to experience new gameplay inspired by the stories and characters of Pokémon X and Pokémon Y. From longtime Kalos fans to new Trainers picking up Pokémon GO for the first time, anyone can take part in this exciting two-day event at no cost!\nLooking to enhance your GO Tour adventure with exclusive Special Research, additional bonuses, and an increased chance of encountering Shiny Pokémon? Purchase a global event ticket from the Pokémon GO Web Store!"
+        }
+    ],
+    "Max Mondays": [
+        {
+            "title": "Unannounced Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-02-23/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-23T18:00:00",
+            "end_time": "2026-02-23T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Tales of Transformation. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nNote: Chansey will be available from February 23 to March 2, but Max Monday on February 23 will feature different Pokémon."
+        }
+    ],
+    "GO Battle League": [
+        {
+            "title": "Great League and Love Cup: Great League Edition | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_love-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1771362000,
+            "end_time": 1771966800,
+            "description": "The Great League and Love Cup: Great League Edition will run from February 17, 2026, at 1:00 p.m. to February 24, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only red- or pink-colored Pokémon are eligible."
+        },
+        {
+            "title": "Great League, Ultra League, and Master League: Mega Edition | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-mega-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1771966800,
+            "end_time": 1772571600,
+            "description": "The Great League, Ultra League, and Master League: Mega Edition will run from February 24, 2026, at 1:00 p.m. to March 3, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
         }
     ],
     "GO Pass": [
