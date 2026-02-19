@@ -1,36 +1,4 @@
 {
-    "Pokémon Spotlight Hour": [
-        {
-            "title": "Horsea Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-02-17/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Horsea"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-17T18:00:00",
-            "end_time": "2026-02-17T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of February.\nFebruary 17: The featured Pokémon is Horsea and the special bonus is 2× Transfer Candy."
-        },
-        {
-            "title": "Totodile Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-02-24/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Totodile"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-24T18:00:00",
-            "end_time": "2026-02-24T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of February.\nFebruary 24: The featured Pokémon is Totodile and the special bonus is 2× Catch Stardust."
-        }
-    ],
     "Raid Hour": [
         {
             "title": "Solgaleo Raid Hour",
@@ -348,7 +316,11 @@
             "article_url": "https://leekduck.com/events/example_event/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/example_event/events-default-img.jpg",
             "category": "Event",
-            "error": "TimeoutException"
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-12-01T10:00:00",
+            "end_time": "2026-12-02T20:00:00",
+            "description": "This file demonstrates the reusable event pattern:\n- Keep all section if blocks in the template body.\n- Set event_toc_auto: true.\n- Fill data lists only for sections you want to show.\n- Leave unused section data empty to auto-hide both section and ToC item."
         }
     ],
     "Pokémon GO Tour": [
@@ -832,6 +804,23 @@
             "description": "The Great League, Ultra League, and Master League: Mega Edition will run from February 24, 2026, at 1:00 p.m. to March 3, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
         }
     ],
+    "Pokémon Spotlight Hour": [
+        {
+            "title": "Totodile Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-02-24/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Totodile"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-24T18:00:00",
+            "end_time": "2026-02-24T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of February.\nFebruary 24: The featured Pokémon is Totodile and the special bonus is 2× Catch Stardust."
+        }
+    ],
     "GO Pass": [
         {
             "title": "GO Pass: Road to Kalos",
@@ -1004,15 +993,37 @@
     ],
     "Community Day": [
         {
-            "title": "March Community Day",
+            "title": "Scorbunny Community Day",
             "article_url": "https://leekduck.com/events/march-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-14-march-communityday2026/scorbunny-cd-placeholder.jpg",
             "category": "Community Day",
-            "details": {},
+            "details": {
+                "bonuses": [
+                    "1-hour Lures*",
+                    "2x Catch Candy",
+                    "2x Chance to receive Candy XL from catching Pokémon",
+                    "3-hour Incense",
+                    "???",
+                    "Increased Spawns",
+                    "One additional Special Trade can be made for a maximum of three for the day*",
+                    "Trades made will require 50% less Stardust*"
+                ],
+                "features": [
+                    "Scorbunny"
+                ],
+                "spawns": [
+                    "Scorbunny"
+                ],
+                "shiny": [
+                    "Cinderace",
+                    "Raboot",
+                    "Scorbunny"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-03-14T14:00:00",
             "end_time": "2026-03-14T17:00:00",
-            "description": "The March Community Day event will take place on March 14, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+            "description": "Scorbunny, the Rabbit Pokémon, will be featured during March Community Day!"
         },
         {
             "title": "April Community Day",
