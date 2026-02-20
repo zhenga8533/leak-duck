@@ -852,6 +852,19 @@
             "description": "A lovely reward returns! Earn PokéCoins for progressing in GO Pass: February!\nFrom Tuesday, February 3, at 10:00 a.m. to Tuesday, March 3, 2026, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for February will be available in Pokémon GO!"
         }
     ],
+    "Research": [
+        {
+            "title": "[Promo Code] GO Tour Fairy Type Timed Research",
+            "article_url": "https://leekduck.com/events/go-tour-fairy-type-timed-research/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-20-go-tour-fairy-type-timed-research/sylveon.jpg",
+            "category": "Research",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-19T19:00:00",
+            "end_time": "2026-03-02T00:00:00",
+            "description": "All Trainers can redeem the following code to receive Fairy type Timed Research available starting with Pokémon GO Tour in person events.\nCode: TH4NKY0UF41RYMUCH Quick Redeem: https://store.pokemongo.com/offer-redemption?passcode=TH4NKY0UF41RYMUCH\nIt is not clear when this promo code will expire. The dates shown on this page are for the Timed Research."
+        }
+    ],
     "Season": [
         {
             "title": "Precious Paths",
