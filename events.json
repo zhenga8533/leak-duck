@@ -426,6 +426,7 @@
                     "Mega Altaria",
                     "Mega Ampharos",
                     "Mega Charizard X",
+                    "Mega Dragonite",
                     "Mega Garchomp",
                     "Mega Salamence",
                     "Mega Sceptile"
@@ -575,6 +576,7 @@
                     "Mega Altaria",
                     "Mega Ampharos",
                     "Mega Charizard X",
+                    "Mega Dragonite",
                     "Mega Garchomp",
                     "Mega Salamence",
                     "Mega Sceptile"
@@ -728,6 +730,19 @@
             "start_time": "2026-02-28T10:00:00",
             "end_time": "2026-03-01T18:00:00",
             "description": "Other Event Locations:\n- Los Angeles\n- Tainan\n- Global (this page)\nBuy tickets: Pokémon GO Web Store\nJoin millions of Trainers across the globe for Pokémon GO Tour: Kalos – Global! Take part in this worldwide event inspired by the Kalos region, first featured in Pokémon X and Pokémon Y on the Nintendo 3DS.\nGet ready to experience new gameplay inspired by the stories and characters of Pokémon X and Pokémon Y. From longtime Kalos fans to new Trainers picking up Pokémon GO for the first time, anyone can take part in this exciting two-day event at no cost!\nLooking to enhance your GO Tour adventure with exclusive Special Research, additional bonuses, and an increased chance of encountering Shiny Pokémon? Purchase a global event ticket from the Pokémon GO Web Store!"
+        }
+    ],
+    "PokéStop Showcase": [
+        {
+            "title": "Meowth, Vulpix, and Alolan Vulpix PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/meowth-vulpix-alolan-vulpix-showcase-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-21T10:00:00",
+            "end_time": "2026-02-22T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Meowth, Vulpix, and Alolan Vulpix. Top the leaderboard to win rewards including Premium Items!\nAlolan Vulpix and Vulpix are featured in separate Showcases. Any regional variant of Meowth (Kantonian, Alolan, or Galarian) can be entered in the Meowth Showcase."
         }
     ],
     "Max Mondays": [

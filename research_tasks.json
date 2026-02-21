@@ -107,10 +107,17 @@
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Pikachu",
+                    "name": "Pikachu wearing Calem's Hat",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/Pikachu Calem.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing Serena's Hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/Pikachu Serena.png"
                 }
             ]
         },
@@ -217,10 +224,17 @@
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Pikachu",
+                    "name": "Pikachu wearing Calem's Hat",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/Pikachu Calem.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing Serena's Hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/Pikachu Serena.png"
                 }
             ]
         },
