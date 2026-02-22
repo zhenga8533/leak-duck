@@ -1,4 +1,48 @@
 {
+    "Road to Kalos - Monday Tasks": [
+        {
+            "task": "Catch a Pikachu",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing Red's Hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2026_A.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing Leaf's Hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2026_A_02.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Spin 11 different PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "resource",
+                    "name": "Articuno Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/144.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Zapdos Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/145.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Moltres Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/146.png"
+                }
+            ]
+        }
+    ],
     "Lunar New Year 2026 Tasks": [
         {
             "task": "Catch 12 Pokémon",
