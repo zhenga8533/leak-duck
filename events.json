@@ -395,6 +395,17 @@
             "start_time": "2026-02-21T10:00:00",
             "end_time": "2026-02-22T20:00:00",
             "description": "There will be PokéStop Showcases featuring Meowth, Vulpix, and Alolan Vulpix. Top the leaderboard to win rewards including Premium Items!\nAlolan Vulpix and Vulpix are featured in separate Showcases. Any regional variant of Meowth (Kantonian, Alolan, or Galarian) can be entered in the Meowth Showcase."
+        },
+        {
+            "title": "Pikachu PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/pikachu-showcase-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-23T10:00:00",
+            "end_time": "2026-02-23T20:00:00",
+            "description": "There will be a PokéStop Showcase featuring Pikachu on Monday, February 23 (local time). The Showcase starts and ends on Monday. Top the leaderboard to win rewards including Premium Items!"
         }
     ],
     "Max Mondays": [
@@ -473,6 +484,8 @@
             "details": {
                 "bonuses": [
                     "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
+                    "Earn 6 points per Mega Evolution toward increasing any Pokémon's Mega Level",
+                    "Earn up to 6 points daily toward increasing any Pokémon's Mega Level",
                     "Increased chance of receiving event-themed 2 km Eggs from spinning PokéStops or Gyms.",
                     "Shadow Pokémon can forget the Charged Attack Frustration with a Charged TM.",
                     "The Remote Raid Pass limit will be increased to 30 from Monday, February 23 to Friday, February 27, 2026",
@@ -496,9 +509,11 @@
                     "Lucas's Hat Pikachu",
                     "Lugia",
                     "Lyra's Hat Pikachu",
-                    "May's Hat Pikachu",
+                    "May's Bow Pikachu",
                     "Moltres",
                     "Nate's Visor Pikachu",
+                    "Origin Forme Dialga",
+                    "Origin Forme Palkia",
                     "Palkia",
                     "Red's Hat Pikachu",
                     "Rei's Cap Pikachu",
@@ -562,7 +577,7 @@
                     "Lucas's Hat Pikachu",
                     "Lugia",
                     "Lyra's Hat Pikachu",
-                    "May's Hat Pikachu",
+                    "May's Bow Pikachu",
                     "Moltres",
                     "Nate's Visor Pikachu",
                     "Origin Forme Dialga",
