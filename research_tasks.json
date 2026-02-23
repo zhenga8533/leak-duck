@@ -162,43 +162,6 @@
             ]
         }
     ],
-    "Lunar New Year 2026 Tasks": [
-        {
-            "task": "Catch 12 Pokémon",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Darumaka",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm554.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Send 6 Gifts to friends",
-            "rewards": [
-                {
-                    "type": "item",
-                    "name": "Stardust",
-                    "quantity": 600,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
-                }
-            ]
-        },
-        {
-            "task": "Explore 2 km",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Blitzle",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm522.icon.png"
-                }
-            ]
-        }
-    ],
     "Pokémon GO Tour: Kalos - Tainan 2026 Tasks": [
         {
             "task": "Catch 10 Pokémon",
