@@ -1,30 +1,4 @@
 {
-    "Max Mondays": [
-        {
-            "title": "Kanto Starters Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-02-23/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-23T18:00:00",
-            "end_time": "2026-02-23T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn February 23, 2026, the featured Dynamax Pokémon are Bulbasaur, Squirtle, and Charmander.\nNote: Chansey will be available from February 23 to March 2, but Kanto Starters Max Monday on February 23 will feature Bulbasaur, Squirtle, and Charmander."
-        }
-    ],
-    "PokéStop Showcase": [
-        {
-            "title": "Pikachu PokéStop Showcase",
-            "article_url": "https://leekduck.com/events/pikachu-showcase-february-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-24T10:00:00",
-            "end_time": "2026-02-24T20:00:00",
-            "description": "There will be a PokéStop Showcase featuring Pikachu on Tuesday, February 24 (local time). The Showcase starts and ends on Tuesday. Top the leaderboard to win rewards including Premium Items!"
-        }
-    ],
     "GO Battle League": [
         {
             "title": "Great League and Love Cup: Great League Edition | Precious Paths",
@@ -64,6 +38,19 @@
             "start_time": "2026-02-24T18:00:00",
             "end_time": "2026-02-24T19:00:00",
             "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of February.\nFebruary 24: The featured Pokémon is Totodile and the special bonus is 2× Catch Stardust."
+        }
+    ],
+    "PokéStop Showcase": [
+        {
+            "title": "Pikachu PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/pikachu-showcase-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-24T10:00:00",
+            "end_time": "2026-02-24T20:00:00",
+            "description": "There will be a PokéStop Showcase featuring Pikachu on Tuesday, February 24 (local time). The Showcase starts and ends on Tuesday. Top the leaderboard to win rewards including Premium Items!"
         }
     ],
     "Raid Hour": [
