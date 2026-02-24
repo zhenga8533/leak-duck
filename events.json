@@ -20,9 +20,9 @@
             "category": "PokéStop Showcase",
             "details": {},
             "is_local_time": true,
-            "start_time": "2026-02-23T10:00:00",
-            "end_time": "2026-02-23T20:00:00",
-            "description": "There will be a PokéStop Showcase featuring Pikachu on Monday, February 23 (local time). The Showcase starts and ends on Monday. Top the leaderboard to win rewards including Premium Items!"
+            "start_time": "2026-02-24T10:00:00",
+            "end_time": "2026-02-24T20:00:00",
+            "description": "There will be a PokéStop Showcase featuring Pikachu on Tuesday, February 24 (local time). The Showcase starts and ends on Tuesday. Top the leaderboard to win rewards including Premium Items!"
         }
     ],
     "GO Battle League": [
@@ -135,9 +135,13 @@
                     "Clefairy",
                     "Cyndaquil",
                     "Darumaka",
+                    "Diglett",
+                    "Electabuzz",
                     "Gothita",
                     "Hoppip",
+                    "Koffing",
                     "Lillipup",
+                    "Mankey",
                     "Marill",
                     "Meowth",
                     "Mudkip",
@@ -156,7 +160,8 @@
                     "Torchic",
                     "Totodile",
                     "Treecko",
-                    "Turtwig"
+                    "Turtwig",
+                    "Venonat"
                 ],
                 "eggs": [
                     "Bagon",

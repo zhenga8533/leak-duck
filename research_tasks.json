@@ -1,4 +1,131 @@
 {
+    "Road to Kalos - Tuesday Tasks": [
+        {
+            "task": "Catch 12 Pokémon",
+            "rewards": [
+                {
+                    "type": "resource",
+                    "name": "Lugia Candy",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/249.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Ho-Oh Candy",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/250.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Lugia Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/249.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Ho-Oh Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/250.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch a Hoppip",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing Ethan's Hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2026_B.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing Lyra's Hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2026_B_02.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Spin 12 different PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "resource",
+                    "name": "Lugia Candy",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/249.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Ho-Oh Candy",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/250.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Lugia Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/249.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Ho-Oh Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/250.png"
+                }
+            ]
+        },
+        {
+            "task": "Use an Incense",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing Ethan's Hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2026_B.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing Lyra's Hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2026_B_02.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Win a raid",
+            "rewards": [
+                {
+                    "type": "resource",
+                    "name": "Lugia Candy",
+                    "quantity": 10,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/249.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Ho-Oh Candy",
+                    "quantity": 10,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/250.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Lugia Candy",
+                    "quantity": 3,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/249.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Ho-Oh Candy",
+                    "quantity": 3,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/250.png"
+                }
+            ]
+        }
+    ],
     "Road to Kalos - Monday Tasks": [
         {
             "task": "Catch 11 Pokémon",
@@ -158,240 +285,6 @@
                     "name": "Moltres Candy",
                     "quantity": 3,
                     "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/146.png"
-                }
-            ]
-        }
-    ],
-    "Pokémon GO Tour: Kalos - Tainan 2026 Tasks": [
-        {
-            "task": "Catch 10 Pokémon",
-            "rewards": [
-                {
-                    "type": "resource",
-                    "name": "Gardevoir Mega Energy",
-                    "quantity": 20,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Gardevoir Mega Energy.png"
-                },
-                {
-                    "type": "resource",
-                    "name": "Absol Mega Energy",
-                    "quantity": 20,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Absol Mega Energy.png"
-                },
-                {
-                    "type": "resource",
-                    "name": "Lucario Mega Energy",
-                    "quantity": 20,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Lucario Mega Energy.png"
-                },
-                {
-                    "type": "resource",
-                    "name": "Gyarados Mega Energy",
-                    "quantity": 20,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Gyarados Mega Energy.png"
-                }
-            ]
-        },
-        {
-            "task": "Explore 1 km",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Furfrou",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm676.fNATURAL.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Power up Grass or Poison-type Pokémon 6 times",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Bellsprout",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm69.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Power up Grass or Poison-type Pokémon 6 times",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Inkay",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm686.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Power up Pokémon 6 times",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Pikachu wearing Calem's Hat",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/Pikachu Calem.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Pikachu wearing Serena's Hat",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/Pikachu Serena.png"
-                }
-            ]
-        },
-        {
-            "task": "Spin 6 different PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Flabébé (Orange)",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm669.fORANGE.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Flabébé (White)",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm669.fWHITE.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Win a raid",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Honedge",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm679.icon.png"
-                }
-            ]
-        }
-    ],
-    "Pokémon GO Tour: Kalos - Los Angeles 2026 Tasks": [
-        {
-            "task": "Catch 10 Pokémon",
-            "rewards": [
-                {
-                    "type": "resource",
-                    "name": "Gardevoir Mega Energy",
-                    "quantity": 20,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Gardevoir Mega Energy.png"
-                },
-                {
-                    "type": "resource",
-                    "name": "Absol Mega Energy",
-                    "quantity": 20,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Absol Mega Energy.png"
-                },
-                {
-                    "type": "resource",
-                    "name": "Lucario Mega Energy",
-                    "quantity": 20,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Lucario Mega Energy.png"
-                },
-                {
-                    "type": "resource",
-                    "name": "Gyarados Mega Energy",
-                    "quantity": 20,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Gyarados Mega Energy.png"
-                }
-            ]
-        },
-        {
-            "task": "Explore 1 km",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Furfrou",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm676.fNATURAL.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Power up Grass or Poison-type Pokémon 6 times",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Bellsprout",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm69.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Power up Grass or Poison-type Pokémon 6 times",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Inkay",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm686.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Power up Pokémon 6 times",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Pikachu wearing Calem's Hat",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/Pikachu Calem.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Pikachu wearing Serena's Hat",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/Pikachu Serena.png"
-                }
-            ]
-        },
-        {
-            "task": "Spin 6 different PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Flabébé (Orange)",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm669.fORANGE.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Flabébé (White)",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm669.fWHITE.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Win a raid",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Honedge",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm679.icon.png"
                 }
             ]
         }
