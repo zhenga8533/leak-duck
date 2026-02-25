@@ -914,6 +914,17 @@
             "start_time": "2026-02-21T10:00:00",
             "end_time": "2026-02-22T20:00:00",
             "description": "There will be PokéStop Showcases featuring Meowth, Vulpix, and Alolan Vulpix. Top the leaderboard to win rewards including Premium Items!\nAlolan Vulpix and Vulpix are featured in separate Showcases. Any regional variant of Meowth (Kantonian, Alolan, or Galarian) can be entered in the Meowth Showcase."
+        },
+        {
+            "title": "Pikachu PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/pikachu-showcase-february-2026-tuesday/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-24T10:00:00",
+            "end_time": "2026-02-24T20:00:00",
+            "description": "There will be a PokéStop Showcase featuring Pikachu on Tuesday, February 24 (local time). The Showcase starts and ends on Tuesday. Top the leaderboard to win rewards including Premium Items!"
         }
     ],
     "Max Mondays": [
@@ -1247,6 +1258,21 @@
             "start_time": "2026-02-17T18:00:00",
             "end_time": "2026-02-17T19:00:00",
             "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of February.\nFebruary 17: The featured Pokémon is Horsea and the special bonus is 2× Transfer Candy."
+        },
+        {
+            "title": "Totodile Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-02-24/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Totodile"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-24T18:00:00",
+            "end_time": "2026-02-24T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Tuesday during the month of February.\nFebruary 24: The featured Pokémon is Totodile and the special bonus is 2× Catch Stardust."
         }
     ],
     "Raid Hour": [
