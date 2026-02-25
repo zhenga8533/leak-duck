@@ -43,7 +43,7 @@
     "PokéStop Showcase": [
         {
             "title": "Pikachu PokéStop Showcase",
-            "article_url": "https://leekduck.com/events/pikachu-showcase-february-2026/",
+            "article_url": "https://leekduck.com/events/pikachu-showcase-february-2026-tuesday/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
             "category": "PokéStop Showcase",
             "details": {},
@@ -51,6 +51,17 @@
             "start_time": "2026-02-24T10:00:00",
             "end_time": "2026-02-24T20:00:00",
             "description": "There will be a PokéStop Showcase featuring Pikachu on Tuesday, February 24 (local time). The Showcase starts and ends on Tuesday. Top the leaderboard to win rewards including Premium Items!"
+        },
+        {
+            "title": "Pikachu PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/pikachu-showcase-february-2026-wednesday/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-25T10:00:00",
+            "end_time": "2026-02-25T20:00:00",
+            "description": "There will be a PokéStop Showcase featuring Pikachu on Wednesday, February 25 (local time). The Showcase starts and ends on Wednesday. Top the leaderboard to win rewards including Premium Items!"
         }
     ],
     "Raid Hour": [
@@ -64,6 +75,50 @@
             "start_time": "2026-02-25T18:00:00",
             "end_time": "2026-02-25T19:00:00",
             "description": "A Raid Hour featuring Lunala is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Articuno, Zapdos, and Moltres Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20260304/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-04T18:00:00",
+            "end_time": "2026-03-04T19:00:00",
+            "description": "A Raid Hour featuring Articuno, Zapdos, and Moltres is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Zacian (Hero of Many Battles) Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20260311/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-11T18:00:00",
+            "end_time": "2026-03-11T19:00:00",
+            "description": "A Raid Hour featuring Zacian (Hero of Many Battles) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Zamazenta (Hero of Many Battles) Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20260318/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-18T18:00:00",
+            "end_time": "2026-03-18T19:00:00",
+            "description": "A Raid Hour featuring Zamazenta (Hero of Many Battles) is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Regieleki Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20260325/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-25T18:00:00",
+            "end_time": "2026-03-25T19:00:00",
+            "description": "A Raid Hour featuring Regieleki is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
         }
     ],
     "Event": [
@@ -205,6 +260,50 @@
             "start_time": "2026-02-23T00:00:00",
             "end_time": "2026-02-27T23:59:00",
             "description": "We’re en route to Pokémon GO Tour: Kalos, and we can’t forget about an important stop along the way: the Road to Kalos event! Before Pokémon GO Tour: Kalos – Global begins on February 28, 2026, you’re invited to this week-long “rewind” of previous GO Tour events, which celebrate the Kanto, Johto, Hoenn, Sinnoh, and Unova regions!\nPlus, early readings are showing that certain Legendary Pokémon, previously featured at each GO Tour event, are getting ready to reappear… Could this be the work of the Mythical Pokémon Hoopa?\nTrainers attending the in-person Pokémon GO Tour: Kalos events in Tainan and Los Angeles can jump into the Kalos-inspired fun even sooner! Check out the event site for more details on how to attend. Pokémon GO Tour: Kalos – Global is a free event available to all Trainers on Saturday, February 28, and Sunday, March 1, 2026, from 10:00 a.m. to 6:00 p.m. local time. Learn more about the event and purchase tickets here!"
+        },
+        {
+            "title": "Unannounced Event",
+            "article_url": "https://leekduck.com/events/tbd-march-2026-week-1/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-03T10:00:00",
+            "end_time": "2026-03-09T20:00:00",
+            "description": "The Unannounced Event event will take place from March 3, 2026 at 10 am to March 9, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Unannounced Event",
+            "article_url": "https://leekduck.com/events/tbd-march-2026-week-2/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-10T10:00:00",
+            "end_time": "2026-03-16T20:00:00",
+            "description": "The Unannounced Event event will take place from March 10, 2026 at 10 am to March 16, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Bug Out",
+            "article_url": "https://leekduck.com/events/bug-out-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-17T10:00:00",
+            "end_time": "2026-03-23T20:00:00",
+            "description": "The Bug Out event will take place from March 17, 2026 at 10 am to March 23, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Unannounced Event",
+            "article_url": "https://leekduck.com/events/tbd-march-2026-week-3/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-31T10:00:00",
+            "end_time": "2026-04-06T20:00:00",
+            "description": "The Unannounced Event event will take place from March 31, 2026 at 10 am to April 6, 2026 at 8 pm. Stay tuned for more details."
         },
         {
             "title": "Hatch Day",
@@ -444,6 +543,63 @@
             "description": "All Trainers can redeem the following code to receive Fairy type Timed Research available starting with Pokémon GO Tour in person events.\nCode: TH4NKY0UF41RYMUCH Quick Redeem: https://store.pokemongo.com/offer-redemption?passcode=TH4NKY0UF41RYMUCH\nIt is not clear when this promo code will expire. The dates shown on this page are for the Timed Research."
         }
     ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Rookidee during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-03-02/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-02T18:00:00",
+            "end_time": "2026-03-02T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn March 2, 2026, the featured Dynamax Pokémon is Rookidee.\n- Rookidee"
+        },
+        {
+            "title": "Dynamax Pikachu during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-03-09/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-09T18:00:00",
+            "end_time": "2026-03-09T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn March 9, 2026, the featured Dynamax Pokémon is Pikachu.\n- Pikachu"
+        },
+        {
+            "title": "Dynamax Falinks during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-03-16/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-16T18:00:00",
+            "end_time": "2026-03-16T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn March 16, 2026, the featured Dynamax Pokémon is Falinks.\n- Falinks"
+        },
+        {
+            "title": "Dynamax Regice during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-03-23/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-23T18:00:00",
+            "end_time": "2026-03-23T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn March 23, 2026, the featured Dynamax Pokémon is Regice.\n- Regice"
+        },
+        {
+            "title": "Dynamax Woobat during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-03-30/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-30T18:00:00",
+            "end_time": "2026-03-30T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn March 30, 2026, the featured Dynamax Pokémon is Woobat.\n- Woobat"
+        }
+    ],
     "Season": [
         {
             "title": "Precious Paths",
@@ -557,6 +713,55 @@
             "start_time": "2026-03-07T10:00:00",
             "end_time": "2026-03-09T20:00:00",
             "description": "The Season Event event will take place from March 7, 2026 at 10 am to March 9, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Memories in Motion",
+            "article_url": "https://leekduck.com/events/season-22-memories-in-motion/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-03-season-22-memories-in-motion/season-22-memories-in-motion.jpg",
+            "category": "Season",
+            "details": {
+                "bonuses": [
+                    "Increased XP and Stardust for a seven-day Pokémon catch streak",
+                    "Increased XP for a seven-day PokéStop spin streak",
+                    "One additional Candy when trading Pokémon in-person",
+                    "One guaranteed Candy XL when trading Pokémon in-person (Trainers level 31+)"
+                ],
+                "features": [
+                    "Dhelmise",
+                    "Dreepy",
+                    "Duraludon",
+                    "Gyarados",
+                    "Honedge",
+                    "Sinistea"
+                ],
+                "eggs": [
+                    "Audino",
+                    "Basculin (White Striped)",
+                    "Chingling",
+                    "Deino",
+                    "Dunsparce",
+                    "Fidough",
+                    "Galarian Corsola",
+                    "Galarian Meowth",
+                    "Galarian Slowpoke",
+                    "Galarian Zigzagoon",
+                    "Goomy",
+                    "Happiny",
+                    "Hisuian Growlithe",
+                    "Honedge",
+                    "Impidimp",
+                    "Sizzlipede",
+                    "Snom",
+                    "Tadbulb",
+                    "Toxel",
+                    "Turtonator",
+                    "Wimpod"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-03T10:00:00",
+            "end_time": "2026-06-02T10:00:00",
+            "description": "Welcome to Pokémon GO: Memories in Motion!\nIn Pokémon GO, Seasons are periods of time that feature new events, Pokémon debuts, and surprises that all follow a certain theme. As the Seasons change, you may find different Pokémon appearing in your area and hatching from Eggs. Make sure to explore during each in-game Season to collect and train as many different Pokémon as you can! You’ll also enjoy special bonuses as you do."
         }
     ],
     "Raid Battles": [
@@ -611,23 +816,193 @@
             "start_time": "2026-02-01T06:00:00",
             "end_time": "2026-03-04T22:00:00",
             "description": "Shadow Regigigas will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Regigigas!"
+        },
+        {
+            "title": "Articuno, Zapdos, and Moltres in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/articuno-zapdos-moltres-in-5-star-raid-battles-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Articuno",
+                    "Moltres",
+                    "Zapdos"
+                ],
+                "shiny": [
+                    "Articuno",
+                    "Moltres",
+                    "Zapdos"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-04T10:00:00",
+            "end_time": "2026-03-10T10:00:00",
+            "description": "Articuno, Zapdos, and Moltres will be in five-star raid battles from March 4, 2026 to March 10, 2026.\nThere will also be a Raid Hour featuring Articuno, Zapdos, and Moltres from 6:00 pm to 7:00 pm local time on the following date:\n- March 4"
+        },
+        {
+            "title": "Mega Pinsir in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-pinsir-in-mega-raids-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Pinsir"
+                ],
+                "shiny": [
+                    "Mega Pinsir",
+                    "Pinsir"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-04T10:00:00",
+            "end_time": "2026-03-10T10:00:00",
+            "description": "Mega Pinsir return to Mega Raids on March 4, 2026, at 10 am local time."
+        },
+        {
+            "title": "Mega Steelix in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-steelix-in-mega-raids-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Steelix"
+                ],
+                "shiny": [
+                    "Mega Steelix",
+                    "Steelix"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-11T10:00:00",
+            "end_time": "2026-03-17T10:00:00",
+            "description": "Mega Steelix return to Mega Raids on March 11, 2026, at 10 am local time."
+        },
+        {
+            "title": "Zacian (Hero of Many Battles) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/zacian-hero-of-many-battles-in-5-star-raid-battles-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Zacian (Hero of Many Battles)"
+                ],
+                "shiny": [
+                    "Zacian (Hero of Many Battles)"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-11T10:00:00",
+            "end_time": "2026-03-17T10:00:00",
+            "description": "Zacian (Hero of Many Battles) will be in five-star raid battles from March 11, 2026 to March 17, 2026.\nThere will also be a Raid Hour featuring Zacian (Hero of Many Battles) from 6:00 pm to 7:00 pm local time on the following date:\n- March 11"
+        },
+        {
+            "title": "Mega Slowbro in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-slowbro-in-mega-raids-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Slowbro"
+                ],
+                "shiny": [
+                    "Mega Slowbro",
+                    "Slowbro"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-18T10:00:00",
+            "end_time": "2026-03-24T10:00:00",
+            "description": "Mega Slowbro return to Mega Raids on March 18, 2026, at 10 am local time."
+        },
+        {
+            "title": "Zamazenta (Hero of Many Battles) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/zamazenta-hero-of-many-battles-in-5-star-raid-battles-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Zamazenta (Hero of Many Battles)"
+                ],
+                "shiny": [
+                    "Zamazenta (Hero of Many Battles)"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-18T10:00:00",
+            "end_time": "2026-03-24T10:00:00",
+            "description": "Zamazenta (Hero of Many Battles) will be in five-star raid battles from March 18, 2026 to March 24, 2026.\nThere will also be a Raid Hour featuring Zamazenta (Hero of Many Battles) from 6:00 pm to 7:00 pm local time on the following date:\n- March 18"
+        },
+        {
+            "title": "Mega Houndoom in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-houndoom-in-mega-raids-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Houndoom"
+                ],
+                "shiny": [
+                    "Houndoom",
+                    "Mega Houndoom"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-25T10:00:00",
+            "end_time": "2026-03-31T10:00:00",
+            "description": "Mega Houndoom return to Mega Raids on March 25, 2026, at 10 am local time."
+        },
+        {
+            "title": "Regieleki in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/regieleki-in-5-star-raid-battles-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Regieleki"
+                ],
+                "shiny": [
+                    "Regieleki"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-25T10:00:00",
+            "end_time": "2026-03-31T10:00:00",
+            "description": "Regieleki will be in five-star raid battles from March 25, 2026 to March 31, 2026.\nThere will also be a Raid Hour featuring Regieleki from 6:00 pm to 7:00 pm local time on the following date:\n- March 25"
+        },
+        {
+            "title": "Shadow Latias in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-latias-in-shadow-raids-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Latias"
+                ],
+                "shiny": [
+                    "Latias"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-04T06:00:00",
+            "end_time": "2026-03-31T22:00:00",
+            "description": "Shadow Latias will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Latias!\nShadow Latias will appear in five-star Shadow Raids every weekend from March 4 to March 31."
         }
     ],
     "Community Day": [
         {
             "title": "Scorbunny Community Day",
             "article_url": "https://leekduck.com/events/march-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-14-march-communityday2026/scorbunny-cd-placeholder.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-14-march-communityday2026/scorbunny-cd-march-2026.jpg",
             "category": "Community Day",
             "details": {
                 "bonuses": [
                     "1-hour Lures*",
+                    "1/4 Hatch Distance",
                     "2x Catch Candy",
                     "2x Chance to receive Candy XL from catching Pokémon",
                     "3-hour Incense",
-                    "???",
                     "Increased Spawns",
-                    "One additional Special Trade can be made for a maximum of three for the day*",
+                    "One additional Special Trade can be made for a maximum of two for the day*",
                     "Trades made will require 50% less Stardust*"
                 ],
                 "features": [
@@ -689,36 +1064,23 @@
             "category": "Research Day",
             "details": {},
             "is_local_time": true,
-            "start_time": "2026-03-21T14:00:00",
-            "end_time": "2026-03-21T17:00:00",
-            "description": "The Research Day event will take place on March 21, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+            "start_time": "2026-03-21T10:00:00",
+            "end_time": "2026-03-21T20:00:00",
+            "description": "The Research Day event will take place on March 21, 2026 from 10 am to 8 pm. Stay tuned for more details."
         }
     ],
-    "Max Battles": [
+    "Raid Day": [
         {
             "title": "Max Battle Day",
             "article_url": "https://leekduck.com/events/max-battle-day-march-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Max Battles",
+            "category": "Raid Day",
             "details": {},
             "is_local_time": true,
             "start_time": "2026-03-28T14:00:00",
             "end_time": "2026-03-28T17:00:00",
             "description": "The Max Battle Day event will take place on March 28, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         },
-        {
-            "title": "Max Battle Day",
-            "article_url": "https://leekduck.com/events/max-battle-day-april-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Max Battles",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-04-25T14:00:00",
-            "end_time": "2026-04-25T17:00:00",
-            "description": "The Max Battle Day event will take place on April 25, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        }
-    ],
-    "Raid Day": [
         {
             "title": "Raid Day",
             "article_url": "https://leekduck.com/events/raid-day-april-2026/",
@@ -751,6 +1113,19 @@
             "start_time": "2026-05-23T14:00:00",
             "end_time": "2026-05-23T17:00:00",
             "description": "The Raid Day event will take place on May 23, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        }
+    ],
+    "Max Battles": [
+        {
+            "title": "Max Battle Day",
+            "article_url": "https://leekduck.com/events/max-battle-day-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Max Battles",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-04-25T14:00:00",
+            "end_time": "2026-04-25T17:00:00",
+            "description": "The Max Battle Day event will take place on April 25, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ]
 }

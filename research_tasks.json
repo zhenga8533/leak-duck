@@ -1,4 +1,131 @@
 {
+    "Road to Kalos - Wednesday Tasks": [
+        {
+            "task": "Catch 13 Pokémon",
+            "rewards": [
+                {
+                    "type": "resource",
+                    "name": "Kyogre Candy",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/382.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Groudon Candy",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/383.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Kyogre Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/382.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Groudon Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/383.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch a Poochyena",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing May's Bandana",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.cGOTOUR_2023_BANDANA_NOEVOLVE.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing Brendan's Hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.cGOTOUR_2023_HAT.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Spin 13 different PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "resource",
+                    "name": "Kyogre Candy",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/382.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Groudon Candy",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/383.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Kyogre Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/382.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Groudon Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/383.png"
+                }
+            ]
+        },
+        {
+            "task": "Use an Incense",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing May's Bandana",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.cGOTOUR_2023_BANDANA_NOEVOLVE.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing Brendan's Hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.cGOTOUR_2023_HAT.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Win a raid",
+            "rewards": [
+                {
+                    "type": "resource",
+                    "name": "Kyogre Candy",
+                    "quantity": 10,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/382.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Groudon Candy",
+                    "quantity": 10,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/383.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Kyogre Candy",
+                    "quantity": 3,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/382.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Groudon Candy",
+                    "quantity": 3,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/383.png"
+                }
+            ]
+        }
+    ],
     "Road to Kalos - Tuesday Tasks": [
         {
             "task": "Catch 12 Pokémon",
