@@ -67,6 +67,24 @@
             "start_time": "2026-02-25T10:00:00",
             "end_time": "2026-02-25T20:00:00",
             "description": "There will be a PokéStop Showcase featuring Pikachu on Wednesday, February 25 (local time). The Showcase starts and ends on Wednesday. Top the leaderboard to win rewards including Premium Items!"
+        },
+        {
+            "title": "Pikachu PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/pikachu-showcase-february-2026-thursday/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-26T10:00:00",
+            "end_time": "2026-02-26T20:00:00",
+            "description": "There will be a PokéStop Showcase featuring Pikachu on Thursday, February 26 (local time). The Showcase starts and ends on Thursday. Top the leaderboard to win rewards including Premium Items!"
+        },
+        {
+            "title": "Pikachu PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/pikachu-showcase-february-2026-friday/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "error": "TimeoutException"
         }
     ],
     "Event": [
@@ -232,15 +250,51 @@
             "description": "The Unannounced Event event will take place from March 10, 2026 at 10 am to March 16, 2026 at 8 pm. Stay tuned for more details."
         },
         {
-            "title": "Bug Out",
+            "title": "Bug Out 2026",
             "article_url": "https://leekduck.com/events/bug-out-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-17-bug-out-2026/bug-out-2026.jpg",
             "category": "Event",
-            "details": {},
+            "details": {
+                "bonuses": [
+                    "2× Candy for successfully catching Pokémon",
+                    "2× XP for successfully catching Pokémon with Nice Throws or better",
+                    "Different Pokémon will be attracted to regular Lure Modules during the event",
+                    "GO Pass Deluxe: 3× Candy for successfully catching Pokémon",
+                    "Paras, Combee, and Cutiefly attracted to regular Lure Modules will have an increased chance to be Shiny"
+                ],
+                "features": [
+                    "Blipbug",
+                    "Dottler",
+                    "Orbeetle"
+                ],
+                "spawns": [
+                    "Caterpie",
+                    "Combee",
+                    "Cutiefly",
+                    "Dwebble",
+                    "Nymble",
+                    "Paras",
+                    "Scyther",
+                    "Sizzlipede"
+                ],
+                "raids": [
+                    "Blipbug",
+                    "Kleavor",
+                    "Pinsir",
+                    "Scizor"
+                ],
+                "shiny": [
+                    "Centiskorch",
+                    "Combee",
+                    "Cutiefly",
+                    "Paras",
+                    "Sizzlipede"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-03-17T10:00:00",
             "end_time": "2026-03-23T20:00:00",
-            "description": "The Bug Out event will take place from March 17, 2026 at 10 am to March 23, 2026 at 8 pm. Stay tuned for more details."
+            "description": "The Bug Out 2026 event will take place from March 17, 2026 at 10 am to March 23, 2026 at 8 pm local time."
         },
         {
             "title": "Unannounced Event",
@@ -476,6 +530,28 @@
             "start_time": "2026-02-03T10:00:00",
             "end_time": "2026-03-03T10:00:00",
             "description": "A lovely reward returns! Earn PokéCoins for progressing in GO Pass: February!\nFrom Tuesday, February 3, at 10:00 a.m. to Tuesday, March 3, 2026, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for February will be available in Pokémon GO!"
+        },
+        {
+            "title": "GO Pass: March",
+            "article_url": "https://leekduck.com/events/go-pass-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-03-go-pass-march-2026/go-pass-march-2026.jpg",
+            "category": "GO Pass",
+            "details": {
+                "bonuses": [
+                    "2× Daily Adventure Incense duration",
+                    "Hold 10 more Gifts in your Item Bag",
+                    "Hold up to 20 more Gifts in your Item Bag",
+                    "Increased Stardust and XP from hatching Eggs",
+                    "Open up to 40 Gifts per day",
+                    "Open up to 50 Gifts per day",
+                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-03T10:00:00",
+            "end_time": "2026-04-07T10:00:00",
+            "description": "From Tuesday, March 3, at 10:00 a.m. to Tuesday, April 7, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for March will be available in Pokémon GO!"
         }
     ],
     "Research": [
