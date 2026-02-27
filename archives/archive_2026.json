@@ -936,6 +936,17 @@
             "start_time": "2026-02-25T10:00:00",
             "end_time": "2026-02-25T20:00:00",
             "description": "There will be a PokéStop Showcase featuring Pikachu on Wednesday, February 25 (local time). The Showcase starts and ends on Wednesday. Top the leaderboard to win rewards including Premium Items!"
+        },
+        {
+            "title": "Pikachu PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/pikachu-showcase-february-2026-thursday/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-26T10:00:00",
+            "end_time": "2026-02-26T20:00:00",
+            "description": "There will be a PokéStop Showcase featuring Pikachu on Thursday, February 26 (local time). The Showcase starts and ends on Thursday. Top the leaderboard to win rewards including Premium Items!"
         }
     ],
     "Max Mondays": [
