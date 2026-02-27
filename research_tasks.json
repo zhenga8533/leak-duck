@@ -670,6 +670,332 @@
             ]
         }
     ],
+    "Road to Kalos - Friday white Tasks": [
+        {
+            "task": "Catch 15 Pokémon",
+            "rewards": [
+                {
+                    "type": "resource",
+                    "name": "Reshiram Candy",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/643.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Zekrom Candy",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/644.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Kyurem Candy",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/646.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Reshiram Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/643.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Zekrom Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/644.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Kyurem Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/646.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch a Lillipup",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing Nate's Visor",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/Pikachu_Nate.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing Rosa's Visor",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/Pikachu_Rosa.png"
+                }
+            ]
+        },
+        {
+            "task": "Spin 15 different PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "resource",
+                    "name": "Reshiram Candy",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/643.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Zekrom Candy",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/644.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Kyurem Candy",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/646.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Reshiram Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/643.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Zekrom Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/644.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Kyurem Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/646.png"
+                }
+            ]
+        },
+        {
+            "task": "Use an Incense",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing Nate's Visor",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/Pikachu_Nate.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing Rosa's Visor",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/Pikachu_Rosa.png"
+                }
+            ]
+        },
+        {
+            "task": "Win a raid",
+            "rewards": [
+                {
+                    "type": "resource",
+                    "name": "Reshiram Candy",
+                    "quantity": 10,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/643.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Zekrom Candy",
+                    "quantity": 10,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/644.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Kyurem Candy",
+                    "quantity": 10,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/646.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Reshiram Candy",
+                    "quantity": 3,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/643.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Zekrom Candy",
+                    "quantity": 3,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/644.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Kyurem Candy",
+                    "quantity": 3,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/646.png"
+                }
+            ]
+        }
+    ],
+    "Road to Kalos - Friday black Tasks": [
+        {
+            "task": "Catch 15 Pokémon",
+            "rewards": [
+                {
+                    "type": "resource",
+                    "name": "Reshiram Candy",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/643.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Zekrom Candy",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/644.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Kyurem Candy",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/646.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Reshiram Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/643.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Zekrom Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/644.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Kyurem Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/646.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch a Lillipup",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing Hilbert's Hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/Pikachu_Hilbert.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing Hilda's Hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/Pikachu_Hilda.png"
+                }
+            ]
+        },
+        {
+            "task": "Spin 15 different PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "resource",
+                    "name": "Reshiram Candy",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/643.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Zekrom Candy",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/644.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Kyurem Candy",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/646.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Reshiram Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/643.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Zekrom Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/644.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Kyurem Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/646.png"
+                }
+            ]
+        },
+        {
+            "task": "Use an Incense",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing Hilbert's Hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/Pikachu_Hilbert.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing Hilda's Hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/Pikachu_Hilda.png"
+                }
+            ]
+        },
+        {
+            "task": "Win a raid",
+            "rewards": [
+                {
+                    "type": "resource",
+                    "name": "Reshiram Candy",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/643.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Zekrom Candy",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/644.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Kyurem Candy",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/regular/646.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Reshiram Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/643.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Zekrom Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/644.png"
+                },
+                {
+                    "type": "resource",
+                    "name": "Kyurem Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/646.png"
+                }
+            ]
+        }
+    ],
     "Catching Tasks": [
         {
             "task": "Catch 7 Pokémon",
