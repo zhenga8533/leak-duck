@@ -1,28 +1,4 @@
 {
-    "PokéStop Showcase": [
-        {
-            "title": "Pikachu PokéStop Showcase",
-            "article_url": "https://leekduck.com/events/pikachu-showcase-february-2026-friday/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-27T10:00:00",
-            "end_time": "2026-02-27T20:00:00",
-            "description": "There will be a PokéStop Showcase featuring Pikachu on Friday, February 27 (local time). The Showcase starts and ends on Friday. Top the leaderboard to win rewards including Premium Items!"
-        },
-        {
-            "title": "Xerneas, Yveltal, and Furfrou PokéStop Showcase",
-            "article_url": "https://leekduck.com/events/xerneas-yveltal-furfrou-showcase-pokemon-go-tour-kalos/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
-            "category": "PokéStop Showcase",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-02-28T10:00:00",
-            "end_time": "2026-03-01T18:00:00",
-            "description": "There will be PokéStop Showcases featuring Xerneas, Yveltal, and Furfrou during Pokémon GO Tour: Kalos – Global on Saturday and Sunday. Top the leaderboard to win rewards including Premium Items!\nThese Showcases run on Saturday, February 28 and Sunday, March 1 during Pokémon GO Tour: Kalos – Global."
-        }
-    ],
     "Event": [
         {
             "title": "Road to Kalos",
@@ -288,17 +264,6 @@
             "description": "The Pokémon 30th Anniversary: All Out event will take place from March 7, 2026 at 10 am to March 9, 2026 at 8 pm local time.\nYou may encounter almost all Pokémon in their natural habitat that have made their Pokémon GO debuts! Most Pokémon that have ever appeared in Pokémon GO will return during this event."
         },
         {
-            "title": "Unannounced Event",
-            "article_url": "https://leekduck.com/events/tbd-march-2026-week-2/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-03-10T10:00:00",
-            "end_time": "2026-03-16T20:00:00",
-            "description": "The Unannounced Event event will take place from March 10, 2026 at 10 am to March 16, 2026 at 8 pm. Stay tuned for more details."
-        },
-        {
             "title": "Pokémon Pokopia Celebration Event",
             "article_url": "https://leekduck.com/events/pokemon-pokopia-celebration-event-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-10-pokemon-pokopia-celebration-event-2026/pokopia-celebration-event.jpg",
@@ -439,28 +404,41 @@
                     "Up to six Special Trades per day"
                 ],
                 "features": [
+                    "Articuno",
                     "Bagon",
                     "Beldum",
                     "Blue Flower Flabébé",
                     "Calem's Hat Pikachu",
                     "Chespin",
+                    "Dialga",
                     "Fennekin",
                     "Froakie",
                     "Gible",
                     "Hawlucha",
                     "Heracross",
+                    "Ho-Oh",
                     "Honedge",
                     "Kangaskhan",
                     "Klefki",
+                    "Kyurem (Black)",
+                    "Kyurem (White)",
                     "Larvitar",
+                    "Lugia",
                     "Mega Dragonite",
                     "Mega Malamar",
                     "Mega Victreebel",
+                    "Moltres",
                     "Orange Flower Flabébé",
+                    "Palkia",
+                    "Primal Groudon",
+                    "Primal Kyogre",
                     "Red Flower Flabébé",
+                    "Reshiram",
                     "Serena's Hat Pikachu",
                     "White Flower Flabébé",
-                    "Yellow Flower Flabébé"
+                    "Yellow Flower Flabébé",
+                    "Zapdos",
+                    "Zekrom"
                 ],
                 "spawns": [
                     "Absol",
@@ -541,9 +519,6 @@
                     "Hawlucha",
                     "Honedge",
                     "Klefki"
-                ],
-                "moves": [
-                    "Latias"
                 ]
             },
             "is_local_time": true,
@@ -627,6 +602,19 @@
             "start_time": "2026-03-03T10:00:00",
             "end_time": "2026-04-07T10:00:00",
             "description": "From Tuesday, March 3, at 10:00 a.m. to Tuesday, April 7, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for March will be available in Pokémon GO!"
+        }
+    ],
+    "PokéStop Showcase": [
+        {
+            "title": "Xerneas, Yveltal, and Furfrou PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/xerneas-yveltal-furfrou-showcase-pokemon-go-tour-kalos/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-28T10:00:00",
+            "end_time": "2026-03-01T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Xerneas, Yveltal, and Furfrou during Pokémon GO Tour: Kalos – Global on Saturday and Sunday. Top the leaderboard to win rewards including Premium Items!\nThese Showcases run on Saturday, February 28 and Sunday, March 1 during Pokémon GO Tour: Kalos – Global."
         }
     ],
     "Research": [
@@ -801,17 +789,6 @@
             "start_time": "2025-12-02T10:00:00",
             "end_time": "2026-03-03T10:00:00",
             "description": "Welcome to the next Pokémon GO Season: Precious Paths!"
-        },
-        {
-            "title": "Season Event",
-            "article_url": "https://leekduck.com/events/season-event-march-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Season",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-03-07T10:00:00",
-            "end_time": "2026-03-09T20:00:00",
-            "description": "The Season Event event will take place from March 7, 2026 at 10 am to March 9, 2026 at 8 pm. Stay tuned for more details."
         },
         {
             "title": "Memories in Motion",
