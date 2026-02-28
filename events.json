@@ -10,6 +10,17 @@
             "start_time": "2026-02-27T10:00:00",
             "end_time": "2026-02-27T20:00:00",
             "description": "There will be a PokéStop Showcase featuring Pikachu on Friday, February 27 (local time). The Showcase starts and ends on Friday. Top the leaderboard to win rewards including Premium Items!"
+        },
+        {
+            "title": "Xerneas, Yveltal, and Furfrou PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/xerneas-yveltal-furfrou-showcase-pokemon-go-tour-kalos/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-28T10:00:00",
+            "end_time": "2026-03-01T18:00:00",
+            "description": "There will be PokéStop Showcases featuring Xerneas, Yveltal, and Furfrou during Pokémon GO Tour: Kalos – Global on Saturday and Sunday. Top the leaderboard to win rewards including Premium Items!\nThese Showcases run on Saturday, February 28 and Sunday, March 1 during Pokémon GO Tour: Kalos – Global."
         }
     ],
     "Event": [
@@ -164,6 +175,119 @@
             "description": "The Unannounced Event event will take place from March 3, 2026 at 10 am to March 9, 2026 at 8 pm. Stay tuned for more details."
         },
         {
+            "title": "Pokémon 30th Anniversary",
+            "article_url": "https://leekduck.com/events/pokemon-30th-anniversary-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-03-pokemon-30th-anniversary-2026/30th-anniversary-event.jpg",
+            "category": "Event",
+            "details": {
+                "features": [
+                    "Articuno",
+                    "Ditto",
+                    "Mewtwo",
+                    "Moltres",
+                    "Zapdos"
+                ],
+                "bonuses": [
+                    "2× Catch Candy",
+                    "2× Catch XP",
+                    "3× Catch Candy",
+                    "3× Catch XP"
+                ],
+                "spawns": [
+                    "Alakazam",
+                    "Articuno",
+                    "Dragonite",
+                    "Eevee",
+                    "Gengar",
+                    "Golem",
+                    "Machamp",
+                    "Moltres",
+                    "Pikachu",
+                    "Zapdos"
+                ],
+                "raids": [
+                    "Blastoise",
+                    "Charizard",
+                    "Leaf's Hat Pikachu",
+                    "Red's Hat Pikachu",
+                    "Venusaur"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-03T10:00:00",
+            "end_time": "2026-03-09T20:00:00",
+            "description": "Celebrate 30 years of Pokémon by going out and catching as many Pokémon as you can! The Pokémon 30th Anniversary event will take place from March 3, 2026 at 10 am to March 9, 2026 at 8 pm local time."
+        },
+        {
+            "title": "Pokémon 30th Anniversary: All Out",
+            "article_url": "https://leekduck.com/events/pokemon-30th-anniversary-all-out-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-07-pokemon-30th-anniversary-all-out-2026/30th-anniversary-event.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "Incense activated during the event may lead to encounters with Legendary Pokémon—if you're very lucky!",
+                    "Wild Pokémon will appear more frequently"
+                ],
+                "raids": [
+                    "Akari's Kerchief Pikachu",
+                    "Articuno",
+                    "Blacephalon",
+                    "Brendan's Hat Pikachu",
+                    "Buzzwole",
+                    "Calem's Hat Pikachu",
+                    "Celesteela",
+                    "Darkrai",
+                    "Dawn's Hat Pikachu",
+                    "Ethan's Hat Pikachu",
+                    "Guzzlord",
+                    "Hilbert's Hat Pikachu",
+                    "Hilda's Hat Pikachu",
+                    "Kartana",
+                    "Leaf's Hat Pikachu",
+                    "Lucas's Hat Pikachu",
+                    "Lyra's Hat Pikachu",
+                    "May's Bow Pikachu",
+                    "Moltres",
+                    "Nate's Visor Pikachu",
+                    "Necrozma",
+                    "Nihilego",
+                    "Pheromosa",
+                    "Red's Hat Pikachu",
+                    "Rei's Cap Pikachu",
+                    "Rosa's Visor Pikachu",
+                    "Serena's Hat Pikachu",
+                    "Stakataka",
+                    "Xurkitree",
+                    "Zapdos"
+                ],
+                "eggs": [
+                    "Azurill",
+                    "Bonsly",
+                    "Budew",
+                    "Chingling",
+                    "Cleffa",
+                    "Elekid",
+                    "Happiny",
+                    "Igglybuff",
+                    "Magby",
+                    "Mantyke",
+                    "Mime Jr.",
+                    "Munchlax",
+                    "Pichu",
+                    "Riolu",
+                    "Smoochum",
+                    "Togepi",
+                    "Toxel",
+                    "Tyrogue",
+                    "Wynaut"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-07T10:00:00",
+            "end_time": "2026-03-09T20:00:00",
+            "description": "The Pokémon 30th Anniversary: All Out event will take place from March 7, 2026 at 10 am to March 9, 2026 at 8 pm local time.\nYou may encounter almost all Pokémon in their natural habitat that have made their Pokémon GO debuts! Most Pokémon that have ever appeared in Pokémon GO will return during this event."
+        },
+        {
             "title": "Unannounced Event",
             "article_url": "https://leekduck.com/events/tbd-march-2026-week-2/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
@@ -305,6 +429,10 @@
                 "bonuses": [
                     "1/2 Hatch Distance for Eggs placed in Incubators during the event",
                     "1/2 Stardust cost for trades",
+                    "Earn 2 points per Mega Evolution toward increasing the Mega Level of any Victreebel, Dragonite, or Malamar",
+                    "Earn 6 points per Mega Evolution toward increasing the Mega Level of any Victreebel, Dragonite, or Malamar",
+                    "Earn up to 30 points daily toward increasing the Mega Level of any Victreebel, Dragonite, or Malamar",
+                    "Earn up to 6 points daily toward increasing the Mega Level of any Victreebel, Dragonite, or Malamar",
                     "Increased chance of encountering Shiny Pokémon*",
                     "Mega-Evolved Pokémon will receive a CP boost",
                     "One GO Snapshot surprise event encounter per day—Latias may appear on Saturday and Latios may appear on Sunday!",
@@ -413,6 +541,9 @@
                     "Hawlucha",
                     "Honedge",
                     "Klefki"
+                ],
+                "moves": [
+                    "Latias"
                 ]
             },
             "is_local_time": true,
