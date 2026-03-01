@@ -741,17 +741,6 @@
     ],
     "Event": [
         {
-            "title": "Unannounced Event",
-            "article_url": "https://leekduck.com/events/tbd-march-2026-week-1/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-03-03T10:00:00",
-            "end_time": "2026-03-09T20:00:00",
-            "description": "The Unannounced Event event will take place from March 3, 2026 at 10 am to March 9, 2026 at 8 pm. Stay tuned for more details."
-        },
-        {
             "title": "Pokémon 30th Anniversary",
             "article_url": "https://leekduck.com/events/pokemon-30th-anniversary-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-03-pokemon-30th-anniversary-2026/30th-anniversary-event.jpg",
