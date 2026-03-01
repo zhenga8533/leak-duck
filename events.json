@@ -1,389 +1,4 @@
 {
-    "Event": [
-        {
-            "title": "Road to Kalos",
-            "article_url": "https://leekduck.com/events/road-to-kalos/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-23-road-to-kalos/road-to-kalos.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
-                    "Earn 6 points per Mega Evolution toward increasing any Pokémon's Mega Level",
-                    "Earn up to 6 points daily toward increasing any Pokémon's Mega Level",
-                    "Increased chance of receiving event-themed 2 km Eggs from spinning PokéStops or Gyms.",
-                    "Shadow Pokémon can forget the Charged Attack Frustration with a Charged TM.",
-                    "The Remote Raid Pass limit will be increased to 30 from Monday, February 23 to Friday, February 27, 2026",
-                    "There will be no limit on Remote Raids from Saturday, February 28, to Sunday, March 1, 2026",
-                    "Zygarde Cells can appear at the end of up to 5 Routes per day."
-                ],
-                "features": [
-                    "Akari's Kerchief Pikachu",
-                    "Articuno",
-                    "Brendan's Hat Pikachu",
-                    "Dawn's Hat Pikachu",
-                    "Dialga",
-                    "Ethan's Hat Pikachu",
-                    "Groudon",
-                    "Hilbert's Hat Pikachu",
-                    "Hilda's Hat Pikachu",
-                    "Ho-Oh",
-                    "Kyogre",
-                    "Kyurem",
-                    "Leaf's Hat Pikachu",
-                    "Lucas's Hat Pikachu",
-                    "Lugia",
-                    "Lyra's Hat Pikachu",
-                    "May's Bow Pikachu",
-                    "Moltres",
-                    "Nate's Visor Pikachu",
-                    "Origin Forme Dialga",
-                    "Origin Forme Palkia",
-                    "Palkia",
-                    "Red's Hat Pikachu",
-                    "Rei's Cap Pikachu",
-                    "Reshiram",
-                    "Rosa's Visor Pikachu",
-                    "Zapdos",
-                    "Zekrom"
-                ],
-                "spawns": [
-                    "Bidoof",
-                    "Bulbasaur",
-                    "Charmander",
-                    "Chikorita",
-                    "Chimchar",
-                    "Clefairy",
-                    "Cyndaquil",
-                    "Darumaka",
-                    "Diglett",
-                    "Electabuzz",
-                    "Gothita",
-                    "Hoppip",
-                    "Koffing",
-                    "Lillipup",
-                    "Mankey",
-                    "Marill",
-                    "Meowth",
-                    "Mudkip",
-                    "Nincada",
-                    "Oshawott",
-                    "Pikachu",
-                    "Piplup",
-                    "Poochyena",
-                    "Shinx",
-                    "Snivy",
-                    "Snover",
-                    "Squirtle",
-                    "Taillow",
-                    "Teddiursa",
-                    "Tepig",
-                    "Torchic",
-                    "Totodile",
-                    "Treecko",
-                    "Turtwig",
-                    "Venonat"
-                ],
-                "eggs": [
-                    "Bagon",
-                    "Beldum",
-                    "Dratini",
-                    "Gible",
-                    "Larvitar"
-                ],
-                "raids": [
-                    "Akari's Kerchief Pikachu",
-                    "Articuno",
-                    "Brendan's Hat Pikachu",
-                    "Dawn's Hat Pikachu",
-                    "Dialga",
-                    "Ethan's Hat Pikachu",
-                    "Hilbert's Hat Pikachu",
-                    "Hilda's Hat Pikachu",
-                    "Ho-Oh",
-                    "Kyurem (Black)",
-                    "Kyurem (White)",
-                    "Leaf's Hat Pikachu",
-                    "Lucas's Hat Pikachu",
-                    "Lugia",
-                    "Lyra's Hat Pikachu",
-                    "May's Bow Pikachu",
-                    "Moltres",
-                    "Nate's Visor Pikachu",
-                    "Origin Forme Dialga",
-                    "Origin Forme Palkia",
-                    "Palkia",
-                    "Primal Groudon",
-                    "Primal Kyogre",
-                    "Red's Hat Pikachu",
-                    "Rei's Cap Pikachu",
-                    "Reshiram",
-                    "Rosa's Visor Pikachu",
-                    "Zapdos",
-                    "Zekrom"
-                ],
-                "moves": [
-                    "Articuno",
-                    "Groudon",
-                    "Kyogre",
-                    "Kyurem",
-                    "Moltres",
-                    "Origin Forme Dialga",
-                    "Origin Forme Palkia",
-                    "Reshiram",
-                    "Zapdos",
-                    "Zekrom"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-02-23T00:00:00",
-            "end_time": "2026-02-27T23:59:00",
-            "description": "We’re en route to Pokémon GO Tour: Kalos, and we can’t forget about an important stop along the way: the Road to Kalos event! Before Pokémon GO Tour: Kalos – Global begins on February 28, 2026, you’re invited to this week-long “rewind” of previous GO Tour events, which celebrate the Kanto, Johto, Hoenn, Sinnoh, and Unova regions!\nPlus, early readings are showing that certain Legendary Pokémon, previously featured at each GO Tour event, are getting ready to reappear… Could this be the work of the Mythical Pokémon Hoopa?\nTrainers attending the in-person Pokémon GO Tour: Kalos events in Tainan and Los Angeles can jump into the Kalos-inspired fun even sooner! Check out the event site for more details on how to attend. Pokémon GO Tour: Kalos – Global is a free event available to all Trainers on Saturday, February 28, and Sunday, March 1, 2026, from 10:00 a.m. to 6:00 p.m. local time. Learn more about the event and purchase tickets here!"
-        },
-        {
-            "title": "Unannounced Event",
-            "article_url": "https://leekduck.com/events/tbd-march-2026-week-1/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-03-03T10:00:00",
-            "end_time": "2026-03-09T20:00:00",
-            "description": "The Unannounced Event event will take place from March 3, 2026 at 10 am to March 9, 2026 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Pokémon 30th Anniversary",
-            "article_url": "https://leekduck.com/events/pokemon-30th-anniversary-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-03-pokemon-30th-anniversary-2026/30th-anniversary-event.jpg",
-            "category": "Event",
-            "details": {
-                "features": [
-                    "Articuno",
-                    "Ditto",
-                    "Mewtwo",
-                    "Moltres",
-                    "Zapdos"
-                ],
-                "bonuses": [
-                    "2× Catch Candy",
-                    "2× Catch XP",
-                    "3× Catch Candy",
-                    "3× Catch XP"
-                ],
-                "spawns": [
-                    "Alakazam",
-                    "Articuno",
-                    "Dragonite",
-                    "Eevee",
-                    "Gengar",
-                    "Golem",
-                    "Machamp",
-                    "Moltres",
-                    "Pikachu",
-                    "Zapdos"
-                ],
-                "raids": [
-                    "Blastoise",
-                    "Charizard",
-                    "Leaf's Hat Pikachu",
-                    "Red's Hat Pikachu",
-                    "Venusaur"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-03-03T10:00:00",
-            "end_time": "2026-03-09T20:00:00",
-            "description": "Celebrate 30 years of Pokémon by going out and catching as many Pokémon as you can! The Pokémon 30th Anniversary event will take place from March 3, 2026 at 10 am to March 9, 2026 at 8 pm local time."
-        },
-        {
-            "title": "Pokémon 30th Anniversary: All Out",
-            "article_url": "https://leekduck.com/events/pokemon-30th-anniversary-all-out-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-07-pokemon-30th-anniversary-all-out-2026/30th-anniversary-event.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "Incense activated during the event may lead to encounters with Legendary Pokémon—if you're very lucky!",
-                    "Wild Pokémon will appear more frequently"
-                ],
-                "raids": [
-                    "Akari's Kerchief Pikachu",
-                    "Articuno",
-                    "Blacephalon",
-                    "Brendan's Hat Pikachu",
-                    "Buzzwole",
-                    "Calem's Hat Pikachu",
-                    "Celesteela",
-                    "Darkrai",
-                    "Dawn's Hat Pikachu",
-                    "Ethan's Hat Pikachu",
-                    "Guzzlord",
-                    "Hilbert's Hat Pikachu",
-                    "Hilda's Hat Pikachu",
-                    "Kartana",
-                    "Leaf's Hat Pikachu",
-                    "Lucas's Hat Pikachu",
-                    "Lyra's Hat Pikachu",
-                    "May's Bow Pikachu",
-                    "Moltres",
-                    "Nate's Visor Pikachu",
-                    "Necrozma",
-                    "Nihilego",
-                    "Pheromosa",
-                    "Red's Hat Pikachu",
-                    "Rei's Cap Pikachu",
-                    "Rosa's Visor Pikachu",
-                    "Serena's Hat Pikachu",
-                    "Stakataka",
-                    "Xurkitree",
-                    "Zapdos"
-                ],
-                "eggs": [
-                    "Azurill",
-                    "Bonsly",
-                    "Budew",
-                    "Chingling",
-                    "Cleffa",
-                    "Elekid",
-                    "Happiny",
-                    "Igglybuff",
-                    "Magby",
-                    "Mantyke",
-                    "Mime Jr.",
-                    "Munchlax",
-                    "Pichu",
-                    "Riolu",
-                    "Smoochum",
-                    "Togepi",
-                    "Toxel",
-                    "Tyrogue",
-                    "Wynaut"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-03-07T10:00:00",
-            "end_time": "2026-03-09T20:00:00",
-            "description": "The Pokémon 30th Anniversary: All Out event will take place from March 7, 2026 at 10 am to March 9, 2026 at 8 pm local time.\nYou may encounter almost all Pokémon in their natural habitat that have made their Pokémon GO debuts! Most Pokémon that have ever appeared in Pokémon GO will return during this event."
-        },
-        {
-            "title": "Pokémon Pokopia Celebration Event",
-            "article_url": "https://leekduck.com/events/pokemon-pokopia-celebration-event-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-10-pokemon-pokopia-celebration-event-2026/pokopia-celebration-event.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "10× XP for spinning a PokéStop for the first time",
-                    "2× XP for spinning PokéStops",
-                    "Increased chance to encounter Shiny Sudowoodo and Shiny Zorua"
-                ],
-                "features": [
-                    "Ditto wearing a cap",
-                    "Ditto wearing a hat"
-                ],
-                "spawns": [
-                    "Bulbasaur",
-                    "Charmander",
-                    "Pikachu",
-                    "Squirtle",
-                    "Sudowoodo",
-                    "Zorua"
-                ],
-                "raids": [
-                    "Dragonite",
-                    "Lapras",
-                    "Snorlax"
-                ],
-                "shiny": [
-                    "Ditto wearing a cap",
-                    "Ditto wearing a hat",
-                    "Sudowoodo",
-                    "Zorua"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-03-10T10:00:00",
-            "end_time": "2026-03-16T20:00:00",
-            "description": "The Pokémon Pokopia Celebration Event will take place from March 10, 2026 at 10 am to March 16, 2026 at 8 pm local time.\nNew costumed Ditto will make their Pokémon GO debuts during this event! Learn more about Pokémon Pokopia at pokopia.pokemon.com."
-        },
-        {
-            "title": "Bug Out 2026",
-            "article_url": "https://leekduck.com/events/bug-out-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-17-bug-out-2026/bug-out-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× Candy for successfully catching Pokémon",
-                    "2× XP for successfully catching Pokémon with Nice Throws or better",
-                    "Different Pokémon will be attracted to regular Lure Modules during the event",
-                    "GO Pass Deluxe: 3× Candy for successfully catching Pokémon",
-                    "Paras, Combee, and Cutiefly attracted to regular Lure Modules will have an increased chance to be Shiny"
-                ],
-                "features": [
-                    "Blipbug",
-                    "Dottler",
-                    "Orbeetle"
-                ],
-                "spawns": [
-                    "Caterpie",
-                    "Combee",
-                    "Cutiefly",
-                    "Dwebble",
-                    "Nymble",
-                    "Paras",
-                    "Scyther",
-                    "Sizzlipede"
-                ],
-                "raids": [
-                    "Blipbug",
-                    "Kleavor",
-                    "Pinsir",
-                    "Scizor"
-                ],
-                "shiny": [
-                    "Centiskorch",
-                    "Combee",
-                    "Cutiefly",
-                    "Paras",
-                    "Sizzlipede"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-03-17T10:00:00",
-            "end_time": "2026-03-23T20:00:00",
-            "description": "The Bug Out 2026 event will take place from March 17, 2026 at 10 am to March 23, 2026 at 8 pm local time."
-        },
-        {
-            "title": "Unannounced Event",
-            "article_url": "https://leekduck.com/events/tbd-march-2026-week-3/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-03-31T10:00:00",
-            "end_time": "2026-04-06T20:00:00",
-            "description": "The Unannounced Event event will take place from March 31, 2026 at 10 am to April 6, 2026 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Hatch Day",
-            "article_url": "https://leekduck.com/events/hatch-day-april-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-04-18T14:00:00",
-            "end_time": "2026-04-18T17:00:00",
-            "description": "The Hatch Day event will take place on April 18, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Example Event Template (Auto ToC Demo)",
-            "article_url": "https://leekduck.com/events/example_event/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/example_event/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-12-01T10:00:00",
-            "end_time": "2026-12-02T20:00:00",
-            "description": "This file demonstrates the reusable event pattern:\n- Keep all section if blocks in the template body.\n- Set event_toc_auto: true.\n- Fill data lists only for sections you want to show.\n- Leave unused section data empty to auto-hide both section and ToC item."
-        }
-    ],
     "Pokémon GO Tour": [
         {
             "title": "Pokémon GO Tour: Kalos - Global 2026",
@@ -488,6 +103,7 @@
                     "Bagon",
                     "Beldum",
                     "Blue Flower Flabébé",
+                    "Dratini",
                     "Gible",
                     "Hawlucha",
                     "Heracross",
@@ -1121,6 +737,252 @@
             "start_time": "2026-03-25T18:00:00",
             "end_time": "2026-03-25T19:00:00",
             "description": "A Raid Hour featuring Regieleki is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        }
+    ],
+    "Event": [
+        {
+            "title": "Unannounced Event",
+            "article_url": "https://leekduck.com/events/tbd-march-2026-week-1/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-03T10:00:00",
+            "end_time": "2026-03-09T20:00:00",
+            "description": "The Unannounced Event event will take place from March 3, 2026 at 10 am to March 9, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Pokémon 30th Anniversary",
+            "article_url": "https://leekduck.com/events/pokemon-30th-anniversary-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-03-pokemon-30th-anniversary-2026/30th-anniversary-event.jpg",
+            "category": "Event",
+            "details": {
+                "features": [
+                    "Articuno",
+                    "Ditto",
+                    "Mewtwo",
+                    "Moltres",
+                    "Zapdos"
+                ],
+                "bonuses": [
+                    "2× Catch Candy",
+                    "2× Catch XP",
+                    "3× Catch Candy",
+                    "3× Catch XP"
+                ],
+                "spawns": [
+                    "Alakazam",
+                    "Articuno",
+                    "Dragonite",
+                    "Eevee",
+                    "Gengar",
+                    "Golem",
+                    "Machamp",
+                    "Moltres",
+                    "Pikachu",
+                    "Zapdos"
+                ],
+                "raids": [
+                    "Blastoise",
+                    "Charizard",
+                    "Leaf's Hat Pikachu",
+                    "Red's Hat Pikachu",
+                    "Venusaur"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-03T10:00:00",
+            "end_time": "2026-03-09T20:00:00",
+            "description": "Celebrate 30 years of Pokémon by going out and catching as many Pokémon as you can! The Pokémon 30th Anniversary event will take place from March 3, 2026 at 10 am to March 9, 2026 at 8 pm local time."
+        },
+        {
+            "title": "Pokémon 30th Anniversary: All Out",
+            "article_url": "https://leekduck.com/events/pokemon-30th-anniversary-all-out-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-07-pokemon-30th-anniversary-all-out-2026/30th-anniversary-event.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "Incense activated during the event may lead to encounters with Legendary Pokémon—if you're very lucky!",
+                    "Wild Pokémon will appear more frequently"
+                ],
+                "raids": [
+                    "Akari's Kerchief Pikachu",
+                    "Articuno",
+                    "Blacephalon",
+                    "Brendan's Hat Pikachu",
+                    "Buzzwole",
+                    "Calem's Hat Pikachu",
+                    "Celesteela",
+                    "Darkrai",
+                    "Dawn's Hat Pikachu",
+                    "Ethan's Hat Pikachu",
+                    "Guzzlord",
+                    "Hilbert's Hat Pikachu",
+                    "Hilda's Hat Pikachu",
+                    "Kartana",
+                    "Leaf's Hat Pikachu",
+                    "Lucas's Hat Pikachu",
+                    "Lyra's Hat Pikachu",
+                    "May's Bow Pikachu",
+                    "Moltres",
+                    "Nate's Visor Pikachu",
+                    "Necrozma",
+                    "Nihilego",
+                    "Pheromosa",
+                    "Red's Hat Pikachu",
+                    "Rei's Cap Pikachu",
+                    "Rosa's Visor Pikachu",
+                    "Serena's Hat Pikachu",
+                    "Stakataka",
+                    "Xurkitree",
+                    "Zapdos"
+                ],
+                "eggs": [
+                    "Azurill",
+                    "Bonsly",
+                    "Budew",
+                    "Chingling",
+                    "Cleffa",
+                    "Elekid",
+                    "Happiny",
+                    "Igglybuff",
+                    "Magby",
+                    "Mantyke",
+                    "Mime Jr.",
+                    "Munchlax",
+                    "Pichu",
+                    "Riolu",
+                    "Smoochum",
+                    "Togepi",
+                    "Toxel",
+                    "Tyrogue",
+                    "Wynaut"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-07T10:00:00",
+            "end_time": "2026-03-09T20:00:00",
+            "description": "The Pokémon 30th Anniversary: All Out event will take place from March 7, 2026 at 10 am to March 9, 2026 at 8 pm local time.\nYou may encounter almost all Pokémon in their natural habitat that have made their Pokémon GO debuts! Most Pokémon that have ever appeared in Pokémon GO will return during this event."
+        },
+        {
+            "title": "Pokémon Pokopia Celebration Event",
+            "article_url": "https://leekduck.com/events/pokemon-pokopia-celebration-event-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-10-pokemon-pokopia-celebration-event-2026/pokopia-celebration-event.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "10× XP for spinning a PokéStop for the first time",
+                    "2× XP for spinning PokéStops",
+                    "Increased chance to encounter Shiny Sudowoodo and Shiny Zorua"
+                ],
+                "features": [
+                    "Ditto wearing a cap",
+                    "Ditto wearing a hat"
+                ],
+                "spawns": [
+                    "Bulbasaur",
+                    "Charmander",
+                    "Pikachu",
+                    "Squirtle",
+                    "Sudowoodo",
+                    "Zorua"
+                ],
+                "raids": [
+                    "Dragonite",
+                    "Lapras",
+                    "Snorlax"
+                ],
+                "shiny": [
+                    "Ditto wearing a cap",
+                    "Ditto wearing a hat",
+                    "Sudowoodo",
+                    "Zorua"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-10T10:00:00",
+            "end_time": "2026-03-16T20:00:00",
+            "description": "The Pokémon Pokopia Celebration Event will take place from March 10, 2026 at 10 am to March 16, 2026 at 8 pm local time.\nNew costumed Ditto will make their Pokémon GO debuts during this event! Learn more about Pokémon Pokopia at pokopia.pokemon.com."
+        },
+        {
+            "title": "Bug Out 2026",
+            "article_url": "https://leekduck.com/events/bug-out-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-17-bug-out-2026/bug-out-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Candy for successfully catching Pokémon",
+                    "2× XP for successfully catching Pokémon with Nice Throws or better",
+                    "Different Pokémon will be attracted to regular Lure Modules during the event",
+                    "GO Pass Deluxe: 3× Candy for successfully catching Pokémon",
+                    "Paras, Combee, and Cutiefly attracted to regular Lure Modules will have an increased chance to be Shiny"
+                ],
+                "features": [
+                    "Blipbug",
+                    "Dottler",
+                    "Orbeetle"
+                ],
+                "spawns": [
+                    "Caterpie",
+                    "Combee",
+                    "Cutiefly",
+                    "Dwebble",
+                    "Nymble",
+                    "Paras",
+                    "Scyther",
+                    "Sizzlipede"
+                ],
+                "raids": [
+                    "Blipbug",
+                    "Kleavor",
+                    "Pinsir",
+                    "Scizor"
+                ],
+                "shiny": [
+                    "Centiskorch",
+                    "Combee",
+                    "Cutiefly",
+                    "Paras",
+                    "Sizzlipede"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-17T10:00:00",
+            "end_time": "2026-03-23T20:00:00",
+            "description": "The Bug Out 2026 event will take place from March 17, 2026 at 10 am to March 23, 2026 at 8 pm local time."
+        },
+        {
+            "title": "Unannounced Event",
+            "article_url": "https://leekduck.com/events/tbd-march-2026-week-3/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-31T10:00:00",
+            "end_time": "2026-04-06T20:00:00",
+            "description": "The Unannounced Event event will take place from March 31, 2026 at 10 am to April 6, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Hatch Day",
+            "article_url": "https://leekduck.com/events/hatch-day-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-04-18T14:00:00",
+            "end_time": "2026-04-18T17:00:00",
+            "description": "The Hatch Day event will take place on April 18, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Example Event Template (Auto ToC Demo)",
+            "article_url": "https://leekduck.com/events/example_event/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/example_event/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-12-01T10:00:00",
+            "end_time": "2026-12-02T20:00:00",
+            "description": "This file demonstrates the reusable event pattern:\n- Keep all section if blocks in the template body.\n- Set event_toc_auto: true.\n- Fill data lists only for sections you want to show.\n- Leave unused section data empty to auto-hide both section and ToC item."
         }
     ],
     "Community Day": [
