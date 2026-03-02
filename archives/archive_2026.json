@@ -1097,6 +1097,17 @@
             "start_time": "2026-02-27T10:00:00",
             "end_time": "2026-02-27T20:00:00",
             "description": "There will be a PokéStop Showcase featuring Pikachu on Friday, February 27 (local time). The Showcase starts and ends on Friday. Top the leaderboard to win rewards including Premium Items!"
+        },
+        {
+            "title": "Xerneas, Yveltal, and Furfrou PokéStop Showcase",
+            "article_url": "https://leekduck.com/events/xerneas-yveltal-furfrou-showcase-pokemon-go-tour-kalos/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-28T10:00:00",
+            "end_time": "2026-03-01T20:00:00",
+            "description": "There will be PokéStop Showcases featuring Xerneas, Yveltal, and Furfrou during Pokémon GO Tour: Kalos – Global on Saturday and Sunday. Top the leaderboard to win rewards including Premium Items!\nThese Showcases run on Saturday, February 28 and Sunday, March 1 during Pokémon GO Tour: Kalos – Global."
         }
     ],
     "Max Mondays": [
@@ -1233,6 +1244,37 @@
             "start_time": "2026-01-06T10:00:00",
             "end_time": "2026-02-03T10:00:00",
             "description": "Dialga and the Lucky Trinket return for GO Pass: January!\nFrom Tuesday, January 6, at 10:00 a.m. to Tuesday, February 3, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for January will be available in Pokémon GO!"
+        },
+        {
+            "title": "GO Pass: Road to Kalos",
+            "article_url": "https://leekduck.com/events/go-pass-road-to-kalos/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-23-go-pass-road-to-kalos/go-pass-road-to-kalos.jpg",
+            "category": "GO Pass",
+            "details": {
+                "bonuses": [
+                    "1 additional Candy XL awarded for catching Pokémon in five-star raids, Mega Raids, Primal Raids, and Shadow Raids (Trainers level 31+)",
+                    "1 additional Candy awarded for catching Pokémon in five-star raids, Mega Raids, Primal Raids, and Shadow Raids",
+                    "1.5× Catch XP",
+                    "2× Catch XP",
+                    "2× Hatch Candy",
+                    "2× Hatch Stardust",
+                    "2× Hatch XP",
+                    "2× Stardust from completed raids",
+                    "3× Catch XP",
+                    "Additional 5,000 XP from completed raids",
+                    "Hold up to 40 total Gifts in your Item Bag",
+                    "Large increase to the catch effectiveness of Premier Balls",
+                    "Open up to 100 Gifts per day",
+                    "Receive up to 200 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Scatterbug will appear even more frequently when you pin Gifts!",
+                    "Scatterbug will appear more frequently when you pin Gifts!",
+                    "Substantial increase to the catch effectiveness of Premier Balls"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-23T10:00:00",
+            "end_time": "2026-03-01T18:00:00",
+            "description": "From Monday, February 23, at 10:00 a.m. to Sunday, March 1, at 6:00 p.m. local time, the GO Pass and the GO Pass Deluxe for Road to Kalos will be available in Pokémon GO!"
         }
     ],
     "GO Battle League": [
@@ -1745,6 +1787,17 @@
             "start_time": 1770973200,
             "end_time": 1771099200,
             "description": "Get codes for exclusive Timed Research during the 2026 Pokémon Europe International Championships Twitch broadcast.\nPokémon GO Trainers are headed to London for the 2026 Pokémon Europe International Championships to have their skills tested as they battle on the road to crown the 2026 Pokémon World Champion!\nYou’ll be able to watch exciting Pokémon battles live from London all weekend long, from February 13–15, 2026. Pokémon GO Trainers who tune in to the EUIC livestream on Twitch can also receive Timed Research via Twitch Drops, featuring 15 Seel Candy XL, 20 Fast TMs, 20 Charged TMs, and a Dewgong inspired by NiteTimeClasher’s LAIC-winning team.\nYou can watch live and learn more about the 2026 Europe International Championships at:\ntwitch.tv/pokemongo\nFind more information on the Timed Research from the Twitch Drops in the Research section."
+        },
+        {
+            "title": "[Promo Code] GO Tour Fairy Type Timed Research",
+            "article_url": "https://leekduck.com/events/go-tour-fairy-type-timed-research/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-20-go-tour-fairy-type-timed-research/sylveon.jpg",
+            "category": "Research",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-02-19T19:00:00",
+            "end_time": "2026-03-02T00:00:00",
+            "description": "All Trainers can redeem the following code to receive Fairy type Timed Research available starting with Pokémon GO Tour in person events.\nCode: TH4NKY0UF41RYMUCH Quick Redeem: https://store.pokemongo.com/offer-redemption?passcode=TH4NKY0UF41RYMUCH\nIt is not clear when this promo code will expire. The dates shown on this page are for the Timed Research."
         }
     ],
     "Pokémon GO Tour": [
@@ -2047,6 +2100,148 @@
             "start_time": 1771639200,
             "end_time": 1771819200,
             "description": "Location: Rose Bowl Stadium and Brookside Golf Course, Los Angeles, United States\nDates: February 20, 21, 22, 2026\nTime: 6:00 p.m. – 8:00 p.m. PST\nTicket Price: US $20.00\nAn all-new nighttime celebration is coming to Pokémon GO Tour: Kalos!\nAttendees may purchase this ticket as an addition to their primary Pokémon GO Tour: Kalos – Los Angeles ticket. Add-on tickets are US$20.00 (or the equivalent pricing tier in your local currency, plus any applicable taxes and fees) and are available for purchase on the Pokémon GO Tour website. Event gameplay will be available only at the date, time, and location specified on your ticket.\nNote: Tickets to this event are nonrefundable (subject to applicable law and the exceptions set forth in the Terms of Service). Tickets are first come, first served and are available for purchase while supplies last.\n- Pokémon GO Tour: Kalos - Los Angeles 2026\nIt’s a night of fun, friends, and Pokémon adventures!\nFor the first time ever, we’re excited to offer a new nighttime event experience at Pokémon GO Tour, available to purchase as an add-on to your main event ticket. Mega Night is a ticketed evening event, taking place after the main daytime Pokémon GO Tour event.\nLook forward to unique gameplay, special entertainment and more during this “after hours” extravaganza!\nAll event gameplay is exclusive to Mega Night ticket holders.\nPlease note: You will only be able to experience the event gameplay within Rose Bowl Stadium and Brookside Golf Course during the date and time noted on your add-on ticket."
+        },
+        {
+            "title": "Pokémon GO Tour: Kalos - Global 2026",
+            "article_url": "https://leekduck.com/events/pokemon-go-tour-kalos-global-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-28-pokemon-go-tour-kalos-global-2026/pokemon-go-tour-kalos-global-2026.jpg",
+            "category": "Pokémon GO Tour",
+            "details": {
+                "bonuses": [
+                    "1/2 Hatch Distance for Eggs placed in Incubators during the event",
+                    "1/2 Stardust cost for trades",
+                    "Earn 2 points per Mega Evolution toward increasing the Mega Level of any Victreebel, Dragonite, or Malamar",
+                    "Earn 6 points per Mega Evolution toward increasing the Mega Level of any Victreebel, Dragonite, or Malamar",
+                    "Earn up to 30 points daily toward increasing the Mega Level of any Victreebel, Dragonite, or Malamar",
+                    "Earn up to 6 points daily toward increasing the Mega Level of any Victreebel, Dragonite, or Malamar",
+                    "Increased chance of encountering Shiny Pokémon*",
+                    "Mega-Evolved Pokémon will receive a CP boost",
+                    "One GO Snapshot surprise event encounter per day—Latias may appear on Saturday and Latios may appear on Sunday!",
+                    "Up to six Special Trades per day"
+                ],
+                "features": [
+                    "Articuno",
+                    "Bagon",
+                    "Beldum",
+                    "Blue Flower Flabébé",
+                    "Calem's Hat Pikachu",
+                    "Chespin",
+                    "Dialga",
+                    "Fennekin",
+                    "Froakie",
+                    "Gible",
+                    "Hawlucha",
+                    "Heracross",
+                    "Ho-Oh",
+                    "Honedge",
+                    "Kangaskhan",
+                    "Klefki",
+                    "Kyurem (Black)",
+                    "Kyurem (White)",
+                    "Larvitar",
+                    "Lugia",
+                    "Mega Dragonite",
+                    "Mega Malamar",
+                    "Mega Victreebel",
+                    "Moltres",
+                    "Orange Flower Flabébé",
+                    "Palkia",
+                    "Primal Groudon",
+                    "Primal Kyogre",
+                    "Red Flower Flabébé",
+                    "Reshiram",
+                    "Serena's Hat Pikachu",
+                    "White Flower Flabébé",
+                    "Yellow Flower Flabébé",
+                    "Zapdos",
+                    "Zekrom"
+                ],
+                "spawns": [
+                    "Absol",
+                    "Amaura",
+                    "Bergmite",
+                    "Binacle",
+                    "Bulbasaur",
+                    "Bunnelby",
+                    "Carbink",
+                    "Charmander",
+                    "Chespin",
+                    "Clauncher",
+                    "Dedenne",
+                    "Eevee",
+                    "Espurr",
+                    "Fennekin",
+                    "Fletchling",
+                    "Froakie",
+                    "Furfrou (Natural)",
+                    "Goomy",
+                    "Helioptile",
+                    "Inkay",
+                    "Litleo",
+                    "Mudkip",
+                    "Noibat",
+                    "Pancham",
+                    "Phantump",
+                    "Pidgey",
+                    "Pumpkaboo",
+                    "Ralts",
+                    "Scyther",
+                    "Skiddo",
+                    "Skrelp",
+                    "Spritzee",
+                    "Squirtle",
+                    "Swirlix",
+                    "Torchic",
+                    "Treecko",
+                    "Tyrunt",
+                    "Unown A",
+                    "Unown K",
+                    "Unown L",
+                    "Unown O",
+                    "Unown S"
+                ],
+                "eggs": [
+                    "Bagon",
+                    "Beldum",
+                    "Blue Flower Flabébé",
+                    "Dratini",
+                    "Gible",
+                    "Hawlucha",
+                    "Heracross",
+                    "Kangaskhan",
+                    "Klefki",
+                    "Larvitar",
+                    "Orange Flower Flabébé",
+                    "Red Flower Flabébé",
+                    "White Flower Flabébé",
+                    "Yellow Flower Flabébé"
+                ],
+                "raids": [
+                    "Calem's Hat Pikachu",
+                    "Honedge",
+                    "Serena's Hat Pikachu",
+                    "Xerneas",
+                    "Yveltal"
+                ],
+                "research": [
+                    "Furfrou (Debutante)",
+                    "Furfrou (Diamond)",
+                    "Furfrou (Kabuki)",
+                    "Furfrou (La Reine)",
+                    "Furfrou (Pharaoh)",
+                    "Furfrou (Star)"
+                ],
+                "shiny": [
+                    "Diancie",
+                    "Hawlucha",
+                    "Honedge",
+                    "Klefki"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-28T10:00:00",
+            "end_time": "2026-03-01T18:00:00",
+            "description": "Other Event Locations:\n- Los Angeles\n- Tainan\n- Global (this page)\nBuy tickets: Pokémon GO Web Store\nJoin millions of Trainers across the globe for Pokémon GO Tour: Kalos – Global! Take part in this worldwide event inspired by the Kalos region, first featured in Pokémon X and Pokémon Y on the Nintendo 3DS.\nGet ready to experience new gameplay inspired by the stories and characters of Pokémon X and Pokémon Y. From longtime Kalos fans to new Trainers picking up Pokémon GO for the first time, anyone can take part in this exciting two-day event at no cost!\nLooking to enhance your GO Tour adventure with exclusive Special Research, additional bonuses, and an increased chance of encountering Shiny Pokémon? Purchase a global event ticket from the Pokémon GO Web Store!"
         }
     ]
 }
