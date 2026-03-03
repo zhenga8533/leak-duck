@@ -265,7 +265,7 @@
             "is_local_time": true,
             "start_time": "2026-03-03T10:00:00",
             "end_time": "2026-04-07T10:00:00",
-            "description": "From Tuesday, March 3, at 10:00 a.m. to Tuesday, April 7, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for March will be available in Pokémon GO!"
+            "description": "Rank up to earn rewards including a Timed Incubator (GO Pass Deluxe), an encounter with Raikou, and more!\nFrom Tuesday, March 3, at 10:00 a.m. to Tuesday, April 7, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for March will be available in Pokémon GO!"
         }
     ],
     "Event": [
@@ -288,9 +288,20 @@
             "details": {
                 "features": [
                     "Articuno",
+                    "Cubone",
                     "Ditto",
+                    "Ekans",
+                    "Gloom",
+                    "Growlithe",
+                    "Kakuna",
+                    "Magnemite",
+                    "Mankey",
                     "Mewtwo",
                     "Moltres",
+                    "Poliwag",
+                    "Sandshrew",
+                    "Spearow",
+                    "Voltorb",
                     "Zapdos"
                 ],
                 "bonuses": [
@@ -653,6 +664,19 @@
             "description": "This file demonstrates the reusable event pattern:\n- Keep all section if blocks in the template body.\n- Set event_toc_auto: true.\n- Fill data lists only for sections you want to show.\n- Leave unused section data empty to auto-hide both section and ToC item."
         }
     ],
+    "PokéStop Showcase": [
+        {
+            "title": "Pokémon Showcase Tuesday",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-tuesday/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-03T00:00:00",
+            "end_time": "2026-03-03T11:59:00",
+            "description": "PokéStop Showcases will be active on Tuesdays, featuring up to 20 different categories. Log in to find out which Pokémon you can show off!\nThese Showcases run on Tuesdays from 12:00 a.m. to 11:59 a.m. local time.\nThe following categories may be featured:\n- Good Buddy or higher\n- Great Buddy or higher\n- Normal\n- Fighting\n- Flying\n- Poison\n- Ground\n- Rock\n- Bug\n- Ghost\n- Steel\n- Fire\n- Water\n- Grass\n- Electric\n- Psychic\n- Ice\n- Dragon\n- Dark\n- Fairy"
+        }
+    ],
     "GO Battle League": [
         {
             "title": "Great League, Ultra League, and Master League: Mega Edition | Precious Paths",
@@ -887,7 +911,7 @@
             "is_local_time": true,
             "start_time": "2026-03-04T06:00:00",
             "end_time": "2026-03-31T22:00:00",
-            "description": "Shadow Latias will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Latias!\nShadow Latias will appear in five-star Shadow Raids every weekend from March 4 to March 31."
+            "description": "Shadow Latias will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Latias!"
         }
     ],
     "Raid Hour": [
@@ -1006,15 +1030,31 @@
     ],
     "Research Day": [
         {
-            "title": "Research Day",
-            "article_url": "https://leekduck.com/events/research-day-march-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "title": "Replay: Water Research Day",
+            "article_url": "https://leekduck.com/events/replay-water-research-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-21-replay-water-research-day-2026/replay-water-research-day.jpg",
             "category": "Research Day",
-            "details": {},
+            "details": {
+                "features": [
+                    "Clamperl",
+                    "Feebas",
+                    "Lotad"
+                ],
+                "spawns": [
+                    "Chinchou",
+                    "Magikarp",
+                    "Mareanie"
+                ],
+                "shiny": [
+                    "Clamperl",
+                    "Feebas",
+                    "Lotad"
+                ]
+            },
             "is_local_time": true,
-            "start_time": "2026-03-21T10:00:00",
-            "end_time": "2026-03-21T20:00:00",
-            "description": "The Research Day event will take place on March 21, 2026 from 10 am to 8 pm. Stay tuned for more details."
+            "start_time": "2026-03-21T14:00:00",
+            "end_time": "2026-03-21T17:00:00",
+            "description": "Make a splash during Replay: Water Research Day! Complete event-themed Field Research tasks to encounter Lotad, Feebas, and Clamperl, with an increased chance of meeting their Shiny counterparts."
         }
     ],
     "Raid Day": [

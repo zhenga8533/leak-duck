@@ -149,7 +149,7 @@
         },
         {
             "name": "Grookey",
-            "shiny_available": false,
+            "shiny_available": true,
             "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm810.icon.png",
             "hatch_distance": 1,
             "rarity_tier": 4

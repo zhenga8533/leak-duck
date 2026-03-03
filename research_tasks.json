@@ -1,127 +1,103 @@
 {
-    "Pokémon GO Tour: Kalos - Global 2026 Tasks": [
+    "Pokémon 30th Anniversary Tasks": [
         {
-            "task": "Explore 1 km",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Furfrou",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm676.fNATURAL.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Power up Grass- or Poison-type Pokémon 6 times",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Bellsprout",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm69.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Power up Pokémon 6 times",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Pikachu wearing Calem's Hat",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/Pikachu Calem.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Pikachu wearing Serena's Hat",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/Pikachu Serena.png"
-                }
-            ]
-        },
-        {
-            "task": "Power up Psychic- or Dark-type Pokémon 6 times",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Inkay",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm686.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Spin 12 different PokéStops or Gyms",
+            "task": "Catch 15 Pokémon",
             "rewards": [
                 {
                     "type": "item",
-                    "name": "XP",
-                    "quantity": 1000,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/icons/xp.png"
+                    "name": "Rare Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Rare Candy.png"
                 }
             ]
         },
         {
-            "task": "Spin 6 different PokéStops or Gyms",
+            "task": "Catch 25 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Rare Candy",
+                    "quantity": 3,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Rare Candy.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 3 Pokémon",
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Flabébé (Orange)",
+                    "name": "Bulbasaur",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm669.fORANGE.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm1.icon.png"
                 },
                 {
                     "type": "encounter",
-                    "name": "Flabébé (White)",
+                    "name": "Charmander",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm669.fWHITE.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm4.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Squirtle",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm7.icon.png"
                 }
             ]
         },
         {
-            "task": "Win a raid",
+            "task": "Catch 5 Pokémon",
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Honedge",
+                    "name": "Pikachu",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm679.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Eevee",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm133.icon.png"
                 }
             ]
-        }
-    ],
-    "Pokémon GO Tour: Kalos - Global 2026 - Y version Tasks": [
+        },
         {
-            "task": "Spin 12 different PokéStops or Gyms",
+            "task": "Catch a Ditto",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Golden Razz Berry",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Golden Razz Berry.png"
+                }
+            ]
+        },
+        {
+            "task": "Spin 20 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Silver Pinap Berry",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Silver Pinap Berry.png"
+                }
+            ]
+        },
+        {
+            "task": "Spin 5 PokéStops or Gyms",
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Unown Y",
-                    "shiny_available": false,
+                    "name": "Magikarp",
+                    "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm201.fUNOWN_Y.icon.png"
-                }
-            ]
-        }
-    ],
-    "Pokémon GO Tour: Kalos - Global 2026 - X version Tasks": [
-        {
-            "task": "Spin 12 different PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Unown X",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm201.fUNOWN_X.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm129.icon.png"
                 }
             ]
         }
