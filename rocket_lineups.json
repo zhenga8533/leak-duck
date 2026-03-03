@@ -37,7 +37,7 @@
             "pokemons": [
                 {
                     "name": "Thundurus (Incarnate)",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm642.fINCARNATE.icon.png"
                 }
             ],
@@ -225,7 +225,7 @@
                 },
                 {
                     "name": "Swablu",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm333.icon.png"
                 }
             ],
@@ -280,17 +280,17 @@
             "pokemons": [
                 {
                     "name": "Vulpix",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm37.icon.png"
                 },
                 {
                     "name": "Litwick",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm607.icon.png"
                 },
                 {
                     "name": "Fennekin",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm653.icon.png"
                 }
             ],
@@ -345,12 +345,12 @@
             "pokemons": [
                 {
                     "name": "Froakie",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm656.icon.png"
                 },
                 {
                     "name": "Krabby",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm98.icon.png"
                 },
                 {
@@ -460,12 +460,12 @@
                 },
                 {
                     "name": "Voltorb",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm100.icon.png"
                 },
                 {
                     "name": "Shinx",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm403.icon.png"
                 }
             ],
@@ -520,12 +520,12 @@
             "pokemons": [
                 {
                     "name": "Chespin",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm650.icon.png"
                 },
                 {
                     "name": "Phantump",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm708.icon.png"
                 },
                 {
@@ -585,12 +585,12 @@
             "pokemons": [
                 {
                     "name": "Spheal",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm363.icon.png"
                 },
                 {
                     "name": "Swinub",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm220.icon.png"
                 },
                 {
@@ -650,7 +650,7 @@
             "pokemons": [
                 {
                     "name": "Timburr",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm532.icon.png"
                 },
                 {
@@ -660,7 +660,7 @@
                 },
                 {
                     "name": "Mankey",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm56.icon.png"
                 }
             ],
@@ -671,17 +671,17 @@
             "pokemons": [
                 {
                     "name": "Hitmontop",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm237.icon.png"
                 },
                 {
                     "name": "Hitmonlee",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm106.icon.png"
                 },
                 {
                     "name": "Hitmonchan",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm107.icon.png"
                 }
             ],
@@ -715,7 +715,7 @@
             "pokemons": [
                 {
                     "name": "Oddish",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm43.icon.png"
                 },
                 {
@@ -725,7 +725,7 @@
                 },
                 {
                     "name": "Qwilfish",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm211.icon.png"
                 }
             ],
@@ -736,17 +736,17 @@
             "pokemons": [
                 {
                     "name": "Nidorina",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm30.icon.png"
                 },
                 {
                     "name": "Nidorino",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm33.icon.png"
                 },
                 {
                     "name": "Galarian Weezing",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm110.fGALARIAN.icon.png"
                 }
             ],
@@ -780,7 +780,7 @@
             "pokemons": [
                 {
                     "name": "Sandshrew",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm27.icon.png"
                 },
                 {
@@ -801,12 +801,12 @@
             "pokemons": [
                 {
                     "name": "Claydol",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm344.icon.png"
                 },
                 {
                     "name": "Vibrava",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm329.icon.png"
                 },
                 {
@@ -845,17 +845,17 @@
             "pokemons": [
                 {
                     "name": "Swablu",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm333.icon.png"
                 },
                 {
                     "name": "Pidgey",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm16.icon.png"
                 },
                 {
                     "name": "Taillow",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm276.icon.png"
                 }
             ],
@@ -980,12 +980,12 @@
                 },
                 {
                     "name": "Shelmet",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm616.icon.png"
                 },
                 {
                     "name": "Karrablast",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm588.icon.png"
                 }
             ],
@@ -1001,7 +1001,7 @@
                 },
                 {
                     "name": "Shuckle",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm213.icon.png"
                 },
                 {
@@ -1040,7 +1040,7 @@
             "pokemons": [
                 {
                     "name": "Shuckle",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm213.icon.png"
                 },
                 {
@@ -1050,7 +1050,7 @@
                 },
                 {
                     "name": "Cranidos",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm408.icon.png"
                 }
             ],
@@ -1105,17 +1105,17 @@
             "pokemons": [
                 {
                     "name": "Gastly",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm92.icon.png"
                 },
                 {
                     "name": "Yamask",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm562.icon.png"
                 },
                 {
                     "name": "Duskull",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm355.icon.png"
                 }
             ],
@@ -1126,7 +1126,7 @@
             "pokemons": [
                 {
                     "name": "Dusclops",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm356.icon.png"
                 },
                 {
@@ -1136,7 +1136,7 @@
                 },
                 {
                     "name": "Cofagrigus",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm563.icon.png"
                 }
             ],
@@ -1180,7 +1180,7 @@
                 },
                 {
                     "name": "Deino",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm633.icon.png"
                 }
             ],
@@ -1235,12 +1235,12 @@
             "pokemons": [
                 {
                     "name": "Alolan Rattata",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm19.fALOLA.icon.png"
                 },
                 {
                     "name": "Poochyena",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm261.icon.png"
                 },
                 {
@@ -1290,7 +1290,7 @@
             "pokemons": [
                 {
                     "name": "Alolan Sandshrew",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm27.fALOLA.icon.png"
                 },
                 {
@@ -1300,7 +1300,7 @@
                 },
                 {
                     "name": "Aron",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm304.icon.png"
                 }
             ],
@@ -1355,12 +1355,12 @@
             "pokemons": [
                 {
                     "name": "Snubbull",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm209.icon.png"
                 },
                 {
                     "name": "Alolan Vulpix",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm37.fALOLA.icon.png"
                 },
                 {
@@ -1376,17 +1376,17 @@
             "pokemons": [
                 {
                     "name": "Kirlia",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm281.icon.png"
                 },
                 {
                     "name": "Snubbull",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm209.icon.png"
                 },
                 {
                     "name": "Galarian Weezing",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm110.fGALARIAN.icon.png"
                 }
             ],
@@ -1485,7 +1485,7 @@
             "pokemons": [
                 {
                     "name": "Snorlax",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm143.icon.png"
                 }
             ],

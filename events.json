@@ -12,63 +12,6 @@
             "description": "All Trainers can redeem the following code to receive Fairy type Timed Research available starting with Pokémon GO Tour in person events.\nCode: TH4NKY0UF41RYMUCH Quick Redeem: https://store.pokemongo.com/offer-redemption?passcode=TH4NKY0UF41RYMUCH\nIt is not clear when this promo code will expire. The dates shown on this page are for the Timed Research."
         }
     ],
-    "Max Mondays": [
-        {
-            "title": "Dynamax Rookidee during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-03-02/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-03-02T18:00:00",
-            "end_time": "2026-03-02T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn March 2, 2026, the featured Dynamax Pokémon is Rookidee.\n- Rookidee"
-        },
-        {
-            "title": "Dynamax Pikachu during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-03-09/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-03-09T18:00:00",
-            "end_time": "2026-03-09T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn March 9, 2026, the featured Dynamax Pokémon is Pikachu.\n- Pikachu"
-        },
-        {
-            "title": "Dynamax Falinks during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-03-16/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-03-16T18:00:00",
-            "end_time": "2026-03-16T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn March 16, 2026, the featured Dynamax Pokémon is Falinks.\n- Falinks"
-        },
-        {
-            "title": "Dynamax Regice during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-03-23/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-03-23T18:00:00",
-            "end_time": "2026-03-23T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn March 23, 2026, the featured Dynamax Pokémon is Regice.\n- Regice"
-        },
-        {
-            "title": "Dynamax Woobat during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-03-30/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-03-30T18:00:00",
-            "end_time": "2026-03-30T19:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn March 30, 2026, the featured Dynamax Pokémon is Woobat.\n- Woobat"
-        }
-    ],
     "Season": [
         {
             "title": "Precious Paths",
@@ -193,24 +136,41 @@
                     "Sinistea"
                 ],
                 "eggs": [
+                    "Alolan Diglett",
+                    "Alolan Geodude",
                     "Audino",
-                    "Basculin (White Striped)",
+                    "Charcadet",
                     "Chingling",
+                    "Cleffa",
                     "Deino",
+                    "Dreepy",
                     "Dunsparce",
                     "Fidough",
                     "Galarian Corsola",
+                    "Galarian Darumaka",
                     "Galarian Meowth",
                     "Galarian Slowpoke",
+                    "Galarian Stunfisk",
                     "Galarian Zigzagoon",
+                    "Gible",
                     "Goomy",
                     "Happiny",
                     "Hisuian Growlithe",
+                    "Hisuian Sneasel",
                     "Honedge",
+                    "Igglybuff",
                     "Impidimp",
+                    "Indeedee (Female)",
+                    "Indeedee (Male)",
+                    "Larvesta",
+                    "Munchlax",
+                    "Riolu",
                     "Sizzlipede",
+                    "Skarmory",
+                    "Smoochum",
                     "Snom",
                     "Tadbulb",
+                    "Tinkatink",
                     "Toxel",
                     "Turtonator",
                     "Wimpod"
@@ -291,6 +251,7 @@
                     "Cubone",
                     "Ditto",
                     "Ekans",
+                    "Geodude",
                     "Gloom",
                     "Growlithe",
                     "Kakuna",
@@ -298,6 +259,7 @@
                     "Mankey",
                     "Mewtwo",
                     "Moltres",
+                    "Nidorino",
                     "Poliwag",
                     "Sandshrew",
                     "Spearow",
@@ -958,6 +920,52 @@
             "start_time": "2026-03-25T18:00:00",
             "end_time": "2026-03-25T19:00:00",
             "description": "A Raid Hour featuring Regieleki is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        }
+    ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Pikachu during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-03-09/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-09T18:00:00",
+            "end_time": "2026-03-09T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn March 9, 2026, the featured Dynamax Pokémon is Pikachu.\n- Pikachu"
+        },
+        {
+            "title": "Dynamax Falinks during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-03-16/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-16T18:00:00",
+            "end_time": "2026-03-16T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn March 16, 2026, the featured Dynamax Pokémon is Falinks.\n- Falinks"
+        },
+        {
+            "title": "Dynamax Regice during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-03-23/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-23T18:00:00",
+            "end_time": "2026-03-23T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn March 23, 2026, the featured Dynamax Pokémon is Regice.\n- Regice"
+        },
+        {
+            "title": "Dynamax Woobat during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-03-30/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-30T18:00:00",
+            "end_time": "2026-03-30T19:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. They will also take over Power Spots for an hour each week on Mondays from 6:00 p.m. to 7:00 p.m. local time!\nOn March 30, 2026, the featured Dynamax Pokémon is Woobat.\n- Woobat"
         }
     ],
     "Community Day": [

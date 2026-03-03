@@ -1,28 +1,6 @@
 {
     "Pokémon 30th Anniversary Tasks": [
         {
-            "task": "Catch 15 Pokémon",
-            "rewards": [
-                {
-                    "type": "item",
-                    "name": "Rare Candy",
-                    "quantity": 1,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Rare Candy.png"
-                }
-            ]
-        },
-        {
-            "task": "Catch 25 Pokémon",
-            "rewards": [
-                {
-                    "type": "item",
-                    "name": "Rare Candy",
-                    "quantity": 3,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Rare Candy.png"
-                }
-            ]
-        },
-        {
             "task": "Catch 3 Pokémon",
             "rewards": [
                 {
@@ -79,13 +57,24 @@
             ]
         },
         {
-            "task": "Spin 20 PokéStops or Gyms",
+            "task": "Catch 15 Pokémon",
             "rewards": [
                 {
                     "type": "item",
-                    "name": "Silver Pinap Berry",
+                    "name": "Rare Candy",
                     "quantity": 1,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Silver Pinap Berry.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Rare Candy.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 25 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Rare Candy",
+                    "quantity": 3,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Rare Candy.png"
                 }
             ]
         },
@@ -98,6 +87,17 @@
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm129.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Spin 20 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Silver Pinap Berry",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Silver Pinap Berry.png"
                 }
             ]
         }
