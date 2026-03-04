@@ -886,6 +886,17 @@
             "start_time": "2026-02-23T00:00:00",
             "end_time": "2026-02-27T23:59:00",
             "description": "We’re en route to Pokémon GO Tour: Kalos, and we can’t forget about an important stop along the way: the Road to Kalos event! Before Pokémon GO Tour: Kalos – Global begins on February 28, 2026, you’re invited to this week-long “rewind” of previous GO Tour events, which celebrate the Kanto, Johto, Hoenn, Sinnoh, and Unova regions!\nPlus, early readings are showing that certain Legendary Pokémon, previously featured at each GO Tour event, are getting ready to reappear… Could this be the work of the Mythical Pokémon Hoopa?\nTrainers attending the in-person Pokémon GO Tour: Kalos events in Tainan and Los Angeles can jump into the Kalos-inspired fun even sooner! Check out the event site for more details on how to attend. Pokémon GO Tour: Kalos – Global is a free event available to all Trainers on Saturday, February 28, and Sunday, March 1, 2026, from 10:00 a.m. to 6:00 p.m. local time. Learn more about the event and purchase tickets here!"
+        },
+        {
+            "title": "Precious Paths Finale Timed Research",
+            "article_url": "https://leekduck.com/events/precious-paths-finale-timed-research/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-02-precious-paths-finale-timed-research/precious-paths-finale.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-02T10:00:00",
+            "end_time": "2026-03-03T10:00:00",
+            "description": "Trainers who open the game between March 2 at 10:00 a.m. to March 3 at 10:00 a.m. local time will get Timed Research for the Precious Paths Finale.\nComplete the tasks to receive encounters with Pokémon that were featured throughout the Precious Paths season!"
         }
     ],
     "PokéStop Showcase": [
@@ -1108,6 +1119,17 @@
             "start_time": "2026-02-28T10:00:00",
             "end_time": "2026-03-01T20:00:00",
             "description": "There will be PokéStop Showcases featuring Xerneas, Yveltal, and Furfrou during Pokémon GO Tour: Kalos – Global on Saturday and Sunday. Top the leaderboard to win rewards including Premium Items!\nThese Showcases run on Saturday, February 28 and Sunday, March 1 during Pokémon GO Tour: Kalos – Global."
+        },
+        {
+            "title": "Pokémon Showcase Tuesday",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-tuesday/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-03T00:00:00",
+            "end_time": "2026-03-03T11:59:00",
+            "description": "PokéStop Showcases will be active on Tuesdays, featuring up to 20 different categories. Log in to find out which Pokémon you can show off!\nThese Showcases run on Tuesdays from 12:00 a.m. to 11:59 a.m. local time.\nThe following categories may be featured:\n- Good Buddy or higher\n- Great Buddy or higher\n- Normal\n- Fighting\n- Flying\n- Poison\n- Ground\n- Rock\n- Bug\n- Ghost\n- Steel\n- Fire\n- Water\n- Grass\n- Electric\n- Psychic\n- Ice\n- Dragon\n- Dark\n- Fairy"
         }
     ],
     "Max Mondays": [
@@ -1286,6 +1308,28 @@
             "start_time": "2026-02-23T10:00:00",
             "end_time": "2026-03-01T18:00:00",
             "description": "From Monday, February 23, at 10:00 a.m. to Sunday, March 1, at 6:00 p.m. local time, the GO Pass and the GO Pass Deluxe for Road to Kalos will be available in Pokémon GO!"
+        },
+        {
+            "title": "GO Pass: February",
+            "article_url": "https://leekduck.com/events/go-pass-february-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-03-go-pass-february-2026/go-pass-february-2026.jpg",
+            "category": "GO Pass",
+            "details": {
+                "bonuses": [
+                    "2× Daily Adventure Incense duration",
+                    "Hold 10 more Gifts in your Item Bag",
+                    "Hold up to 20 more Gifts in your Item Bag",
+                    "Open up to 40 Gifts per day",
+                    "Open up to 50 Gifts per day",
+                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Up to two free Raid Passes from spinning Gym Photo Discs per day"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-02-03T10:00:00",
+            "end_time": "2026-03-03T10:00:00",
+            "description": "A lovely reward returns! Earn PokéCoins for progressing in GO Pass: February!\nFrom Tuesday, February 3, at 10:00 a.m. to Tuesday, March 3, 2026, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for February will be available in Pokémon GO!"
         }
     ],
     "GO Battle League": [
@@ -1376,6 +1420,17 @@
             "start_time": 1771362000,
             "end_time": 1771966800,
             "description": "The Great League and Love Cup: Great League Edition will run from February 17, 2026, at 1:00 p.m. to February 24, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only red- or pink-colored Pokémon are eligible."
+        },
+        {
+            "title": "Great League, Ultra League, and Master League: Mega Edition | Precious Paths",
+            "article_url": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-mega-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1771966800,
+            "end_time": 1772571600,
+            "description": "The Great League, Ultra League, and Master League: Mega Edition will run from February 24, 2026, at 1:00 p.m. to March 3, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
         }
     ],
     "Pokémon Spotlight Hour": [
@@ -2253,6 +2308,110 @@
             "start_time": "2026-02-28T10:00:00",
             "end_time": "2026-03-01T18:00:00",
             "description": "Other Event Locations:\n- Los Angeles\n- Tainan\n- Global (this page)\nBuy tickets: Pokémon GO Web Store\nJoin millions of Trainers across the globe for Pokémon GO Tour: Kalos – Global! Take part in this worldwide event inspired by the Kalos region, first featured in Pokémon X and Pokémon Y on the Nintendo 3DS.\nGet ready to experience new gameplay inspired by the stories and characters of Pokémon X and Pokémon Y. From longtime Kalos fans to new Trainers picking up Pokémon GO for the first time, anyone can take part in this exciting two-day event at no cost!\nLooking to enhance your GO Tour adventure with exclusive Special Research, additional bonuses, and an increased chance of encountering Shiny Pokémon? Purchase a global event ticket from the Pokémon GO Web Store!"
+        }
+    ],
+    "Season": [
+        {
+            "title": "Precious Paths",
+            "article_url": "https://leekduck.com/events/season-21-precious-paths/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-02-season-21-precious-paths/season-21-precious-paths.jpg",
+            "category": "Season",
+            "details": {
+                "bonuses": [
+                    "Increased Stardust for the first catch of the day",
+                    "Increased friendship bonus damage dealt by Pokémon in raids",
+                    "One additional Special Trade per day"
+                ],
+                "features": [
+                    "Dreepy",
+                    "Galarian Mr. Mime",
+                    "Honedge",
+                    "Lapras",
+                    "Sinistea",
+                    "Snorlax"
+                ],
+                "eggs": [
+                    "Alolan Diglett",
+                    "Alolan Geodude",
+                    "Archen",
+                    "Audino",
+                    "Beldum",
+                    "Bergmite",
+                    "Bonsly",
+                    "Bulbasaur",
+                    "Carbink",
+                    "Charcadet",
+                    "Charmander",
+                    "Chespin",
+                    "Chikorita",
+                    "Chimchar",
+                    "Cleffa",
+                    "Crabrawler",
+                    "Cyndaquil",
+                    "Drampa",
+                    "Dreepy",
+                    "Ducklett",
+                    "Elgyem",
+                    "Fennekin",
+                    "Frigibax",
+                    "Froakie",
+                    "Fuecoco",
+                    "Galarian Corsola",
+                    "Galarian Darumaka",
+                    "Galarian Meowth",
+                    "Galarian Slowpoke",
+                    "Galarian Stunfisk",
+                    "Galarian Zigzagoon",
+                    "Gible",
+                    "Grookey",
+                    "Hisuian Growlithe",
+                    "Hisuian Sneasel",
+                    "Honedge",
+                    "Igglybuff",
+                    "Indeedee (Female)",
+                    "Indeedee (Male)",
+                    "Inkay",
+                    "Jangmo-o",
+                    "Komala",
+                    "Litleo",
+                    "Litten",
+                    "Meditite",
+                    "Mudkip",
+                    "Munchlax",
+                    "Oshawott",
+                    "Pawniard",
+                    "Petilil",
+                    "Piplup",
+                    "Popplio",
+                    "Quaxly",
+                    "Riolu",
+                    "Rowlet",
+                    "Scorbunny",
+                    "Skarmory",
+                    "Smoliv",
+                    "Smoochum",
+                    "Snivy",
+                    "Snom",
+                    "Sobble",
+                    "Sprigatito",
+                    "Squirtle",
+                    "Tepig",
+                    "Tinkatink",
+                    "Tirtouga",
+                    "Togedemaru",
+                    "Torchic",
+                    "Totodile",
+                    "Toxel",
+                    "Treecko",
+                    "Turtonator",
+                    "Turtwig",
+                    "Wimpod"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2025-12-02T10:00:00",
+            "end_time": "2026-03-03T10:00:00",
+            "description": "Welcome to the next Pokémon GO Season: Precious Paths!"
         }
     ]
 }

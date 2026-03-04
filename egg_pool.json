@@ -1,4 +1,195 @@
 {
+    "1 km Eggs": [
+        {
+            "name": "Bulbasaur",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm1.icon.png",
+            "hatch_distance": 1,
+            "rarity_tier": 4
+        },
+        {
+            "name": "Charmander",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm4.icon.png",
+            "hatch_distance": 1,
+            "rarity_tier": 4
+        },
+        {
+            "name": "Squirtle",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm7.icon.png",
+            "hatch_distance": 1,
+            "rarity_tier": 4
+        },
+        {
+            "name": "Chikorita",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm152.icon.png",
+            "hatch_distance": 1,
+            "rarity_tier": 4
+        },
+        {
+            "name": "Cyndaquil",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm155.icon.png",
+            "hatch_distance": 1,
+            "rarity_tier": 4
+        },
+        {
+            "name": "Totodile",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm158.icon.png",
+            "hatch_distance": 1,
+            "rarity_tier": 4
+        },
+        {
+            "name": "Treecko",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm252.icon.png",
+            "hatch_distance": 1,
+            "rarity_tier": 4
+        },
+        {
+            "name": "Torchic",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm255.icon.png",
+            "hatch_distance": 1,
+            "rarity_tier": 4
+        },
+        {
+            "name": "Mudkip",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm258.icon.png",
+            "hatch_distance": 1,
+            "rarity_tier": 4
+        },
+        {
+            "name": "Turtwig",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm387.icon.png",
+            "hatch_distance": 1,
+            "rarity_tier": 4
+        },
+        {
+            "name": "Chimchar",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm390.icon.png",
+            "hatch_distance": 1,
+            "rarity_tier": 4
+        },
+        {
+            "name": "Piplup",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm393.icon.png",
+            "hatch_distance": 1,
+            "rarity_tier": 4
+        },
+        {
+            "name": "Snivy",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm495.icon.png",
+            "hatch_distance": 1,
+            "rarity_tier": 4
+        },
+        {
+            "name": "Tepig",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm498.icon.png",
+            "hatch_distance": 1,
+            "rarity_tier": 4
+        },
+        {
+            "name": "Oshawott",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm501.icon.png",
+            "hatch_distance": 1,
+            "rarity_tier": 4
+        },
+        {
+            "name": "Chespin",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm650.icon.png",
+            "hatch_distance": 1,
+            "rarity_tier": 4
+        },
+        {
+            "name": "Fennekin",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm653.icon.png",
+            "hatch_distance": 1,
+            "rarity_tier": 4
+        },
+        {
+            "name": "Froakie",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm656.icon.png",
+            "hatch_distance": 1,
+            "rarity_tier": 4
+        },
+        {
+            "name": "Rowlet",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm722.icon.png",
+            "hatch_distance": 1,
+            "rarity_tier": 4
+        },
+        {
+            "name": "Litten",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm725.icon.png",
+            "hatch_distance": 1,
+            "rarity_tier": 4
+        },
+        {
+            "name": "Popplio",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm728.icon.png",
+            "hatch_distance": 1,
+            "rarity_tier": 4
+        },
+        {
+            "name": "Grookey",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm810.icon.png",
+            "hatch_distance": 1,
+            "rarity_tier": 4
+        },
+        {
+            "name": "Scorbunny",
+            "shiny_available": false,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm813.icon.png",
+            "hatch_distance": 1,
+            "rarity_tier": 4
+        },
+        {
+            "name": "Sobble",
+            "shiny_available": false,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm816.icon.png",
+            "hatch_distance": 1,
+            "rarity_tier": 4
+        },
+        {
+            "name": "Sprigatito",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm906.icon.png",
+            "hatch_distance": 1,
+            "rarity_tier": 4
+        },
+        {
+            "name": "Fuecoco",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm909.icon.png",
+            "hatch_distance": 1,
+            "rarity_tier": 4
+        },
+        {
+            "name": "Quaxly",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm912.icon.png",
+            "hatch_distance": 1,
+            "rarity_tier": 4
+        }
+    ],
     "2 km Eggs": [
         {
             "name": "Dunsparce",
