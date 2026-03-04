@@ -258,6 +258,40 @@
             "start_time": "2026-02-21T10:00:00",
             "end_time": "2026-02-22T20:00:00",
             "description": "Mega Absol return to Mega Raids on February 21, 2026, at 10 am local time."
+        },
+        {
+            "title": "Lunala in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/lunala-in-5-star-raid-battles-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/lunala.jpg?v2",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Lunala"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-02T10:00:00",
+            "end_time": "2026-03-03T20:00:00",
+            "description": "Lunala will be in five-star raid battles from March 2, 2026 to March 3, 2026."
+        },
+        {
+            "title": "Mega Absol in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-absol-in-mega-raids-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Absol"
+                ],
+                "shiny": [
+                    "Absol",
+                    "Mega Absol"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-02T10:00:00",
+            "end_time": "2026-03-03T20:00:00",
+            "description": "Mega Absol return to Mega Raids on March 2, 2026, at 10 am local time."
         }
     ],
     "Community Day": [
