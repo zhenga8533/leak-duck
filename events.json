@@ -384,15 +384,33 @@
                     "Increased chance to encounter Shiny Sudowoodo and Shiny Zorua"
                 ],
                 "features": [
+                    "Bulbasaur",
+                    "Charmander",
+                    "Combee",
                     "Ditto wearing a cap",
-                    "Ditto wearing a hat"
+                    "Ditto wearing a hat",
+                    "Drilbur",
+                    "Goomy",
+                    "Hitmonchan",
+                    "Marill",
+                    "Pikachu",
+                    "Scyther",
+                    "Squirtle",
+                    "Timburr"
                 ],
                 "spawns": [
                     "Bulbasaur",
                     "Charmander",
+                    "Combee",
+                    "Drilbur",
+                    "Goomy",
+                    "Hitmonchan",
+                    "Marill",
                     "Pikachu",
+                    "Scyther",
                     "Squirtle",
                     "Sudowoodo",
+                    "Timburr",
                     "Zorua"
                 ],
                 "raids": [
@@ -460,15 +478,36 @@
             "description": "The Bug Out 2026 event will take place from March 17, 2026 at 10 am to March 23, 2026 at 8 pm local time."
         },
         {
-            "title": "Unannounced Event",
-            "article_url": "https://leekduck.com/events/tbd-march-2026-week-3/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "title": "A Shockingly Good Time",
+            "article_url": "https://leekduck.com/events/a-shockingly-good-time-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-31-a-shockingly-good-time-2026/a-shockingly-good-time.jpg",
             "category": "Event",
-            "details": {},
+            "details": {
+                "bonuses": [
+                    "2× Catch Candy",
+                    "2× Catch Stardust",
+                    "Incense activated during the event will last up to twice as long",
+                    "You'll have an increased chance of encountering Shiny Pikachu, Shiny Chinchou, and Shiny Dedenne!"
+                ],
+                "spawns": [
+                    "Chinchou",
+                    "Dedenne",
+                    "Joltik",
+                    "Magnemite",
+                    "Mareep",
+                    "Pawmi",
+                    "Pikachu"
+                ],
+                "shiny": [
+                    "Chinchou",
+                    "Dedenne",
+                    "Pikachu"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-03-31T10:00:00",
             "end_time": "2026-04-06T20:00:00",
-            "description": "The Unannounced Event event will take place from March 31, 2026 at 10 am to April 6, 2026 at 8 pm. Stay tuned for more details."
+            "description": "A Shockingly Good Time awaits with Electric-type Pokémon and more!"
         },
         {
             "title": "Hatch Day",
@@ -843,18 +882,47 @@
             "description": "Make a splash during Replay: Water Research Day! Complete event-themed Field Research tasks to encounter Lotad, Feebas, and Clamperl, with an increased chance of meeting their Shiny counterparts."
         }
     ],
-    "Raid Day": [
+    "Max Battles": [
         {
-            "title": "Max Battle Day",
-            "article_url": "https://leekduck.com/events/max-battle-day-march-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Day",
-            "details": {},
+            "title": "Gigantamax Pikachu Max Battle Day",
+            "article_url": "https://leekduck.com/events/gigantamax-pikachu-max-battle-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-28-gigantamax-pikachu-max-battle-day-2026/gigantamax-pikachu-max-battle-day.jpg",
+            "category": "Max Battles",
+            "details": {
+                "bonuses": [
+                    "1/4 Adventuring distance to receive Max Particles*",
+                    "2× Max Particles from exploring*",
+                    "2× XP from Max Battles",
+                    "8× Max Particles from Power Spots",
+                    "Additional Power Spots will be active",
+                    "All Power Spots will host Gigantamax Battles",
+                    "From March 27 at 5:00 p.m. to March 28 at 8:00 p.m. PDT (GMT −8), the daily Remote Raid limit will increase from 10 to 20",
+                    "Max Particle collection limit increased to 1,600",
+                    "Power Spots will refresh more frequently",
+                    "Up to three Special Trades for the day"
+                ],
+                "features": [
+                    "Gigantamax Pikachu"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-03-28T14:00:00",
             "end_time": "2026-03-28T17:00:00",
-            "description": "The Max Battle Day event will take place on March 28, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+            "description": "The Gigantamax Pikachu Max Battle Day event will take place on March 28, 2026 from 2 pm to 5 pm local time."
         },
+        {
+            "title": "Max Battle Day",
+            "article_url": "https://leekduck.com/events/max-battle-day-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Max Battles",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-04-25T14:00:00",
+            "end_time": "2026-04-25T17:00:00",
+            "description": "The Max Battle Day event will take place on April 25, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        }
+    ],
+    "Raid Day": [
         {
             "title": "Raid Day",
             "article_url": "https://leekduck.com/events/raid-day-april-2026/",
@@ -911,19 +979,6 @@
             "start_time": "2026-03-03T10:00:00",
             "end_time": "2026-04-07T10:00:00",
             "description": "Rank up to earn rewards including a Timed Incubator (GO Pass Deluxe), an encounter with Raikou, and more!\nFrom Tuesday, March 3, at 10:00 a.m. to Tuesday, April 7, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for March will be available in Pokémon GO!"
-        }
-    ],
-    "Max Battles": [
-        {
-            "title": "Max Battle Day",
-            "article_url": "https://leekduck.com/events/max-battle-day-april-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Max Battles",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-04-25T14:00:00",
-            "end_time": "2026-04-25T17:00:00",
-            "description": "The Max Battle Day event will take place on April 25, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
     "Pokémon GO Fest": [
