@@ -46,6 +46,13 @@
                 },
                 {
                     "type": "encounter",
+                    "name": "Scyther",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm123.icon.png"
+                },
+                {
+                    "type": "encounter",
                     "name": "Sudowoodo",
                     "shiny_available": true,
                     "cp_range": null,
