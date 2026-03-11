@@ -310,6 +310,47 @@
             "start_time": "2026-02-01T06:00:00",
             "end_time": "2026-03-04T22:00:00",
             "description": "Shadow Regigigas will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Regigigas!"
+        },
+        {
+            "title": "Articuno, Zapdos, and Moltres in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/articuno-zapdos-moltres-in-5-star-raid-battles-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Articuno",
+                    "Moltres",
+                    "Zapdos"
+                ],
+                "shiny": [
+                    "Articuno",
+                    "Moltres",
+                    "Zapdos"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-04T06:00:00",
+            "end_time": "2026-03-10T20:00:00",
+            "description": "Articuno, Zapdos, and Moltres will be in five-star raid battles from March 4, 2026 to March 10, 2026.\nThere will also be a Raid Hour featuring Articuno, Zapdos, and Moltres from 6:00 pm to 7:00 pm local time on the following date:\n- March 4"
+        },
+        {
+            "title": "Mega Pinsir in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-pinsir-in-mega-raids-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Pinsir"
+                ],
+                "shiny": [
+                    "Mega Pinsir",
+                    "Pinsir"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-04T06:00:00",
+            "end_time": "2026-03-10T20:00:00",
+            "description": "Mega Pinsir return to Mega Raids on March 4, 2026, at 6 am local time."
         }
     ],
     "Community Day": [
