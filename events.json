@@ -659,6 +659,53 @@
             "description": "The Raid Day event will take place on April 4, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         },
         {
+            "title": "Fashion Raid Day",
+            "article_url": "https://leekduck.com/events/fashion-raid-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-04-fashion-raid-day-2026/fashion-week-2026.jpg",
+            "category": "Raid Day",
+            "details": {
+                "bonuses": [
+                    "2× Stardust from Raid Battles",
+                    "50% more XP from Raid Battles",
+                    "Event-themed Pokémon appearing more frequently in raids are also more likely to be Shiny",
+                    "Increased chance to get Rare Candy XL from Raid Battles",
+                    "Receive up to six free Raid Passes from spinning Gym Photo Discs",
+                    "The Remote Raid Pass limit will increase to 20 from Friday, April 3, at 5:00 p.m. to Saturday, April 4, 2026, at 8:00 p.m. PDT",
+                    "Up to 14 Raid Passes from spinning Gym Photo Discs"
+                ],
+                "raids": [
+                    "Fashionable Absol",
+                    "Fashionable Blitzle",
+                    "Fashionable Butterfree",
+                    "Fashionable Croagunk",
+                    "Fashionable Diglett",
+                    "Fashionable Dragonite",
+                    "Fashionable Kirlia",
+                    "Fashionable Minccino",
+                    "Fashionable Shinx",
+                    "Fashionable Sneasel",
+                    "Fashionable Wooper"
+                ],
+                "shiny": [
+                    "Fashionable Absol",
+                    "Fashionable Blitzle",
+                    "Fashionable Butterfree",
+                    "Fashionable Croagunk",
+                    "Fashionable Diglett",
+                    "Fashionable Dragonite",
+                    "Fashionable Kirlia",
+                    "Fashionable Minccino",
+                    "Fashionable Shinx",
+                    "Fashionable Sneasel",
+                    "Fashionable Wooper"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-04-04T14:00:00",
+            "end_time": "2026-04-04T17:00:00",
+            "description": "Strike your best pose during Fashion Raid Day, featuring costumed Pokémon! The Fashion Raid Day will take place on April 4, 2026 from 2 pm to 5 pm local time."
+        },
+        {
             "title": "Shadow Raid Day",
             "article_url": "https://leekduck.com/events/shadow-raid-day-may-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
