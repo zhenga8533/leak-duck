@@ -444,6 +444,39 @@
             "start_time": "2026-02-01T14:00:00",
             "end_time": "2026-02-01T17:00:00",
             "description": "Vulpix and Alolan Vulpix, the Fox Pokémon, will be featured during February Community Day!"
+        },
+        {
+            "title": "Scorbunny Community Day",
+            "article_url": "https://leekduck.com/events/march-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-14-march-communityday2026/scorbunny-cd-march-2026.jpg",
+            "category": "Community Day",
+            "details": {
+                "bonuses": [
+                    "1-hour Lures*",
+                    "1/4 Hatch Distance",
+                    "2x Catch Candy",
+                    "2x Chance to receive Candy XL from catching Pokémon",
+                    "3-hour Incense",
+                    "Increased Spawns",
+                    "One additional Special Trade can be made for a maximum of two for the day*",
+                    "Trades made will require 50% less Stardust*"
+                ],
+                "features": [
+                    "Scorbunny"
+                ],
+                "spawns": [
+                    "Scorbunny"
+                ],
+                "shiny": [
+                    "Cinderace",
+                    "Raboot",
+                    "Scorbunny"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-14T14:00:00",
+            "end_time": "2026-03-14T17:00:00",
+            "description": "Scorbunny, the Rabbit Pokémon, will be featured during March Community Day!"
         }
     ],
     "Event": [
