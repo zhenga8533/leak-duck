@@ -12,210 +12,6 @@
             "description": "All Trainers can redeem the following code to receive Fairy type Timed Research available starting with Pokémon GO Tour in person events.\nCode: TH4NKY0UF41RYMUCH Quick Redeem: https://store.pokemongo.com/offer-redemption?passcode=TH4NKY0UF41RYMUCH\nIt is not clear when this promo code will expire. The dates shown on this page are for the Timed Research."
         }
     ],
-    "Event": [
-        {
-            "title": "Pokémon Pokopia Celebration Event",
-            "article_url": "https://leekduck.com/events/pokemon-pokopia-celebration-event-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-10-pokemon-pokopia-celebration-event-2026/pokopia-celebration-event.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "10× XP for spinning a PokéStop for the first time",
-                    "2× XP for spinning PokéStops",
-                    "Increased chance to encounter Shiny Sudowoodo and Shiny Zorua"
-                ],
-                "features": [
-                    "Bulbasaur",
-                    "Charmander",
-                    "Combee",
-                    "Ditto wearing a cap",
-                    "Ditto wearing a hat",
-                    "Drilbur",
-                    "Goomy",
-                    "Hitmonchan",
-                    "Marill",
-                    "Pikachu",
-                    "Scyther",
-                    "Squirtle",
-                    "Sudowoodo",
-                    "Timburr"
-                ],
-                "spawns": [
-                    "Bulbasaur",
-                    "Charmander",
-                    "Combee",
-                    "Drilbur",
-                    "Goomy",
-                    "Hitmonchan",
-                    "Marill",
-                    "Pikachu",
-                    "Scyther",
-                    "Squirtle",
-                    "Sudowoodo",
-                    "Timburr",
-                    "Zorua"
-                ],
-                "raids": [
-                    "Dragonite",
-                    "Lapras",
-                    "Snorlax"
-                ],
-                "shiny": [
-                    "Ditto wearing a cap",
-                    "Ditto wearing a hat",
-                    "Sudowoodo",
-                    "Zorua"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-03-10T10:00:00",
-            "end_time": "2026-03-16T20:00:00",
-            "description": "The Pokémon Pokopia Celebration Event will take place from March 10, 2026 at 10 am to March 16, 2026 at 8 pm local time.\nNew costumed Ditto will make their Pokémon GO debuts during this event! Learn more about Pokémon Pokopia at pokopia.pokemon.com."
-        },
-        {
-            "title": "Bug Out 2026",
-            "article_url": "https://leekduck.com/events/bug-out-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-17-bug-out-2026/bug-out-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× Candy for successfully catching Pokémon",
-                    "2× XP for successfully catching Pokémon with Nice Throws or better",
-                    "Different Pokémon will be attracted to regular Lure Modules during the event",
-                    "GO Pass Deluxe: 3× Candy for successfully catching Pokémon",
-                    "Paras, Combee, and Cutiefly attracted to regular Lure Modules will have an increased chance to be Shiny"
-                ],
-                "features": [
-                    "Blipbug",
-                    "Dottler",
-                    "Orbeetle"
-                ],
-                "spawns": [
-                    "Caterpie",
-                    "Combee",
-                    "Cutiefly",
-                    "Dwebble",
-                    "Joltik",
-                    "Kricketot",
-                    "Nymble",
-                    "Paras",
-                    "Pineco",
-                    "Scyther",
-                    "Sewaddle",
-                    "Sizzlipede",
-                    "Skorupi",
-                    "Weedle",
-                    "Wurmple"
-                ],
-                "raids": [
-                    "Blipbug",
-                    "Kleavor",
-                    "Pinsir",
-                    "Scizor"
-                ],
-                "shiny": [
-                    "Centiskorch",
-                    "Combee",
-                    "Cutiefly",
-                    "Paras",
-                    "Sizzlipede"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-03-17T10:00:00",
-            "end_time": "2026-03-23T20:00:00",
-            "description": "The Bug Out 2026 event will take place from March 17, 2026 at 10 am to March 23, 2026 at 8 pm local time."
-        },
-        {
-            "title": "A Shockingly Good Time",
-            "article_url": "https://leekduck.com/events/a-shockingly-good-time-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-31-a-shockingly-good-time-2026/a-shockingly-good-time.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× Catch Candy",
-                    "2× Catch Stardust",
-                    "Incense activated during the event will last up to twice as long",
-                    "You'll have an increased chance of encountering Shiny Pikachu, Shiny Chinchou, and Shiny Dedenne!"
-                ],
-                "spawns": [
-                    "Chinchou",
-                    "Dedenne",
-                    "Joltik",
-                    "Magnemite",
-                    "Mareep",
-                    "Pawmi",
-                    "Pikachu"
-                ],
-                "shiny": [
-                    "Chinchou",
-                    "Dedenne",
-                    "Pikachu"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-03-31T10:00:00",
-            "end_time": "2026-04-06T20:00:00",
-            "description": "A Shockingly Good Time awaits with Electric-type Pokémon and more!"
-        },
-        {
-            "title": "Hatch Day",
-            "article_url": "https://leekduck.com/events/hatch-day-april-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-04-18T14:00:00",
-            "end_time": "2026-04-18T17:00:00",
-            "description": "The Hatch Day event will take place on April 18, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Example Event Template (Auto ToC Demo)",
-            "article_url": "https://leekduck.com/events/example_event/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/example_event/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-12-01T10:00:00",
-            "end_time": "2026-12-02T20:00:00",
-            "description": "This file demonstrates the reusable event pattern:\n- Keep all section if blocks in the template body.\n- Set event_toc_auto: true.\n- Fill data lists only for sections you want to show.\n- Leave unused section data empty to auto-hide both section and ToC item."
-        }
-    ],
-    "Max Mondays": [
-        {
-            "title": "Dynamax Falinks during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-03-16/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-03-16T06:00:00",
-            "end_time": "2026-03-16T21:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn March 16, 2026, the featured Dynamax Pokémon is Falinks.\n- Falinks"
-        },
-        {
-            "title": "Dynamax Regice during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-03-23/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-03-23T06:00:00",
-            "end_time": "2026-03-23T21:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn March 23, 2026, the featured Dynamax Pokémon is Regice.\n- Regice"
-        },
-        {
-            "title": "Dynamax Woobat during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-03-30/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-03-30T06:00:00",
-            "end_time": "2026-03-30T21:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn March 30, 2026, the featured Dynamax Pokémon is Woobat.\n- Woobat"
-        }
-    ],
     "GO Battle League": [
         {
             "title": "Ultra League and Spring Cup: Great League Edition | Memories in Motion",
@@ -481,6 +277,19 @@
             "description": "Shadow Latias will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Latias!"
         }
     ],
+    "PokéStop Showcase": [
+        {
+            "title": "Showcase Tuesday PokéStop Showcases – March 17",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-showcase-tuesday-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-17T10:00:00",
+            "end_time": "2026-03-17T20:00:00",
+            "description": "PokéStop Showcases will be active on Tuesdays, featuring up to 20 different categories. Log in to find out which Pokémon you can show off!\nThese Showcases run on Tuesday, March 17 from 10:00 a.m. to 8:00 p.m. local time.\nThe following categories may be featured:\n- Good Buddy or higher\n- Great Buddy or higher\n- Normal\n- Fighting\n- Flying\n- Poison\n- Ground\n- Rock\n- Bug\n- Ghost\n- Steel\n- Fire\n- Water\n- Grass\n- Electric\n- Psychic\n- Ice\n- Dragon\n- Dark\n- Fairy"
+        }
+    ],
     "Raid Hour": [
         {
             "title": "Zamazenta (Hero of Many Battles) Raid Hour",
@@ -532,6 +341,140 @@
             "start_time": "2026-03-21T14:00:00",
             "end_time": "2026-03-21T17:00:00",
             "description": "Make a splash during Replay: Water Research Day! Complete event-themed Field Research tasks to encounter Lotad, Feebas, and Clamperl, with an increased chance of meeting their Shiny counterparts."
+        }
+    ],
+    "Event": [
+        {
+            "title": "Bug Out 2026",
+            "article_url": "https://leekduck.com/events/bug-out-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-17-bug-out-2026/bug-out-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Candy for successfully catching Pokémon",
+                    "2× XP for successfully catching Pokémon with Nice Throws or better",
+                    "Different Pokémon will be attracted to regular Lure Modules during the event",
+                    "GO Pass Deluxe: 3× Candy for successfully catching Pokémon",
+                    "Paras, Combee, and Cutiefly attracted to regular Lure Modules will have an increased chance to be Shiny"
+                ],
+                "features": [
+                    "Blipbug",
+                    "Dottler",
+                    "Orbeetle"
+                ],
+                "spawns": [
+                    "Caterpie",
+                    "Combee",
+                    "Cutiefly",
+                    "Dwebble",
+                    "Joltik",
+                    "Kricketot",
+                    "Nymble",
+                    "Paras",
+                    "Pineco",
+                    "Scyther",
+                    "Sewaddle",
+                    "Sizzlipede",
+                    "Skorupi",
+                    "Weedle",
+                    "Wurmple"
+                ],
+                "raids": [
+                    "Blipbug",
+                    "Kleavor",
+                    "Pinsir",
+                    "Scizor"
+                ],
+                "shiny": [
+                    "Centiskorch",
+                    "Combee",
+                    "Cutiefly",
+                    "Paras",
+                    "Sizzlipede"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-17T10:00:00",
+            "end_time": "2026-03-23T20:00:00",
+            "description": "The Bug Out 2026 event will take place from March 17, 2026 at 10 am to March 23, 2026 at 8 pm local time."
+        },
+        {
+            "title": "A Shockingly Good Time",
+            "article_url": "https://leekduck.com/events/a-shockingly-good-time-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-31-a-shockingly-good-time-2026/a-shockingly-good-time.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Catch Candy",
+                    "2× Catch Stardust",
+                    "Incense activated during the event will last up to twice as long",
+                    "You'll have an increased chance of encountering Shiny Pikachu, Shiny Chinchou, and Shiny Dedenne!"
+                ],
+                "spawns": [
+                    "Chinchou",
+                    "Dedenne",
+                    "Joltik",
+                    "Magnemite",
+                    "Mareep",
+                    "Pawmi",
+                    "Pikachu"
+                ],
+                "shiny": [
+                    "Chinchou",
+                    "Dedenne",
+                    "Pikachu"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-31T10:00:00",
+            "end_time": "2026-04-06T20:00:00",
+            "description": "A Shockingly Good Time awaits with Electric-type Pokémon and more!"
+        },
+        {
+            "title": "Hatch Day",
+            "article_url": "https://leekduck.com/events/hatch-day-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-04-18T14:00:00",
+            "end_time": "2026-04-18T17:00:00",
+            "description": "The Hatch Day event will take place on April 18, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Example Event Template (Auto ToC Demo)",
+            "article_url": "https://leekduck.com/events/example_event/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/example_event/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-12-01T10:00:00",
+            "end_time": "2026-12-02T20:00:00",
+            "description": "This file demonstrates the reusable event pattern:\n- Keep all section if blocks in the template body.\n- Set event_toc_auto: true.\n- Fill data lists only for sections you want to show.\n- Leave unused section data empty to auto-hide both section and ToC item."
+        }
+    ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Regice during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-03-23/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-23T06:00:00",
+            "end_time": "2026-03-23T21:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn March 23, 2026, the featured Dynamax Pokémon is Regice.\n- Regice"
+        },
+        {
+            "title": "Dynamax Woobat during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-03-30/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-30T06:00:00",
+            "end_time": "2026-03-30T21:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn March 30, 2026, the featured Dynamax Pokémon is Woobat.\n- Woobat"
         }
     ],
     "Max Battles": [

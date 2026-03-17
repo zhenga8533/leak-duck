@@ -244,7 +244,7 @@
     "5 km Eggs": [
         {
             "name": "Sizzlipede",
-            "shiny_available": false,
+            "shiny_available": true,
             "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm850.icon.png",
             "hatch_distance": 5,
             "rarity_tier": 1

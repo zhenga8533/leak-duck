@@ -1,6 +1,29 @@
 {
     "Bug Out 2026 Tasks": [
         {
+            "task": "Catch 5 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Poké Ball",
+                    "quantity": 10,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Poke Ball.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Great Ball",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Great Ball.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Ultra Ball",
+                    "quantity": 3,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Ultra Ball.png"
+                }
+            ]
+        },
+        {
             "task": "Catch 10 Pokémon",
             "rewards": [
                 {
@@ -58,25 +81,14 @@
             ]
         },
         {
-            "task": "Catch 5 Pokémon",
+            "task": "Win a raid",
             "rewards": [
                 {
-                    "type": "item",
-                    "name": "Poké Ball",
-                    "quantity": 10,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Poke Ball.png"
-                },
-                {
-                    "type": "item",
-                    "name": "Great Ball",
-                    "quantity": 5,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Great Ball.png"
-                },
-                {
-                    "type": "item",
-                    "name": "Ultra Ball",
-                    "quantity": 3,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Ultra Ball.png"
+                    "type": "encounter",
+                    "name": "Durant",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm632.icon.png"
                 }
             ]
         },
@@ -96,18 +108,6 @@
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm616.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Win a raid",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Durant",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm632.icon.png"
                 }
             ]
         }

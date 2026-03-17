@@ -1382,6 +1382,65 @@
             "start_time": "2026-03-07T10:00:00",
             "end_time": "2026-03-09T20:00:00",
             "description": "The Pokémon 30th Anniversary: All Out event will take place from March 7, 2026 at 10 am to March 9, 2026 at 8 pm local time.\nYou may encounter almost all Pokémon in their natural habitat that have made their Pokémon GO debuts! Most Pokémon that have ever appeared in Pokémon GO will return during this event."
+        },
+        {
+            "title": "Pokémon Pokopia Celebration Event",
+            "article_url": "https://leekduck.com/events/pokemon-pokopia-celebration-event-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-10-pokemon-pokopia-celebration-event-2026/pokopia-celebration-event.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "10× XP for spinning a PokéStop for the first time",
+                    "2× XP for spinning PokéStops",
+                    "Increased chance to encounter Shiny Sudowoodo and Shiny Zorua"
+                ],
+                "features": [
+                    "Bulbasaur",
+                    "Charmander",
+                    "Combee",
+                    "Ditto wearing a cap",
+                    "Ditto wearing a hat",
+                    "Drilbur",
+                    "Goomy",
+                    "Hitmonchan",
+                    "Marill",
+                    "Pikachu",
+                    "Scyther",
+                    "Squirtle",
+                    "Sudowoodo",
+                    "Timburr"
+                ],
+                "spawns": [
+                    "Bulbasaur",
+                    "Charmander",
+                    "Combee",
+                    "Drilbur",
+                    "Goomy",
+                    "Hitmonchan",
+                    "Marill",
+                    "Pikachu",
+                    "Scyther",
+                    "Squirtle",
+                    "Sudowoodo",
+                    "Timburr",
+                    "Zorua"
+                ],
+                "raids": [
+                    "Dragonite",
+                    "Lapras",
+                    "Snorlax"
+                ],
+                "shiny": [
+                    "Ditto wearing a cap",
+                    "Ditto wearing a hat",
+                    "Sudowoodo",
+                    "Zorua"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-10T10:00:00",
+            "end_time": "2026-03-16T20:00:00",
+            "description": "The Pokémon Pokopia Celebration Event will take place from March 10, 2026 at 10 am to March 16, 2026 at 8 pm local time.\nNew costumed Ditto will make their Pokémon GO debuts during this event! Learn more about Pokémon Pokopia at pokopia.pokemon.com."
         }
     ],
     "PokéStop Showcase": [
@@ -1727,6 +1786,17 @@
             "start_time": "2026-03-09T06:00:00",
             "end_time": "2026-03-09T21:00:00",
             "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn March 9, 2026, the featured Dynamax Pokémon is Pikachu.\n- Pikachu"
+        },
+        {
+            "title": "Dynamax Falinks during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-03-16/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-16T06:00:00",
+            "end_time": "2026-03-16T21:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn March 16, 2026, the featured Dynamax Pokémon is Falinks.\n- Falinks"
         }
     ],
     "GO Pass": [
