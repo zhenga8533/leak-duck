@@ -95,10 +95,17 @@
                     "Combee",
                     "Cutiefly",
                     "Dwebble",
+                    "Joltik",
+                    "Kricketot",
                     "Nymble",
                     "Paras",
+                    "Pineco",
                     "Scyther",
-                    "Sizzlipede"
+                    "Sewaddle",
+                    "Sizzlipede",
+                    "Skorupi",
+                    "Weedle",
+                    "Wurmple"
                 ],
                 "raids": [
                     "Blipbug",
@@ -677,7 +684,7 @@
         {
             "title": "Tinkatink Community Day",
             "article_url": "https://leekduck.com/events/april-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-11-april-communityday2026/tinkatink-cd-april-2026.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-11-april-communityday2026/tinkatink-cd-april-2026-key.jpg",
             "category": "Community Day",
             "details": {
                 "bonuses": [
@@ -685,7 +692,7 @@
                     "2x Catch Candy",
                     "2x Chance to receive Candy XL from catching Pokémon",
                     "3-hour Incense",
-                    "???",
+                    "3x Catch Stardust",
                     "Increased Spawns",
                     "One additional Special Trade can be made for a maximum of two for the day*",
                     "Trades made will require 50% less Stardust*"
