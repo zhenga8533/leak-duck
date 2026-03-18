@@ -351,6 +351,43 @@
             "start_time": "2026-03-04T06:00:00",
             "end_time": "2026-03-10T20:00:00",
             "description": "Mega Pinsir return to Mega Raids on March 4, 2026, at 6 am local time."
+        },
+        {
+            "title": "Mega Steelix in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-steelix-in-mega-raids-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Steelix"
+                ],
+                "shiny": [
+                    "Mega Steelix",
+                    "Steelix"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-11T06:00:00",
+            "end_time": "2026-03-17T20:00:00",
+            "description": "Mega Steelix return to Mega Raids on March 11, 2026, at 6 am local time."
+        },
+        {
+            "title": "Zacian (Hero of Many Battles) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/zacian-hero-of-many-battles-in-5-star-raid-battles-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/zacian-and-zamazenta-2.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Zacian (Hero of Many Battles)"
+                ],
+                "shiny": [
+                    "Zacian (Hero of Many Battles)"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-11T06:00:00",
+            "end_time": "2026-03-17T20:00:00",
+            "description": "Zacian (Hero of Many Battles) will be in five-star raid battles from March 11, 2026 to March 17, 2026.\nThere will also be a Raid Hour featuring Zacian (Hero of Many Battles) from 6:00 pm to 7:00 pm local time on the following date:\n- March 11"
         }
     ],
     "Community Day": [
@@ -1674,6 +1711,17 @@
             "start_time": "2026-03-03T00:00:00",
             "end_time": "2026-03-03T11:59:00",
             "description": "PokéStop Showcases will be active on Tuesdays, featuring up to 20 different categories. Log in to find out which Pokémon you can show off!\nThese Showcases run on Tuesdays from 12:00 a.m. to 11:59 a.m. local time.\nThe following categories may be featured:\n- Good Buddy or higher\n- Great Buddy or higher\n- Normal\n- Fighting\n- Flying\n- Poison\n- Ground\n- Rock\n- Bug\n- Ghost\n- Steel\n- Fire\n- Water\n- Grass\n- Electric\n- Psychic\n- Ice\n- Dragon\n- Dark\n- Fairy"
+        },
+        {
+            "title": "Showcase Tuesday PokéStop Showcases – March 17",
+            "article_url": "https://leekduck.com/events/pokemon-showcase-showcase-tuesday-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+            "category": "PokéStop Showcase",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-17T10:00:00",
+            "end_time": "2026-03-17T20:00:00",
+            "description": "PokéStop Showcases will be active on Tuesdays, featuring up to 20 different categories. Log in to find out which Pokémon you can show off!\nThese Showcases run on Tuesday, March 17 from 10:00 a.m. to 8:00 p.m. local time.\nThe following categories may be featured:\n- Good Buddy or higher\n- Great Buddy or higher\n- Normal\n- Fighting\n- Flying\n- Poison\n- Ground\n- Rock\n- Bug\n- Ghost\n- Steel\n- Fire\n- Water\n- Grass\n- Electric\n- Psychic\n- Ice\n- Dragon\n- Dark\n- Fairy"
         }
     ],
     "Max Mondays": [
