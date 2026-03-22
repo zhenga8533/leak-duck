@@ -3082,5 +3082,37 @@
             "end_time": "2026-03-03T10:00:00",
             "description": "Welcome to the next Pokémon GO Season: Precious Paths!"
         }
+    ],
+    "Research Day": [
+        {
+            "title": "Replay: Water Research Day",
+            "article_url": "https://leekduck.com/events/replay-water-research-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-21-replay-water-research-day-2026/replay-water-research-day.jpg",
+            "category": "Research Day",
+            "details": {
+                "features": [
+                    "Clamperl",
+                    "Feebas",
+                    "Lotad"
+                ],
+                "spawns": [
+                    "Chinchou",
+                    "Goldeen",
+                    "Magikarp",
+                    "Mareanie",
+                    "Remoraid",
+                    "Shellder"
+                ],
+                "shiny": [
+                    "Clamperl",
+                    "Feebas",
+                    "Lotad"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-21T14:00:00",
+            "end_time": "2026-03-21T17:00:00",
+            "description": "Make a splash during Replay: Water Research Day! Complete event-themed Field Research tasks to encounter Lotad, Feebas, and Clamperl, with an increased chance of meeting their Shiny counterparts."
+        }
     ]
 }
