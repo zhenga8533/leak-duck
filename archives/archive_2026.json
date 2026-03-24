@@ -1478,6 +1478,60 @@
             "start_time": "2026-03-10T10:00:00",
             "end_time": "2026-03-16T20:00:00",
             "description": "The Pokémon Pokopia Celebration Event will take place from March 10, 2026 at 10 am to March 16, 2026 at 8 pm local time.\nNew costumed Ditto will make their Pokémon GO debuts during this event! Learn more about Pokémon Pokopia at pokopia.pokemon.com."
+        },
+        {
+            "title": "Bug Out 2026",
+            "article_url": "https://leekduck.com/events/bug-out-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-17-bug-out-2026/bug-out-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Candy for successfully catching Pokémon",
+                    "2× XP for successfully catching Pokémon with Nice Throws or better",
+                    "Different Pokémon will be attracted to regular Lure Modules during the event",
+                    "GO Pass Deluxe: 3× Candy for successfully catching Pokémon",
+                    "Paras, Combee, and Cutiefly attracted to regular Lure Modules will have an increased chance to be Shiny"
+                ],
+                "features": [
+                    "Blipbug",
+                    "Dottler",
+                    "Orbeetle"
+                ],
+                "spawns": [
+                    "Caterpie",
+                    "Combee",
+                    "Cutiefly",
+                    "Dwebble",
+                    "Joltik",
+                    "Kricketot",
+                    "Nymble",
+                    "Paras",
+                    "Pineco",
+                    "Scyther",
+                    "Sewaddle",
+                    "Sizzlipede",
+                    "Skorupi",
+                    "Weedle",
+                    "Wurmple"
+                ],
+                "raids": [
+                    "Blipbug",
+                    "Kleavor",
+                    "Pinsir",
+                    "Scizor"
+                ],
+                "shiny": [
+                    "Centiskorch",
+                    "Combee",
+                    "Cutiefly",
+                    "Paras",
+                    "Sizzlipede"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-17T10:00:00",
+            "end_time": "2026-03-23T20:00:00",
+            "description": "The Bug Out 2026 event will take place from March 17, 2026 at 10 am to March 23, 2026 at 8 pm local time."
         }
     ],
     "PokéStop Showcase": [
@@ -1845,6 +1899,17 @@
             "start_time": "2026-03-16T06:00:00",
             "end_time": "2026-03-16T21:00:00",
             "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn March 16, 2026, the featured Dynamax Pokémon is Falinks.\n- Falinks"
+        },
+        {
+            "title": "Dynamax Regice during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-03-23/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-03-23T06:00:00",
+            "end_time": "2026-03-23T21:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn March 23, 2026, the featured Dynamax Pokémon is Regice.\n- Regice"
         }
     ],
     "GO Pass": [
