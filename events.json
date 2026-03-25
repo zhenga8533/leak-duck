@@ -726,13 +726,54 @@
         {
             "title": "Sustainability Week 2026",
             "article_url": "https://leekduck.com/events/sustainability-week-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-14-sustainability-week-2026/sustainability-week-2026.jpg",
             "category": "Event",
-            "details": {},
+            "details": {
+                "bonuses": [
+                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
+                    "2× XP for spinning a PokéStop",
+                    "Different Pokémon will appear more frequently on Routes during the event",
+                    "GO Pass Deluxe: 3× XP for spinning a PokéStop",
+                    "Increased chance to encounter Shiny Lapras, Shiny Togetic, Shiny Castform, and Shiny Trubbish",
+                    "Increased chance to hatch Shiny Galarian Corsola wearing pink sunglasses and Shiny Castform"
+                ],
+                "features": [
+                    "Galarian Corsola wearing pink sunglasses",
+                    "Sandaconda",
+                    "Silicobra"
+                ],
+                "spawns": [
+                    "Castform",
+                    "Galarian Corsola wearing pink sunglasses",
+                    "Lapras",
+                    "Seedot",
+                    "Silicobra",
+                    "Toedscool",
+                    "Togetic",
+                    "Trubbish",
+                    "Wiglett"
+                ],
+                "eggs": [
+                    "Castform",
+                    "Galarian Corsola wearing pink sunglasses",
+                    "Lapras",
+                    "Togepi",
+                    "Trubbish"
+                ],
+                "shiny": [
+                    "Castform",
+                    "Galarian Corsola wearing pink sunglasses",
+                    "Lapras",
+                    "Toedscool",
+                    "Toedscruel",
+                    "Togetic",
+                    "Trubbish"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-04-14T10:00:00",
             "end_time": "2026-04-20T20:00:00",
-            "description": "The Sustainability Week 2026 event will take place from April 14, 2026 at 10 am to April 20, 2026 at 8 pm. Stay tuned for more details."
+            "description": "Get out and explore Routes during Pokémon GO’s Sustainability Week event!\nThe Sustainability Week 2026 event will take place from April 14, 2026 at 10 am to April 20, 2026 at 8 pm."
         },
         {
             "title": "Steeled Resolve",
@@ -836,6 +877,19 @@
             "start_time": "2026-05-16T14:00:00",
             "end_time": "2026-05-16T17:00:00",
             "description": "The May Community Day Classic event will take place on May 16, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        }
+    ],
+    "Team GO Rocket": [
+        {
+            "title": "Steeled Resolve: Taken Over",
+            "article_url": "https://leekduck.com/events/steeled-resolve-taken-over-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Team GO Rocket",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-04-30T10:00:00",
+            "end_time": "2026-05-04T20:00:00",
+            "description": "The Steeled Resolve: Taken Over event will take place from April 30, 2026 at 10 am to May 4, 2026 at 8 pm. Stay tuned for more details."
         }
     ],
     "Pokémon GO Fest": [
