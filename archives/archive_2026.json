@@ -388,6 +388,43 @@
             "start_time": "2026-03-11T06:00:00",
             "end_time": "2026-03-17T20:00:00",
             "description": "Zacian (Hero of Many Battles) will be in five-star raid battles from March 11, 2026 to March 17, 2026.\nThere will also be a Raid Hour featuring Zacian (Hero of Many Battles) from 6:00 pm to 7:00 pm local time on the following date:\n- March 11"
+        },
+        {
+            "title": "Mega Slowbro in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-slowbro-in-mega-raids-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Slowbro"
+                ],
+                "shiny": [
+                    "Mega Slowbro",
+                    "Slowbro"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-18T06:00:00",
+            "end_time": "2026-03-24T20:00:00",
+            "description": "Mega Slowbro return to Mega Raids on March 18, 2026, at 6 am local time."
+        },
+        {
+            "title": "Zamazenta (Hero of Many Battles) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/zamazenta-hero-of-many-battles-in-5-star-raid-battles-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/zacian-and-zamazenta-2.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Zamazenta (Hero of Many Battles)"
+                ],
+                "shiny": [
+                    "Zamazenta (Hero of Many Battles)"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-18T06:00:00",
+            "end_time": "2026-03-24T20:00:00",
+            "description": "Zamazenta (Hero of Many Battles) will be in five-star raid battles from March 18, 2026 to March 24, 2026.\nThere will also be a Raid Hour featuring Zamazenta (Hero of Many Battles) from 6:00 pm to 7:00 pm local time on the following date:\n- March 18"
         }
     ],
     "Community Day": [
