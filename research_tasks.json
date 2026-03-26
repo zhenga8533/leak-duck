@@ -1,117 +1,4 @@
 {
-    "Bug Out 2026 Tasks": [
-        {
-            "task": "Catch 5 Pokémon",
-            "rewards": [
-                {
-                    "type": "item",
-                    "name": "Poké Ball",
-                    "quantity": 10,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Poke Ball.png"
-                },
-                {
-                    "type": "item",
-                    "name": "Great Ball",
-                    "quantity": 5,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Great Ball.png"
-                },
-                {
-                    "type": "item",
-                    "name": "Ultra Ball",
-                    "quantity": 3,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Ultra Ball.png"
-                }
-            ]
-        },
-        {
-            "task": "Catch 10 Pokémon",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Nincada",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm290.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Catch 15 Pokémon",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Burmy (Plant)",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm412.fBURMY_PLANT.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Burmy (Sandy)",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm412.fBURMY_SANDY.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Burmy (Trash)",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm412.fBURMY_TRASH.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Catch 25 Pokémon",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Volbeat",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm313.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Illumise",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm314.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Win a raid",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Durant",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm632.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Trade a Pokémon",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Karrablast",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm588.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Shelmet",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm616.icon.png"
-                }
-            ]
-        }
-    ],
     "Catching Tasks": [
         {
             "task": "Catch 7 Pokémon",
@@ -1355,6 +1242,13 @@
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm662.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Blipbug",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/poke_capture_0824_000_mf_n_00000000_f_n.png"
                 }
             ]
         },
