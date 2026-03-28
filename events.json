@@ -540,17 +540,6 @@
     ],
     "Raid Day": [
         {
-            "title": "Raid Day",
-            "article_url": "https://leekduck.com/events/raid-day-april-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-04-04T14:00:00",
-            "end_time": "2026-04-04T17:00:00",
-            "description": "The Raid Day event will take place on April 4, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        },
-        {
             "title": "Fashion Raid Day",
             "article_url": "https://leekduck.com/events/fashion-raid-day-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-04-fashion-raid-day-2026/fashion-week-2026.jpg",
