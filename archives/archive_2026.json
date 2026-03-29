@@ -2633,6 +2633,33 @@
             "start_time": "2026-02-15T14:00:00",
             "end_time": "2026-02-15T17:00:00",
             "description": "The Gigantamax Meowth Max Battle Day event will take place on February 15, 2026 from 2 pm to 5 pm local time."
+        },
+        {
+            "title": "Gigantamax Pikachu Max Battle Day",
+            "article_url": "https://leekduck.com/events/gigantamax-pikachu-max-battle-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-28-gigantamax-pikachu-max-battle-day-2026/gigantamax-pikachu-max-battle-day.jpg",
+            "category": "Max Battles",
+            "details": {
+                "bonuses": [
+                    "1/4 Adventuring distance to receive Max Particles*",
+                    "2× Max Particles from exploring*",
+                    "2× XP from Max Battles",
+                    "8× Max Particles from Power Spots",
+                    "Additional Power Spots will be active",
+                    "All Power Spots will host Gigantamax Battles",
+                    "From March 27 at 5:00 p.m. to March 28 at 8:00 p.m. PDT (GMT −8), the daily Remote Raid limit will increase from 10 to 20",
+                    "Max Particle collection limit increased to 1,600",
+                    "Power Spots will refresh more frequently",
+                    "Up to three Special Trades for the day"
+                ],
+                "features": [
+                    "Gigantamax Pikachu"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-28T14:00:00",
+            "end_time": "2026-03-28T17:00:00",
+            "description": "The Gigantamax Pikachu Max Battle Day event will take place on March 28, 2026 from 2 pm to 5 pm local time."
         }
     ],
     "Research": [
