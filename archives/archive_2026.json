@@ -425,6 +425,61 @@
             "start_time": "2026-03-18T06:00:00",
             "end_time": "2026-03-24T20:00:00",
             "description": "Zamazenta (Hero of Many Battles) will be in five-star raid battles from March 18, 2026 to March 24, 2026.\nThere will also be a Raid Hour featuring Zamazenta (Hero of Many Battles) from 6:00 pm to 7:00 pm local time on the following date:\n- March 18"
+        },
+        {
+            "title": "Mega Houndoom in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-houndoom-in-mega-raids-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Houndoom"
+                ],
+                "shiny": [
+                    "Houndoom",
+                    "Mega Houndoom"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-25T06:00:00",
+            "end_time": "2026-03-31T20:00:00",
+            "description": "Mega Houndoom return to Mega Raids on March 25, 2026, at 6 am local time."
+        },
+        {
+            "title": "Regieleki in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/regieleki-in-5-star-raid-battles-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Regieleki"
+                ],
+                "shiny": [
+                    "Regieleki"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-25T06:00:00",
+            "end_time": "2026-03-31T20:00:00",
+            "description": "Regieleki will be in five-star raid battles from March 25, 2026 to March 31, 2026.\nThere will also be a Raid Hour featuring Regieleki from 6:00 pm to 7:00 pm local time on the following date:\n- March 25"
+        },
+        {
+            "title": "Shadow Latias in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-latias-in-shadow-raids-march-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Latias"
+                ],
+                "shiny": [
+                    "Latias"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-04T06:00:00",
+            "end_time": "2026-03-31T22:00:00",
+            "description": "Shadow Latias will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Latias!"
         }
     ],
     "Community Day": [
