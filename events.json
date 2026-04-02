@@ -12,378 +12,6 @@
             "description": "All Trainers can redeem the following code to receive Fairy type Timed Research available starting with Pokémon GO Tour in person events.\nCode: TH4NKY0UF41RYMUCH Quick Redeem: https://store.pokemongo.com/offer-redemption?passcode=TH4NKY0UF41RYMUCH\nIt is not clear when this promo code will expire. The dates shown on this page are for the Timed Research."
         }
     ],
-    "GO Battle League": [
-        {
-            "title": "Great League, Ultra League, and Master League | Memories in Motion",
-            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-league_master-league-split-1/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1774382400,
-            "end_time": 1774987200,
-            "description": "The Great League, Ultra League, and Master League will run from March 24, 2026, at 1:00 p.m. to March 31, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
-        },
-        {
-            "title": "Great League and Electric Cup: Great League Edition | Memories in Motion",
-            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_electric-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1774987200,
-            "end_time": 1775592000,
-            "description": "The Great League and Electric Cup: Great League Edition will run from March 31, 2026, at 1:00 p.m. to April 7, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Electric-type Pokémon are eligible.\nThe following Pokémon will not be allowed.\n- Stunfisk\n- Heliolisk\n- Charjabug\n- Vikavolt"
-        },
-        {
-            "title": "Ultra League and Fantasy Cup: Great League Edition | Memories in Motion",
-            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_ultra-league_fantasy-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1775592000,
-            "end_time": 1776196800,
-            "description": "The Ultra League and Fantasy Cup: Great League Edition will run from April 7, 2026, at 1:00 p.m. to April 14, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Dragon-, Steel-, and Fairy-type Pokémon are eligible."
-        },
-        {
-            "title": "Master League and Spring Cup: Great League Edition | Memories in Motion",
-            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_master-league_spring-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1776196800,
-            "end_time": 1776801600,
-            "description": "The Master League and Spring Cup: Great League Edition will run from April 14, 2026, at 1:00 p.m. to April 21, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Water-, Grass-, and Fairy-type Pokémon are eligible.\nThe following Pokémon will not be allowed.\n- Jumpluff\n- Roserade\n- Toxapex"
-        },
-        {
-            "title": "Great League, Ultra League, and Master League | Memories in Motion",
-            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-league_master-league-split-2/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1776801600,
-            "end_time": 1777406400,
-            "description": "The Great League, Ultra League, and Master League will run from April 21, 2026, at 1:00 p.m. to April 28, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
-        },
-        {
-            "title": "Great League and Fantasy Cup: Great League Edition | Memories in Motion",
-            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_fantasy-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1777406400,
-            "end_time": 1778011200,
-            "description": "The Great League and Fantasy Cup: Great League Edition will run from April 28, 2026, at 1:00 p.m. to May 5, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Dragon-, Steel-, and Fairy-type Pokémon are eligible."
-        },
-        {
-            "title": "Ultra League and Jungle Cup: Great League Edition | Memories in Motion",
-            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_ultra-league_jungle-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1778011200,
-            "end_time": 1778616000,
-            "description": "The Ultra League and Jungle Cup: Great League Edition will run from May 5, 2026, at 1:00 p.m. to May 12, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Normal-, Grass-, Electric-, Poison-, Ground-, Flying-, Bug-, and Dark-type Pokémon are eligible."
-        },
-        {
-            "title": "Master League and Catch Cup: Memories in Motion: Great League Edition | Memories in Motion",
-            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_master-league_catch-cup-memories-in-motion-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1778616000,
-            "end_time": 1779220800,
-            "description": "The Master League and Catch Cup: Memories in Motion: Great League Edition will run from May 12, 2026, at 1:00 p.m. to May 19, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Pokémon caught during the Memories in Motion Season are eligible.\n- Pokémon must be caught between March 3, 2026, at 1:00 p.m. and June 2, 2026, at 1:00 p.m. local time."
-        },
-        {
-            "title": "Great League, Ultra League, and Master League | Memories in Motion",
-            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-league_master-league-split-3/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1779220800,
-            "end_time": 1779825600,
-            "description": "The Great League, Ultra League, and Master League will run from May 19, 2026, at 1:00 p.m. to May 26, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
-        },
-        {
-            "title": "Great League, Ultra League, and Master League | Memories in Motion",
-            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-league_master-league-split-4/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1779825600,
-            "end_time": 1780430400,
-            "description": "The Great League, Ultra League, and Master League will run from May 26, 2026, at 1:00 p.m. to June 2, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
-        }
-    ],
-    "Raid Battles": [
-        {
-            "title": "Mega Houndoom in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-houndoom-in-mega-raids-march-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Houndoom"
-                ],
-                "shiny": [
-                    "Houndoom",
-                    "Mega Houndoom"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-03-25T06:00:00",
-            "end_time": "2026-03-31T20:00:00",
-            "description": "Mega Houndoom return to Mega Raids on March 25, 2026, at 6 am local time."
-        },
-        {
-            "title": "Regieleki in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/regieleki-in-5-star-raid-battles-march-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Regieleki"
-                ],
-                "shiny": [
-                    "Regieleki"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-03-25T06:00:00",
-            "end_time": "2026-03-31T20:00:00",
-            "description": "Regieleki will be in five-star raid battles from March 25, 2026 to March 31, 2026.\nThere will also be a Raid Hour featuring Regieleki from 6:00 pm to 7:00 pm local time on the following date:\n- March 25"
-        },
-        {
-            "title": "Shadow Latias in Shadow Raids",
-            "article_url": "https://leekduck.com/events/shadow-latias-in-shadow-raids-march-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Latias"
-                ],
-                "shiny": [
-                    "Latias"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-03-04T06:00:00",
-            "end_time": "2026-03-31T22:00:00",
-            "description": "Shadow Latias will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Latias!"
-        },
-        {
-            "title": "Mega Manectric in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-manectric-in-mega-raids-april-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Manectric"
-                ],
-                "shiny": [
-                    "Manectric",
-                    "Mega Manectric"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-04-01T06:00:00",
-            "end_time": "2026-04-07T22:00:00",
-            "description": "Mega Manectric will be in Mega Raids from April 1, 2026 at 6 am to April 7, 2026 at 10 pm local time."
-        },
-        {
-            "title": "Regidrago in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/regidrago-in-5-star-raid-battles-april-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Regidrago"
-                ],
-                "shiny": [
-                    "Regidrago"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-04-01T06:00:00",
-            "end_time": "2026-04-07T22:00:00",
-            "description": "Regidrago will be in five-star raid battles from April 1, 2026 to April 7, 2026.\nThere will also be a Raid Hour featuring Regidrago from 6:00 pm to 7:00 pm local time on the following date:\n- April 1"
-        },
-        {
-            "title": "Kyogre in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/kyogre-in-5-star-raid-battles-april-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Kyogre"
-                ],
-                "shiny": [
-                    "Kyogre"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-04-08T06:00:00",
-            "end_time": "2026-04-14T22:00:00",
-            "description": "Kyogre will be in five-star raid battles from April 8, 2026 to April 14, 2026.\nThere will also be a Raid Hour featuring Kyogre from 6:00 pm to 7:00 pm local time on the following date:\n- April 8"
-        },
-        {
-            "title": "Mega Aerodactyl in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-aerodactyl-in-mega-raids-april-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Aerodactyl"
-                ],
-                "shiny": [
-                    "Aerodactyl",
-                    "Mega Aerodactyl"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-04-08T06:00:00",
-            "end_time": "2026-04-14T22:00:00",
-            "description": "Mega Aerodactyl will be in Mega Raids from April 8, 2026 at 6 am to April 14, 2026 at 10 pm local time."
-        },
-        {
-            "title": "Groudon in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/groudon-in-5-star-raid-battles-april-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Groudon"
-                ],
-                "shiny": [
-                    "Groudon"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-04-15T06:00:00",
-            "end_time": "2026-04-21T22:00:00",
-            "description": "There will also be a Raid Hour featuring Groudon from 6:00 pm to 7:00 pm local time on the following date:\n- April 15"
-        },
-        {
-            "title": "Mega Alakazam in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-alakazam-in-mega-raids-april-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Alakazam"
-                ],
-                "shiny": [
-                    "Alakazam",
-                    "Mega Alakazam"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-04-15T06:00:00",
-            "end_time": "2026-04-21T22:00:00",
-            "description": "Mega Alakazam will be in Mega Raids from April 15, 2026 at 6 am to April 21, 2026 at 10 pm local time."
-        },
-        {
-            "title": "Mega Sharpedo in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-sharpedo-in-mega-raids-april-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Sharpedo"
-                ],
-                "shiny": [
-                    "Mega Sharpedo",
-                    "Sharpedo"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-04-22T06:00:00",
-            "end_time": "2026-04-28T22:00:00",
-            "description": "Mega Sharpedo will be in Mega Raids from April 22, 2026 at 6 am to April 28, 2026 at 10 pm local time."
-        },
-        {
-            "title": "Tapu Koko in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/tapu-koko-in-5-star-raid-battles-april-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Tapu Koko"
-                ],
-                "shiny": [
-                    "Tapu Koko"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-04-22T06:00:00",
-            "end_time": "2026-04-28T22:00:00",
-            "description": "There will also be a Raid Hour featuring Tapu Koko from 6:00 pm to 7:00 pm local time on the following date:\n- April 22"
-        },
-        {
-            "title": "Shadow Latios in Shadow Raids",
-            "article_url": "https://leekduck.com/events/shadow-latios-in-shadow-raids-april-may-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Latios"
-                ],
-                "shiny": [
-                    "Latios"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-04-01T06:00:00",
-            "end_time": "2026-05-05T22:00:00",
-            "description": "Shadow Latios will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Latios! Shadow Latios will appear in five-star Shadow Raids every weekend from April 1 to May 5."
-        },
-        {
-            "title": "Mega Banette in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-banette-in-mega-raids-april-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Banette"
-                ],
-                "shiny": [
-                    "Banette",
-                    "Mega Banette"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-04-29T06:00:00",
-            "end_time": "2026-05-05T22:00:00",
-            "description": "Mega Banette will be in Mega Raids from April 29, 2026 at 6 am to May 5, 2026 at 10 pm local time."
-        },
-        {
-            "title": "Tapu Lele in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/tapu-lele-in-5-star-raid-battles-april-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Tapu Lele"
-                ],
-                "shiny": [
-                    "Tapu Lele"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-04-29T06:00:00",
-            "end_time": "2026-05-05T22:00:00",
-            "description": "There will also be a Raid Hour featuring Tapu Lele from 6:00 pm to 7:00 pm local time on the following date:\n- April 29"
-        }
-    ],
     "Raid Hour": [
         {
             "title": "Regidrago Raid Hour",
@@ -740,6 +368,312 @@
             "start_time": "2026-04-07T10:00:00",
             "end_time": "2026-05-05T10:00:00",
             "description": "Rank up to earn rewards including an encounter with Entei, a Lucky Trinket (GO Pass Deluxe), and more!\nFrom Tuesday, April 7, at 10:00 a.m. to Tuesday, May 5, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for April will be available in Pokémon GO!"
+        }
+    ],
+    "GO Battle League": [
+        {
+            "title": "Great League and Electric Cup: Great League Edition | Memories in Motion",
+            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_electric-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1774987200,
+            "end_time": 1775592000,
+            "description": "The Great League and Electric Cup: Great League Edition will run from March 31, 2026, at 1:00 p.m. to April 7, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Electric-type Pokémon are eligible.\nThe following Pokémon will not be allowed.\n- Stunfisk\n- Heliolisk\n- Charjabug\n- Vikavolt"
+        },
+        {
+            "title": "Ultra League and Fantasy Cup: Great League Edition | Memories in Motion",
+            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_ultra-league_fantasy-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1775592000,
+            "end_time": 1776196800,
+            "description": "The Ultra League and Fantasy Cup: Great League Edition will run from April 7, 2026, at 1:00 p.m. to April 14, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Dragon-, Steel-, and Fairy-type Pokémon are eligible."
+        },
+        {
+            "title": "Master League and Spring Cup: Great League Edition | Memories in Motion",
+            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_master-league_spring-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1776196800,
+            "end_time": 1776801600,
+            "description": "The Master League and Spring Cup: Great League Edition will run from April 14, 2026, at 1:00 p.m. to April 21, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Water-, Grass-, and Fairy-type Pokémon are eligible.\nThe following Pokémon will not be allowed.\n- Jumpluff\n- Roserade\n- Toxapex"
+        },
+        {
+            "title": "Great League, Ultra League, and Master League | Memories in Motion",
+            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-league_master-league-split-2/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1776801600,
+            "end_time": 1777406400,
+            "description": "The Great League, Ultra League, and Master League will run from April 21, 2026, at 1:00 p.m. to April 28, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
+        },
+        {
+            "title": "Great League and Fantasy Cup: Great League Edition | Memories in Motion",
+            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_fantasy-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1777406400,
+            "end_time": 1778011200,
+            "description": "The Great League and Fantasy Cup: Great League Edition will run from April 28, 2026, at 1:00 p.m. to May 5, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Dragon-, Steel-, and Fairy-type Pokémon are eligible."
+        },
+        {
+            "title": "Ultra League and Jungle Cup: Great League Edition | Memories in Motion",
+            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_ultra-league_jungle-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1778011200,
+            "end_time": 1778616000,
+            "description": "The Ultra League and Jungle Cup: Great League Edition will run from May 5, 2026, at 1:00 p.m. to May 12, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Normal-, Grass-, Electric-, Poison-, Ground-, Flying-, Bug-, and Dark-type Pokémon are eligible."
+        },
+        {
+            "title": "Master League and Catch Cup: Memories in Motion: Great League Edition | Memories in Motion",
+            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_master-league_catch-cup-memories-in-motion-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1778616000,
+            "end_time": 1779220800,
+            "description": "The Master League and Catch Cup: Memories in Motion: Great League Edition will run from May 12, 2026, at 1:00 p.m. to May 19, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Pokémon caught during the Memories in Motion Season are eligible.\n- Pokémon must be caught between March 3, 2026, at 1:00 p.m. and June 2, 2026, at 1:00 p.m. local time."
+        },
+        {
+            "title": "Great League, Ultra League, and Master League | Memories in Motion",
+            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-league_master-league-split-3/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1779220800,
+            "end_time": 1779825600,
+            "description": "The Great League, Ultra League, and Master League will run from May 19, 2026, at 1:00 p.m. to May 26, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
+        },
+        {
+            "title": "Great League, Ultra League, and Master League | Memories in Motion",
+            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-league_master-league-split-4/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1779825600,
+            "end_time": 1780430400,
+            "description": "The Great League, Ultra League, and Master League will run from May 26, 2026, at 1:00 p.m. to June 2, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
+        }
+    ],
+    "Raid Battles": [
+        {
+            "title": "Mega Manectric in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-manectric-in-mega-raids-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Manectric"
+                ],
+                "shiny": [
+                    "Manectric",
+                    "Mega Manectric"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-04-01T06:00:00",
+            "end_time": "2026-04-07T22:00:00",
+            "description": "Mega Manectric will be in Mega Raids from April 1, 2026 at 6 am to April 7, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Regidrago in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/regidrago-in-5-star-raid-battles-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Regidrago"
+                ],
+                "shiny": [
+                    "Regidrago"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-04-01T06:00:00",
+            "end_time": "2026-04-07T22:00:00",
+            "description": "Regidrago will be in five-star raid battles from April 1, 2026 to April 7, 2026.\nThere will also be a Raid Hour featuring Regidrago from 6:00 pm to 7:00 pm local time on the following date:\n- April 1"
+        },
+        {
+            "title": "Kyogre in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/kyogre-in-5-star-raid-battles-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Kyogre"
+                ],
+                "shiny": [
+                    "Kyogre"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-04-08T06:00:00",
+            "end_time": "2026-04-14T22:00:00",
+            "description": "Kyogre will be in five-star raid battles from April 8, 2026 to April 14, 2026.\nThere will also be a Raid Hour featuring Kyogre from 6:00 pm to 7:00 pm local time on the following date:\n- April 8"
+        },
+        {
+            "title": "Mega Aerodactyl in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-aerodactyl-in-mega-raids-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Aerodactyl"
+                ],
+                "shiny": [
+                    "Aerodactyl",
+                    "Mega Aerodactyl"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-04-08T06:00:00",
+            "end_time": "2026-04-14T22:00:00",
+            "description": "Mega Aerodactyl will be in Mega Raids from April 8, 2026 at 6 am to April 14, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Groudon in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/groudon-in-5-star-raid-battles-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Groudon"
+                ],
+                "shiny": [
+                    "Groudon"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-04-15T06:00:00",
+            "end_time": "2026-04-21T22:00:00",
+            "description": "There will also be a Raid Hour featuring Groudon from 6:00 pm to 7:00 pm local time on the following date:\n- April 15"
+        },
+        {
+            "title": "Mega Alakazam in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-alakazam-in-mega-raids-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Alakazam"
+                ],
+                "shiny": [
+                    "Alakazam",
+                    "Mega Alakazam"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-04-15T06:00:00",
+            "end_time": "2026-04-21T22:00:00",
+            "description": "Mega Alakazam will be in Mega Raids from April 15, 2026 at 6 am to April 21, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Mega Sharpedo in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-sharpedo-in-mega-raids-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Sharpedo"
+                ],
+                "shiny": [
+                    "Mega Sharpedo",
+                    "Sharpedo"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-04-22T06:00:00",
+            "end_time": "2026-04-28T22:00:00",
+            "description": "Mega Sharpedo will be in Mega Raids from April 22, 2026 at 6 am to April 28, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Tapu Koko in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/tapu-koko-in-5-star-raid-battles-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Tapu Koko"
+                ],
+                "shiny": [
+                    "Tapu Koko"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-04-22T06:00:00",
+            "end_time": "2026-04-28T22:00:00",
+            "description": "There will also be a Raid Hour featuring Tapu Koko from 6:00 pm to 7:00 pm local time on the following date:\n- April 22"
+        },
+        {
+            "title": "Shadow Latios in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-latios-in-shadow-raids-april-may-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Latios"
+                ],
+                "shiny": [
+                    "Latios"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-04-01T06:00:00",
+            "end_time": "2026-05-05T22:00:00",
+            "description": "Shadow Latios will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Latios! Shadow Latios will appear in five-star Shadow Raids every weekend from April 1 to May 5."
+        },
+        {
+            "title": "Mega Banette in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-banette-in-mega-raids-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Banette"
+                ],
+                "shiny": [
+                    "Banette",
+                    "Mega Banette"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-04-29T06:00:00",
+            "end_time": "2026-05-05T22:00:00",
+            "description": "Mega Banette will be in Mega Raids from April 29, 2026 at 6 am to May 5, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Tapu Lele in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/tapu-lele-in-5-star-raid-battles-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Tapu Lele"
+                ],
+                "shiny": [
+                    "Tapu Lele"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-04-29T06:00:00",
+            "end_time": "2026-05-05T22:00:00",
+            "description": "There will also be a Raid Hour featuring Tapu Lele from 6:00 pm to 7:00 pm local time on the following date:\n- April 29"
         }
     ],
     "Community Day": [
