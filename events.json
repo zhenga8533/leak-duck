@@ -12,77 +12,6 @@
             "description": "All Trainers can redeem the following code to receive Fairy type Timed Research available starting with Pokémon GO Tour in person events.\nCode: TH4NKY0UF41RYMUCH Quick Redeem: https://store.pokemongo.com/offer-redemption?passcode=TH4NKY0UF41RYMUCH\nIt is not clear when this promo code will expire. The dates shown on this page are for the Timed Research."
         }
     ],
-    "Raid Day": [
-        {
-            "title": "Fashion Raid Day",
-            "article_url": "https://leekduck.com/events/fashion-raid-day-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-04-fashion-raid-day-2026/fashion-week-2026.jpg",
-            "category": "Raid Day",
-            "details": {
-                "bonuses": [
-                    "2× Stardust from Raid Battles",
-                    "50% more XP from Raid Battles",
-                    "Event-themed Pokémon appearing more frequently in raids are also more likely to be Shiny",
-                    "Increased chance to get Rare Candy XL from Raid Battles",
-                    "Receive up to six free Raid Passes from spinning Gym Photo Discs",
-                    "The Remote Raid Pass limit will increase to 20 from Friday, April 3, at 5:00 p.m. to Saturday, April 4, 2026, at 8:00 p.m. PDT",
-                    "Up to 14 Raid Passes from spinning Gym Photo Discs"
-                ],
-                "raids": [
-                    "Fashionable Absol",
-                    "Fashionable Blitzle",
-                    "Fashionable Butterfree",
-                    "Fashionable Croagunk",
-                    "Fashionable Diglett",
-                    "Fashionable Dragonite",
-                    "Fashionable Kirlia",
-                    "Fashionable Minccino",
-                    "Fashionable Shinx",
-                    "Fashionable Sneasel",
-                    "Fashionable Wooper"
-                ],
-                "shiny": [
-                    "Fashionable Absol",
-                    "Fashionable Blitzle",
-                    "Fashionable Butterfree",
-                    "Fashionable Croagunk",
-                    "Fashionable Diglett",
-                    "Fashionable Dragonite",
-                    "Fashionable Kirlia",
-                    "Fashionable Minccino",
-                    "Fashionable Shinx",
-                    "Fashionable Sneasel",
-                    "Fashionable Wooper"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-04-04T14:00:00",
-            "end_time": "2026-04-04T17:00:00",
-            "description": "Strike your best pose during Fashion Raid Day, featuring costumed Pokémon! The Fashion Raid Day will take place on April 4, 2026 from 2 pm to 5 pm local time."
-        },
-        {
-            "title": "Shadow Raid Day",
-            "article_url": "https://leekduck.com/events/shadow-raid-day-may-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-05-02T14:00:00",
-            "end_time": "2026-05-02T17:00:00",
-            "description": "The Shadow Raid Day event will take place on May 2, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Raid Day",
-            "article_url": "https://leekduck.com/events/raid-day-may-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-05-23T14:00:00",
-            "end_time": "2026-05-23T17:00:00",
-            "description": "The Raid Day event will take place on May 23, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        }
-    ],
     "Event": [
         {
             "title": "A Shockingly Good Time",
@@ -734,6 +663,30 @@
             "start_time": "2026-04-25T14:00:00",
             "end_time": "2026-04-25T17:00:00",
             "description": "The Max Battle Day event will take place on April 25, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        }
+    ],
+    "Raid Day": [
+        {
+            "title": "Shadow Raid Day",
+            "article_url": "https://leekduck.com/events/shadow-raid-day-may-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-02T14:00:00",
+            "end_time": "2026-05-02T17:00:00",
+            "description": "The Shadow Raid Day event will take place on May 2, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Raid Day",
+            "article_url": "https://leekduck.com/events/raid-day-may-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-23T14:00:00",
+            "end_time": "2026-05-23T17:00:00",
+            "description": "The Raid Day event will take place on May 23, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
     "Team GO Rocket": [
