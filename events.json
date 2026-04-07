@@ -12,191 +12,6 @@
             "description": "All Trainers can redeem the following code to receive Fairy type Timed Research available starting with Pokémon GO Tour in person events.\nCode: TH4NKY0UF41RYMUCH Quick Redeem: https://store.pokemongo.com/offer-redemption?passcode=TH4NKY0UF41RYMUCH\nIt is not clear when this promo code will expire. The dates shown on this page are for the Timed Research."
         }
     ],
-    "Event": [
-        {
-            "title": "A Shockingly Good Time",
-            "article_url": "https://leekduck.com/events/a-shockingly-good-time-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-31-a-shockingly-good-time-2026/a-shockingly-good-time.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× Catch Candy",
-                    "2× Catch Stardust",
-                    "Incense activated during the event will last up to twice as long",
-                    "You'll have an increased chance of encountering Shiny Pikachu, Shiny Chinchou, and Shiny Dedenne!"
-                ],
-                "features": [
-                    "Mimikyu"
-                ],
-                "spawns": [
-                    "Chinchou",
-                    "Dedenne",
-                    "Joltik",
-                    "Magnemite",
-                    "Mareep",
-                    "Mimikyu",
-                    "Pawmi",
-                    "Pikachu"
-                ],
-                "shiny": [
-                    "Chinchou",
-                    "Dedenne",
-                    "Pikachu"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-03-31T10:00:00",
-            "end_time": "2026-04-06T20:00:00",
-            "description": "A Shockingly Good Time awaits with Electric-type Pokémon and more!"
-        },
-        {
-            "title": "Replay: Riolu Hatch Day",
-            "article_url": "https://leekduck.com/events/replay-riolu-hatch-day-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-18-replay-riolu-hatch-day-2026/replay-riolu-hatch-day-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "1/2 Egg Hatch Distance",
-                    "1/4 Egg Hatch Distance",
-                    "2× Candy from hatching Eggs",
-                    "2× XP from hatching Eggs",
-                    "Increased chance of hatching Shiny Riolu",
-                    "Increased chance of receiving 2 km Eggs from spinning PokéStops"
-                ],
-                "features": [
-                    "Riolu"
-                ],
-                "shiny": [
-                    "Lucario",
-                    "Riolu"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-04-18T11:00:00",
-            "end_time": "2026-04-18T17:00:00",
-            "description": "Aura you ready for Replay: Riolu Hatch Day? Riolu will hatch much more frequently from 2 km Eggs, and you’ll have an increased chance of hatching Shiny Riolu!\nThe Replay: Riolu Hatch Day event will take place on April 18, 2026 from 11 am to 5 pm."
-        },
-        {
-            "title": "Sustainability Week 2026",
-            "article_url": "https://leekduck.com/events/sustainability-week-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-14-sustainability-week-2026/sustainability-week-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
-                    "2× XP for spinning a PokéStop",
-                    "Different Pokémon will appear more frequently on Routes during the event",
-                    "GO Pass Deluxe: 3× XP for spinning a PokéStop",
-                    "Increased chance to encounter Shiny Lapras, Shiny Togetic, Shiny Castform, and Shiny Trubbish",
-                    "Increased chance to hatch Shiny Galarian Corsola wearing pink sunglasses and Shiny Castform"
-                ],
-                "features": [
-                    "Galarian Corsola wearing pink sunglasses",
-                    "Sandaconda",
-                    "Silicobra"
-                ],
-                "spawns": [
-                    "Castform",
-                    "Galarian Corsola wearing pink sunglasses",
-                    "Lapras",
-                    "Seedot",
-                    "Silicobra",
-                    "Toedscool",
-                    "Togetic",
-                    "Trubbish",
-                    "Wiglett"
-                ],
-                "eggs": [
-                    "Castform",
-                    "Galarian Corsola wearing pink sunglasses",
-                    "Lapras",
-                    "Togepi",
-                    "Trubbish"
-                ],
-                "shiny": [
-                    "Castform",
-                    "Galarian Corsola wearing pink sunglasses",
-                    "Lapras",
-                    "Toedscool",
-                    "Toedscruel",
-                    "Togetic",
-                    "Trubbish"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-04-14T10:00:00",
-            "end_time": "2026-04-20T20:00:00",
-            "description": "Get out and explore Routes during Pokémon GO’s Sustainability Week event!\nThe Sustainability Week 2026 event will take place from April 14, 2026 at 10 am to April 20, 2026 at 8 pm."
-        },
-        {
-            "title": "Steeled Resolve",
-            "article_url": "https://leekduck.com/events/steeled-resolve-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-04-28T10:00:00",
-            "end_time": "2026-05-04T20:00:00",
-            "description": "The Steeled Resolve event will take place from April 28, 2026 at 10 am to May 4, 2026 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Example Event Template (Auto ToC Demo)",
-            "article_url": "https://leekduck.com/events/example_event/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/example_event/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-12-01T10:00:00",
-            "end_time": "2026-12-02T20:00:00",
-            "description": "This file demonstrates the reusable event pattern:\n- Keep all section if blocks in the template body.\n- Set event_toc_auto: true.\n- Fill data lists only for sections you want to show.\n- Leave unused section data empty to auto-hide both section and ToC item."
-        }
-    ],
-    "Max Mondays": [
-        {
-            "title": "Dynamax Trapinch during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-04-06/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-04-06T06:00:00",
-            "end_time": "2026-04-06T21:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Memories in Motion. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn April 6, 2026, the featured Dynamax Pokémon is Trapinch.\n- Trapinch"
-        },
-        {
-            "title": "Dynamax Drilbur during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-04-13/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-04-13T06:00:00",
-            "end_time": "2026-04-13T21:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Memories in Motion. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn April 13, 2026, the featured Dynamax Pokémon is Drilbur.\n- Drilbur"
-        },
-        {
-            "title": "Dynamax Regirock during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-04-20/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-04-20T06:00:00",
-            "end_time": "2026-04-20T21:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Memories in Motion. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn April 20, 2026, the featured Dynamax Pokémon is Regirock.\n- Regirock"
-        },
-        {
-            "title": "Dynamax Shuckle during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-04-27/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-04-27T06:00:00",
-            "end_time": "2026-04-27T21:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Memories in Motion. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn April 27, 2026, the featured Dynamax Pokémon is Shuckle.\n- Shuckle"
-        }
-    ],
     "GO Pass": [
         {
             "title": "GO Pass: March",
@@ -385,7 +200,7 @@
         {
             "title": "Kyogre in 5-star Raid Battles",
             "article_url": "https://leekduck.com/events/kyogre-in-5-star-raid-battles-april-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/kyogre.jpg",
             "category": "Raid Battles",
             "details": {
                 "raids": [
@@ -422,7 +237,7 @@
         {
             "title": "Groudon in 5-star Raid Battles",
             "article_url": "https://leekduck.com/events/groudon-in-5-star-raid-battles-april-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/groudon.jpg",
             "category": "Raid Battles",
             "details": {
                 "raids": [
@@ -650,6 +465,144 @@
             "start_time": "2026-05-16T14:00:00",
             "end_time": "2026-05-16T17:00:00",
             "description": "The May Community Day Classic event will take place on May 16, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        }
+    ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Drilbur during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-04-13/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-04-13T06:00:00",
+            "end_time": "2026-04-13T21:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Memories in Motion. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn April 13, 2026, the featured Dynamax Pokémon is Drilbur.\n- Drilbur"
+        },
+        {
+            "title": "Dynamax Regirock during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-04-20/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-04-20T06:00:00",
+            "end_time": "2026-04-20T21:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Memories in Motion. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn April 20, 2026, the featured Dynamax Pokémon is Regirock.\n- Regirock"
+        },
+        {
+            "title": "Dynamax Shuckle during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-04-27/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-04-27T06:00:00",
+            "end_time": "2026-04-27T21:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Memories in Motion. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn April 27, 2026, the featured Dynamax Pokémon is Shuckle.\n- Shuckle"
+        }
+    ],
+    "Event": [
+        {
+            "title": "Replay: Riolu Hatch Day",
+            "article_url": "https://leekduck.com/events/replay-riolu-hatch-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-18-replay-riolu-hatch-day-2026/replay-riolu-hatch-day-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "1/2 Egg Hatch Distance",
+                    "1/4 Egg Hatch Distance",
+                    "2× Candy from hatching Eggs",
+                    "2× XP from hatching Eggs",
+                    "Increased chance of hatching Shiny Riolu",
+                    "Increased chance of receiving 2 km Eggs from spinning PokéStops"
+                ],
+                "features": [
+                    "Riolu"
+                ],
+                "shiny": [
+                    "Lucario",
+                    "Riolu"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-04-18T11:00:00",
+            "end_time": "2026-04-18T17:00:00",
+            "description": "Aura you ready for Replay: Riolu Hatch Day? Riolu will hatch much more frequently from 2 km Eggs, and you’ll have an increased chance of hatching Shiny Riolu!\nThe Replay: Riolu Hatch Day event will take place on April 18, 2026 from 11 am to 5 pm."
+        },
+        {
+            "title": "Sustainability Week 2026",
+            "article_url": "https://leekduck.com/events/sustainability-week-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-14-sustainability-week-2026/sustainability-week-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
+                    "2× XP for spinning a PokéStop",
+                    "Different Pokémon will appear more frequently on Routes during the event",
+                    "GO Pass Deluxe: 3× XP for spinning a PokéStop",
+                    "Increased chance to encounter Shiny Lapras, Shiny Togetic, Shiny Castform, and Shiny Trubbish",
+                    "Increased chance to hatch Shiny Galarian Corsola wearing pink sunglasses and Shiny Castform"
+                ],
+                "features": [
+                    "Galarian Corsola wearing pink sunglasses",
+                    "Sandaconda",
+                    "Silicobra"
+                ],
+                "spawns": [
+                    "Castform",
+                    "Galarian Corsola wearing pink sunglasses",
+                    "Lapras",
+                    "Seedot",
+                    "Silicobra",
+                    "Toedscool",
+                    "Togetic",
+                    "Trubbish",
+                    "Wiglett"
+                ],
+                "eggs": [
+                    "Castform",
+                    "Galarian Corsola wearing pink sunglasses",
+                    "Lapras",
+                    "Togepi",
+                    "Trubbish"
+                ],
+                "shiny": [
+                    "Castform",
+                    "Galarian Corsola wearing pink sunglasses",
+                    "Lapras",
+                    "Toedscool",
+                    "Toedscruel",
+                    "Togetic",
+                    "Trubbish"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-04-14T10:00:00",
+            "end_time": "2026-04-20T20:00:00",
+            "description": "Get out and explore Routes during Pokémon GO’s Sustainability Week event!\nThe Sustainability Week 2026 event will take place from April 14, 2026 at 10 am to April 20, 2026 at 8 pm."
+        },
+        {
+            "title": "Steeled Resolve",
+            "article_url": "https://leekduck.com/events/steeled-resolve-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-04-28T10:00:00",
+            "end_time": "2026-05-04T20:00:00",
+            "description": "The Steeled Resolve event will take place from April 28, 2026 at 10 am to May 4, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Example Event Template (Auto ToC Demo)",
+            "article_url": "https://leekduck.com/events/example_event/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/example_event/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-12-01T10:00:00",
+            "end_time": "2026-12-02T20:00:00",
+            "description": "This file demonstrates the reusable event pattern:\n- Keep all section if blocks in the template body.\n- Set event_toc_auto: true.\n- Fill data lists only for sections you want to show.\n- Leave unused section data empty to auto-hide both section and ToC item."
         }
     ],
     "Max Battles": [

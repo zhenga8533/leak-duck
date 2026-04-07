@@ -1624,6 +1624,42 @@
             "start_time": "2026-03-17T10:00:00",
             "end_time": "2026-03-23T20:00:00",
             "description": "The Bug Out 2026 event will take place from March 17, 2026 at 10 am to March 23, 2026 at 8 pm local time."
+        },
+        {
+            "title": "A Shockingly Good Time",
+            "article_url": "https://leekduck.com/events/a-shockingly-good-time-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-31-a-shockingly-good-time-2026/a-shockingly-good-time.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Catch Candy",
+                    "2× Catch Stardust",
+                    "Incense activated during the event will last up to twice as long",
+                    "You'll have an increased chance of encountering Shiny Pikachu, Shiny Chinchou, and Shiny Dedenne!"
+                ],
+                "features": [
+                    "Mimikyu"
+                ],
+                "spawns": [
+                    "Chinchou",
+                    "Dedenne",
+                    "Joltik",
+                    "Magnemite",
+                    "Mareep",
+                    "Mimikyu",
+                    "Pawmi",
+                    "Pikachu"
+                ],
+                "shiny": [
+                    "Chinchou",
+                    "Dedenne",
+                    "Pikachu"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-31T10:00:00",
+            "end_time": "2026-04-06T20:00:00",
+            "description": "A Shockingly Good Time awaits with Electric-type Pokémon and more!"
         }
     ],
     "PokéStop Showcase": [
@@ -2013,6 +2049,17 @@
             "start_time": "2026-03-30T06:00:00",
             "end_time": "2026-03-30T21:00:00",
             "description": "These Dynamax Pokémon may appear in Max Battles throughout Precious Paths. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn March 30, 2026, the featured Dynamax Pokémon is Woobat.\n- Woobat"
+        },
+        {
+            "title": "Dynamax Trapinch during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-04-06/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-04-06T06:00:00",
+            "end_time": "2026-04-06T21:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout Memories in Motion. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn April 6, 2026, the featured Dynamax Pokémon is Trapinch.\n- Trapinch"
         }
     ],
     "GO Pass": [
