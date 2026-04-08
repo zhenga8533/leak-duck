@@ -480,6 +480,43 @@
             "start_time": "2026-03-04T06:00:00",
             "end_time": "2026-03-31T22:00:00",
             "description": "Shadow Latias will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Latias!"
+        },
+        {
+            "title": "Mega Manectric in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-manectric-in-mega-raids-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Manectric"
+                ],
+                "shiny": [
+                    "Manectric",
+                    "Mega Manectric"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-04-01T06:00:00",
+            "end_time": "2026-04-07T22:00:00",
+            "description": "Mega Manectric will be in Mega Raids from April 1, 2026 at 6 am to April 7, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Regidrago in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/regidrago-in-5-star-raid-battles-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Regidrago"
+                ],
+                "shiny": [
+                    "Regidrago"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-04-01T06:00:00",
+            "end_time": "2026-04-07T22:00:00",
+            "description": "Regidrago will be in five-star raid battles from April 1, 2026 to April 7, 2026.\nThere will also be a Raid Hour featuring Regidrago from 6:00 pm to 7:00 pm local time on the following date:\n- April 1"
         }
     ],
     "Community Day": [
