@@ -12,84 +12,6 @@
             "description": "All Trainers can redeem the following code to receive Fairy type Timed Research available starting with Pokémon GO Tour in person events.\nCode: TH4NKY0UF41RYMUCH Quick Redeem: https://store.pokemongo.com/offer-redemption?passcode=TH4NKY0UF41RYMUCH\nIt is not clear when this promo code will expire. The dates shown on this page are for the Timed Research."
         }
     ],
-    "Community Day": [
-        {
-            "title": "Tinkatink Community Day",
-            "article_url": "https://leekduck.com/events/april-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-11-april-communityday2026/tinkatink-cd-april-2026-key.jpg",
-            "category": "Community Day",
-            "details": {
-                "bonuses": [
-                    "1-hour Lures*",
-                    "2x Catch Candy",
-                    "2x Chance to receive Candy XL from catching Pokémon",
-                    "3-hour Incense",
-                    "3x Catch Stardust",
-                    "Increased Spawns",
-                    "One additional Special Trade can be made for a maximum of two for the day*",
-                    "Trades made will require 50% less Stardust*"
-                ],
-                "features": [
-                    "Tinkatink"
-                ],
-                "spawns": [
-                    "Tinkatink"
-                ],
-                "shiny": [
-                    "Tinkatink",
-                    "Tinkaton",
-                    "Tinkatuff"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-04-11T14:00:00",
-            "end_time": "2026-04-11T17:00:00",
-            "description": "Tinkatink, the Metal Hammer Pokémon, will be featured during April Community Day!"
-        },
-        {
-            "title": "Lechonk Community Day",
-            "article_url": "https://leekduck.com/events/may-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-09-may-communityday2026/lechonk-may-cd-placeholder.jpg",
-            "category": "Community Day",
-            "details": {
-                "bonuses": [
-                    "1-hour Lures*",
-                    "2x Catch Candy",
-                    "2x Chance to receive Candy XL from catching Pokemon",
-                    "3-hour Incense",
-                    "???",
-                    "Increased Spawns",
-                    "One additional Special Trade can be made for a maximum of two for the day*",
-                    "Trades made will require 50% less Stardust*"
-                ],
-                "features": [
-                    "Lechonk"
-                ],
-                "spawns": [
-                    "Lechonk"
-                ],
-                "shiny": [
-                    "Lechonk",
-                    "Oinkologne"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-05-09T14:00:00",
-            "end_time": "2026-05-09T17:00:00",
-            "description": "Lechonk, the Hog Pokémon, will be featured during May Community Day!"
-        },
-        {
-            "title": "May Community Day Classic",
-            "article_url": "https://leekduck.com/events/may-communitydayclassic2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
-            "category": "Community Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-05-16T14:00:00",
-            "end_time": "2026-05-16T17:00:00",
-            "description": "The May Community Day Classic event will take place on May 16, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        }
-    ],
     "Max Mondays": [
         {
             "title": "Dynamax Drilbur during Max Monday",
@@ -690,6 +612,51 @@
             "start_time": "2026-04-07T10:00:00",
             "end_time": "2026-05-05T10:00:00",
             "description": "Rank up to earn rewards including an encounter with Entei, a Lucky Trinket (GO Pass Deluxe), and more!\nFrom Tuesday, April 7, at 10:00 a.m. to Tuesday, May 5, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for April will be available in Pokémon GO!"
+        }
+    ],
+    "Community Day": [
+        {
+            "title": "Lechonk Community Day",
+            "article_url": "https://leekduck.com/events/may-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-09-may-communityday2026/lechonk-may-cd-placeholder.jpg",
+            "category": "Community Day",
+            "details": {
+                "bonuses": [
+                    "1-hour Lures*",
+                    "2x Catch Candy",
+                    "2x Chance to receive Candy XL from catching Pokemon",
+                    "3-hour Incense",
+                    "???",
+                    "Increased Spawns",
+                    "One additional Special Trade can be made for a maximum of two for the day*",
+                    "Trades made will require 50% less Stardust*"
+                ],
+                "features": [
+                    "Lechonk"
+                ],
+                "spawns": [
+                    "Lechonk"
+                ],
+                "shiny": [
+                    "Lechonk",
+                    "Oinkologne"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-09T14:00:00",
+            "end_time": "2026-05-09T17:00:00",
+            "description": "Lechonk, the Hog Pokémon, will be featured during May Community Day!"
+        },
+        {
+            "title": "May Community Day Classic",
+            "article_url": "https://leekduck.com/events/may-communitydayclassic2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "category": "Community Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-16T14:00:00",
+            "end_time": "2026-05-16T17:00:00",
+            "description": "The May Community Day Classic event will take place on May 16, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
     "Pokémon GO Fest": [

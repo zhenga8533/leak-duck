@@ -643,6 +643,39 @@
             "start_time": "2026-03-14T14:00:00",
             "end_time": "2026-03-14T17:00:00",
             "description": "Scorbunny, the Rabbit Pokémon, will be featured during March Community Day!"
+        },
+        {
+            "title": "Tinkatink Community Day",
+            "article_url": "https://leekduck.com/events/april-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-11-april-communityday2026/tinkatink-cd-april-2026-key.jpg",
+            "category": "Community Day",
+            "details": {
+                "bonuses": [
+                    "1-hour Lures*",
+                    "2x Catch Candy",
+                    "2x Chance to receive Candy XL from catching Pokémon",
+                    "3-hour Incense",
+                    "3x Catch Stardust",
+                    "Increased Spawns",
+                    "One additional Special Trade can be made for a maximum of two for the day*",
+                    "Trades made will require 50% less Stardust*"
+                ],
+                "features": [
+                    "Tinkatink"
+                ],
+                "spawns": [
+                    "Tinkatink"
+                ],
+                "shiny": [
+                    "Tinkatink",
+                    "Tinkaton",
+                    "Tinkatuff"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-04-11T14:00:00",
+            "end_time": "2026-04-11T17:00:00",
+            "description": "Tinkatink, the Metal Hammer Pokémon, will be featured during April Community Day!"
         }
     ],
     "Event": [
