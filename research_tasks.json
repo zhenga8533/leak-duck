@@ -5,9 +5,9 @@
             "rewards": [
                 {
                     "type": "item",
-                    "name": "Ultra Ball",
-                    "quantity": 3,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Ultra Ball.png"
+                    "name": "Poké Ball",
+                    "quantity": 10,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Poke Ball.png"
                 },
                 {
                     "type": "item",
@@ -17,9 +17,9 @@
                 },
                 {
                     "type": "item",
-                    "name": "Poké Ball",
-                    "quantity": 10,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Poke Ball.png"
+                    "name": "Ultra Ball",
+                    "quantity": 3,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Ultra Ball.png"
                 }
             ]
         },
@@ -84,6 +84,18 @@
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm568.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Hatch 2 Eggs",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Galarian Corsola wearing pink sunglasses",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm222.fSPRING_2026.icon.png"
                 }
             ]
         }
