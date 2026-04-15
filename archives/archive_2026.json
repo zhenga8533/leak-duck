@@ -517,6 +517,43 @@
             "start_time": "2026-04-01T06:00:00",
             "end_time": "2026-04-07T22:00:00",
             "description": "Regidrago will be in five-star raid battles from April 1, 2026 to April 7, 2026.\nThere will also be a Raid Hour featuring Regidrago from 6:00 pm to 7:00 pm local time on the following date:\n- April 1"
+        },
+        {
+            "title": "Kyogre in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/kyogre-in-5-star-raid-battles-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/kyogre.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Kyogre"
+                ],
+                "shiny": [
+                    "Kyogre"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-04-08T06:00:00",
+            "end_time": "2026-04-14T22:00:00",
+            "description": "Kyogre will be in five-star raid battles from April 8, 2026 to April 14, 2026.\nThere will also be a Raid Hour featuring Kyogre from 6:00 pm to 7:00 pm local time on the following date:\n- April 8"
+        },
+        {
+            "title": "Mega Aerodactyl in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-aerodactyl-in-mega-raids-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Aerodactyl"
+                ],
+                "shiny": [
+                    "Aerodactyl",
+                    "Mega Aerodactyl"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-04-08T06:00:00",
+            "end_time": "2026-04-14T22:00:00",
+            "description": "Mega Aerodactyl will be in Mega Raids from April 8, 2026 at 6 am to April 14, 2026 at 10 pm local time."
         }
     ],
     "Community Day": [
