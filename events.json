@@ -146,6 +146,17 @@
             "description": "Rescue Shadow Incarnate Forme Landorus and more during Steeled Resolve: Taken Over!"
         },
         {
+            "title": "Spring Marathon",
+            "article_url": "https://leekduck.com/events/spring-marathon-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-12T10:00:00",
+            "end_time": "2026-05-18T20:00:00",
+            "description": "The Spring Marathon event will take place from May 12, 2026 at 10 am to May 18, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
             "title": "Example Event Template (Auto ToC Demo)",
             "article_url": "https://leekduck.com/events/example_event/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/example_event/events-default-img.jpg",
@@ -179,6 +190,50 @@
             "start_time": "2026-04-27T06:00:00",
             "end_time": "2026-04-27T21:00:00",
             "description": "These Dynamax Pokémon may appear in Max Battles throughout Memories in Motion. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn April 27, 2026, the featured Dynamax Pokémon is Shuckle.\n- Shuckle"
+        },
+        {
+            "title": "Dynamax Cottonee during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-05-04/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-04T06:00:00",
+            "end_time": "2026-05-04T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn May 4, 2026, the featured Dynamax Pokemon is Cottonee.\n- Cottonee"
+        },
+        {
+            "title": "Dynamax Growlithe during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-05-11/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-11T06:00:00",
+            "end_time": "2026-05-11T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn May 11, 2026, the featured Dynamax Pokemon is Growlithe.\n- Growlithe"
+        },
+        {
+            "title": "Dynamax Registeel during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-05-18/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-18T06:00:00",
+            "end_time": "2026-05-18T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn May 18, 2026, the featured Dynamax Pokemon is Registeel.\n- Registeel"
+        },
+        {
+            "title": "Dynamax Combee during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-05-25/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-25T06:00:00",
+            "end_time": "2026-05-25T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn May 25, 2026, the featured Dynamax Pokemon is Combee.\n- Combee"
         }
     ],
     "GO Battle League": [
@@ -389,6 +444,176 @@
             "start_time": "2026-04-29T06:00:00",
             "end_time": "2026-05-05T22:00:00",
             "description": "Tapu Lele will be in five-star raid battles from April 29, 2026 to May 5, 2026.\nThere will also be a Raid Hour featuring Tapu Lele from 6:00 pm to 7:00 pm local time on the following date:\n- April 29"
+        },
+        {
+            "title": "Mega Camerupt in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-camerupt-in-mega-raids-may-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Camerupt"
+                ],
+                "shiny": [
+                    "Camerupt",
+                    "Mega Camerupt"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-06T06:00:00",
+            "end_time": "2026-05-13T06:00:00",
+            "description": "Mega Camerupt will be in Mega Raids from May 6, 2026 at 6 am to May 13, 2026 at 6 am local time."
+        },
+        {
+            "title": "Nihilego in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/nihilego-in-5-star-raid-battles-may-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Nihilego"
+                ],
+                "shiny": [
+                    "Nihilego"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-06T06:00:00",
+            "end_time": "2026-05-13T06:00:00",
+            "description": "Nihilego will be in five-star raid battles from May 6, 2026 to May 13, 2026.\nThere will also be a Raid Hour featuring Nihilego from 6:00 pm to 7:00 pm local time on the following date:\n- May 6"
+        },
+        {
+            "title": "Buzzwole, Pheromosa, and Xurkitree in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/buzzwole-pheromosa-xurkitree-in-5-star-raid-battles-may-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Buzzwole",
+                    "Pheromosa",
+                    "Xurkitree"
+                ],
+                "shiny": [
+                    "Buzzwole",
+                    "Pheromosa",
+                    "Xurkitree"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-13T06:00:00",
+            "end_time": "2026-05-20T06:00:00",
+            "description": "Buzzwole, Pheromosa, and Xurkitree will be in five-star raid battles from May 13, 2026 to May 20, 2026.\n- Buzzwole will appear in the Americas and Greenland.\n- Pheromosa will appear in Europe, the Middle East, Africa, and India.\n- Xurkitree will appear in the Asia-Pacific region.\nThere will also be a Raid Hour featuring these Pokemon from 6:00 pm to 7:00 pm local time on the following date:\n- May 13\nThese Pokemon will remain in their respective regions."
+        },
+        {
+            "title": "Mega Glalie in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-glalie-in-mega-raids-may-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Glalie"
+                ],
+                "shiny": [
+                    "Glalie",
+                    "Mega Glalie"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-13T06:00:00",
+            "end_time": "2026-05-20T06:00:00",
+            "description": "Mega Glalie will be in Mega Raids from May 13, 2026 at 6 am to May 20, 2026 at 6 am local time."
+        },
+        {
+            "title": "Mega Altaria in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-altaria-in-mega-raids-may-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Altaria"
+                ],
+                "shiny": [
+                    "Altaria",
+                    "Mega Altaria"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-20T06:00:00",
+            "end_time": "2026-05-27T06:00:00",
+            "description": "Mega Altaria will be in Mega Raids from May 20, 2026 at 6 am to May 27, 2026 at 6 am local time."
+        },
+        {
+            "title": "Tapu Bulu in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/tapu-bulu-in-5-star-raid-battles-may-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Tapu Bulu"
+                ],
+                "shiny": [
+                    "Tapu Bulu"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-20T06:00:00",
+            "end_time": "2026-05-27T06:00:00",
+            "description": "Tapu Bulu will be in five-star raid battles from May 20, 2026 to May 27, 2026.\nThere will also be a Raid Hour featuring Tapu Bulu from 6:00 pm to 7:00 pm local time on the following date:\n- May 20"
+        },
+        {
+            "title": "Shadow Cresselia in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-cresselia-in-shadow-raids-may-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Cresselia"
+                ],
+                "shiny": [
+                    "Cresselia"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-06T06:00:00",
+            "end_time": "2026-06-03T06:00:00",
+            "description": "Shadow Cresselia will appear in Pokemon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Cresselia! Shadow Cresselia will appear in five-star Shadow Raids every weekend from May 6 to June 2."
+        },
+        {
+            "title": "Mega Medicham in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-medicham-in-mega-raids-may-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Medicham"
+                ],
+                "shiny": [
+                    "Medicham",
+                    "Mega Medicham"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-27T06:00:00",
+            "end_time": "2026-06-03T06:00:00",
+            "description": "Mega Medicham will be in Mega Raids from May 27, 2026 at 6 am to June 3, 2026 at 6 am local time."
+        },
+        {
+            "title": "Tapu Fini in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/tapu-fini-in-5-star-raid-battles-may-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Tapu Fini"
+                ],
+                "shiny": [
+                    "Tapu Fini"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-27T06:00:00",
+            "end_time": "2026-06-03T06:00:00",
+            "description": "Tapu Fini will be in five-star raid battles from May 27, 2026 to June 3, 2026.\nThere will also be a Raid Hour featuring Tapu Fini from 6:00 pm to 7:00 pm local time on the following date:\n- May 27"
         }
     ],
     "Raid Hour": [
@@ -413,6 +638,50 @@
             "start_time": "2026-04-29T18:00:00",
             "end_time": "2026-04-29T19:00:00",
             "description": "A Raid Hour featuring Tapu Lele is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Nihilego Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20260506/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-06T18:00:00",
+            "end_time": "2026-05-06T19:00:00",
+            "description": "A Raid Hour featuring Nihilego is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Buzzwole, Pheromosa, and Xurkitree Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20260513/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-13T18:00:00",
+            "end_time": "2026-05-13T19:00:00",
+            "description": "A Raid Hour featuring Buzzwole, Pheromosa, and Xurkitree is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Tapu Bulu Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20260520/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-20T18:00:00",
+            "end_time": "2026-05-20T19:00:00",
+            "description": "A Raid Hour featuring Tapu Bulu is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Tapu Fini Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20260527/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-27T18:00:00",
+            "end_time": "2026-05-27T19:00:00",
+            "description": "A Raid Hour featuring Tapu Fini is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
         }
     ],
     "Max Battles": [
