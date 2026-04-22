@@ -554,6 +554,43 @@
             "start_time": "2026-04-08T06:00:00",
             "end_time": "2026-04-14T22:00:00",
             "description": "Mega Aerodactyl will be in Mega Raids from April 8, 2026 at 6 am to April 14, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Groudon in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/groudon-in-5-star-raid-battles-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/groudon.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Groudon"
+                ],
+                "shiny": [
+                    "Groudon"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-04-15T06:00:00",
+            "end_time": "2026-04-21T22:00:00",
+            "description": "Groudon will be in five-star raid battles from April 15, 2026 to April 21, 2026.\nThere will also be a Raid Hour featuring Groudon from 6:00 pm to 7:00 pm local time on the following date:\n- April 15"
+        },
+        {
+            "title": "Mega Alakazam in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-alakazam-in-mega-raids-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Alakazam"
+                ],
+                "shiny": [
+                    "Alakazam",
+                    "Mega Alakazam"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-04-15T06:00:00",
+            "end_time": "2026-04-21T22:00:00",
+            "description": "Mega Alakazam will be in Mega Raids from April 15, 2026 at 6 am to April 21, 2026 at 10 pm local time."
         }
     ],
     "Community Day": [
