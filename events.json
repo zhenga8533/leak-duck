@@ -723,6 +723,28 @@
             "start_time": "2026-04-07T10:00:00",
             "end_time": "2026-05-05T10:00:00",
             "description": "Rank up to earn rewards including an encounter with Entei, a Lucky Trinket (GO Pass Deluxe), and more!\nFrom Tuesday, April 7, at 10:00 a.m. to Tuesday, May 5, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for April will be available in Pokémon GO!"
+        },
+        {
+            "title": "GO Pass: May",
+            "article_url": "https://leekduck.com/events/go-pass-may-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-05-go-pass-may-2026/go-pass-may-2026.jpg",
+            "category": "GO Pass",
+            "details": {
+                "bonuses": [
+                    "2× Daily Adventure Incense duration",
+                    "Hold 10 more Gifts in your Item Bag",
+                    "Hold up to 20 more Gifts in your Item Bag",
+                    "Increased Stardust and XP from hatching Eggs",
+                    "Open up to 40 Gifts per day",
+                    "Open up to 50 Gifts per day",
+                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-05T10:00:00",
+            "end_time": "2026-06-02T10:00:00",
+            "description": "Rank up to earn rewards including an encounter with Suicune, up to 1,400 total PokéCoins, and more!\nFrom Tuesday, May 5, at 10:00 a.m. to Tuesday, June 2, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for May will be available in Pokémon GO!"
         }
     ],
     "Community Day": [
