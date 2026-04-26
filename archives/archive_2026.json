@@ -3179,6 +3179,46 @@
             "start_time": "2026-03-28T14:00:00",
             "end_time": "2026-03-28T17:00:00",
             "description": "The Gigantamax Pikachu Max Battle Day event will take place on March 28, 2026 from 2 pm to 5 pm local time."
+        },
+        {
+            "title": "Replay: GO Bigger",
+            "article_url": "https://leekduck.com/events/replay-go-bigger-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-25-replay-go-bigger-2026/replay-go-bigger-2026.jpg",
+            "category": "Max Battles",
+            "details": {
+                "bonuses": [
+                    "1/4 Adventuring distance to receive Max Particles*",
+                    "2× Max Particles from exploring*",
+                    "2× XP from Max Battles",
+                    "8× Max Particles from Power Spots",
+                    "Additional Power Spots will be active",
+                    "All Power Spots will host Gigantamax Battles",
+                    "From April 24 at 5:00 p.m. to April 25 at 8:00 p.m. PDT (GMT −7), the daily Remote Raid limit will increase from 10 to 20",
+                    "Max Particle collection limit increased to 1,600",
+                    "Power Spots will refresh more frequently",
+                    "Up to three Special Trades for the day"
+                ],
+                "features": [
+                    "Gigantamax Blastoise",
+                    "Gigantamax Charizard",
+                    "Gigantamax Gengar",
+                    "Gigantamax Venusaur"
+                ],
+                "shiny": [
+                    "Blastoise",
+                    "Charizard",
+                    "Gengar",
+                    "Gigantamax Blastoise",
+                    "Gigantamax Charizard",
+                    "Gigantamax Gengar",
+                    "Gigantamax Venusaur",
+                    "Venusaur"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-04-25T14:00:00",
+            "end_time": "2026-04-25T17:00:00",
+            "description": "Giants of the Kanto region return to Max Battles during Replay: GO Bigger!"
         }
     ],
     "Research": [
