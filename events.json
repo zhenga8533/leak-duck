@@ -12,48 +12,6 @@
             "description": "All Trainers can redeem the following code to receive Fairy type Timed Research available starting with Pokémon GO Tour in person events.\nCode: TH4NKY0UF41RYMUCH Quick Redeem: https://store.pokemongo.com/offer-redemption?passcode=TH4NKY0UF41RYMUCH\nIt is not clear when this promo code will expire. The dates shown on this page are for the Timed Research."
         }
     ],
-    "Max Battles": [
-        {
-            "title": "Replay: GO Bigger",
-            "article_url": "https://leekduck.com/events/replay-go-bigger-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-25-replay-go-bigger-2026/replay-go-bigger-2026.jpg",
-            "category": "Max Battles",
-            "details": {
-                "bonuses": [
-                    "1/4 Adventuring distance to receive Max Particles*",
-                    "2× Max Particles from exploring*",
-                    "2× XP from Max Battles",
-                    "8× Max Particles from Power Spots",
-                    "Additional Power Spots will be active",
-                    "All Power Spots will host Gigantamax Battles",
-                    "From April 24 at 5:00 p.m. to April 25 at 8:00 p.m. PDT (GMT −7), the daily Remote Raid limit will increase from 10 to 20",
-                    "Max Particle collection limit increased to 1,600",
-                    "Power Spots will refresh more frequently",
-                    "Up to three Special Trades for the day"
-                ],
-                "features": [
-                    "Gigantamax Blastoise",
-                    "Gigantamax Charizard",
-                    "Gigantamax Gengar",
-                    "Gigantamax Venusaur"
-                ],
-                "shiny": [
-                    "Blastoise",
-                    "Charizard",
-                    "Gengar",
-                    "Gigantamax Blastoise",
-                    "Gigantamax Charizard",
-                    "Gigantamax Gengar",
-                    "Gigantamax Venusaur",
-                    "Venusaur"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-04-25T14:00:00",
-            "end_time": "2026-04-25T17:00:00",
-            "description": "Giants of the Kanto region return to Max Battles during Replay: GO Bigger!"
-        }
-    ],
     "Max Mondays": [
         {
             "title": "Dynamax Shuckle during Max Monday",
@@ -529,15 +487,34 @@
             "description": "Battle in the shadow of the Volcano Pokemon on Entei Shadow Raid Day!"
         },
         {
-            "title": "Raid Day",
-            "article_url": "https://leekduck.com/events/raid-day-may-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "title": "Falinks Super Mega Raid Day",
+            "article_url": "https://leekduck.com/events/falinks-super-mega-raid-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-23-falinks-super-mega-raid-day-2026/falinks-super-mega-raid-day-2026.jpg",
             "category": "Raid Day",
-            "details": {},
+            "details": {
+                "bonuses": [
+                    "An additional 5,000 Stardust from Super Mega Raid Battles",
+                    "An additional 5,000 XP from Super Mega Raid Battles",
+                    "Increased chance of encountering Shiny Falinks from Super Mega Raids",
+                    "Increased chance to get Rare Candy XL from Raid Battles",
+                    "Receive up to 14 free Raid Passes from spinning Gym Photo Discs",
+                    "Receive up to six free Raid Passes from spinning Gym Photo Discs",
+                    "Remote Raid Pass limit increased to 20 from Friday, May 22, at 5:00 p.m. to Saturday, May 23, 2026, at 8:00 p.m. PDT"
+                ],
+                "features": [
+                    "Mega Falinks"
+                ],
+                "raids": [
+                    "Mega Falinks"
+                ],
+                "shiny": [
+                    "Falinks"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-05-23T14:00:00",
             "end_time": "2026-05-23T17:00:00",
-            "description": "The Raid Day event will take place on May 23, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+            "description": "Fall in formation and ready your Link Charges for Falinks Super Mega Raid Day!"
         },
         {
             "title": "Raid Day",
@@ -564,24 +541,28 @@
     ],
     "Event": [
         {
-            "title": "Steeled Resolve",
+            "title": "Steeled Resolve 2026",
             "article_url": "https://leekduck.com/events/steeled-resolve-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-28-steeled-resolve-2026/steeled-resolve-2026.jpg",
             "category": "Event",
             "details": {
                 "bonuses": [
                     "2× Catch Candy",
-                    "Earn more Stardust from defeating Team GO Rocket Grunts",
-                    "Reduced wait time before opening the Mystery Box again during the event"
+                    "2× Stardust from Team GO Rocket battles",
+                    "Mystery Box cooldown reduced to 24 hours during the event"
                 ],
                 "features": [
                     "Orthworm"
                 ],
                 "spawns": [
                     "Aron",
+                    "Bronzor",
+                    "Drilbur",
                     "Ferroseed",
                     "Magnemite",
-                    "Pawniard"
+                    "Nosepass",
+                    "Pawniard",
+                    "Pineco"
                 ],
                 "raids": [
                     "Beldum",
@@ -598,7 +579,7 @@
             "is_local_time": true,
             "start_time": "2026-04-28T10:00:00",
             "end_time": "2026-05-04T20:00:00",
-            "description": "Steel yourselves for the return of Steeled Resolve with Meltan, Orthworm, and more!\nThe Steeled Resolve event will take place from April 28, 2026 at 10 am to May 4, 2026 at 8 pm."
+            "description": "Steel yourselves for the return of Steeled Resolve with Meltan, Orthworm, and more!\nThe Steeled Resolve 2026 event will take place from April 28, 2026 at 10 am to May 4, 2026 at 8 pm."
         },
         {
             "title": "Steeled Resolve: Taken Over",

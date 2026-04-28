@@ -1,4 +1,77 @@
 {
+    "Steeled Resolve 2026 Tasks": [
+        {
+            "task": "Catch 5 Steel-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Nosepass",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm299.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Bronzor",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm436.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Drilbur",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm529.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Use a Steel-type Charged Attack in a battle",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Beldum",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm374.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Shieldon",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm410.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Steel-type Pokémon 5 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Magnemite",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm81.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pineco",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm204.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Ferroseed",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm597.icon.png"
+                }
+            ]
+        }
+    ],
     "Catching Tasks": [
         {
             "task": "Catch 7 Pokémon",
