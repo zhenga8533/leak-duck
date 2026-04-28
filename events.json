@@ -12,63 +12,6 @@
             "description": "All Trainers can redeem the following code to receive Fairy type Timed Research available starting with Pokémon GO Tour in person events.\nCode: TH4NKY0UF41RYMUCH Quick Redeem: https://store.pokemongo.com/offer-redemption?passcode=TH4NKY0UF41RYMUCH\nIt is not clear when this promo code will expire. The dates shown on this page are for the Timed Research."
         }
     ],
-    "Max Mondays": [
-        {
-            "title": "Dynamax Shuckle during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-04-27/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-04-27T06:00:00",
-            "end_time": "2026-04-27T21:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout Memories in Motion. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn April 27, 2026, the featured Dynamax Pokémon is Shuckle.\n- Shuckle"
-        },
-        {
-            "title": "Dynamax Cottonee during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-05-04/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-05-04T06:00:00",
-            "end_time": "2026-05-04T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn May 4, 2026, the featured Dynamax Pokemon is Cottonee.\n- Cottonee"
-        },
-        {
-            "title": "Dynamax Growlithe during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-05-11/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-05-11T06:00:00",
-            "end_time": "2026-05-11T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn May 11, 2026, the featured Dynamax Pokemon is Growlithe.\n- Growlithe"
-        },
-        {
-            "title": "Dynamax Registeel during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-05-18/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-05-18T06:00:00",
-            "end_time": "2026-05-18T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn May 18, 2026, the featured Dynamax Pokemon is Registeel.\n- Registeel"
-        },
-        {
-            "title": "Dynamax Combee during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-05-25/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-05-25T06:00:00",
-            "end_time": "2026-05-25T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn May 25, 2026, the featured Dynamax Pokemon is Combee.\n- Combee"
-        }
-    ],
     "GO Battle League": [
         {
             "title": "Great League, Ultra League, and Master League | Memories in Motion",
@@ -680,6 +623,52 @@
             "start_time": "2026-12-01T10:00:00",
             "end_time": "2026-12-02T20:00:00",
             "description": "This file demonstrates the reusable event pattern:\n- Keep all section if blocks in the template body.\n- Set event_toc_auto: true.\n- Fill data lists only for sections you want to show.\n- Leave unused section data empty to auto-hide both section and ToC item."
+        }
+    ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Cottonee during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-05-04/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-04T06:00:00",
+            "end_time": "2026-05-04T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn May 4, 2026, the featured Dynamax Pokemon is Cottonee.\n- Cottonee"
+        },
+        {
+            "title": "Dynamax Growlithe during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-05-11/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-11T06:00:00",
+            "end_time": "2026-05-11T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn May 11, 2026, the featured Dynamax Pokemon is Growlithe.\n- Growlithe"
+        },
+        {
+            "title": "Dynamax Registeel during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-05-18/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-18T06:00:00",
+            "end_time": "2026-05-18T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn May 18, 2026, the featured Dynamax Pokemon is Registeel.\n- Registeel"
+        },
+        {
+            "title": "Dynamax Combee during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-05-25/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-25T06:00:00",
+            "end_time": "2026-05-25T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn May 25, 2026, the featured Dynamax Pokemon is Combee.\n- Combee"
         }
     ],
     "GO Pass": [
