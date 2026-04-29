@@ -839,6 +839,7 @@
                 "spawns": [
                     "Anorith",
                     "Beldum",
+                    "Caterpie wearing a Poké Ball hat",
                     "Comfey",
                     "Dhelmise",
                     "Galarian Mr. Mime",
@@ -900,6 +901,7 @@
                 "spawns": [
                     "Alolan Raichu",
                     "Bulbasaur",
+                    "Caterpie wearing a Poké Ball hat",
                     "Combee",
                     "Comfey",
                     "Dhelmise",
@@ -962,6 +964,7 @@
                     "Alolan Marowak",
                     "Alolan Meowth",
                     "Bagon",
+                    "Caterpie wearing a Poké Ball hat",
                     "Charcadet",
                     "Charmander",
                     "Comfey",
@@ -997,13 +1000,54 @@
         {
             "title": "Pokémon GO Fest 2026: Global",
             "article_url": "https://leekduck.com/events/pokemon-go-fest-2026-global/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-11-pokemon-go-fest-2026-global/pokemon-go-fest-2026-global.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-11-pokemon-go-fest-2026-global/pokemon-go-fest-2026-global.jpg?v2",
             "category": "Pokémon GO Fest",
-            "details": {},
+            "details": {
+                "bonuses": [
+                    "1/2 Stardust cost for all trades",
+                    "Branching Timed Research with a choice between Mega Mewtwo X or Mega Mewtwo Y",
+                    "Different Pokémon type-themed Field Research every hour",
+                    "Global Challenges to unlock additional bonuses and Ultra Unlock events",
+                    "Incense (excluding Daily Adventure Incense) will attract special Pokémon",
+                    "Increased chance of encountering Shiny Pokémon",
+                    "Lure Modules activated during the event will last for one hour",
+                    "Open up to 50 Gifts each day",
+                    "Party Play will be active for nine hours",
+                    "Special Research including an encounter with Zeraora",
+                    "Up to nine free Raid Passes per day by spinning Photo Discs at Gyms",
+                    "Up to six Special Trades each day"
+                ],
+                "spawns": [
+                    "Bouffalant",
+                    "Bulbasaur",
+                    "Charmander",
+                    "Pikachu wearing a Team Instinct hat",
+                    "Pikachu wearing a Team Mystic hat",
+                    "Pikachu wearing a Team Valor hat",
+                    "Squirtle",
+                    "Tropius"
+                ],
+                "raids": [
+                    "Mega Mewtwo X",
+                    "Mega Mewtwo Y"
+                ],
+                "shiny": [
+                    "Bouffalant",
+                    "Bulbasaur",
+                    "Charmander",
+                    "Mega Mewtwo X",
+                    "Mega Mewtwo Y",
+                    "Pikachu wearing a Team Instinct hat",
+                    "Pikachu wearing a Team Mystic hat",
+                    "Pikachu wearing a Team Valor hat",
+                    "Squirtle",
+                    "Tropius"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-07-11T10:00:00",
-            "end_time": "2026-07-12T18:00:00",
-            "description": "The Pokémon GO Fest 2026: Global event will take place from July 11, 2026 at 10 am to July 12, 2026 at 6 pm. Stay tuned for more details."
+            "end_time": "2026-07-12T19:00:00",
+            "description": "Join millions of Trainers across the globe for Pokémon GO Fest 2026: Global! This worldwide event takes place from July 11, 2026 at 10 am to July 12, 2026 at 7 pm local time.\nFor the first time, GO Fest: Global is free for all Trainers who log in during event weekend. Everyone can access the featured Special Research, event bonuses, and increased Shiny encounter opportunities at no cost."
         }
     ],
     "Season": [
