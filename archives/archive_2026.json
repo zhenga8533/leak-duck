@@ -2967,6 +2967,17 @@
             "start_time": "2026-04-22T18:00:00",
             "end_time": "2026-04-22T19:00:00",
             "description": "A Raid Hour featuring Tapu Koko is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Tapu Lele Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20260429/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-04-29T18:00:00",
+            "end_time": "2026-04-29T19:00:00",
+            "description": "A Raid Hour featuring Tapu Lele is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
         }
     ],
     "Raid Day": [
