@@ -103,6 +103,11 @@
                     "name": "Gigalith",
                     "shiny_available": false,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm526.icon.png"
+                },
+                {
+                    "name": "Slowbro",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm80.icon.png"
                 }
             ],
             "is_encounter": false
@@ -200,9 +205,9 @@
             "slot": 2,
             "pokemons": [
                 {
-                    "name": "Loudred",
+                    "name": "Teddiursa",
                     "shiny_available": false,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm294.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm216.icon.png"
                 },
                 {
                     "name": "Starly",
@@ -270,9 +275,9 @@
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm126.icon.png"
                 },
                 {
-                    "name": "Camerupt",
+                    "name": "Numel",
                     "shiny_available": true,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm323.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm322.icon.png"
                 },
                 {
                     "name": "Braixen",
@@ -330,9 +335,9 @@
             "slot": 2,
             "pokemons": [
                 {
-                    "name": "Sharpedo",
+                    "name": "Carvanha",
                     "shiny_available": true,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm319.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm318.icon.png"
                 },
                 {
                     "name": "Frogadier",
