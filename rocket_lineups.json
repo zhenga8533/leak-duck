@@ -138,6 +138,16 @@
                     "name": "Ferrothorn",
                     "shiny_available": false,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm598.icon.png"
+                },
+                {
+                    "name": "Blastoise",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm9.icon.png"
+                },
+                {
+                    "name": "Flygon",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm330.icon.png"
                 }
             ],
             "is_encounter": false
@@ -154,6 +164,11 @@
                     "name": "Steelix",
                     "shiny_available": false,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm208.icon.png"
+                },
+                {
+                    "name": "Milotic",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm350.icon.png"
                 }
             ],
             "is_encounter": false
@@ -490,9 +505,9 @@
             "slot": 2,
             "pokemons": [
                 {
-                    "name": "Ferrothorn",
+                    "name": "Phantump",
                     "shiny_available": true,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm598.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm708.icon.png"
                 },
                 {
                     "name": "Lileep",
@@ -1437,6 +1452,11 @@
                     "name": "Snorlax",
                     "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm143.icon.png"
+                },
+                {
+                    "name": "Lapras",
+                    "shiny_available": true,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm131.icon.png"
                 }
             ],
             "is_encounter": true
