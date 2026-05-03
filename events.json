@@ -12,87 +12,6 @@
             "description": "All Trainers can redeem the following code to receive Fairy type Timed Research available starting with Pokémon GO Tour in person events.\nCode: TH4NKY0UF41RYMUCH Quick Redeem: https://store.pokemongo.com/offer-redemption?passcode=TH4NKY0UF41RYMUCH\nIt is not clear when this promo code will expire. The dates shown on this page are for the Timed Research."
         }
     ],
-    "Raid Day": [
-        {
-            "title": "Shadow Entei Raid Day",
-            "article_url": "https://leekduck.com/events/shadow-entei-raid-day-may-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-02-shadow-entei-raid-day-may-2026/shadow-entei-raid-day.jpg",
-            "category": "Raid Day",
-            "details": {
-                "bonuses": [
-                    "2x Stardust from Raid Battles",
-                    "50% more XP from Raid Battles",
-                    "Eight additional Raid Passes from spinning Gym Photo Discs (for a daily total of 14)",
-                    "Increased chance of encountering Shiny Entei from Shadow Raids",
-                    "Increased chance to get Rare Candy XL from Raid Battles",
-                    "The Remote Raid limit will increase to 20 from Friday, May 1, at 5:00 p.m. to Saturday, May 2, 2026, at 8:00 p.m. PDT",
-                    "Up to five additional free Raid Passes from spinning Gym Photo Discs (for a total of six)"
-                ],
-                "raids": [
-                    "Entei"
-                ],
-                "shiny": [
-                    "Entei"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-05-02T14:00:00",
-            "end_time": "2026-05-02T17:00:00",
-            "description": "Battle in the shadow of the Volcano Pokemon on Entei Shadow Raid Day!"
-        },
-        {
-            "title": "Falinks Super Mega Raid Day",
-            "article_url": "https://leekduck.com/events/falinks-super-mega-raid-day-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-23-falinks-super-mega-raid-day-2026/falinks-super-mega-raid-day-2026.jpg",
-            "category": "Raid Day",
-            "details": {
-                "bonuses": [
-                    "An additional 5,000 Stardust from Super Mega Raid Battles",
-                    "An additional 5,000 XP from Super Mega Raid Battles",
-                    "Increased chance of encountering Shiny Falinks from Super Mega Raids",
-                    "Increased chance to get Rare Candy XL from Raid Battles",
-                    "Receive up to 14 free Raid Passes from spinning Gym Photo Discs",
-                    "Receive up to six free Raid Passes from spinning Gym Photo Discs",
-                    "Remote Raid Pass limit increased to 20 from Friday, May 22, at 5:00 p.m. to Saturday, May 23, 2026, at 8:00 p.m. PDT"
-                ],
-                "features": [
-                    "Mega Falinks"
-                ],
-                "raids": [
-                    "Mega Falinks"
-                ],
-                "shiny": [
-                    "Falinks"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-05-23T14:00:00",
-            "end_time": "2026-05-23T17:00:00",
-            "description": "Fall in formation and ready your Link Charges for Falinks Super Mega Raid Day!"
-        },
-        {
-            "title": "Raid Day",
-            "article_url": "https://leekduck.com/events/raid-day-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-06-27T14:00:00",
-            "end_time": "2026-06-27T17:00:00",
-            "description": "The Raid Day event will take place on June 27, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Raid Day",
-            "article_url": "https://leekduck.com/events/raid-day-august-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-08-22T14:00:00",
-            "end_time": "2026-08-22T17:00:00",
-            "description": "The Raid Day event will take place on August 22, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        }
-    ],
     "Event": [
         {
             "title": "Steeled Resolve 2026",
@@ -751,6 +670,60 @@
             "start_time": "2026-08-15T14:00:00",
             "end_time": "2026-08-15T17:00:00",
             "description": "The August Community Day event will take place on August 15, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        }
+    ],
+    "Raid Day": [
+        {
+            "title": "Falinks Super Mega Raid Day",
+            "article_url": "https://leekduck.com/events/falinks-super-mega-raid-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-23-falinks-super-mega-raid-day-2026/falinks-super-mega-raid-day-2026.jpg",
+            "category": "Raid Day",
+            "details": {
+                "bonuses": [
+                    "An additional 5,000 Stardust from Super Mega Raid Battles",
+                    "An additional 5,000 XP from Super Mega Raid Battles",
+                    "Increased chance of encountering Shiny Falinks from Super Mega Raids",
+                    "Increased chance to get Rare Candy XL from Raid Battles",
+                    "Receive up to 14 free Raid Passes from spinning Gym Photo Discs",
+                    "Receive up to six free Raid Passes from spinning Gym Photo Discs",
+                    "Remote Raid Pass limit increased to 20 from Friday, May 22, at 5:00 p.m. to Saturday, May 23, 2026, at 8:00 p.m. PDT"
+                ],
+                "features": [
+                    "Mega Falinks"
+                ],
+                "raids": [
+                    "Mega Falinks"
+                ],
+                "shiny": [
+                    "Falinks"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-23T14:00:00",
+            "end_time": "2026-05-23T17:00:00",
+            "description": "Fall in formation and ready your Link Charges for Falinks Super Mega Raid Day!"
+        },
+        {
+            "title": "Raid Day",
+            "article_url": "https://leekduck.com/events/raid-day-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-06-27T14:00:00",
+            "end_time": "2026-06-27T17:00:00",
+            "description": "The Raid Day event will take place on June 27, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Raid Day",
+            "article_url": "https://leekduck.com/events/raid-day-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-08-22T14:00:00",
+            "end_time": "2026-08-22T17:00:00",
+            "description": "The Raid Day event will take place on August 22, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
     "Pokémon GO Fest": [
