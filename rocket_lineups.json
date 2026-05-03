@@ -89,6 +89,11 @@
                     "name": "Camerupt",
                     "shiny_available": false,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm323.icon.png"
+                },
+                {
+                    "name": "Gallade",
+                    "shiny_available": false,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm475.icon.png"
                 }
             ],
             "is_encounter": false
