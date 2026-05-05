@@ -234,9 +234,10 @@
             "details": {
                 "bonuses": [
                     "2× Daily Adventure Incense duration",
+                    "2× Hatch Stardust",
+                    "2× Hatch XP",
                     "Hold 10 more Gifts in your Item Bag",
                     "Hold up to 20 more Gifts in your Item Bag",
-                    "Increased Stardust and XP from hatching Eggs",
                     "Open up to 40 Gifts per day",
                     "Open up to 50 Gifts per day",
                     "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
@@ -670,6 +671,19 @@
             "start_time": "2026-08-15T14:00:00",
             "end_time": "2026-08-15T17:00:00",
             "description": "The August Community Day event will take place on August 15, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        }
+    ],
+    "Timed Research": [
+        {
+            "title": "Choose Your Path Timed Research",
+            "article_url": "https://leekduck.com/events/choose-your-path-timed-research/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-05-choose-your-path-timed-research/choose-your-path-evergreen.jpg",
+            "category": "Timed Research",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-05T10:00:00",
+            "end_time": "2026-05-12T20:00:00",
+            "description": "Niantic is testing a new branching Timed Research format during “evergreen weeks,” which are weeks without major events where seasonal gameplay takes focus.\nThis Timed Research lets you choose your own way to play for the week by selecting one of three branches based on exploration, skill, or battling.\nChoose wisely! You can select only one path and remain on that path until the end of the Timed Research.\nEach path grants a different event bonus and includes different tasks and rewards."
         }
     ],
     "Raid Day": [
