@@ -12,197 +12,6 @@
             "description": "All Trainers can redeem the following code to receive Fairy type Timed Research available starting with Pokémon GO Tour in person events.\nCode: TH4NKY0UF41RYMUCH Quick Redeem: https://store.pokemongo.com/offer-redemption?passcode=TH4NKY0UF41RYMUCH\nIt is not clear when this promo code will expire. The dates shown on this page are for the Timed Research."
         }
     ],
-    "Event": [
-        {
-            "title": "Steeled Resolve 2026",
-            "article_url": "https://leekduck.com/events/steeled-resolve-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-28-steeled-resolve-2026/steeled-resolve-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× Catch Candy",
-                    "2× Stardust from Team GO Rocket battles",
-                    "Mystery Box cooldown reduced to 24 hours during the event"
-                ],
-                "features": [
-                    "Orthworm"
-                ],
-                "spawns": [
-                    "Aron",
-                    "Bronzor",
-                    "Drilbur",
-                    "Ferroseed",
-                    "Magnemite",
-                    "Nosepass",
-                    "Pawniard",
-                    "Pineco"
-                ],
-                "raids": [
-                    "Beldum",
-                    "Honedge",
-                    "Orthworm",
-                    "Shieldon"
-                ],
-                "shiny": [
-                    "Melmetal",
-                    "Meltan",
-                    "Orthworm"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-04-28T10:00:00",
-            "end_time": "2026-05-04T20:00:00",
-            "description": "Steel yourselves for the return of Steeled Resolve with Meltan, Orthworm, and more!\nThe Steeled Resolve 2026 event will take place from April 28, 2026 at 10 am to May 4, 2026 at 8 pm."
-        },
-        {
-            "title": "Steeled Resolve: Taken Over",
-            "article_url": "https://leekduck.com/events/steeled-resolve-taken-over-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-30-steeled-resolve-taken-over-2026/steeled-resolve-taken-over-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× Catch Candy",
-                    "Earn more Stardust from defeating Team GO Rocket Grunts.",
-                    "For the first time in Pokémon GO, you'll be able to hatch Shiny Varoom from 12 km Eggs.",
-                    "Pokémon caught via one-star and three-star Shadow Raids during the event will have a wider variance of Attack, Defense, and HP",
-                    "Team GO Rocket will appear more frequently at PokéStops and in balloons*",
-                    "You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration"
-                ],
-                "features": [
-                    "Landorus (Incarnate)"
-                ],
-                "shadow": [
-                    "Dewpider",
-                    "Helioptile",
-                    "Morelull",
-                    "Stufful"
-                ],
-                "eggs": [
-                    "Pancham",
-                    "Salandit",
-                    "Sandile",
-                    "Shroodle",
-                    "Varoom",
-                    "Vullaby"
-                ],
-                "shiny": [
-                    "Revavroom",
-                    "Varoom"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-04-30T00:00:00",
-            "end_time": "2026-05-04T20:00:00",
-            "description": "Rescue Shadow Incarnate Forme Landorus and more during Steeled Resolve: Taken Over!"
-        },
-        {
-            "title": "Spring Marathon 2026",
-            "article_url": "https://leekduck.com/events/spring-marathon-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-12-spring-marathon-2026/spring-marathon-2026.jpg",
-            "category": "Event",
-            "details": {
-                "features": [
-                    "Espathra",
-                    "Flittle",
-                    "Marathon Visor Pikachu"
-                ],
-                "bonuses": [
-                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
-                    "2× XP for spinning a PokéStop",
-                    "GO Pass Deluxe: 3× XP for spinning a PokéStop"
-                ],
-                "eggs": [
-                    "Flittle",
-                    "Flower Crown Happiny",
-                    "Flower Crown Pichu",
-                    "Flower Crown Togepi"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-05-12T10:00:00",
-            "end_time": "2026-05-18T20:00:00",
-            "description": "Lace up your walking shoes and prepare for a Spring Marathon in Pokémon GO!\nThe Spring Marathon 2026 event will take place from May 12, 2026 at 10 am to May 18, 2026 at 8 pm."
-        },
-        {
-            "title": "Weekend Event",
-            "article_url": "https://leekduck.com/events/weekend-event-july-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-07-18T10:00:00",
-            "end_time": "2026-07-18T20:00:00",
-            "description": "The Weekend Event event will take place on July 18, 2026 from 10 am to 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Hatch Day",
-            "article_url": "https://leekduck.com/events/hatch-day-august-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-08-08T11:00:00",
-            "end_time": "2026-08-08T17:00:00",
-            "description": "The Hatch Day event will take place on August 8, 2026 from 11 am to 5 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Example Event Template (Auto ToC Demo)",
-            "article_url": "https://leekduck.com/events/example_event/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/example_event/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-12-01T10:00:00",
-            "end_time": "2026-12-02T20:00:00",
-            "description": "This file demonstrates the reusable event pattern:\n- Keep all section if blocks in the template body.\n- Set event_toc_auto: true.\n- Fill data lists only for sections you want to show.\n- Leave unused section data empty to auto-hide both section and ToC item."
-        }
-    ],
-    "Max Mondays": [
-        {
-            "title": "Dynamax Cottonee during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-05-04/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-05-04T06:00:00",
-            "end_time": "2026-05-04T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn May 4, 2026, the featured Dynamax Pokemon is Cottonee.\n- Cottonee"
-        },
-        {
-            "title": "Dynamax Growlithe during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-05-11/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-05-11T06:00:00",
-            "end_time": "2026-05-11T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn May 11, 2026, the featured Dynamax Pokemon is Growlithe.\n- Growlithe"
-        },
-        {
-            "title": "Dynamax Registeel during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-05-18/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-05-18T06:00:00",
-            "end_time": "2026-05-18T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn May 18, 2026, the featured Dynamax Pokemon is Registeel.\n- Registeel"
-        },
-        {
-            "title": "Dynamax Combee during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-05-25/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-05-25T06:00:00",
-            "end_time": "2026-05-25T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn May 25, 2026, the featured Dynamax Pokemon is Combee.\n- Combee"
-        }
-    ],
     "GO Pass": [
         {
             "title": "GO Pass: April",
@@ -364,6 +173,24 @@
             "description": "Tapu Lele will be in five-star raid battles from April 29, 2026 to May 5, 2026.\nThere will also be a Raid Hour featuring Tapu Lele from 6:00 pm to 7:00 pm local time on the following date:\n- April 29"
         },
         {
+            "title": "Nihilego in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/nihilego-in-5-star-raid-battles-may-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/nihilego-raid-boss.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Nihilego"
+                ],
+                "shiny": [
+                    "Nihilego"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-06T06:00:00",
+            "end_time": "2026-05-12T22:00:00",
+            "description": "Nihilego will be in five-star raid battles from May 6, 2026 to May 12, 2026.\nThere will also be a Raid Hour featuring Nihilego from 6:00 pm to 7:00 pm local time on the following date:\n- May 6"
+        },
+        {
             "title": "Mega Camerupt in Mega Raids",
             "article_url": "https://leekduck.com/events/mega-camerupt-in-mega-raids-may-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
@@ -381,24 +208,6 @@
             "start_time": "2026-05-06T06:00:00",
             "end_time": "2026-05-13T06:00:00",
             "description": "Mega Camerupt will be in Mega Raids from May 6, 2026 at 6 am to May 13, 2026 at 6 am local time."
-        },
-        {
-            "title": "Nihilego in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/nihilego-in-5-star-raid-battles-may-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Nihilego"
-                ],
-                "shiny": [
-                    "Nihilego"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-05-06T06:00:00",
-            "end_time": "2026-05-13T06:00:00",
-            "description": "Nihilego will be in five-star raid battles from May 6, 2026 to May 13, 2026.\nThere will also be a Raid Hour featuring Nihilego from 6:00 pm to 7:00 pm local time on the following date:\n- May 6"
         },
         {
             "title": "Buzzwole, Pheromosa, and Xurkitree in 5-star Raid Battles",
@@ -419,8 +228,8 @@
             },
             "is_local_time": true,
             "start_time": "2026-05-13T06:00:00",
-            "end_time": "2026-05-20T06:00:00",
-            "description": "Buzzwole, Pheromosa, and Xurkitree will be in five-star raid battles from May 13, 2026 to May 20, 2026.\n- Buzzwole will appear in the Americas and Greenland.\n- Pheromosa will appear in Europe, the Middle East, Africa, and India.\n- Xurkitree will appear in the Asia-Pacific region.\nThere will also be a Raid Hour featuring these Pokemon from 6:00 pm to 7:00 pm local time on the following date:\n- May 13\nThese Pokemon will remain in their respective regions."
+            "end_time": "2026-05-19T22:00:00",
+            "description": "Buzzwole, Pheromosa, and Xurkitree will be in five-star raid battles from May 13, 2026 to May 19, 2026.\n- Buzzwole will appear in the Americas and Greenland.\n- Pheromosa will appear in Europe, the Middle East, Africa, and India.\n- Xurkitree will appear in the Asia-Pacific region.\nThere will also be a Raid Hour featuring these Pokemon from 6:00 pm to 7:00 pm local time on the following date:\n- May 13\nThese Pokemon will remain in their respective regions."
         },
         {
             "title": "Mega Glalie in Mega Raids",
@@ -442,6 +251,24 @@
             "description": "Mega Glalie will be in Mega Raids from May 13, 2026 at 6 am to May 20, 2026 at 6 am local time."
         },
         {
+            "title": "Tapu Bulu in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/tapu-bulu-in-5-star-raid-battles-may-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Tapu Bulu"
+                ],
+                "shiny": [
+                    "Tapu Bulu"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-20T06:00:00",
+            "end_time": "2026-05-26T22:00:00",
+            "description": "Tapu Bulu will be in five-star raid battles from May 20, 2026 to May 26, 2026.\nThere will also be a Raid Hour featuring Tapu Bulu from 6:00 pm to 7:00 pm local time on the following date:\n- May 20"
+        },
+        {
             "title": "Mega Altaria in Mega Raids",
             "article_url": "https://leekduck.com/events/mega-altaria-in-mega-raids-may-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
@@ -461,22 +288,22 @@
             "description": "Mega Altaria will be in Mega Raids from May 20, 2026 at 6 am to May 27, 2026 at 6 am local time."
         },
         {
-            "title": "Tapu Bulu in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/tapu-bulu-in-5-star-raid-battles-may-2026/",
+            "title": "Tapu Fini in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/tapu-fini-in-5-star-raid-battles-may-june-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
             "category": "Raid Battles",
             "details": {
                 "raids": [
-                    "Tapu Bulu"
+                    "Tapu Fini"
                 ],
                 "shiny": [
-                    "Tapu Bulu"
+                    "Tapu Fini"
                 ]
             },
             "is_local_time": true,
-            "start_time": "2026-05-20T06:00:00",
-            "end_time": "2026-05-27T06:00:00",
-            "description": "Tapu Bulu will be in five-star raid battles from May 20, 2026 to May 27, 2026.\nThere will also be a Raid Hour featuring Tapu Bulu from 6:00 pm to 7:00 pm local time on the following date:\n- May 20"
+            "start_time": "2026-05-27T06:00:00",
+            "end_time": "2026-06-02T22:00:00",
+            "description": "Tapu Fini will be in five-star raid battles from May 27, 2026 to June 2, 2026.\nThere will also be a Raid Hour featuring Tapu Fini from 6:00 pm to 7:00 pm local time on the following date:\n- May 27"
         },
         {
             "title": "Shadow Cresselia in Shadow Raids",
@@ -514,24 +341,6 @@
             "start_time": "2026-05-27T06:00:00",
             "end_time": "2026-06-03T06:00:00",
             "description": "Mega Medicham will be in Mega Raids from May 27, 2026 at 6 am to June 3, 2026 at 6 am local time."
-        },
-        {
-            "title": "Tapu Fini in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/tapu-fini-in-5-star-raid-battles-may-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Tapu Fini"
-                ],
-                "shiny": [
-                    "Tapu Fini"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-05-27T06:00:00",
-            "end_time": "2026-06-03T06:00:00",
-            "description": "Tapu Fini will be in five-star raid battles from May 27, 2026 to June 3, 2026.\nThere will also be a Raid Hour featuring Tapu Fini from 6:00 pm to 7:00 pm local time on the following date:\n- May 27"
         }
     ],
     "Raid Hour": [
@@ -673,6 +482,41 @@
             "description": "The August Community Day event will take place on August 15, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Growlithe during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-05-11/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-11T06:00:00",
+            "end_time": "2026-05-11T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn May 11, 2026, the featured Dynamax Pokemon is Growlithe.\n- Growlithe"
+        },
+        {
+            "title": "Dynamax Registeel during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-05-18/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-18T06:00:00",
+            "end_time": "2026-05-18T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn May 18, 2026, the featured Dynamax Pokemon is Registeel.\n- Registeel"
+        },
+        {
+            "title": "Dynamax Combee during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-05-25/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-25T06:00:00",
+            "end_time": "2026-05-25T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn May 25, 2026, the featured Dynamax Pokemon is Combee.\n- Combee"
+        }
+    ],
     "Timed Research": [
         {
             "title": "Choose Your Path Timed Research",
@@ -684,6 +528,69 @@
             "start_time": "2026-05-05T10:00:00",
             "end_time": "2026-05-12T20:00:00",
             "description": "Niantic is testing a new branching Timed Research format during “evergreen weeks,” which are weeks without major events where seasonal gameplay takes focus.\nThis Timed Research lets you choose your own way to play for the week by selecting one of three branches based on exploration, skill, or battling.\nChoose wisely! You can select only one path and remain on that path until the end of the Timed Research.\nEach path grants a different event bonus and includes different tasks and rewards."
+        }
+    ],
+    "Event": [
+        {
+            "title": "Spring Marathon 2026",
+            "article_url": "https://leekduck.com/events/spring-marathon-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-12-spring-marathon-2026/spring-marathon-2026.jpg",
+            "category": "Event",
+            "details": {
+                "features": [
+                    "Espathra",
+                    "Flittle",
+                    "Marathon Visor Pikachu"
+                ],
+                "bonuses": [
+                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
+                    "2× XP for spinning a PokéStop",
+                    "GO Pass Deluxe: 3× XP for spinning a PokéStop"
+                ],
+                "eggs": [
+                    "Flittle",
+                    "Flower Crown Happiny",
+                    "Flower Crown Pichu",
+                    "Flower Crown Togepi"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-12T10:00:00",
+            "end_time": "2026-05-18T20:00:00",
+            "description": "Lace up your walking shoes and prepare for a Spring Marathon in Pokémon GO!\nThe Spring Marathon 2026 event will take place from May 12, 2026 at 10 am to May 18, 2026 at 8 pm."
+        },
+        {
+            "title": "Weekend Event",
+            "article_url": "https://leekduck.com/events/weekend-event-july-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-07-18T10:00:00",
+            "end_time": "2026-07-18T20:00:00",
+            "description": "The Weekend Event event will take place on July 18, 2026 from 10 am to 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Hatch Day",
+            "article_url": "https://leekduck.com/events/hatch-day-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-08-08T11:00:00",
+            "end_time": "2026-08-08T17:00:00",
+            "description": "The Hatch Day event will take place on August 8, 2026 from 11 am to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Example Event Template (Auto ToC Demo)",
+            "article_url": "https://leekduck.com/events/example_event/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/example_event/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-12-01T10:00:00",
+            "end_time": "2026-12-02T20:00:00",
+            "description": "This file demonstrates the reusable event pattern:\n- Keep all section if blocks in the template body.\n- Set event_toc_auto: true.\n- Fill data lists only for sections you want to show.\n- Leave unused section data empty to auto-hide both section and ToC item."
         }
     ],
     "Raid Day": [
