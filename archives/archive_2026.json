@@ -2571,6 +2571,28 @@
             "start_time": "2026-03-03T10:00:00",
             "end_time": "2026-04-07T10:00:00",
             "description": "Rank up to earn rewards including a Timed Incubator (GO Pass Deluxe), an encounter with Raikou, and more!\nFrom Tuesday, March 3, at 10:00 a.m. to Tuesday, April 7, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for March will be available in Pokémon GO!"
+        },
+        {
+            "title": "GO Pass: April",
+            "article_url": "https://leekduck.com/events/go-pass-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-04-07-go-pass-april-2026/go-pass-april-2026.jpg",
+            "category": "GO Pass",
+            "details": {
+                "bonuses": [
+                    "2× Daily Adventure Incense duration",
+                    "Hold 10 more Gifts in your Item Bag",
+                    "Hold up to 20 more Gifts in your Item Bag",
+                    "Increased Stardust and XP from hatching Eggs",
+                    "Open up to 40 Gifts per day",
+                    "Open up to 50 Gifts per day",
+                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-04-07T10:00:00",
+            "end_time": "2026-05-05T10:00:00",
+            "description": "Rank up to earn rewards including an encounter with Entei, a Lucky Trinket (GO Pass Deluxe), and more!\nFrom Tuesday, April 7, at 10:00 a.m. to Tuesday, May 5, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for April will be available in Pokémon GO!"
         }
     ],
     "GO Battle League": [
@@ -2760,6 +2782,17 @@
             "start_time": 1776801600,
             "end_time": 1777406400,
             "description": "The Great League, Ultra League, and Master League will run from April 21, 2026, at 1:00 p.m. to April 28, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
+        },
+        {
+            "title": "Great League and Fantasy Cup: Great League Edition | Memories in Motion",
+            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_fantasy-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1777406400,
+            "end_time": 1778011200,
+            "description": "The Great League and Fantasy Cup: Great League Edition will run from April 28, 2026, at 1:00 p.m. to May 5, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Dragon-, Steel-, and Fairy-type Pokémon are eligible."
         }
     ],
     "Pokémon Spotlight Hour": [
