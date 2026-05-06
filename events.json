@@ -12,290 +12,6 @@
             "description": "All Trainers can redeem the following code to receive Fairy type Timed Research available starting with Pokémon GO Tour in person events.\nCode: TH4NKY0UF41RYMUCH Quick Redeem: https://store.pokemongo.com/offer-redemption?passcode=TH4NKY0UF41RYMUCH\nIt is not clear when this promo code will expire. The dates shown on this page are for the Timed Research."
         }
     ],
-    "GO Battle League": [
-        {
-            "title": "Great League and Fantasy Cup: Great League Edition | Memories in Motion",
-            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_fantasy-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1777406400,
-            "end_time": 1778011200,
-            "description": "The Great League and Fantasy Cup: Great League Edition will run from April 28, 2026, at 1:00 p.m. to May 5, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Dragon-, Steel-, and Fairy-type Pokémon are eligible."
-        },
-        {
-            "title": "Ultra League and Jungle Cup: Great League Edition | Memories in Motion",
-            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_ultra-league_jungle-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1778011200,
-            "end_time": 1778616000,
-            "description": "The Ultra League and Jungle Cup: Great League Edition will run from May 5, 2026, at 1:00 p.m. to May 12, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Normal-, Grass-, Electric-, Poison-, Ground-, Flying-, Bug-, and Dark-type Pokémon are eligible."
-        },
-        {
-            "title": "Master League and Catch Cup: Memories in Motion: Great League Edition | Memories in Motion",
-            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_master-league_catch-cup-memories-in-motion-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1778616000,
-            "end_time": 1779220800,
-            "description": "The Master League and Catch Cup: Memories in Motion: Great League Edition will run from May 12, 2026, at 1:00 p.m. to May 19, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Pokémon caught during the Memories in Motion Season are eligible.\n- Pokémon must be caught between March 3, 2026, at 1:00 p.m. and June 2, 2026, at 1:00 p.m. local time."
-        },
-        {
-            "title": "Great League, Ultra League, and Master League | Memories in Motion",
-            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-league_master-league-split-3/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1779220800,
-            "end_time": 1779825600,
-            "description": "The Great League, Ultra League, and Master League will run from May 19, 2026, at 1:00 p.m. to May 26, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
-        },
-        {
-            "title": "Great League, Ultra League, and Master League | Memories in Motion",
-            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-league_master-league-split-4/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1779825600,
-            "end_time": 1780430400,
-            "description": "The Great League, Ultra League, and Master League will run from May 26, 2026, at 1:00 p.m. to June 2, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
-        }
-    ],
-    "Raid Battles": [
-        {
-            "title": "Shadow Latios in Shadow Raids",
-            "article_url": "https://leekduck.com/events/shadow-latios-in-shadow-raids-april-may-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Latios"
-                ],
-                "shiny": [
-                    "Latios"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-04-01T06:00:00",
-            "end_time": "2026-05-05T22:00:00",
-            "description": "Shadow Latios will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Latios! Shadow Latios will appear in five-star Shadow Raids every weekend from April 1 to May 5."
-        },
-        {
-            "title": "Mega Banette in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-banette-in-mega-raids-april-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Banette"
-                ],
-                "shiny": [
-                    "Banette",
-                    "Mega Banette"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-04-29T06:00:00",
-            "end_time": "2026-05-05T22:00:00",
-            "description": "Mega Banette will be in Mega Raids from April 29, 2026 at 6 am to May 5, 2026 at 10 pm local time."
-        },
-        {
-            "title": "Tapu Lele in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/tapu-lele-in-5-star-raid-battles-april-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Tapu Lele"
-                ],
-                "shiny": [
-                    "Tapu Lele"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-04-29T06:00:00",
-            "end_time": "2026-05-05T22:00:00",
-            "description": "Tapu Lele will be in five-star raid battles from April 29, 2026 to May 5, 2026.\nThere will also be a Raid Hour featuring Tapu Lele from 6:00 pm to 7:00 pm local time on the following date:\n- April 29"
-        },
-        {
-            "title": "Nihilego in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/nihilego-in-5-star-raid-battles-may-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/nihilego-raid-boss.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Nihilego"
-                ],
-                "shiny": [
-                    "Nihilego"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-05-06T06:00:00",
-            "end_time": "2026-05-12T22:00:00",
-            "description": "Nihilego will be in five-star raid battles from May 6, 2026 to May 12, 2026.\nThere will also be a Raid Hour featuring Nihilego from 6:00 pm to 7:00 pm local time on the following date:\n- May 6"
-        },
-        {
-            "title": "Mega Camerupt in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-camerupt-in-mega-raids-may-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Camerupt"
-                ],
-                "shiny": [
-                    "Camerupt",
-                    "Mega Camerupt"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-05-06T06:00:00",
-            "end_time": "2026-05-13T06:00:00",
-            "description": "Mega Camerupt will be in Mega Raids from May 6, 2026 at 6 am to May 13, 2026 at 6 am local time."
-        },
-        {
-            "title": "Buzzwole, Pheromosa, and Xurkitree in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/buzzwole-pheromosa-xurkitree-in-5-star-raid-battles-may-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Buzzwole",
-                    "Pheromosa",
-                    "Xurkitree"
-                ],
-                "shiny": [
-                    "Buzzwole",
-                    "Pheromosa",
-                    "Xurkitree"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-05-13T06:00:00",
-            "end_time": "2026-05-19T22:00:00",
-            "description": "Buzzwole, Pheromosa, and Xurkitree will be in five-star raid battles from May 13, 2026 to May 19, 2026.\n- Buzzwole will appear in the Americas and Greenland.\n- Pheromosa will appear in Europe, the Middle East, Africa, and India.\n- Xurkitree will appear in the Asia-Pacific region.\nThere will also be a Raid Hour featuring these Pokemon from 6:00 pm to 7:00 pm local time on the following date:\n- May 13\nThese Pokemon will remain in their respective regions."
-        },
-        {
-            "title": "Mega Glalie in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-glalie-in-mega-raids-may-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Glalie"
-                ],
-                "shiny": [
-                    "Glalie",
-                    "Mega Glalie"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-05-13T06:00:00",
-            "end_time": "2026-05-20T06:00:00",
-            "description": "Mega Glalie will be in Mega Raids from May 13, 2026 at 6 am to May 20, 2026 at 6 am local time."
-        },
-        {
-            "title": "Tapu Bulu in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/tapu-bulu-in-5-star-raid-battles-may-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Tapu Bulu"
-                ],
-                "shiny": [
-                    "Tapu Bulu"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-05-20T06:00:00",
-            "end_time": "2026-05-26T22:00:00",
-            "description": "Tapu Bulu will be in five-star raid battles from May 20, 2026 to May 26, 2026.\nThere will also be a Raid Hour featuring Tapu Bulu from 6:00 pm to 7:00 pm local time on the following date:\n- May 20"
-        },
-        {
-            "title": "Mega Altaria in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-altaria-in-mega-raids-may-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Altaria"
-                ],
-                "shiny": [
-                    "Altaria",
-                    "Mega Altaria"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-05-20T06:00:00",
-            "end_time": "2026-05-27T06:00:00",
-            "description": "Mega Altaria will be in Mega Raids from May 20, 2026 at 6 am to May 27, 2026 at 6 am local time."
-        },
-        {
-            "title": "Tapu Fini in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/tapu-fini-in-5-star-raid-battles-may-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Tapu Fini"
-                ],
-                "shiny": [
-                    "Tapu Fini"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-05-27T06:00:00",
-            "end_time": "2026-06-02T22:00:00",
-            "description": "Tapu Fini will be in five-star raid battles from May 27, 2026 to June 2, 2026.\nThere will also be a Raid Hour featuring Tapu Fini from 6:00 pm to 7:00 pm local time on the following date:\n- May 27"
-        },
-        {
-            "title": "Shadow Cresselia in Shadow Raids",
-            "article_url": "https://leekduck.com/events/shadow-cresselia-in-shadow-raids-may-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Cresselia"
-                ],
-                "shiny": [
-                    "Cresselia"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-05-06T06:00:00",
-            "end_time": "2026-06-03T06:00:00",
-            "description": "Shadow Cresselia will appear in Pokemon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Cresselia! Shadow Cresselia will appear in five-star Shadow Raids every weekend from May 6 to June 2."
-        },
-        {
-            "title": "Mega Medicham in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-medicham-in-mega-raids-may-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Medicham"
-                ],
-                "shiny": [
-                    "Medicham",
-                    "Mega Medicham"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-05-27T06:00:00",
-            "end_time": "2026-06-03T06:00:00",
-            "description": "Mega Medicham will be in Mega Raids from May 27, 2026 at 6 am to June 3, 2026 at 6 am local time."
-        }
-    ],
     "Raid Hour": [
         {
             "title": "Nihilego Raid Hour",
@@ -470,6 +186,52 @@
             "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn May 25, 2026, the featured Dynamax Pokemon is Combee.\n- Combee"
         }
     ],
+    "GO Battle League": [
+        {
+            "title": "Ultra League and Jungle Cup: Great League Edition | Memories in Motion",
+            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_ultra-league_jungle-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1778011200,
+            "end_time": 1778616000,
+            "description": "The Ultra League and Jungle Cup: Great League Edition will run from May 5, 2026, at 1:00 p.m. to May 12, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Normal-, Grass-, Electric-, Poison-, Ground-, Flying-, Bug-, and Dark-type Pokémon are eligible."
+        },
+        {
+            "title": "Master League and Catch Cup: Memories in Motion: Great League Edition | Memories in Motion",
+            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_master-league_catch-cup-memories-in-motion-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1778616000,
+            "end_time": 1779220800,
+            "description": "The Master League and Catch Cup: Memories in Motion: Great League Edition will run from May 12, 2026, at 1:00 p.m. to May 19, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Pokémon caught during the Memories in Motion Season are eligible.\n- Pokémon must be caught between March 3, 2026, at 1:00 p.m. and June 2, 2026, at 1:00 p.m. local time."
+        },
+        {
+            "title": "Great League, Ultra League, and Master League | Memories in Motion",
+            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-league_master-league-split-3/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1779220800,
+            "end_time": 1779825600,
+            "description": "The Great League, Ultra League, and Master League will run from May 19, 2026, at 1:00 p.m. to May 26, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
+        },
+        {
+            "title": "Great League, Ultra League, and Master League | Memories in Motion",
+            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-league_master-league-split-4/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1779825600,
+            "end_time": 1780430400,
+            "description": "The Great League, Ultra League, and Master League will run from May 26, 2026, at 1:00 p.m. to June 2, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
+        }
+    ],
     "Timed Research": [
         {
             "title": "Choose Your Path Timed Research",
@@ -481,6 +243,178 @@
             "start_time": "2026-05-05T10:00:00",
             "end_time": "2026-05-12T20:00:00",
             "description": "Niantic is testing a new branching Timed Research format during “evergreen weeks,” which are weeks without major events where seasonal gameplay takes focus.\nThis Timed Research lets you choose your own way to play for the week by selecting one of three branches based on exploration, skill, or battling.\nChoose wisely! You can select only one path and remain on that path until the end of the Timed Research.\nEach path grants a different event bonus and includes different tasks and rewards."
+        }
+    ],
+    "Raid Battles": [
+        {
+            "title": "Nihilego in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/nihilego-in-5-star-raid-battles-may-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/nihilego-raid-boss.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Nihilego"
+                ],
+                "shiny": [
+                    "Nihilego"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-06T06:00:00",
+            "end_time": "2026-05-12T22:00:00",
+            "description": "Nihilego will be in five-star raid battles from May 6, 2026 to May 12, 2026.\nThere will also be a Raid Hour featuring Nihilego from 6:00 pm to 7:00 pm local time on the following date:\n- May 6"
+        },
+        {
+            "title": "Mega Camerupt in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-camerupt-in-mega-raids-may-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Camerupt"
+                ],
+                "shiny": [
+                    "Camerupt",
+                    "Mega Camerupt"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-06T06:00:00",
+            "end_time": "2026-05-13T06:00:00",
+            "description": "Mega Camerupt will be in Mega Raids from May 6, 2026 at 6 am to May 13, 2026 at 6 am local time."
+        },
+        {
+            "title": "Buzzwole, Pheromosa, and Xurkitree in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/buzzwole-pheromosa-xurkitree-in-5-star-raid-battles-may-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Buzzwole",
+                    "Pheromosa",
+                    "Xurkitree"
+                ],
+                "shiny": [
+                    "Buzzwole",
+                    "Pheromosa",
+                    "Xurkitree"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-13T06:00:00",
+            "end_time": "2026-05-19T22:00:00",
+            "description": "Buzzwole, Pheromosa, and Xurkitree will be in five-star raid battles from May 13, 2026 to May 19, 2026.\n- Buzzwole will appear in the Americas and Greenland.\n- Pheromosa will appear in Europe, the Middle East, Africa, and India.\n- Xurkitree will appear in the Asia-Pacific region.\nThere will also be a Raid Hour featuring these Pokemon from 6:00 pm to 7:00 pm local time on the following date:\n- May 13\nThese Pokemon will remain in their respective regions."
+        },
+        {
+            "title": "Mega Glalie in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-glalie-in-mega-raids-may-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Glalie"
+                ],
+                "shiny": [
+                    "Glalie",
+                    "Mega Glalie"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-13T06:00:00",
+            "end_time": "2026-05-20T06:00:00",
+            "description": "Mega Glalie will be in Mega Raids from May 13, 2026 at 6 am to May 20, 2026 at 6 am local time."
+        },
+        {
+            "title": "Tapu Bulu in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/tapu-bulu-in-5-star-raid-battles-may-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Tapu Bulu"
+                ],
+                "shiny": [
+                    "Tapu Bulu"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-20T06:00:00",
+            "end_time": "2026-05-26T22:00:00",
+            "description": "Tapu Bulu will be in five-star raid battles from May 20, 2026 to May 26, 2026.\nThere will also be a Raid Hour featuring Tapu Bulu from 6:00 pm to 7:00 pm local time on the following date:\n- May 20"
+        },
+        {
+            "title": "Mega Altaria in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-altaria-in-mega-raids-may-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Altaria"
+                ],
+                "shiny": [
+                    "Altaria",
+                    "Mega Altaria"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-20T06:00:00",
+            "end_time": "2026-05-27T06:00:00",
+            "description": "Mega Altaria will be in Mega Raids from May 20, 2026 at 6 am to May 27, 2026 at 6 am local time."
+        },
+        {
+            "title": "Tapu Fini in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/tapu-fini-in-5-star-raid-battles-may-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Tapu Fini"
+                ],
+                "shiny": [
+                    "Tapu Fini"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-27T06:00:00",
+            "end_time": "2026-06-02T22:00:00",
+            "description": "Tapu Fini will be in five-star raid battles from May 27, 2026 to June 2, 2026.\nThere will also be a Raid Hour featuring Tapu Fini from 6:00 pm to 7:00 pm local time on the following date:\n- May 27"
+        },
+        {
+            "title": "Shadow Cresselia in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-cresselia-in-shadow-raids-may-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Cresselia"
+                ],
+                "shiny": [
+                    "Cresselia"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-06T06:00:00",
+            "end_time": "2026-06-03T06:00:00",
+            "description": "Shadow Cresselia will appear in Pokemon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Cresselia! Shadow Cresselia will appear in five-star Shadow Raids every weekend from May 6 to June 2."
+        },
+        {
+            "title": "Mega Medicham in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-medicham-in-mega-raids-may-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Medicham"
+                ],
+                "shiny": [
+                    "Medicham",
+                    "Mega Medicham"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-27T06:00:00",
+            "end_time": "2026-06-03T06:00:00",
+            "description": "Mega Medicham will be in Mega Raids from May 27, 2026 at 6 am to June 3, 2026 at 6 am local time."
         }
     ],
     "Event": [

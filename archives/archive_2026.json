@@ -628,6 +628,61 @@
             "start_time": "2026-04-22T06:00:00",
             "end_time": "2026-04-28T22:00:00",
             "description": "Tapu Koko will be in five-star raid battles from April 22, 2026 to April 28, 2026.\nThere will also be a Raid Hour featuring Tapu Koko from 6:00 pm to 7:00 pm local time on the following date:\n- April 22"
+        },
+        {
+            "title": "Shadow Latios in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-latios-in-shadow-raids-april-may-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Latios"
+                ],
+                "shiny": [
+                    "Latios"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-04-01T06:00:00",
+            "end_time": "2026-05-05T22:00:00",
+            "description": "Shadow Latios will appear in Pokémon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Latios! Shadow Latios will appear in five-star Shadow Raids every weekend from April 1 to May 5."
+        },
+        {
+            "title": "Mega Banette in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-banette-in-mega-raids-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Banette"
+                ],
+                "shiny": [
+                    "Banette",
+                    "Mega Banette"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-04-29T06:00:00",
+            "end_time": "2026-05-05T22:00:00",
+            "description": "Mega Banette will be in Mega Raids from April 29, 2026 at 6 am to May 5, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Tapu Lele in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/tapu-lele-in-5-star-raid-battles-april-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Tapu Lele"
+                ],
+                "shiny": [
+                    "Tapu Lele"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-04-29T06:00:00",
+            "end_time": "2026-05-05T22:00:00",
+            "description": "Tapu Lele will be in five-star raid battles from April 29, 2026 to May 5, 2026.\nThere will also be a Raid Hour featuring Tapu Lele from 6:00 pm to 7:00 pm local time on the following date:\n- April 29"
         }
     ],
     "Community Day": [

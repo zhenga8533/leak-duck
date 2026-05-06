@@ -375,9 +375,9 @@
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm657.icon.png"
                 },
                 {
-                    "name": "Tentacruel",
+                    "name": "Tentacool",
                     "shiny_available": true,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm73.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm72.icon.png"
                 }
             ],
             "is_encounter": true
@@ -412,11 +412,6 @@
                     "name": "Magikarp",
                     "shiny_available": true,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm129.icon.png"
-                },
-                {
-                    "name": "Feebas",
-                    "shiny_available": true,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm349.icon.png"
                 }
             ],
             "is_encounter": true

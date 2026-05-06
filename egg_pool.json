@@ -156,7 +156,7 @@
         },
         {
             "name": "Scorbunny",
-            "shiny_available": false,
+            "shiny_available": true,
             "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm813.icon.png",
             "hatch_distance": 1,
             "rarity_tier": 4
@@ -543,7 +543,7 @@
         },
         {
             "name": "Varoom",
-            "shiny_available": false,
+            "shiny_available": true,
             "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm965.icon.png",
             "hatch_distance": 12,
             "rarity_tier": 1
