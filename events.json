@@ -12,99 +12,6 @@
             "description": "All Trainers can redeem the following code to receive Fairy type Timed Research available starting with Pokémon GO Tour in person events.\nCode: TH4NKY0UF41RYMUCH Quick Redeem: https://store.pokemongo.com/offer-redemption?passcode=TH4NKY0UF41RYMUCH\nIt is not clear when this promo code will expire. The dates shown on this page are for the Timed Research."
         }
     ],
-    "Community Day": [
-        {
-            "title": "Lechonk Community Day",
-            "article_url": "https://leekduck.com/events/may-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-09-may-communityday2026/lechonk-may-cd-placeholder.jpg",
-            "category": "Community Day",
-            "details": {
-                "bonuses": [
-                    "1-hour Lures*",
-                    "1/4 Egg Hatch Distance",
-                    "2x Catch Candy",
-                    "2x Chance to receive Candy XL from catching Pokemon",
-                    "3-hour Incense",
-                    "Increased Spawns",
-                    "One additional Special Trade can be made for a maximum of two for the day*",
-                    "Trades made will require 50% less Stardust*"
-                ],
-                "features": [
-                    "Lechonk"
-                ],
-                "spawns": [
-                    "Lechonk"
-                ],
-                "shiny": [
-                    "Lechonk",
-                    "Oinkologne"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-05-09T14:00:00",
-            "end_time": "2026-05-09T17:00:00",
-            "description": "Lechonk, the Hog Pokémon, will be featured during May Community Day!"
-        },
-        {
-            "title": "Deino Community Day Classic",
-            "article_url": "https://leekduck.com/events/may-communitydayclassic2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-16-may-communitydayclassic2026/deino-community-day-classic.jpg?v2",
-            "category": "Community Day",
-            "details": {
-                "bonuses": [
-                    "1-hour Lures**",
-                    "3-hour Incense*",
-                    "3x Catch XP",
-                    "Increased Spawns"
-                ],
-                "spawns": [
-                    "Deino"
-                ],
-                "shiny": [
-                    "Deino",
-                    "Hydreigon",
-                    "Zweilous"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-05-16T14:00:00",
-            "end_time": "2026-05-16T17:00:00",
-            "description": "Deino, the Irate Pokemon, will be featured during May Community Day Classic!"
-        },
-        {
-            "title": "June Community Day",
-            "article_url": "https://leekduck.com/events/june-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
-            "category": "Community Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-06-20T14:00:00",
-            "end_time": "2026-06-20T17:00:00",
-            "description": "The June Community Day event will take place on June 20, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        },
-        {
-            "title": "July Community Day",
-            "article_url": "https://leekduck.com/events/july-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
-            "category": "Community Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-07-04T14:00:00",
-            "end_time": "2026-07-04T17:00:00",
-            "description": "The July Community Day event will take place on July 4, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        },
-        {
-            "title": "August Community Day",
-            "article_url": "https://leekduck.com/events/august-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
-            "category": "Community Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-08-15T14:00:00",
-            "end_time": "2026-08-15T17:00:00",
-            "description": "The August Community Day event will take place on August 15, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        }
-    ],
     "Max Mondays": [
         {
             "title": "Dynamax Growlithe during Max Monday",
@@ -404,6 +311,67 @@
             "start_time": "2026-05-27T18:00:00",
             "end_time": "2026-05-27T19:00:00",
             "description": "A Raid Hour featuring Tapu Fini is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        }
+    ],
+    "Community Day": [
+        {
+            "title": "Deino Community Day Classic",
+            "article_url": "https://leekduck.com/events/may-communitydayclassic2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-16-may-communitydayclassic2026/deino-community-day-classic.jpg?v2",
+            "category": "Community Day",
+            "details": {
+                "bonuses": [
+                    "1-hour Lures**",
+                    "3-hour Incense*",
+                    "3x Catch XP",
+                    "Increased Spawns"
+                ],
+                "spawns": [
+                    "Deino"
+                ],
+                "shiny": [
+                    "Deino",
+                    "Hydreigon",
+                    "Zweilous"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-16T14:00:00",
+            "end_time": "2026-05-16T17:00:00",
+            "description": "Deino, the Irate Pokemon, will be featured during May Community Day Classic!"
+        },
+        {
+            "title": "June Community Day",
+            "article_url": "https://leekduck.com/events/june-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "category": "Community Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-06-20T14:00:00",
+            "end_time": "2026-06-20T17:00:00",
+            "description": "The June Community Day event will take place on June 20, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "July Community Day",
+            "article_url": "https://leekduck.com/events/july-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "category": "Community Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-07-04T14:00:00",
+            "end_time": "2026-07-04T17:00:00",
+            "description": "The July Community Day event will take place on July 4, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "August Community Day",
+            "article_url": "https://leekduck.com/events/august-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "category": "Community Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-08-15T14:00:00",
+            "end_time": "2026-08-15T17:00:00",
+            "description": "The August Community Day event will take place on August 15, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
     "Event": [
