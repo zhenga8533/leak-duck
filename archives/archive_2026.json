@@ -683,6 +683,24 @@
             "start_time": "2026-04-29T06:00:00",
             "end_time": "2026-05-05T22:00:00",
             "description": "Tapu Lele will be in five-star raid battles from April 29, 2026 to May 5, 2026.\nThere will also be a Raid Hour featuring Tapu Lele from 6:00 pm to 7:00 pm local time on the following date:\n- April 29"
+        },
+        {
+            "title": "Nihilego in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/nihilego-in-5-star-raid-battles-may-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/nihilego-raid-boss.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Nihilego"
+                ],
+                "shiny": [
+                    "Nihilego"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-06T06:00:00",
+            "end_time": "2026-05-12T22:00:00",
+            "description": "Nihilego will be in five-star raid battles from May 6, 2026 to May 12, 2026.\nThere will also be a Raid Hour featuring Nihilego from 6:00 pm to 7:00 pm local time on the following date:\n- May 6"
         }
     ],
     "Community Day": [
@@ -4166,6 +4184,19 @@
             "start_time": "2026-03-21T14:00:00",
             "end_time": "2026-03-21T17:00:00",
             "description": "Make a splash during Replay: Water Research Day! Complete event-themed Field Research tasks to encounter Lotad, Feebas, and Clamperl, with an increased chance of meeting their Shiny counterparts."
+        }
+    ],
+    "Timed Research": [
+        {
+            "title": "Choose Your Path Timed Research",
+            "article_url": "https://leekduck.com/events/choose-your-path-timed-research/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-05-choose-your-path-timed-research/choose-your-path-evergreen.jpg",
+            "category": "Timed Research",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-05T10:00:00",
+            "end_time": "2026-05-12T20:00:00",
+            "description": "Niantic is testing a new branching Timed Research format during “evergreen weeks,” which are weeks without major events where seasonal gameplay takes focus.\nThis Timed Research lets you choose your own way to play for the week by selecting one of three branches based on exploration, skill, or battling.\nChoose wisely! You can select only one path and remain on that path until the end of the Timed Research.\nEach path grants a different event bonus and includes different tasks and rewards."
         }
     ]
 }

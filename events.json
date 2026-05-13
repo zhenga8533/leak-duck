@@ -12,65 +12,6 @@
             "description": "All Trainers can redeem the following code to receive Fairy type Timed Research available starting with Pokémon GO Tour in person events.\nCode: TH4NKY0UF41RYMUCH Quick Redeem: https://store.pokemongo.com/offer-redemption?passcode=TH4NKY0UF41RYMUCH\nIt is not clear when this promo code will expire. The dates shown on this page are for the Timed Research."
         }
     ],
-    "GO Battle League": [
-        {
-            "title": "Ultra League and Jungle Cup: Great League Edition | Memories in Motion",
-            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_ultra-league_jungle-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1778011200,
-            "end_time": 1778616000,
-            "description": "The Ultra League and Jungle Cup: Great League Edition will run from May 5, 2026, at 1:00 p.m. to May 12, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Normal-, Grass-, Electric-, Poison-, Ground-, Flying-, Bug-, and Dark-type Pokémon are eligible."
-        },
-        {
-            "title": "Master League and Catch Cup: Memories in Motion: Great League Edition | Memories in Motion",
-            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_master-league_catch-cup-memories-in-motion-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1778616000,
-            "end_time": 1779220800,
-            "description": "The Master League and Catch Cup: Memories in Motion: Great League Edition will run from May 12, 2026, at 1:00 p.m. to May 19, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Pokémon caught during the Memories in Motion Season are eligible.\n- Pokémon must be caught between March 3, 2026, at 1:00 p.m. and June 2, 2026, at 1:00 p.m. local time."
-        },
-        {
-            "title": "Great League, Ultra League, and Master League | Memories in Motion",
-            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-league_master-league-split-3/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1779220800,
-            "end_time": 1779825600,
-            "description": "The Great League, Ultra League, and Master League will run from May 19, 2026, at 1:00 p.m. to May 26, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
-        },
-        {
-            "title": "Great League, Ultra League, and Master League | Memories in Motion",
-            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-league_master-league-split-4/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1779825600,
-            "end_time": 1780430400,
-            "description": "The Great League, Ultra League, and Master League will run from May 26, 2026, at 1:00 p.m. to June 2, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
-        }
-    ],
-    "Timed Research": [
-        {
-            "title": "Choose Your Path Timed Research",
-            "article_url": "https://leekduck.com/events/choose-your-path-timed-research/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-05-choose-your-path-timed-research/choose-your-path-evergreen.jpg",
-            "category": "Timed Research",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-05-05T10:00:00",
-            "end_time": "2026-05-12T20:00:00",
-            "description": "Niantic is testing a new branching Timed Research format during “evergreen weeks,” which are weeks without major events where seasonal gameplay takes focus.\nThis Timed Research lets you choose your own way to play for the week by selecting one of three branches based on exploration, skill, or battling.\nChoose wisely! You can select only one path and remain on that path until the end of the Timed Research.\nEach path grants a different event bonus and includes different tasks and rewards."
-        }
-    ],
     "Raid Battles": [
         {
             "title": "Nihilego in 5-star Raid Battles",
@@ -424,6 +365,41 @@
             "start_time": "2026-05-25T06:00:00",
             "end_time": "2026-05-25T21:00:00",
             "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn May 25, 2026, the featured Dynamax Pokemon is Combee.\n- Combee"
+        }
+    ],
+    "GO Battle League": [
+        {
+            "title": "Master League and Catch Cup: Memories in Motion: Great League Edition | Memories in Motion",
+            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_master-league_catch-cup-memories-in-motion-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1778616000,
+            "end_time": 1779220800,
+            "description": "The Master League and Catch Cup: Memories in Motion: Great League Edition will run from May 12, 2026, at 1:00 p.m. to May 19, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Pokémon caught during the Memories in Motion Season are eligible.\n- Pokémon must be caught between March 3, 2026, at 1:00 p.m. and June 2, 2026, at 1:00 p.m. local time."
+        },
+        {
+            "title": "Great League, Ultra League, and Master League | Memories in Motion",
+            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-league_master-league-split-3/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1779220800,
+            "end_time": 1779825600,
+            "description": "The Great League, Ultra League, and Master League will run from May 19, 2026, at 1:00 p.m. to May 26, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
+        },
+        {
+            "title": "Great League, Ultra League, and Master League | Memories in Motion",
+            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-league_master-league-split-4/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1779825600,
+            "end_time": 1780430400,
+            "description": "The Great League, Ultra League, and Master League will run from May 26, 2026, at 1:00 p.m. to June 2, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
         }
     ],
     "Raid Day": [
