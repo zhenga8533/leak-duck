@@ -911,6 +911,32 @@
             "start_time": "2026-05-09T14:00:00",
             "end_time": "2026-05-09T17:00:00",
             "description": "Lechonk, the Hog Pokémon, will be featured during May Community Day!"
+        },
+        {
+            "title": "Deino Community Day Classic",
+            "article_url": "https://leekduck.com/events/may-communitydayclassic2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-16-may-communitydayclassic2026/deino-community-day-classic.jpg?v2",
+            "category": "Community Day",
+            "details": {
+                "bonuses": [
+                    "1-hour Lures**",
+                    "3-hour Incense*",
+                    "3x Catch XP",
+                    "Increased Spawns"
+                ],
+                "spawns": [
+                    "Deino"
+                ],
+                "shiny": [
+                    "Deino",
+                    "Hydreigon",
+                    "Zweilous"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-16T14:00:00",
+            "end_time": "2026-05-16T17:00:00",
+            "description": "Deino, the Irate Pokemon, will be featured during May Community Day Classic!"
         }
     ],
     "Event": [
