@@ -461,6 +461,13 @@
             "rarity_tier": 1
         },
         {
+            "name": "Flittle",
+            "shiny_available": false,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm955.icon.png",
+            "hatch_distance": 10,
+            "rarity_tier": 1
+        },
+        {
             "name": "Larvesta",
             "shiny_available": true,
             "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm636.icon.png",

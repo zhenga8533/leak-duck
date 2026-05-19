@@ -12,67 +12,6 @@
             "description": "All Trainers can redeem the following code to receive Fairy type Timed Research available starting with Pokémon GO Tour in person events.\nCode: TH4NKY0UF41RYMUCH Quick Redeem: https://store.pokemongo.com/offer-redemption?passcode=TH4NKY0UF41RYMUCH\nIt is not clear when this promo code will expire. The dates shown on this page are for the Timed Research."
         }
     ],
-    "Community Day": [
-        {
-            "title": "Deino Community Day Classic",
-            "article_url": "https://leekduck.com/events/may-communitydayclassic2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-16-may-communitydayclassic2026/deino-community-day-classic.jpg?v2",
-            "category": "Community Day",
-            "details": {
-                "bonuses": [
-                    "1-hour Lures**",
-                    "3-hour Incense*",
-                    "3x Catch XP",
-                    "Increased Spawns"
-                ],
-                "spawns": [
-                    "Deino"
-                ],
-                "shiny": [
-                    "Deino",
-                    "Hydreigon",
-                    "Zweilous"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-05-16T14:00:00",
-            "end_time": "2026-05-16T17:00:00",
-            "description": "Deino, the Irate Pokemon, will be featured during May Community Day Classic!"
-        },
-        {
-            "title": "June Community Day",
-            "article_url": "https://leekduck.com/events/june-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
-            "category": "Community Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-06-20T14:00:00",
-            "end_time": "2026-06-20T17:00:00",
-            "description": "The June Community Day event will take place on June 20, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        },
-        {
-            "title": "July Community Day",
-            "article_url": "https://leekduck.com/events/july-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
-            "category": "Community Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-07-04T14:00:00",
-            "end_time": "2026-07-04T17:00:00",
-            "description": "The July Community Day event will take place on July 4, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        },
-        {
-            "title": "August Community Day",
-            "article_url": "https://leekduck.com/events/august-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
-            "category": "Community Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-08-15T14:00:00",
-            "end_time": "2026-08-15T17:00:00",
-            "description": "The August Community Day event will take place on August 15, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        }
-    ],
     "Event": [
         {
             "title": "Spring Marathon 2026",
@@ -101,6 +40,110 @@
             "start_time": "2026-05-12T10:00:00",
             "end_time": "2026-05-18T20:00:00",
             "description": "Lace up your walking shoes and prepare for a Spring Marathon in Pokémon GO!\nThe Spring Marathon 2026 event will take place from May 12, 2026 at 10 am to May 18, 2026 at 8 pm."
+        },
+        {
+            "title": "Blanche's Quest for Knowledge",
+            "article_url": "https://leekduck.com/events/blanches-quest-for-knowledge/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-26-blanches-quest-for-knowledge/blanches-quest-for-knowledge.jpg",
+            "category": "Event",
+            "details": {
+                "spawns": [
+                    "Alolan Vulpix",
+                    "Clamperl",
+                    "Cubchoo",
+                    "Cubone",
+                    "Galarian Zigzagoon",
+                    "Horsea",
+                    "Krabby",
+                    "Lapras",
+                    "Larvitar",
+                    "Sableye",
+                    "Squirtle",
+                    "Staryu",
+                    "Vaporeon"
+                ],
+                "bonuses": [
+                    "1 Additional Candy for evolving Pokemon",
+                    "2x Incense duration",
+                    "Increased chance to receive Candy XL for evolving Pokemon (Trainers Level 31+)"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-26T10:00:00",
+            "end_time": "2026-06-01T20:00:00",
+            "description": "The Blanche’s Quest for Knowledge event will take place from May 26, 2026 at 10 am to June 1, 2026 at 8 pm.\nJoin Blanche for a research-focused adventure featuring Field Research tasks and Incense encounters."
+        },
+        {
+            "title": "Spark's Caretaking Quest",
+            "article_url": "https://leekduck.com/events/sparks-caretaking-quest/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-02-sparks-caretaking-quest/sparks-caretaking-quest.jpg",
+            "category": "Event",
+            "details": {
+                "spawns": [
+                    "Alolan Raichu",
+                    "Bulbasaur",
+                    "Combee",
+                    "Dratini",
+                    "Drowzee",
+                    "Houndour",
+                    "Jolteon",
+                    "Lileep"
+                ],
+                "eggs": [
+                    "Elekid",
+                    "Galarian Corsola",
+                    "Hisuian Qwilfish",
+                    "Pichu",
+                    "Shinx",
+                    "Varoom"
+                ],
+                "bonuses": [
+                    "1.5x Hatch Candy",
+                    "1.5x Hatch Stardust",
+                    "1/2 Hatch Distance"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-02T10:00:00",
+            "end_time": "2026-06-08T20:00:00",
+            "description": "The Spark’s Caretaking Quest event will take place from June 2, 2026 at 10 am to June 8, 2026 at 8 pm.\nTeam up with Spark for an exploration-driven adventure centered on hatching Eggs and discovering Pokemon."
+        },
+        {
+            "title": "Candela's Quest for Victory",
+            "article_url": "https://leekduck.com/events/candelas-quest-for-victory/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-09-candelas-quest-for-victory/candelas-quest-for-victory.jpg",
+            "category": "Event",
+            "details": {
+                "spawns": [
+                    "Charmander",
+                    "Flareon",
+                    "Fletchling",
+                    "Hisuian Growlithe",
+                    "Machop",
+                    "Mankey",
+                    "Ponyta",
+                    "Scyther",
+                    "Slugma"
+                ],
+                "raids": [
+                    "Hisuian Growlithe",
+                    "Honedge",
+                    "Machamp",
+                    "Magcargo",
+                    "Rockruff",
+                    "Scizor",
+                    "Scraggy"
+                ],
+                "bonuses": [
+                    "1.5x Raid Stardust",
+                    "Increased Attack bonus from friends in raids",
+                    "Receive up to two Raid Passes by spinning Photo Discs at Gyms"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-09T10:00:00",
+            "end_time": "2026-06-15T20:00:00",
+            "description": "The Candela’s Quest for Victory event will take place from June 9, 2026 at 10 am to June 15, 2026 at 8 pm.\nStep into battle alongside Candela in an event focused on raids and battling."
         },
         {
             "title": "Weekend Event",
@@ -831,6 +874,41 @@
             "start_time": "2026-05-05T10:00:00",
             "end_time": "2026-06-02T10:00:00",
             "description": "Rank up to earn rewards including an encounter with Suicune, up to 1,400 total PokéCoins, and more!\nFrom Tuesday, May 5, at 10:00 a.m. to Tuesday, June 2, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for May will be available in Pokémon GO!"
+        }
+    ],
+    "Community Day": [
+        {
+            "title": "June Community Day",
+            "article_url": "https://leekduck.com/events/june-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "category": "Community Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-06-20T14:00:00",
+            "end_time": "2026-06-20T17:00:00",
+            "description": "The June Community Day event will take place on June 20, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "July Community Day",
+            "article_url": "https://leekduck.com/events/july-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "category": "Community Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-07-04T14:00:00",
+            "end_time": "2026-07-04T17:00:00",
+            "description": "The July Community Day event will take place on July 4, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "August Community Day",
+            "article_url": "https://leekduck.com/events/august-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "category": "Community Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-08-15T14:00:00",
+            "end_time": "2026-08-15T17:00:00",
+            "description": "The August Community Day event will take place on August 15, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ]
 }
