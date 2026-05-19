@@ -12,197 +12,6 @@
             "description": "All Trainers can redeem the following code to receive Fairy type Timed Research available starting with Pokémon GO Tour in person events.\nCode: TH4NKY0UF41RYMUCH Quick Redeem: https://store.pokemongo.com/offer-redemption?passcode=TH4NKY0UF41RYMUCH\nIt is not clear when this promo code will expire. The dates shown on this page are for the Timed Research."
         }
     ],
-    "Event": [
-        {
-            "title": "Spring Marathon 2026",
-            "article_url": "https://leekduck.com/events/spring-marathon-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-12-spring-marathon-2026/spring-marathon-2026.jpg",
-            "category": "Event",
-            "details": {
-                "features": [
-                    "Espathra",
-                    "Flittle",
-                    "Marathon Visor Pikachu"
-                ],
-                "bonuses": [
-                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
-                    "2× XP for spinning a PokéStop",
-                    "GO Pass Deluxe: 3× XP for spinning a PokéStop"
-                ],
-                "eggs": [
-                    "Flittle",
-                    "Flower Crown Happiny",
-                    "Flower Crown Pichu",
-                    "Flower Crown Togepi"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-05-12T10:00:00",
-            "end_time": "2026-05-18T20:00:00",
-            "description": "Lace up your walking shoes and prepare for a Spring Marathon in Pokémon GO!\nThe Spring Marathon 2026 event will take place from May 12, 2026 at 10 am to May 18, 2026 at 8 pm."
-        },
-        {
-            "title": "Blanche's Quest for Knowledge",
-            "article_url": "https://leekduck.com/events/blanches-quest-for-knowledge/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-26-blanches-quest-for-knowledge/blanches-quest-for-knowledge.jpg",
-            "category": "Event",
-            "details": {
-                "spawns": [
-                    "Alolan Vulpix",
-                    "Clamperl",
-                    "Cubchoo",
-                    "Cubone",
-                    "Galarian Zigzagoon",
-                    "Horsea",
-                    "Krabby",
-                    "Lapras",
-                    "Larvitar",
-                    "Sableye",
-                    "Squirtle",
-                    "Staryu",
-                    "Vaporeon"
-                ],
-                "bonuses": [
-                    "1 Additional Candy for evolving Pokemon",
-                    "2x Incense duration",
-                    "Increased chance to receive Candy XL for evolving Pokemon (Trainers Level 31+)"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-05-26T10:00:00",
-            "end_time": "2026-06-01T20:00:00",
-            "description": "The Blanche’s Quest for Knowledge event will take place from May 26, 2026 at 10 am to June 1, 2026 at 8 pm.\nJoin Blanche for a research-focused adventure featuring Field Research tasks and Incense encounters."
-        },
-        {
-            "title": "Spark's Caretaking Quest",
-            "article_url": "https://leekduck.com/events/sparks-caretaking-quest/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-02-sparks-caretaking-quest/sparks-caretaking-quest.jpg",
-            "category": "Event",
-            "details": {
-                "spawns": [
-                    "Alolan Raichu",
-                    "Bulbasaur",
-                    "Combee",
-                    "Dratini",
-                    "Drowzee",
-                    "Houndour",
-                    "Jolteon",
-                    "Lileep"
-                ],
-                "eggs": [
-                    "Elekid",
-                    "Galarian Corsola",
-                    "Hisuian Qwilfish",
-                    "Pichu",
-                    "Shinx",
-                    "Varoom"
-                ],
-                "bonuses": [
-                    "1.5x Hatch Candy",
-                    "1.5x Hatch Stardust",
-                    "1/2 Hatch Distance"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-02T10:00:00",
-            "end_time": "2026-06-08T20:00:00",
-            "description": "The Spark’s Caretaking Quest event will take place from June 2, 2026 at 10 am to June 8, 2026 at 8 pm.\nTeam up with Spark for an exploration-driven adventure centered on hatching Eggs and discovering Pokemon."
-        },
-        {
-            "title": "Candela's Quest for Victory",
-            "article_url": "https://leekduck.com/events/candelas-quest-for-victory/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-09-candelas-quest-for-victory/candelas-quest-for-victory.jpg",
-            "category": "Event",
-            "details": {
-                "spawns": [
-                    "Charmander",
-                    "Flareon",
-                    "Fletchling",
-                    "Hisuian Growlithe",
-                    "Machop",
-                    "Mankey",
-                    "Ponyta",
-                    "Scyther",
-                    "Slugma"
-                ],
-                "raids": [
-                    "Hisuian Growlithe",
-                    "Honedge",
-                    "Machamp",
-                    "Magcargo",
-                    "Rockruff",
-                    "Scizor",
-                    "Scraggy"
-                ],
-                "bonuses": [
-                    "1.5x Raid Stardust",
-                    "Increased Attack bonus from friends in raids",
-                    "Receive up to two Raid Passes by spinning Photo Discs at Gyms"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-09T10:00:00",
-            "end_time": "2026-06-15T20:00:00",
-            "description": "The Candela’s Quest for Victory event will take place from June 9, 2026 at 10 am to June 15, 2026 at 8 pm.\nStep into battle alongside Candela in an event focused on raids and battling."
-        },
-        {
-            "title": "Weekend Event",
-            "article_url": "https://leekduck.com/events/weekend-event-july-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-07-18T10:00:00",
-            "end_time": "2026-07-18T20:00:00",
-            "description": "The Weekend Event event will take place on July 18, 2026 from 10 am to 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Hatch Day",
-            "article_url": "https://leekduck.com/events/hatch-day-august-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-08-08T11:00:00",
-            "end_time": "2026-08-08T17:00:00",
-            "description": "The Hatch Day event will take place on August 8, 2026 from 11 am to 5 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Example Event Template (Auto ToC Demo)",
-            "article_url": "https://leekduck.com/events/example_event/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/example_event/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-12-01T10:00:00",
-            "end_time": "2026-12-02T20:00:00",
-            "description": "This file demonstrates the reusable event pattern:\n- Keep all section if blocks in the template body.\n- Set event_toc_auto: true.\n- Fill data lists only for sections you want to show.\n- Leave unused section data empty to auto-hide both section and ToC item."
-        }
-    ],
-    "Max Mondays": [
-        {
-            "title": "Dynamax Registeel during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-05-18/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-05-18T06:00:00",
-            "end_time": "2026-05-18T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn May 18, 2026, the featured Dynamax Pokemon is Registeel.\n- Registeel"
-        },
-        {
-            "title": "Dynamax Combee during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-05-25/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-05-25T06:00:00",
-            "end_time": "2026-05-25T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn May 25, 2026, the featured Dynamax Pokemon is Combee.\n- Combee"
-        }
-    ],
     "GO Battle League": [
         {
             "title": "Master League and Catch Cup: Memories in Motion: Great League Edition | Memories in Motion",
@@ -449,6 +258,32 @@
             "start_time": "2026-08-22T14:00:00",
             "end_time": "2026-08-22T17:00:00",
             "description": "The Raid Day event will take place on August 22, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        }
+    ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Combee during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-05-25/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-25T06:00:00",
+            "end_time": "2026-05-25T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn May 25, 2026, the featured Dynamax Pokemon is Combee.\n- Combee"
+        }
+    ],
+    "Timed Research": [
+        {
+            "title": "Choose Your Path Timed Research (May 19, 2026)",
+            "article_url": "https://leekduck.com/events/choose-your-path-timed-research-2026-05-19/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-19-choose-your-path-timed-research-2026-05-19/choose-your-path-evergreen-2026-05-19.jpg",
+            "category": "Timed Research",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-05-19T10:00:00",
+            "end_time": "2026-05-26T20:00:00",
+            "description": "Niantic is testing a new branching Timed Research format during “evergreen weeks,” which are weeks without major events where seasonal gameplay takes focus.\nThis Timed Research lets you choose your own way to play for the week by selecting one of three branches based on exploration, skill, or battling.\nChoose wisely! You can select only one path and remain on that path until the end of the Timed Research.\nEach path grants a different event bonus and includes different tasks and rewards."
         }
     ],
     "Pokémon GO Fest": [
@@ -781,6 +616,145 @@
             "start_time": "2026-07-11T10:00:00",
             "end_time": "2026-07-12T19:00:00",
             "description": "Join millions of Trainers across the globe for Pokémon GO Fest 2026: Global! This worldwide event takes place from July 11, 2026 at 10 am to July 12, 2026 at 7 pm local time.\nFor the first time, GO Fest: Global is free for all Trainers who log in during event weekend. Everyone can access the featured Special Research, event bonuses, and increased Shiny encounter opportunities at no cost."
+        }
+    ],
+    "Event": [
+        {
+            "title": "Blanche's Quest for Knowledge",
+            "article_url": "https://leekduck.com/events/blanches-quest-for-knowledge/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-26-blanches-quest-for-knowledge/blanches-quest-for-knowledge.jpg",
+            "category": "Event",
+            "details": {
+                "spawns": [
+                    "Alolan Vulpix",
+                    "Clamperl",
+                    "Cubchoo",
+                    "Cubone",
+                    "Galarian Zigzagoon",
+                    "Horsea",
+                    "Krabby",
+                    "Lapras",
+                    "Larvitar",
+                    "Sableye",
+                    "Squirtle",
+                    "Staryu",
+                    "Vaporeon"
+                ],
+                "bonuses": [
+                    "1 Additional Candy for evolving Pokemon",
+                    "2x Incense duration",
+                    "Increased chance to receive Candy XL for evolving Pokemon (Trainers Level 31+)"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-26T10:00:00",
+            "end_time": "2026-06-01T20:00:00",
+            "description": "The Blanche’s Quest for Knowledge event will take place from May 26, 2026 at 10 am to June 1, 2026 at 8 pm.\nJoin Blanche for a research-focused adventure featuring Field Research tasks and Incense encounters."
+        },
+        {
+            "title": "Spark's Caretaking Quest",
+            "article_url": "https://leekduck.com/events/sparks-caretaking-quest/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-02-sparks-caretaking-quest/sparks-caretaking-quest.jpg",
+            "category": "Event",
+            "details": {
+                "spawns": [
+                    "Alolan Raichu",
+                    "Bulbasaur",
+                    "Combee",
+                    "Dratini",
+                    "Drowzee",
+                    "Houndour",
+                    "Jolteon",
+                    "Lileep"
+                ],
+                "eggs": [
+                    "Elekid",
+                    "Galarian Corsola",
+                    "Hisuian Qwilfish",
+                    "Pichu",
+                    "Shinx",
+                    "Varoom"
+                ],
+                "bonuses": [
+                    "1.5x Hatch Candy",
+                    "1.5x Hatch Stardust",
+                    "1/2 Hatch Distance"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-02T10:00:00",
+            "end_time": "2026-06-08T20:00:00",
+            "description": "The Spark’s Caretaking Quest event will take place from June 2, 2026 at 10 am to June 8, 2026 at 8 pm.\nTeam up with Spark for an exploration-driven adventure centered on hatching Eggs and discovering Pokemon."
+        },
+        {
+            "title": "Candela's Quest for Victory",
+            "article_url": "https://leekduck.com/events/candelas-quest-for-victory/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-09-candelas-quest-for-victory/candelas-quest-for-victory.jpg",
+            "category": "Event",
+            "details": {
+                "spawns": [
+                    "Charmander",
+                    "Flareon",
+                    "Fletchling",
+                    "Hisuian Growlithe",
+                    "Machop",
+                    "Mankey",
+                    "Ponyta",
+                    "Scyther",
+                    "Slugma"
+                ],
+                "raids": [
+                    "Hisuian Growlithe",
+                    "Honedge",
+                    "Machamp",
+                    "Magcargo",
+                    "Rockruff",
+                    "Scizor",
+                    "Scraggy"
+                ],
+                "bonuses": [
+                    "1.5x Raid Stardust",
+                    "Increased Attack bonus from friends in raids",
+                    "Receive up to two Raid Passes by spinning Photo Discs at Gyms"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-09T10:00:00",
+            "end_time": "2026-06-15T20:00:00",
+            "description": "The Candela’s Quest for Victory event will take place from June 9, 2026 at 10 am to June 15, 2026 at 8 pm.\nStep into battle alongside Candela in an event focused on raids and battling."
+        },
+        {
+            "title": "Weekend Event",
+            "article_url": "https://leekduck.com/events/weekend-event-july-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-07-18T10:00:00",
+            "end_time": "2026-07-18T20:00:00",
+            "description": "The Weekend Event event will take place on July 18, 2026 from 10 am to 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Hatch Day",
+            "article_url": "https://leekduck.com/events/hatch-day-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-08-08T11:00:00",
+            "end_time": "2026-08-08T17:00:00",
+            "description": "The Hatch Day event will take place on August 8, 2026 from 11 am to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Example Event Template (Auto ToC Demo)",
+            "article_url": "https://leekduck.com/events/example_event/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/example_event/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-12-01T10:00:00",
+            "end_time": "2026-12-02T20:00:00",
+            "description": "This file demonstrates the reusable event pattern:\n- Keep all section if blocks in the template body.\n- Set event_toc_auto: true.\n- Fill data lists only for sections you want to show.\n- Leave unused section data empty to auto-hide both section and ToC item."
         }
     ],
     "Season": [
