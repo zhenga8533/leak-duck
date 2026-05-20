@@ -720,6 +720,28 @@
             "start_time": "2026-05-06T06:00:00",
             "end_time": "2026-05-13T06:00:00",
             "description": "Mega Camerupt will be in Mega Raids from May 6, 2026 at 6 am to May 13, 2026 at 6 am local time."
+        },
+        {
+            "title": "Buzzwole, Pheromosa, and Xurkitree in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/buzzwole-pheromosa-xurkitree-in-5-star-raid-battles-may-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Buzzwole",
+                    "Pheromosa",
+                    "Xurkitree"
+                ],
+                "shiny": [
+                    "Buzzwole",
+                    "Pheromosa",
+                    "Xurkitree"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-13T06:00:00",
+            "end_time": "2026-05-19T22:00:00",
+            "description": "Buzzwole, Pheromosa, and Xurkitree will be in five-star raid battles from May 13, 2026 to May 19, 2026.\n- Buzzwole will appear in the Americas and Greenland.\n- Pheromosa will appear in Europe, the Middle East, Africa, and India.\n- Xurkitree will appear in the Asia-Pacific region.\nThere will also be a Raid Hour featuring these Pokemon from 6:00 pm to 7:00 pm local time on the following date:\n- May 13\nThese Pokemon will remain in their respective regions."
         }
     ],
     "Community Day": [
