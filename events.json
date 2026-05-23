@@ -710,6 +710,10 @@
                 "features": [
                     "Excavator Pikachu"
                 ],
+                "spawns": [
+                    "Kabuto",
+                    "Omanyte"
+                ],
                 "raids": [
                     "Excavator Pikachu",
                     "Mega Aerodactyl"
