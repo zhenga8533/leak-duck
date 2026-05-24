@@ -12,60 +12,6 @@
             "description": "All Trainers can redeem the following code to receive Fairy type Timed Research available starting with Pokémon GO Tour in person events.\nCode: TH4NKY0UF41RYMUCH Quick Redeem: https://store.pokemongo.com/offer-redemption?passcode=TH4NKY0UF41RYMUCH\nIt is not clear when this promo code will expire. The dates shown on this page are for the Timed Research."
         }
     ],
-    "Raid Day": [
-        {
-            "title": "Falinks Super Mega Raid Day",
-            "article_url": "https://leekduck.com/events/falinks-super-mega-raid-day-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-23-falinks-super-mega-raid-day-2026/falinks-super-mega-raid-day-2026.jpg",
-            "category": "Raid Day",
-            "details": {
-                "bonuses": [
-                    "An additional 5,000 Stardust from Super Mega Raid Battles",
-                    "An additional 5,000 XP from Super Mega Raid Battles",
-                    "Increased chance of encountering Shiny Falinks from Super Mega Raids",
-                    "Increased chance to get Rare Candy XL from Raid Battles",
-                    "Receive up to 14 free Raid Passes from spinning Gym Photo Discs",
-                    "Receive up to six free Raid Passes from spinning Gym Photo Discs",
-                    "Remote Raid Pass limit increased to 20 from Friday, May 22, at 5:00 p.m. to Saturday, May 23, 2026, at 8:00 p.m. PDT"
-                ],
-                "features": [
-                    "Mega Falinks"
-                ],
-                "raids": [
-                    "Mega Falinks"
-                ],
-                "shiny": [
-                    "Falinks"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-05-23T14:00:00",
-            "end_time": "2026-05-23T17:00:00",
-            "description": "Fall in formation and ready your Link Charges for Falinks Super Mega Raid Day!"
-        },
-        {
-            "title": "Raid Day",
-            "article_url": "https://leekduck.com/events/raid-day-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-06-27T14:00:00",
-            "end_time": "2026-06-27T17:00:00",
-            "description": "The Raid Day event will take place on June 27, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Raid Day",
-            "article_url": "https://leekduck.com/events/raid-day-august-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-08-22T14:00:00",
-            "end_time": "2026-08-22T17:00:00",
-            "description": "The Raid Day event will take place on August 22, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        }
-    ],
     "Timed Research": [
         {
             "title": "Choose Your Path Timed Research (May 19, 2026)",
@@ -820,15 +766,37 @@
     ],
     "Community Day": [
         {
-            "title": "June Community Day",
+            "title": "Frigibax Community Day",
             "article_url": "https://leekduck.com/events/june-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-20-june-communityday2026/frigibax-cd-placeholder.jpg",
             "category": "Community Day",
-            "details": {},
+            "details": {
+                "bonuses": [
+                    "1-hour Lures***",
+                    "2x Catch Candy",
+                    "2x Chance to receive Candy XL from catching Pokemon",
+                    "3-hour Incense**",
+                    "???",
+                    "Increased Spawns",
+                    "One additional Special Trade can be made for a maximum of three for the day*",
+                    "Trades made will require 50% less Stardust*"
+                ],
+                "features": [
+                    "Frigibax"
+                ],
+                "spawns": [
+                    "Frigibax"
+                ],
+                "shiny": [
+                    "Arctibax",
+                    "Baxcalibur",
+                    "Frigibax"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-06-20T14:00:00",
             "end_time": "2026-06-20T17:00:00",
-            "description": "The June Community Day event will take place on June 20, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+            "description": "Frigibax, the Ice Fin Pokémon, will be featured during June Community Day!"
         },
         {
             "title": "July Community Day",
@@ -851,6 +819,30 @@
             "start_time": "2026-08-15T14:00:00",
             "end_time": "2026-08-15T17:00:00",
             "description": "The August Community Day event will take place on August 15, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        }
+    ],
+    "Raid Day": [
+        {
+            "title": "Raid Day",
+            "article_url": "https://leekduck.com/events/raid-day-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-06-27T14:00:00",
+            "end_time": "2026-06-27T17:00:00",
+            "description": "The Raid Day event will take place on June 27, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Raid Day",
+            "article_url": "https://leekduck.com/events/raid-day-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-08-22T14:00:00",
+            "end_time": "2026-08-22T17:00:00",
+            "description": "The Raid Day event will take place on August 22, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ]
 }

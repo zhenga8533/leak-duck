@@ -3578,6 +3578,36 @@
             "start_time": "2026-05-02T14:00:00",
             "end_time": "2026-05-02T17:00:00",
             "description": "Battle in the shadow of the Volcano Pokemon on Entei Shadow Raid Day!"
+        },
+        {
+            "title": "Falinks Super Mega Raid Day",
+            "article_url": "https://leekduck.com/events/falinks-super-mega-raid-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-23-falinks-super-mega-raid-day-2026/falinks-super-mega-raid-day-2026.jpg",
+            "category": "Raid Day",
+            "details": {
+                "bonuses": [
+                    "An additional 5,000 Stardust from Super Mega Raid Battles",
+                    "An additional 5,000 XP from Super Mega Raid Battles",
+                    "Increased chance of encountering Shiny Falinks from Super Mega Raids",
+                    "Increased chance to get Rare Candy XL from Raid Battles",
+                    "Receive up to 14 free Raid Passes from spinning Gym Photo Discs",
+                    "Receive up to six free Raid Passes from spinning Gym Photo Discs",
+                    "Remote Raid Pass limit increased to 20 from Friday, May 22, at 5:00 p.m. to Saturday, May 23, 2026, at 8:00 p.m. PDT"
+                ],
+                "features": [
+                    "Mega Falinks"
+                ],
+                "raids": [
+                    "Mega Falinks"
+                ],
+                "shiny": [
+                    "Falinks"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-23T14:00:00",
+            "end_time": "2026-05-23T17:00:00",
+            "description": "Fall in formation and ready your Link Charges for Falinks Super Mega Raid Day!"
         }
     ],
     "Team GO Rocket": [
