@@ -128,6 +128,20 @@
             "rewards": [
                 {
                     "type": "encounter",
+                    "name": "Alolan Vulpix",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm37.fALOLA.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Horsea",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm116.icon.png"
+                },
+                {
+                    "type": "encounter",
                     "name": "Sinistea",
                     "shiny_available": true,
                     "cp_range": null,
@@ -164,13 +178,6 @@
         {
             "task": "Complete 7 Field Research tasks",
             "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Alolan Vulpix",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm37.fALOLA.icon.png"
-                },
                 {
                     "type": "encounter",
                     "name": "Sinistea",
