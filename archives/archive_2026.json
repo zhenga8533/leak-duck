@@ -761,6 +761,24 @@
             "start_time": "2026-05-13T06:00:00",
             "end_time": "2026-05-20T06:00:00",
             "description": "Mega Glalie will be in Mega Raids from May 13, 2026 at 6 am to May 20, 2026 at 6 am local time."
+        },
+        {
+            "title": "Tapu Bulu in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/tapu-bulu-in-5-star-raid-battles-may-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Tapu Bulu"
+                ],
+                "shiny": [
+                    "Tapu Bulu"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-20T06:00:00",
+            "end_time": "2026-05-26T22:00:00",
+            "description": "Tapu Bulu will be in five-star raid battles from May 20, 2026 to May 26, 2026.\nThere will also be a Raid Hour featuring Tapu Bulu from 6:00 pm to 7:00 pm local time on the following date:\n- May 20"
         }
     ],
     "Community Day": [
