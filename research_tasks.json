@@ -200,6 +200,64 @@
             ]
         }
     ],
+    "Pokémon GO Fest 2026: Tokyo - Team go rocket hideout Tasks": [
+        {
+            "task": "Catch 10 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Stardust",
+                    "quantity": 2000,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+                }
+            ]
+        },
+        {
+            "task": "Spin 5 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Sandile",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm551.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 10 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Poké Ball",
+                    "quantity": 10,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Poke Ball.png"
+                }
+            ]
+        },
+        {
+            "task": "Defeat a Team GO Rocket Grunt",
+            "rewards": [
+                {
+                    "type": "resource",
+                    "name": "Mewtwo Candy",
+                    "quantity": 3,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/150.png"
+                }
+            ]
+        },
+        {
+            "task": "Win a Shadow Raid",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Shadow Shard",
+                    "quantity": 4,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Shadow Shard.png"
+                }
+            ]
+        }
+    ],
     "Pokémon GO Fest 2026: Tokyo - Park research Tasks": [
         {
             "task": "Catch 10 Pokémon",
@@ -350,6 +408,248 @@
                     "name": "Rare Candy XL",
                     "quantity": 1,
                     "asset_url": "https://cdn.leekduck.com/assets/img/items/Rare Candy XL.png"
+                }
+            ]
+        }
+    ],
+    "Pokémon GO Fest 2026: Tokyo - Cultivation zone Tasks": [
+        {
+            "task": "Catch 10 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Rare Candy",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Rare Candy.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 15 different species of Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Rare Candy XL",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Rare Candy XL.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 10 different species of Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Comfey",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm764.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 10 different species of Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Mudbray",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm749.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 10 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Poké Ball",
+                    "quantity": 30,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Poke Ball.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 10 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Stardust",
+                    "quantity": 3000,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+                }
+            ]
+        },
+        {
+            "task": "Win a raid",
+            "rewards": [
+                {
+                    "type": "resource",
+                    "name": "Mewtwo Candy",
+                    "quantity": 6,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/150.png"
+                }
+            ]
+        }
+    ],
+    "Pokémon GO Fest 2026: Tokyo - City Tasks": [
+        {
+            "task": "Catch 10 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Rare Candy",
+                    "quantity": 3,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Rare Candy.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 10 different species of Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Comfey",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm764.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 5 Ice-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Pikachu",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 10 Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Mudbray",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm749.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 10 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Poké Ball",
+                    "quantity": 10,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Poke Ball.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 5 Ice-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Squirtle wearing a Pikachu Visor",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm7.cSPRING_2020_NOEVOLVE.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 10 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Stardust",
+                    "quantity": 2000,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+                }
+            ]
+        },
+        {
+            "task": "Hatch an Egg",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Caterpie",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm10.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Make a new friend",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Rare Candy XL",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Rare Candy XL.png"
+                }
+            ]
+        },
+        {
+            "task": "Send 3 Gifts to friends",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Rare Candy XL",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Rare Candy XL.png"
+                }
+            ]
+        },
+        {
+            "task": "Spin 5 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Poké Ball",
+                    "quantity": 10,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Poke Ball.png"
+                }
+            ]
+        },
+        {
+            "task": "Spin 5 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Stardust",
+                    "quantity": 2000,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+                }
+            ]
+        },
+        {
+            "task": "Win a raid",
+            "rewards": [
+                {
+                    "type": "resource",
+                    "name": "Mewtwo Candy",
+                    "quantity": 3,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/candy/xl/150.png"
+                }
+            ]
+        },
+        {
+            "task": "Win a Shadow Raid",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Shadow Shard",
+                    "quantity": 3,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Shadow Shard.png"
                 }
             ]
         }
