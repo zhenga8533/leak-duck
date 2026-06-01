@@ -4497,5 +4497,82 @@
             "end_time": 1780275600,
             "description": "We’re bringing back Community Day voting for the final Community Day of the Season! From Saturday, May 30, at 6:00 p.m. PDT to Sunday, May 31, at 6:00 p.m. PDT, you’ll be able to vote for the August Community Day featured Pokémon via the official Pokémon GO YouTube channel. The Pokémon that receives the most votes will be featured on August Community Day on August 16, 2026, at 2:00 p.m. local time."
         }
+    ],
+    "Pokémon GO Fest": [
+        {
+            "title": "Pokémon GO Fest 2026: Tokyo",
+            "article_url": "https://leekduck.com/events/pokemon-go-fest-2026-tokyo/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-29-pokemon-go-fest-2026-tokyo/pokemon-go-fest-tokyo.jpg",
+            "category": "Pokémon GO Fest",
+            "details": {
+                "bonuses": [
+                    "1.5× Hatch Candy",
+                    "1.5× Hatch Stardust",
+                    "1/2 Egg Hatch Distance",
+                    "1/2 Stardust cost for all trades",
+                    "2-hour Incense duration (excluding Daily Adventure Incense)",
+                    "2-hour Lure Module duration",
+                    "2× Catch Candy",
+                    "Hourly event-themed Field Research",
+                    "Increased chance of catching Pokémon with a Premier Ball",
+                    "Increased chance of encountering Shiny Pokémon for ticket holders",
+                    "Increased time for Party Play sessions",
+                    "Open up to 50 Gifts each ticketed citywide gameplay day",
+                    "Special event-themed Eggs",
+                    "Special event-themed stickers available from PokéStops and Gifts",
+                    "Trainer Challenges: four Timed Research challenges across Tokyo that count toward the Pokémon GO Expert medal",
+                    "Up to 6 Special Trades per day",
+                    "Up to 9 daily Raid Passes by spinning Photo Discs at Gyms"
+                ],
+                "spawns": [
+                    "Anorith",
+                    "Beldum",
+                    "Caterpie wearing a Poké Ball hat",
+                    "Comfey",
+                    "Dhelmise",
+                    "Galarian Mr. Mime",
+                    "Lapras",
+                    "Larvitar",
+                    "Mudbray",
+                    "Sandile",
+                    "Sinistea",
+                    "Squirtle",
+                    "Staryu",
+                    "Unown",
+                    "Vaporeon"
+                ],
+                "eggs": [
+                    "Anorith",
+                    "Beldum",
+                    "Caterpie wearing a Poké Ball hat",
+                    "Comfey",
+                    "Lapras",
+                    "Larvesta",
+                    "Mudbray",
+                    "Sandile",
+                    "Sinistea",
+                    "Squirtle",
+                    "Wash Rotom"
+                ],
+                "raids": [
+                    "Articuno",
+                    "Groudon",
+                    "Kyogre",
+                    "Mewtwo",
+                    "Paldean Tauros (Aqua)",
+                    "Primal Groudon",
+                    "Primal Kyogre",
+                    "Suicune"
+                ],
+                "shiny": [
+                    "Paldean Tauros (Aqua)",
+                    "Wash Rotom"
+                ]
+            },
+            "is_local_time": false,
+            "start_time": 1780016400,
+            "end_time": 1780311600,
+            "description": "Location: Tokyo Waterfront City, Tokyo, Japan Dates: May 29–June 1, 2026 Time: 10:00 a.m. – 8:00 p.m. JST (Park and citywide event hours vary by ticket)\nTrainers can look forward to exceptional coaching by Team Mystic’s leader, Blanche, during an exciting park session in Tokyo Waterfront City that will help them become their very best. Ticket-holding Trainers will also set off on a citywide adventure across four distinct City Districts in Tokyo, developing their skills and earning a unique in-game Pokémon GO Expert medal.\nAll event gameplay is exclusive to ticket holders. You will only be able to experience the park experience within Tokyo Waterfront City during the date and time noted on your event ticket. Citywide gameplay requires either a Base event ticket with citywide gameplay, a Citywide Gameplay add-on, or a City Explorer ticket."
+        }
     ]
 }
