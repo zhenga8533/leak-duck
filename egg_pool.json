@@ -278,9 +278,9 @@
             "rarity_tier": 1
         },
         {
-            "name": "Frillish",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm592.icon.png",
+            "name": "Flittle",
+            "shiny_available": false,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm955.icon.png",
             "hatch_distance": 5,
             "rarity_tier": 1
         },
@@ -317,6 +317,13 @@
     ],
     "7 km Eggs": [
         {
+            "name": "Galarian Meowth",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm52.fGALARIAN.icon.png",
+            "hatch_distance": 7,
+            "rarity_tier": 1
+        },
+        {
             "name": "Galarian Corsola",
             "shiny_available": true,
             "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm222.fGALARIAN.icon.png",
@@ -324,30 +331,37 @@
             "rarity_tier": 1
         },
         {
-            "name": "Galarian Slowpoke",
+            "name": "Galarian Zigzagoon",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm79.fGALARIAN.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm263.fGALARIAN.icon.png",
             "hatch_distance": 7,
             "rarity_tier": 1
         },
         {
-            "name": "Hisuian Sneasel",
+            "name": "Galarian Darumaka",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm215.fHISUIAN.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm554.fGALARIAN.icon.png",
             "hatch_distance": 7,
             "rarity_tier": 1
         },
         {
-            "name": "Hisuian Growlithe",
+            "name": "Galarian Stunfisk",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm58.fHISUIAN.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm618.fGALARIAN.icon.png",
             "hatch_distance": 7,
             "rarity_tier": 1
         },
         {
-            "name": "Basculin (White Striped)",
+            "name": "Alolan Geodude",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm550.fWHITE_STRIPED.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm74.fALOLA.icon.png",
+            "hatch_distance": 7,
+            "rarity_tier": 1
+        },
+        {
+            "name": "Alolan Diglett",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm50.fALOLA.icon.png",
             "hatch_distance": 7,
             "rarity_tier": 1
         }

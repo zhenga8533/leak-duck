@@ -12,253 +12,229 @@
             "description": "All Trainers can redeem the following code to receive Fairy type Timed Research available starting with Pokémon GO Tour in person events.\nCode: TH4NKY0UF41RYMUCH Quick Redeem: https://store.pokemongo.com/offer-redemption?passcode=TH4NKY0UF41RYMUCH\nIt is not clear when this promo code will expire. The dates shown on this page are for the Timed Research."
         }
     ],
-    "Event": [
+    "Raid Battles": [
         {
-            "title": "Blanche's Quest for Knowledge",
-            "article_url": "https://leekduck.com/events/blanches-quest-for-knowledge/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-26-blanches-quest-for-knowledge/blanches-quest-for-knowledge.jpg",
-            "category": "Event",
+            "title": "Shadow Cresselia in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-cresselia-in-shadow-raids-may-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
             "details": {
-                "spawns": [
-                    "Alolan Vulpix",
-                    "Clamperl",
-                    "Cubchoo",
-                    "Cubone",
-                    "Galarian Zigzagoon",
-                    "Horsea",
-                    "Krabby",
-                    "Lapras",
-                    "Larvitar",
-                    "Sableye",
-                    "Squirtle",
-                    "Staryu",
-                    "Vaporeon"
-                ],
-                "bonuses": [
-                    "1 Additional Candy for evolving Pokemon",
-                    "2x Incense duration",
-                    "Increased chance to receive Candy XL for evolving Pokemon (Trainers Level 31+)"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-05-26T10:00:00",
-            "end_time": "2026-06-01T20:00:00",
-            "description": "The Blanche’s Quest for Knowledge event will take place from May 26, 2026 at 10 am to June 1, 2026 at 8 pm.\nJoin Blanche for a research-focused adventure featuring Field Research tasks and Incense encounters."
-        },
-        {
-            "title": "Spark's Caretaking Quest",
-            "article_url": "https://leekduck.com/events/sparks-caretaking-quest/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-02-sparks-caretaking-quest/sparks-caretaking-quest.jpg",
-            "category": "Event",
-            "details": {
-                "spawns": [
-                    "Alolan Raichu",
-                    "Bulbasaur",
-                    "Combee",
-                    "Dratini",
-                    "Drowzee",
-                    "Houndour",
-                    "Jolteon",
-                    "Lileep"
-                ],
-                "eggs": [
-                    "Elekid",
-                    "Galarian Corsola",
-                    "Hisuian Qwilfish",
-                    "Pichu",
-                    "Shinx",
-                    "Varoom"
-                ],
-                "bonuses": [
-                    "1.5x Hatch Candy",
-                    "1.5x Hatch Stardust",
-                    "1/2 Hatch Distance"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-02T10:00:00",
-            "end_time": "2026-06-08T20:00:00",
-            "description": "The Spark’s Caretaking Quest event will take place from June 2, 2026 at 10 am to June 8, 2026 at 8 pm.\nTeam up with Spark for an exploration-driven adventure centered on hatching Eggs and discovering Pokemon."
-        },
-        {
-            "title": "Candela's Quest for Victory",
-            "article_url": "https://leekduck.com/events/candelas-quest-for-victory/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-09-candelas-quest-for-victory/candelas-quest-for-victory.jpg",
-            "category": "Event",
-            "details": {
-                "spawns": [
-                    "Charmander",
-                    "Flareon",
-                    "Fletchling",
-                    "Hisuian Growlithe",
-                    "Machop",
-                    "Mankey",
-                    "Ponyta",
-                    "Scyther",
-                    "Slugma"
-                ],
                 "raids": [
-                    "Hisuian Growlithe",
-                    "Honedge",
-                    "Machamp",
-                    "Magcargo",
-                    "Rockruff",
-                    "Scizor",
-                    "Scraggy"
+                    "Cresselia"
                 ],
-                "bonuses": [
-                    "1.5x Raid Stardust",
-                    "Increased Attack bonus from friends in raids",
-                    "Receive up to two Raid Passes by spinning Photo Discs at Gyms"
+                "shiny": [
+                    "Cresselia"
                 ]
             },
             "is_local_time": true,
-            "start_time": "2026-06-09T10:00:00",
-            "end_time": "2026-06-15T20:00:00",
-            "description": "The Candela’s Quest for Victory event will take place from June 9, 2026 at 10 am to June 15, 2026 at 8 pm.\nStep into battle alongside Candela in an event focused on raids and battling."
+            "start_time": "2026-05-06T06:00:00",
+            "end_time": "2026-06-02T06:00:00",
+            "description": "Shadow Cresselia will appear in Pokemon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Cresselia! Shadow Cresselia will appear in five-star Shadow Raids every weekend from May 6 to June 2."
         },
         {
-            "title": "Flying Taxi 2026",
-            "article_url": "https://leekduck.com/events/flying-taxi-2026/",
+            "title": "Tapu Fini in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/tapu-fini-in-5-star-raid-battles-may-june-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-06-23T10:00:00",
-            "end_time": "2026-06-29T20:00:00",
-            "description": "The Flying Taxi 2026 event will take place from June 23, 2026 at 10 am to June 29, 2026 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Flying Taxi: Taken Over",
-            "article_url": "https://leekduck.com/events/flying-taxi-taken-over-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-06-25T00:00:00",
-            "end_time": "2026-06-29T20:00:00",
-            "description": "The Flying Taxi: Taken Over event will take place from June 25, 2026 at 12 am to June 29, 2026 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Weekend Event",
-            "article_url": "https://leekduck.com/events/weekend-event-july-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-07-18T10:00:00",
-            "end_time": "2026-07-18T20:00:00",
-            "description": "The Weekend Event event will take place on July 18, 2026 from 10 am to 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Hatch Day",
-            "article_url": "https://leekduck.com/events/hatch-day-august-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-08-08T11:00:00",
-            "end_time": "2026-08-08T17:00:00",
-            "description": "The Hatch Day event will take place on August 8, 2026 from 11 am to 5 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Example Event Template (Auto ToC Demo)",
-            "article_url": "https://leekduck.com/events/example_event/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/example_event/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-12-01T10:00:00",
-            "end_time": "2026-12-02T20:00:00",
-            "description": "This file demonstrates the reusable event pattern:\n- Keep all section if blocks in the template body.\n- Set event_toc_auto: true.\n- Fill data lists only for sections you want to show.\n- Leave unused section data empty to auto-hide both section and ToC item."
-        },
-        {
-            "title": "Pokemon Fossil Museum - Chicago",
-            "article_url": "https://leekduck.com/events/pokemon-fossil-museum-chicago-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-22-pokemon-fossil-museum-chicago-2026/pokemon-fossil-museum-chicago-2026.jpg",
-            "category": "Event",
+            "category": "Raid Battles",
             "details": {
-                "bonuses": [
-                    "Encounter Excavator Pikachu from collaboration-themed Timed Research and Field Research",
-                    "Fossil Pokemon will appear in the wild",
-                    "In-person raids with Excavator Pikachu and Mega Aerodactyl",
-                    "Spin PokeStops to obtain event-themed stickers",
-                    "Take snapshots for a surprise",
-                    "Themed Collection Challenge"
-                ],
-                "features": [
-                    "Excavator Pikachu"
-                ],
-                "spawns": [
-                    "Kabuto",
-                    "Omanyte"
-                ],
                 "raids": [
-                    "Excavator Pikachu",
-                    "Mega Aerodactyl"
+                    "Tapu Fini"
+                ],
+                "shiny": [
+                    "Tapu Fini"
                 ]
             },
             "is_local_time": true,
-            "start_time": "2026-05-22T09:00:00",
-            "end_time": "2027-04-11T17:00:00",
-            "description": "The Pokemon Fossil Museum - Chicago event will take place from May 22, 2026 at 9 am to April 11, 2027 at 5 pm.\nThe Pokemon Fossil Museum exhibition is making its North American debut at the Field Museum in Chicago, and Pokemon GO is joining the fun with collaboration-themed gameplay during museum hours."
-        }
-    ],
-    "Max Mondays": [
-        {
-            "title": "Dynamax Inkay during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-06-01/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-06-01T06:00:00",
-            "end_time": "2026-06-01T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 1, 2026, the featured Dynamax Pokemon is Inkay.\n- Inkay"
+            "start_time": "2026-05-27T06:00:00",
+            "end_time": "2026-06-02T22:00:00",
+            "description": "Tapu Fini will be in five-star raid battles from May 27, 2026 to June 2, 2026.\nThere will also be a Raid Hour featuring Tapu Fini from 6:00 pm to 7:00 pm local time on the following date:\n- May 27"
         },
         {
-            "title": "Dynamax Electabuzz during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-06-08/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
+            "title": "Mega Medicham in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-medicham-in-mega-raids-may-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Medicham"
+                ],
+                "shiny": [
+                    "Medicham",
+                    "Mega Medicham"
+                ]
+            },
             "is_local_time": true,
-            "start_time": "2026-06-08T06:00:00",
-            "end_time": "2026-06-08T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 8, 2026, the featured Dynamax Pokemon is Electabuzz.\n- Electabuzz"
+            "start_time": "2026-05-27T06:00:00",
+            "end_time": "2026-06-03T06:00:00",
+            "description": "Mega Medicham will be in Mega Raids from May 27, 2026 at 6 am to June 3, 2026 at 6 am local time."
         },
         {
-            "title": "Dynamax Roggenrola during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-06-15/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
+            "title": "Reshiram in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/reshiram-in-5-star-raid-battles-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Reshiram"
+                ],
+                "shiny": [
+                    "Reshiram"
+                ]
+            },
             "is_local_time": true,
-            "start_time": "2026-06-15T06:00:00",
-            "end_time": "2026-06-15T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 15, 2026, the featured Dynamax Pokemon is Roggenrola.\n- Roggenrola"
+            "start_time": "2026-06-03T06:00:00",
+            "end_time": "2026-06-09T22:00:00",
+            "description": "Reshiram will be in five-star raid battles from June 3, 2026 to June 9, 2026.\nThere will also be a Raid Hour featuring Reshiram from 6:00 pm to 7:00 pm local time on the following date:\n- June 3"
         },
         {
-            "title": "Dynamax Hoothoot during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-06-22/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
+            "title": "Mega Audino in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-audino-in-mega-raids-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Audino"
+                ],
+                "shiny": [
+                    "Audino",
+                    "Mega Audino"
+                ]
+            },
             "is_local_time": true,
-            "start_time": "2026-06-22T06:00:00",
-            "end_time": "2026-06-22T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 22, 2026, the featured Dynamax Pokemon is Hoothoot.\n- Hoothoot"
+            "start_time": "2026-06-03T06:00:00",
+            "end_time": "2026-06-10T06:00:00",
+            "description": "Mega Audino will be in Mega Raids from June 3, 2026 at 6 am to June 10, 2026 at 6 am local time."
         },
         {
-            "title": "Dynamax Pidove during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-06-29/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
+            "title": "Zekrom in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/zekrom-in-5-star-raid-battles-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Zekrom"
+                ],
+                "shiny": [
+                    "Zekrom"
+                ]
+            },
             "is_local_time": true,
-            "start_time": "2026-06-29T06:00:00",
-            "end_time": "2026-06-29T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 29, 2026, the featured Dynamax Pokemon is Pidove.\n- Pidove"
+            "start_time": "2026-06-10T06:00:00",
+            "end_time": "2026-06-16T22:00:00",
+            "description": "Zekrom will be in five-star raid battles from June 10, 2026 to June 16, 2026.\nThere will also be a Raid Hour featuring Zekrom from 6:00 pm to 7:00 pm local time on the following date:\n- June 10"
+        },
+        {
+            "title": "Mega Lopunny in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-lopunny-in-mega-raids-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Lopunny"
+                ],
+                "shiny": [
+                    "Lopunny",
+                    "Mega Lopunny"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-10T06:00:00",
+            "end_time": "2026-06-17T06:00:00",
+            "description": "Mega Lopunny will be in Mega Raids from June 10, 2026 at 6 am to June 17, 2026 at 6 am local time."
+        },
+        {
+            "title": "Necrozma in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/necrozma-in-5-star-raid-battles-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Necrozma"
+                ],
+                "shiny": [
+                    "Necrozma"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-17T06:00:00",
+            "end_time": "2026-06-23T22:00:00",
+            "description": "Necrozma will be in five-star raid battles from June 17, 2026 to June 23, 2026.\nThere will also be a Raid Hour featuring Necrozma from 6:00 pm to 7:00 pm local time on the following date:\n- June 17"
+        },
+        {
+            "title": "Mega Scizor in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-scizor-in-mega-raids-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Scizor"
+                ],
+                "shiny": [
+                    "Mega Scizor",
+                    "Scizor"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-17T06:00:00",
+            "end_time": "2026-06-24T06:00:00",
+            "description": "Mega Scizor will be in Mega Raids from June 17, 2026 at 6 am to June 24, 2026 at 6 am local time."
+        },
+        {
+            "title": "Shadow Dialga in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-dialga-in-shadow-raids-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Dialga"
+                ],
+                "shiny": [
+                    "Dialga"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-02T06:00:00",
+            "end_time": "2026-06-30T22:00:00",
+            "description": "Shadow Dialga will appear in Pokemon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Dialga!\nShadow Dialga will appear in five-star Shadow Raids every weekend from June 2 to June 30."
+        },
+        {
+            "title": "Celesteela and Kartana in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/celesteela-kartana-in-5-star-raid-battles-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Celesteela",
+                    "Kartana"
+                ],
+                "shiny": [
+                    "Celesteela",
+                    "Kartana"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-24T06:00:00",
+            "end_time": "2026-06-30T22:00:00",
+            "description": "Celesteela and Kartana will be in five-star raid battles from June 24, 2026 to June 30, 2026.\n- Celesteela will appear in the Southern Hemisphere.\n- Kartana will appear in the Northern Hemisphere.\nThere will also be a Raid Hour featuring these Pokemon from 6:00 pm to 7:00 pm local time on the following date:\n- June 24\nThese Pokemon will remain in their respective regions."
+        },
+        {
+            "title": "Mega Pidgeot in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-pidgeot-in-mega-raids-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Pidgeot"
+                ],
+                "shiny": [
+                    "Mega Pidgeot",
+                    "Pidgeot"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-24T06:00:00",
+            "end_time": "2026-07-01T06:00:00",
+            "description": "Mega Pidgeot will be in Mega Raids from June 24, 2026 at 6 am to July 1, 2026 at 6 am local time."
         }
     ],
     "Season": [
@@ -350,6 +326,8 @@
                 ],
                 "eggs": [
                     "Absol",
+                    "Alolan Diglett",
+                    "Alolan Geodude",
                     "Bagon",
                     "Basculin (White Striped)",
                     "Budew",
@@ -359,10 +337,14 @@
                     "Drampa",
                     "Druddigon",
                     "Exeggcute",
+                    "Flittle",
                     "Frigibax",
-                    "Frillish",
                     "Galarian Corsola",
+                    "Galarian Darumaka",
+                    "Galarian Meowth",
                     "Galarian Slowpoke",
+                    "Galarian Stunfisk",
+                    "Galarian Zigzagoon",
                     "Hisuian Growlithe",
                     "Hisuian Sneasel",
                     "Honedge",
@@ -601,231 +583,6 @@
             "start_time": 1788292800,
             "end_time": 1788897600,
             "description": "The Great League, Ultra League, and Master League: Mega Edition will run from September 1, 2026, at 1:00 p.m. to September 8, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
-        }
-    ],
-    "Raid Battles": [
-        {
-            "title": "Shadow Cresselia in Shadow Raids",
-            "article_url": "https://leekduck.com/events/shadow-cresselia-in-shadow-raids-may-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Cresselia"
-                ],
-                "shiny": [
-                    "Cresselia"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-05-06T06:00:00",
-            "end_time": "2026-06-02T22:00:00",
-            "description": "Shadow Cresselia will appear in Pokemon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Cresselia! Shadow Cresselia will appear in five-star Shadow Raids every weekend from May 6 to June 2."
-        },
-        {
-            "title": "Tapu Fini in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/tapu-fini-in-5-star-raid-battles-may-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Tapu Fini"
-                ],
-                "shiny": [
-                    "Tapu Fini"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-05-27T06:00:00",
-            "end_time": "2026-06-02T22:00:00",
-            "description": "Tapu Fini will be in five-star raid battles from May 27, 2026 to June 2, 2026.\nThere will also be a Raid Hour featuring Tapu Fini from 6:00 pm to 7:00 pm local time on the following date:\n- May 27"
-        },
-        {
-            "title": "Mega Medicham in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-medicham-in-mega-raids-may-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Medicham"
-                ],
-                "shiny": [
-                    "Medicham",
-                    "Mega Medicham"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-05-27T06:00:00",
-            "end_time": "2026-06-03T06:00:00",
-            "description": "Mega Medicham will be in Mega Raids from May 27, 2026 at 6 am to June 3, 2026 at 6 am local time."
-        },
-        {
-            "title": "Reshiram in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/reshiram-in-5-star-raid-battles-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Reshiram"
-                ],
-                "shiny": [
-                    "Reshiram"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-03T06:00:00",
-            "end_time": "2026-06-09T22:00:00",
-            "description": "Reshiram will be in five-star raid battles from June 3, 2026 to June 9, 2026.\nThere will also be a Raid Hour featuring Reshiram from 6:00 pm to 7:00 pm local time on the following date:\n- June 3"
-        },
-        {
-            "title": "Mega Audino in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-audino-in-mega-raids-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Audino"
-                ],
-                "shiny": [
-                    "Audino",
-                    "Mega Audino"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-03T06:00:00",
-            "end_time": "2026-06-10T06:00:00",
-            "description": "Mega Audino will be in Mega Raids from June 3, 2026 at 6 am to June 10, 2026 at 6 am local time."
-        },
-        {
-            "title": "Zekrom in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/zekrom-in-5-star-raid-battles-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Zekrom"
-                ],
-                "shiny": [
-                    "Zekrom"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-10T06:00:00",
-            "end_time": "2026-06-16T22:00:00",
-            "description": "Zekrom will be in five-star raid battles from June 10, 2026 to June 16, 2026.\nThere will also be a Raid Hour featuring Zekrom from 6:00 pm to 7:00 pm local time on the following date:\n- June 10"
-        },
-        {
-            "title": "Mega Lopunny in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-lopunny-in-mega-raids-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Lopunny"
-                ],
-                "shiny": [
-                    "Lopunny",
-                    "Mega Lopunny"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-10T06:00:00",
-            "end_time": "2026-06-17T06:00:00",
-            "description": "Mega Lopunny will be in Mega Raids from June 10, 2026 at 6 am to June 17, 2026 at 6 am local time."
-        },
-        {
-            "title": "Necrozma in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/necrozma-in-5-star-raid-battles-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Necrozma"
-                ],
-                "shiny": [
-                    "Necrozma"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-17T06:00:00",
-            "end_time": "2026-06-23T22:00:00",
-            "description": "Necrozma will be in five-star raid battles from June 17, 2026 to June 23, 2026.\nThere will also be a Raid Hour featuring Necrozma from 6:00 pm to 7:00 pm local time on the following date:\n- June 17"
-        },
-        {
-            "title": "Mega Scizor in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-scizor-in-mega-raids-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Scizor"
-                ],
-                "shiny": [
-                    "Mega Scizor",
-                    "Scizor"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-17T06:00:00",
-            "end_time": "2026-06-24T06:00:00",
-            "description": "Mega Scizor will be in Mega Raids from June 17, 2026 at 6 am to June 24, 2026 at 6 am local time."
-        },
-        {
-            "title": "Shadow Dialga in Shadow Raids",
-            "article_url": "https://leekduck.com/events/shadow-dialga-in-shadow-raids-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Dialga"
-                ],
-                "shiny": [
-                    "Dialga"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-02T06:00:00",
-            "end_time": "2026-06-30T22:00:00",
-            "description": "Shadow Dialga will appear in Pokemon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Dialga!\nShadow Dialga will appear in five-star Shadow Raids every weekend from June 2 to June 30."
-        },
-        {
-            "title": "Celesteela and Kartana in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/celesteela-kartana-in-5-star-raid-battles-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Celesteela",
-                    "Kartana"
-                ],
-                "shiny": [
-                    "Celesteela",
-                    "Kartana"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-24T06:00:00",
-            "end_time": "2026-06-30T22:00:00",
-            "description": "Celesteela and Kartana will be in five-star raid battles from June 24, 2026 to June 30, 2026.\n- Celesteela will appear in the Southern Hemisphere.\n- Kartana will appear in the Northern Hemisphere.\nThere will also be a Raid Hour featuring these Pokemon from 6:00 pm to 7:00 pm local time on the following date:\n- June 24\nThese Pokemon will remain in their respective regions."
-        },
-        {
-            "title": "Mega Pidgeot in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-pidgeot-in-mega-raids-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Pidgeot"
-                ],
-                "shiny": [
-                    "Mega Pidgeot",
-                    "Pidgeot"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-24T06:00:00",
-            "end_time": "2026-07-01T06:00:00",
-            "description": "Mega Pidgeot will be in Mega Raids from June 24, 2026 at 6 am to July 1, 2026 at 6 am local time."
         }
     ],
     "Raid Hour": [
@@ -1142,6 +899,212 @@
             "start_time": "2026-07-11T10:00:00",
             "end_time": "2026-07-12T19:00:00",
             "description": "Join millions of Trainers across the globe for Pokémon GO Fest 2026: Global! This worldwide event takes place from July 11, 2026 at 10 am to July 12, 2026 at 7 pm local time.\nFor the first time, GO Fest: Global is free for all Trainers who log in during event weekend. Everyone can access the featured Special Research, event bonuses, and increased Shiny encounter opportunities at no cost."
+        }
+    ],
+    "Event": [
+        {
+            "title": "Spark's Caretaking Quest",
+            "article_url": "https://leekduck.com/events/sparks-caretaking-quest/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-02-sparks-caretaking-quest/sparks-caretaking-quest.jpg",
+            "category": "Event",
+            "details": {
+                "spawns": [
+                    "Alolan Raichu",
+                    "Bulbasaur",
+                    "Combee",
+                    "Dratini",
+                    "Drowzee",
+                    "Houndour",
+                    "Jolteon",
+                    "Lileep"
+                ],
+                "eggs": [
+                    "Elekid",
+                    "Galarian Corsola",
+                    "Hisuian Qwilfish",
+                    "Pichu",
+                    "Shinx",
+                    "Varoom"
+                ],
+                "bonuses": [
+                    "1.5x Hatch Candy",
+                    "1.5x Hatch Stardust",
+                    "1/2 Hatch Distance"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-02T10:00:00",
+            "end_time": "2026-06-08T20:00:00",
+            "description": "The Spark’s Caretaking Quest event will take place from June 2, 2026 at 10 am to June 8, 2026 at 8 pm.\nTeam up with Spark for an exploration-driven adventure centered on hatching Eggs and discovering Pokemon."
+        },
+        {
+            "title": "Candela's Quest for Victory",
+            "article_url": "https://leekduck.com/events/candelas-quest-for-victory/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-09-candelas-quest-for-victory/candelas-quest-for-victory.jpg",
+            "category": "Event",
+            "details": {
+                "spawns": [
+                    "Charmander",
+                    "Flareon",
+                    "Fletchling",
+                    "Hisuian Growlithe",
+                    "Machop",
+                    "Mankey",
+                    "Ponyta",
+                    "Scyther",
+                    "Slugma"
+                ],
+                "raids": [
+                    "Hisuian Growlithe",
+                    "Honedge",
+                    "Machamp",
+                    "Magcargo",
+                    "Rockruff",
+                    "Scizor",
+                    "Scraggy"
+                ],
+                "bonuses": [
+                    "1.5x Raid Stardust",
+                    "Increased Attack bonus from friends in raids",
+                    "Receive up to two Raid Passes by spinning Photo Discs at Gyms"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-09T10:00:00",
+            "end_time": "2026-06-15T20:00:00",
+            "description": "The Candela’s Quest for Victory event will take place from June 9, 2026 at 10 am to June 15, 2026 at 8 pm.\nStep into battle alongside Candela in an event focused on raids and battling."
+        },
+        {
+            "title": "Flying Taxi 2026",
+            "article_url": "https://leekduck.com/events/flying-taxi-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-06-23T10:00:00",
+            "end_time": "2026-06-29T20:00:00",
+            "description": "The Flying Taxi 2026 event will take place from June 23, 2026 at 10 am to June 29, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Flying Taxi: Taken Over",
+            "article_url": "https://leekduck.com/events/flying-taxi-taken-over-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-06-25T00:00:00",
+            "end_time": "2026-06-29T20:00:00",
+            "description": "The Flying Taxi: Taken Over event will take place from June 25, 2026 at 12 am to June 29, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Weekend Event",
+            "article_url": "https://leekduck.com/events/weekend-event-july-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-07-18T10:00:00",
+            "end_time": "2026-07-18T20:00:00",
+            "description": "The Weekend Event event will take place on July 18, 2026 from 10 am to 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Hatch Day",
+            "article_url": "https://leekduck.com/events/hatch-day-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-08-08T11:00:00",
+            "end_time": "2026-08-08T17:00:00",
+            "description": "The Hatch Day event will take place on August 8, 2026 from 11 am to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Example Event Template (Auto ToC Demo)",
+            "article_url": "https://leekduck.com/events/example_event/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/example_event/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-12-01T10:00:00",
+            "end_time": "2026-12-02T20:00:00",
+            "description": "This file demonstrates the reusable event pattern:\n- Keep all section if blocks in the template body.\n- Set event_toc_auto: true.\n- Fill data lists only for sections you want to show.\n- Leave unused section data empty to auto-hide both section and ToC item."
+        },
+        {
+            "title": "Pokemon Fossil Museum - Chicago",
+            "article_url": "https://leekduck.com/events/pokemon-fossil-museum-chicago-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-22-pokemon-fossil-museum-chicago-2026/pokemon-fossil-museum-chicago-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "Encounter Excavator Pikachu from collaboration-themed Timed Research and Field Research",
+                    "Fossil Pokemon will appear in the wild",
+                    "In-person raids with Excavator Pikachu and Mega Aerodactyl",
+                    "Spin PokeStops to obtain event-themed stickers",
+                    "Take snapshots for a surprise",
+                    "Themed Collection Challenge"
+                ],
+                "features": [
+                    "Excavator Pikachu"
+                ],
+                "spawns": [
+                    "Kabuto",
+                    "Omanyte"
+                ],
+                "raids": [
+                    "Excavator Pikachu",
+                    "Mega Aerodactyl"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-22T09:00:00",
+            "end_time": "2027-04-11T17:00:00",
+            "description": "The Pokemon Fossil Museum - Chicago event will take place from May 22, 2026 at 9 am to April 11, 2027 at 5 pm.\nThe Pokemon Fossil Museum exhibition is making its North American debut at the Field Museum in Chicago, and Pokemon GO is joining the fun with collaboration-themed gameplay during museum hours."
+        }
+    ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Electabuzz during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-06-08/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-06-08T06:00:00",
+            "end_time": "2026-06-08T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 8, 2026, the featured Dynamax Pokemon is Electabuzz.\n- Electabuzz"
+        },
+        {
+            "title": "Dynamax Roggenrola during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-06-15/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-06-15T06:00:00",
+            "end_time": "2026-06-15T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 15, 2026, the featured Dynamax Pokemon is Roggenrola.\n- Roggenrola"
+        },
+        {
+            "title": "Dynamax Hoothoot during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-06-22/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-06-22T06:00:00",
+            "end_time": "2026-06-22T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 22, 2026, the featured Dynamax Pokemon is Hoothoot.\n- Hoothoot"
+        },
+        {
+            "title": "Dynamax Pidove during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-06-29/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-06-29T06:00:00",
+            "end_time": "2026-06-29T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 29, 2026, the featured Dynamax Pokemon is Pidove.\n- Pidove"
         }
     ],
     "Community Day": [
