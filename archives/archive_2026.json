@@ -816,6 +816,24 @@
             "start_time": "2026-05-06T06:00:00",
             "end_time": "2026-06-02T06:00:00",
             "description": "Shadow Cresselia will appear in Pokemon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Cresselia! Shadow Cresselia will appear in five-star Shadow Raids every weekend from May 6 to June 2."
+        },
+        {
+            "title": "Tapu Fini in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/tapu-fini-in-5-star-raid-battles-may-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Tapu Fini"
+                ],
+                "shiny": [
+                    "Tapu Fini"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-27T06:00:00",
+            "end_time": "2026-06-02T22:00:00",
+            "description": "Tapu Fini will be in five-star raid battles from May 27, 2026 to June 2, 2026.\nThere will also be a Raid Hour featuring Tapu Fini from 6:00 pm to 7:00 pm local time on the following date:\n- May 27"
         }
     ],
     "Community Day": [
