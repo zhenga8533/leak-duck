@@ -798,6 +798,24 @@
             "start_time": "2026-05-20T06:00:00",
             "end_time": "2026-05-27T06:00:00",
             "description": "Mega Altaria will be in Mega Raids from May 20, 2026 at 6 am to May 27, 2026 at 6 am local time."
+        },
+        {
+            "title": "Shadow Cresselia in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-cresselia-in-shadow-raids-may-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Cresselia"
+                ],
+                "shiny": [
+                    "Cresselia"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-06T06:00:00",
+            "end_time": "2026-06-02T06:00:00",
+            "description": "Shadow Cresselia will appear in Pokemon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Cresselia! Shadow Cresselia will appear in five-star Shadow Raids every weekend from May 6 to June 2."
         }
     ],
     "Community Day": [
@@ -2925,6 +2943,29 @@
             "start_time": "2026-04-07T10:00:00",
             "end_time": "2026-05-05T10:00:00",
             "description": "Rank up to earn rewards including an encounter with Entei, a Lucky Trinket (GO Pass Deluxe), and more!\nFrom Tuesday, April 7, at 10:00 a.m. to Tuesday, May 5, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for April will be available in Pokémon GO!"
+        },
+        {
+            "title": "GO Pass: May",
+            "article_url": "https://leekduck.com/events/go-pass-may-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-05-05-go-pass-may-2026/go-pass-may-2026.jpg",
+            "category": "GO Pass",
+            "details": {
+                "bonuses": [
+                    "2× Daily Adventure Incense duration",
+                    "2× Hatch Stardust",
+                    "2× Hatch XP",
+                    "Hold 10 more Gifts in your Item Bag",
+                    "Hold up to 20 more Gifts in your Item Bag",
+                    "Open up to 40 Gifts per day",
+                    "Open up to 50 Gifts per day",
+                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-05T10:00:00",
+            "end_time": "2026-06-02T10:00:00",
+            "description": "Rank up to earn rewards including an encounter with Suicune, up to 1,400 total PokéCoins, and more!\nFrom Tuesday, May 5, at 10:00 a.m. to Tuesday, June 2, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for May will be available in Pokémon GO!"
         }
     ],
     "GO Battle League": [
@@ -3158,6 +3199,17 @@
             "start_time": 1779220800,
             "end_time": 1779825600,
             "description": "The Great League, Ultra League, and Master League will run from May 19, 2026, at 1:00 p.m. to May 26, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
+        },
+        {
+            "title": "Great League, Ultra League, and Master League | Memories in Motion",
+            "article_url": "https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-league_master-league-split-4/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-26-memories-in-motion.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1779825600,
+            "end_time": 1780430400,
+            "description": "The Great League, Ultra League, and Master League will run from May 26, 2026, at 1:00 p.m. to June 2, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
         }
     ],
     "Pokémon Spotlight Hour": [
@@ -4453,6 +4505,72 @@
             "start_time": "2025-12-02T10:00:00",
             "end_time": "2026-03-03T10:00:00",
             "description": "Welcome to the next Pokémon GO Season: Precious Paths!"
+        },
+        {
+            "title": "Memories in Motion",
+            "article_url": "https://leekduck.com/events/season-22-memories-in-motion/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-03-03-season-22-memories-in-motion/season-22-memories-in-motion.jpg",
+            "category": "Season",
+            "details": {
+                "bonuses": [
+                    "Increased XP and Stardust for a seven-day Pokémon catch streak",
+                    "Increased XP for a seven-day PokéStop spin streak",
+                    "One additional Candy when trading Pokémon in-person",
+                    "One guaranteed Candy XL when trading Pokémon in-person (Trainers level 31+)"
+                ],
+                "features": [
+                    "Dhelmise",
+                    "Dreepy",
+                    "Duraludon",
+                    "Gyarados",
+                    "Honedge",
+                    "Sinistea"
+                ],
+                "eggs": [
+                    "Alolan Diglett",
+                    "Alolan Geodude",
+                    "Audino",
+                    "Charcadet",
+                    "Chingling",
+                    "Cleffa",
+                    "Deino",
+                    "Dreepy",
+                    "Dunsparce",
+                    "Fidough",
+                    "Galarian Corsola",
+                    "Galarian Darumaka",
+                    "Galarian Meowth",
+                    "Galarian Slowpoke",
+                    "Galarian Stunfisk",
+                    "Galarian Zigzagoon",
+                    "Gible",
+                    "Goomy",
+                    "Happiny",
+                    "Hisuian Growlithe",
+                    "Hisuian Sneasel",
+                    "Honedge",
+                    "Igglybuff",
+                    "Impidimp",
+                    "Indeedee (Female)",
+                    "Indeedee (Male)",
+                    "Larvesta",
+                    "Munchlax",
+                    "Riolu",
+                    "Sizzlipede",
+                    "Skarmory",
+                    "Smoochum",
+                    "Snom",
+                    "Tadbulb",
+                    "Tinkatink",
+                    "Toxel",
+                    "Turtonator",
+                    "Wimpod"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-03-03T10:00:00",
+            "end_time": "2026-06-02T10:00:00",
+            "description": "Welcome to Pokémon GO: Memories in Motion!\nIn Pokémon GO, Seasons are periods of time that feature new events, Pokémon debuts, and surprises that all follow a certain theme. As the Seasons change, you may find different Pokémon appearing in your area and hatching from Eggs. Make sure to explore during each in-game Season to collect and train as many different Pokémon as you can! You’ll also enjoy special bonuses as you do."
         }
     ],
     "Research Day": [

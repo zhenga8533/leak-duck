@@ -294,9 +294,16 @@
     ],
     "5 km Eggs (Adventure Sync Rewards)": [
         {
-            "name": "Tyrogue",
+            "name": "Budew",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm236.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm406.icon.png",
+            "hatch_distance": 5,
+            "rarity_tier": 1
+        },
+        {
+            "name": "Chingling",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm433.icon.png",
             "hatch_distance": 5,
             "rarity_tier": 1
         },
@@ -308,9 +315,16 @@
             "rarity_tier": 1
         },
         {
-            "name": "Budew",
+            "name": "Tyrogue",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm406.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm236.icon.png",
+            "hatch_distance": 5,
+            "rarity_tier": 1
+        },
+        {
+            "name": "Happiny",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm440.icon.png",
             "hatch_distance": 5,
             "rarity_tier": 1
         }
