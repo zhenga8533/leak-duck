@@ -834,6 +834,25 @@
             "start_time": "2026-05-27T06:00:00",
             "end_time": "2026-06-02T22:00:00",
             "description": "Tapu Fini will be in five-star raid battles from May 27, 2026 to June 2, 2026.\nThere will also be a Raid Hour featuring Tapu Fini from 6:00 pm to 7:00 pm local time on the following date:\n- May 27"
+        },
+        {
+            "title": "Mega Medicham in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-medicham-in-mega-raids-may-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Medicham"
+                ],
+                "shiny": [
+                    "Medicham",
+                    "Mega Medicham"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-05-27T06:00:00",
+            "end_time": "2026-06-03T06:00:00",
+            "description": "Mega Medicham will be in Mega Raids from May 27, 2026 at 6 am to June 3, 2026 at 6 am local time."
         }
     ],
     "Community Day": [
