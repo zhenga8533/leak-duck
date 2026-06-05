@@ -42,6 +42,19 @@
                     "Unown",
                     "Varoom"
                 ],
+                "eggs": [
+                    "Bulbasaur",
+                    "Caterpie wearing a Poké Ball hat",
+                    "Comfey",
+                    "Dratini",
+                    "Elekid",
+                    "Galarian Corsola",
+                    "Larvesta",
+                    "Lileep",
+                    "Mudbray",
+                    "Varoom",
+                    "Wash Rotom"
+                ],
                 "raids": [
                     "Groudon",
                     "Kyogre",
@@ -886,15 +899,34 @@
     ],
     "Raid Day": [
         {
-            "title": "Mega Raid Day",
-            "article_url": "https://leekduck.com/events/raid-day-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "title": "Skarmory Super Mega Raid Day",
+            "article_url": "https://leekduck.com/events/skarmory-super-mega-raid-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-27-skarmory-super-mega-raid-day-2026/skarmory-super-mega-raid-day-2026.jpg",
             "category": "Raid Day",
-            "details": {},
+            "details": {
+                "bonuses": [
+                    "An additional 5,000 Stardust from Super Mega Raid Battles",
+                    "An additional 5,000 XP from Super Mega Raid Battles",
+                    "Increased chance of encountering Shiny Skarmory from Super Mega Raids",
+                    "Increased chance to get Rare Candy XL from Raid Battles",
+                    "Receive up to 14 Raid Passes from spinning Gym Photo Discs",
+                    "Receive up to six free Raid Passes from spinning Gym Photo Discs",
+                    "Remote Raid Pass limit increased to 20 from Friday, June 26, at 5:00 p.m. to Saturday, June 27, 2026, at 8:00 p.m. PDT"
+                ],
+                "features": [
+                    "Mega Skarmory"
+                ],
+                "raids": [
+                    "Mega Skarmory"
+                ],
+                "shiny": [
+                    "Skarmory"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-06-27T14:00:00",
             "end_time": "2026-06-27T17:00:00",
-            "description": "The Mega Raid Day event will take place on June 27, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+            "description": "Stay sharp for Skarmory Super Mega Raid Day!"
         },
         {
             "title": "Raid Day",
