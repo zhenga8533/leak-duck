@@ -1256,17 +1256,17 @@
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Spinda 1",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm327.f00.icon.png"
-                },
-                {
-                    "type": "encounter",
                     "name": "Spinda 2",
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm327.f01.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Spinda 3",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm327.f02.icon.png"
                 }
             ]
         },

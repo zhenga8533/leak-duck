@@ -25,6 +25,9 @@
                     "Up to 6 Special Trades per day",
                     "Up to 9 daily Raid Passes by spinning Photo Discs at Gyms"
                 ],
+                "features": [
+                    "Fan Rotom"
+                ],
                 "spawns": [
                     "Alolan Raichu",
                     "Bulbasaur",
