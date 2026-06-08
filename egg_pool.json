@@ -470,13 +470,6 @@
     ],
     "10 km Eggs (Adventure Sync Rewards)": [
         {
-            "name": "Bagon",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm371.icon.png",
-            "hatch_distance": 10,
-            "rarity_tier": 1
-        },
-        {
             "name": "Druddigon",
             "shiny_available": true,
             "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm621.icon.png",
@@ -484,9 +477,30 @@
             "rarity_tier": 1
         },
         {
+            "name": "Toxel",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm848.icon.png",
+            "hatch_distance": 10,
+            "rarity_tier": 1
+        },
+        {
+            "name": "Bagon",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm371.icon.png",
+            "hatch_distance": 10,
+            "rarity_tier": 1
+        },
+        {
             "name": "Drampa",
             "shiny_available": true,
             "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm780.icon.png",
+            "hatch_distance": 10,
+            "rarity_tier": 1
+        },
+        {
+            "name": "Gible",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm443.icon.png",
             "hatch_distance": 10,
             "rarity_tier": 1
         }
