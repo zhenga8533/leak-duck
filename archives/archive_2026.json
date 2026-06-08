@@ -4861,5 +4861,27 @@
             "end_time": 1780880400,
             "description": "Location: Grant Park, Chicago, Illinois, United States Dates: June 5–7, 2026 Time: 10:00 a.m. – 8:00 p.m. CDT (Park and citywide event hours vary by ticket)\nTrainers can look forward to exceptional coaching by Team Instinct’s leader, Spark, during an exciting park session in Grant Park that will help them become their very best. Ticket-holding Trainers will also set off on a citywide adventure across four distinct City Districts in Chicago, developing their skills and earning a unique in-game Pokémon GO Expert medal.\nAll event gameplay is exclusive to ticket holders. You will only be able to experience the park experience within Grant Park during the date and time noted on your event ticket. Citywide gameplay requires either a Base event ticket with citywide gameplay, a Citywide Gameplay add-on, or a City Explorer ticket."
         }
+    ],
+    "Twitch Drops": [
+        {
+            "title": "Twitch Drops for Pokémon GO Fest 2026: Chicago",
+            "article_url": "https://leekduck.com/events/pokemon-go-fest-2026-chicago-twitch-drops/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-07-pokemon-go-fest-2026-chicago-twitch-drops/pokemon-go-fest-chicago.jpg",
+            "category": "Twitch Drops",
+            "details": {
+                "bonuses": [
+                    "1 Incense",
+                    "1 Lucky Egg",
+                    "1 Rare Candy XL",
+                    "1 Star Piece",
+                    "50 Great Balls",
+                    "50 Poké Balls",
+                    "50 Ultra Balls"
+                ]
+            },
+            "is_local_time": false,
+            "start_time": 1780844400,
+            "end_time": 1780901940
+        }
     ]
 }
