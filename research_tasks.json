@@ -1,32 +1,6 @@
 {
     "Candela's Quest for Victory Tasks": [
         {
-            "task": "Battle in a raid with your buddy",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Scyther",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm123.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Scraggy",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm559.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Rockruff",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm744.icon.png"
-                }
-            ]
-        },
-        {
             "task": "Catch 10 Pokémon",
             "rewards": [
                 {
@@ -53,14 +27,14 @@
             ]
         },
         {
-            "task": "Power up Pokémon 5 times",
+            "task": "Battle in a raid with your buddy",
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Mankey",
+                    "name": "Scyther",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm56.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm123.icon.png"
                 },
                 {
                     "type": "encounter",
@@ -68,6 +42,13 @@
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm559.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Rockruff",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm744.icon.png"
                 }
             ]
         },
@@ -118,6 +99,25 @@
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm218.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Pokémon 5 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Mankey",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm56.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Scraggy",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm559.icon.png"
                 }
             ]
         }
@@ -244,10 +244,24 @@
             "rewards": [
                 {
                     "type": "encounter",
+                    "name": "Dratini",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm147.icon.png"
+                },
+                {
+                    "type": "encounter",
                     "name": "Bagon",
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm371.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Axew",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm610.icon.png"
                 },
                 {
                     "type": "item",
@@ -1117,6 +1131,13 @@
         {
             "task": "Make 3 Excellent Throws in a row",
             "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Larvitar",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm246.icon.png"
+                },
                 {
                     "type": "encounter",
                     "name": "Beldum",
@@ -2439,6 +2460,13 @@
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm588.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Shelmet",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm616.icon.png"
                 }
             ]
         }

@@ -1,179 +1,4 @@
 {
-    "Event": [
-        {
-            "title": "Spark's Caretaking Quest",
-            "article_url": "https://leekduck.com/events/sparks-caretaking-quest/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-02-sparks-caretaking-quest/sparks-caretaking-quest.jpg",
-            "category": "Event",
-            "details": {
-                "spawns": [
-                    "Alolan Raichu",
-                    "Bulbasaur",
-                    "Combee",
-                    "Dratini",
-                    "Drowzee",
-                    "Houndour",
-                    "Jolteon",
-                    "Lileep"
-                ],
-                "eggs": [
-                    "Elekid",
-                    "Galarian Corsola",
-                    "Hisuian Qwilfish",
-                    "Pichu",
-                    "Shinx",
-                    "Varoom"
-                ],
-                "bonuses": [
-                    "1.5x Hatch Candy",
-                    "1.5x Hatch Stardust",
-                    "1/2 Hatch Distance"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-02T10:00:00",
-            "end_time": "2026-06-08T20:00:00",
-            "description": "The Spark’s Caretaking Quest event will take place from June 2, 2026 at 10 am to June 8, 2026 at 8 pm.\nTeam up with Spark for an exploration-driven adventure centered on hatching Eggs and discovering Pokemon."
-        },
-        {
-            "title": "Candela's Quest for Victory",
-            "article_url": "https://leekduck.com/events/candelas-quest-for-victory/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-09-candelas-quest-for-victory/candelas-quest-for-victory.jpg",
-            "category": "Event",
-            "details": {
-                "spawns": [
-                    "Charmander",
-                    "Flareon",
-                    "Fletchling",
-                    "Hisuian Growlithe",
-                    "Machop",
-                    "Mankey",
-                    "Ponyta",
-                    "Scyther",
-                    "Slugma"
-                ],
-                "raids": [
-                    "Hisuian Growlithe",
-                    "Honedge",
-                    "Machamp",
-                    "Magcargo",
-                    "Rockruff",
-                    "Scizor",
-                    "Scraggy"
-                ],
-                "bonuses": [
-                    "1.5x Raid Stardust",
-                    "Increased Attack bonus from friends in raids",
-                    "Receive up to two Raid Passes by spinning Photo Discs at Gyms"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-09T10:00:00",
-            "end_time": "2026-06-15T20:00:00",
-            "description": "The Candela’s Quest for Victory event will take place from June 9, 2026 at 10 am to June 15, 2026 at 8 pm.\nStep into battle alongside Candela in an event focused on raids and battling."
-        },
-        {
-            "title": "Flying Taxi 2026",
-            "article_url": "https://leekduck.com/events/flying-taxi-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-06-23T10:00:00",
-            "end_time": "2026-06-29T20:00:00",
-            "description": "The Flying Taxi 2026 event will take place from June 23, 2026 at 10 am to June 29, 2026 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Flying Taxi: Taken Over",
-            "article_url": "https://leekduck.com/events/flying-taxi-taken-over-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-06-25T00:00:00",
-            "end_time": "2026-06-29T20:00:00",
-            "description": "The Flying Taxi: Taken Over event will take place from June 25, 2026 at 12 am to June 29, 2026 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Weekend Event",
-            "article_url": "https://leekduck.com/events/weekend-event-july-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-07-18T10:00:00",
-            "end_time": "2026-07-18T20:00:00",
-            "description": "The Weekend Event event will take place on July 18, 2026 from 10 am to 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Hatch Day",
-            "article_url": "https://leekduck.com/events/hatch-day-august-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-08-08T11:00:00",
-            "end_time": "2026-08-08T17:00:00",
-            "description": "The Hatch Day event will take place on August 8, 2026 from 11 am to 5 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Example Event Template (Auto ToC Demo)",
-            "article_url": "https://leekduck.com/events/example_event/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/example_event/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-12-01T10:00:00",
-            "end_time": "2026-12-02T20:00:00",
-            "description": "This file demonstrates the reusable event pattern:\n- Keep all section if blocks in the template body.\n- Set event_toc_auto: true.\n- Fill data lists only for sections you want to show.\n- Leave unused section data empty to auto-hide both section and ToC item."
-        }
-    ],
-    "Max Mondays": [
-        {
-            "title": "Dynamax Electabuzz during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-06-08/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-06-08T06:00:00",
-            "end_time": "2026-06-08T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 8, 2026, the featured Dynamax Pokemon is Electabuzz.\n- Electabuzz"
-        },
-        {
-            "title": "Dynamax Roggenrola during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-06-15/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-06-15T06:00:00",
-            "end_time": "2026-06-15T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 15, 2026, the featured Dynamax Pokemon is Roggenrola.\n- Roggenrola"
-        },
-        {
-            "title": "Dynamax Hoothoot during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-06-22/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-06-22T06:00:00",
-            "end_time": "2026-06-22T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 22, 2026, the featured Dynamax Pokemon is Hoothoot.\n- Hoothoot"
-        },
-        {
-            "title": "Dynamax Pidove during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-06-29/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-06-29T06:00:00",
-            "end_time": "2026-06-29T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 29, 2026, the featured Dynamax Pokemon is Pidove.\n- Pidove"
-        }
-    ],
     "GO Battle League": [
         {
             "title": "Great League and Pokémon North America International Championships 2026 Cup: Great League Edition | Forever Forward",
@@ -741,6 +566,135 @@
             "start_time": "2026-07-11T10:00:00",
             "end_time": "2026-07-12T19:00:00",
             "description": "Join millions of Trainers across the globe for Pokémon GO Fest 2026: Global! This worldwide event takes place from July 11, 2026 at 10 am to July 12, 2026 at 7 pm local time.\nFor the first time, GO Fest: Global is free for all Trainers who log in during event weekend. Everyone can access the featured Special Research, event bonuses, and increased Shiny encounter opportunities at no cost."
+        }
+    ],
+    "Event": [
+        {
+            "title": "Candela's Quest for Victory",
+            "article_url": "https://leekduck.com/events/candelas-quest-for-victory/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-09-candelas-quest-for-victory/candelas-quest-for-victory.jpg",
+            "category": "Event",
+            "details": {
+                "spawns": [
+                    "Charmander",
+                    "Flareon",
+                    "Fletchling",
+                    "Hisuian Growlithe",
+                    "Machop",
+                    "Mankey",
+                    "Ponyta",
+                    "Scyther",
+                    "Slugma"
+                ],
+                "raids": [
+                    "Hisuian Growlithe",
+                    "Honedge",
+                    "Machamp",
+                    "Magcargo",
+                    "Rockruff",
+                    "Scizor",
+                    "Scraggy"
+                ],
+                "bonuses": [
+                    "1.5x Raid Stardust",
+                    "Increased Attack bonus from friends in raids",
+                    "Receive up to two Raid Passes by spinning Photo Discs at Gyms"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-09T10:00:00",
+            "end_time": "2026-06-15T20:00:00",
+            "description": "The Candela’s Quest for Victory event will take place from June 9, 2026 at 10 am to June 15, 2026 at 8 pm.\nStep into battle alongside Candela in an event focused on raids and battling."
+        },
+        {
+            "title": "Flying Taxi 2026",
+            "article_url": "https://leekduck.com/events/flying-taxi-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-06-23T10:00:00",
+            "end_time": "2026-06-29T20:00:00",
+            "description": "The Flying Taxi 2026 event will take place from June 23, 2026 at 10 am to June 29, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Flying Taxi: Taken Over",
+            "article_url": "https://leekduck.com/events/flying-taxi-taken-over-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-06-25T00:00:00",
+            "end_time": "2026-06-29T20:00:00",
+            "description": "The Flying Taxi: Taken Over event will take place from June 25, 2026 at 12 am to June 29, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Weekend Event",
+            "article_url": "https://leekduck.com/events/weekend-event-july-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-07-18T10:00:00",
+            "end_time": "2026-07-18T20:00:00",
+            "description": "The Weekend Event event will take place on July 18, 2026 from 10 am to 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Hatch Day",
+            "article_url": "https://leekduck.com/events/hatch-day-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-08-08T11:00:00",
+            "end_time": "2026-08-08T17:00:00",
+            "description": "The Hatch Day event will take place on August 8, 2026 from 11 am to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Example Event Template (Auto ToC Demo)",
+            "article_url": "https://leekduck.com/events/example_event/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/example_event/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-12-01T10:00:00",
+            "end_time": "2026-12-02T20:00:00",
+            "description": "This file demonstrates the reusable event pattern:\n- Keep all section if blocks in the template body.\n- Set event_toc_auto: true.\n- Fill data lists only for sections you want to show.\n- Leave unused section data empty to auto-hide both section and ToC item."
+        }
+    ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Roggenrola during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-06-15/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-06-15T06:00:00",
+            "end_time": "2026-06-15T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 15, 2026, the featured Dynamax Pokemon is Roggenrola.\n- Roggenrola"
+        },
+        {
+            "title": "Dynamax Hoothoot during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-06-22/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-06-22T06:00:00",
+            "end_time": "2026-06-22T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 22, 2026, the featured Dynamax Pokemon is Hoothoot.\n- Hoothoot"
+        },
+        {
+            "title": "Dynamax Pidove during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-06-29/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-06-29T06:00:00",
+            "end_time": "2026-06-29T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 29, 2026, the featured Dynamax Pokemon is Pidove.\n- Pidove"
         }
     ],
     "Community Day": [
