@@ -607,17 +607,6 @@
             "description": "The Candela’s Quest for Victory event will take place from June 9, 2026 at 10 am to June 15, 2026 at 8 pm.\nStep into battle alongside Candela in an event focused on raids and battling."
         },
         {
-            "title": "Flying Taxi 2026",
-            "article_url": "https://leekduck.com/events/flying-taxi-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-06-23T10:00:00",
-            "end_time": "2026-06-29T20:00:00",
-            "description": "The Flying Taxi 2026 event will take place from June 23, 2026 at 10 am to June 29, 2026 at 8 pm. Stay tuned for more details."
-        },
-        {
             "title": "Flying Taxi: Taken Over",
             "article_url": "https://leekduck.com/events/flying-taxi-taken-over-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
@@ -627,6 +616,41 @@
             "start_time": "2026-06-25T00:00:00",
             "end_time": "2026-06-29T20:00:00",
             "description": "The Flying Taxi: Taken Over event will take place from June 25, 2026 at 12 am to June 29, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Flying Taxi",
+            "article_url": "https://leekduck.com/events/flying-taxi-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-23-flying-taxi-2026/flying-taxi-2026.jpg",
+            "category": "Event",
+            "details": {
+                "features": [
+                    "Squawkabilly (Blue)",
+                    "Squawkabilly (Green)",
+                    "Squawkabilly (White)",
+                    "Squawkabilly (Yellow)"
+                ],
+                "spawns": [
+                    "Hoothoot",
+                    "Rookidee",
+                    "Squawkabilly (White)"
+                ],
+                "raids": [
+                    "Bombirdier",
+                    "Corvisquire",
+                    "Hisuian Braviary",
+                    "Starly",
+                    "Swablu",
+                    "Vullaby"
+                ],
+                "bonuses": [
+                    "2× Catch Candy",
+                    "Earn more Stardust from defeating Team GO Rocket Grunts and Leaders"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-23T10:00:00",
+            "end_time": "2026-06-29T20:00:00",
+            "description": "Take flight as Squawkabilly makes its Pokémon GO debut!\nThe Flying Taxi event will take place from June 23, 2026 at 10 am to June 29, 2026 at 8 pm."
         },
         {
             "title": "Weekend Event",
