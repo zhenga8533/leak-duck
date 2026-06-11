@@ -1,174 +1,4 @@
 {
-    "Raid Battles": [
-        {
-            "title": "Reshiram in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/reshiram-in-5-star-raid-battles-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Reshiram"
-                ],
-                "shiny": [
-                    "Reshiram"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-03T06:00:00",
-            "end_time": "2026-06-09T22:00:00",
-            "description": "Reshiram will be in five-star raid battles from June 3, 2026 to June 9, 2026.\nThere will also be a Raid Hour featuring Reshiram from 6:00 pm to 7:00 pm local time on the following date:\n- June 3"
-        },
-        {
-            "title": "Mega Audino in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-audino-in-mega-raids-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Audino"
-                ],
-                "shiny": [
-                    "Audino",
-                    "Mega Audino"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-03T06:00:00",
-            "end_time": "2026-06-10T06:00:00",
-            "description": "Mega Audino will be in Mega Raids from June 3, 2026 at 6 am to June 10, 2026 at 6 am local time."
-        },
-        {
-            "title": "Zekrom in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/zekrom-in-5-star-raid-battles-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Zekrom"
-                ],
-                "shiny": [
-                    "Zekrom"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-10T06:00:00",
-            "end_time": "2026-06-16T22:00:00",
-            "description": "Zekrom will be in five-star raid battles from June 10, 2026 to June 16, 2026.\nThere will also be a Raid Hour featuring Zekrom from 6:00 pm to 7:00 pm local time on the following date:\n- June 10"
-        },
-        {
-            "title": "Mega Lopunny in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-lopunny-in-mega-raids-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Lopunny"
-                ],
-                "shiny": [
-                    "Lopunny",
-                    "Mega Lopunny"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-10T06:00:00",
-            "end_time": "2026-06-17T06:00:00",
-            "description": "Mega Lopunny will be in Mega Raids from June 10, 2026 at 6 am to June 17, 2026 at 6 am local time."
-        },
-        {
-            "title": "Necrozma in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/necrozma-in-5-star-raid-battles-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Necrozma"
-                ],
-                "shiny": [
-                    "Necrozma"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-17T06:00:00",
-            "end_time": "2026-06-23T22:00:00",
-            "description": "Necrozma will be in five-star raid battles from June 17, 2026 to June 23, 2026.\nThere will also be a Raid Hour featuring Necrozma from 6:00 pm to 7:00 pm local time on the following date:\n- June 17"
-        },
-        {
-            "title": "Mega Scizor in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-scizor-in-mega-raids-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Scizor"
-                ],
-                "shiny": [
-                    "Mega Scizor",
-                    "Scizor"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-17T06:00:00",
-            "end_time": "2026-06-24T06:00:00",
-            "description": "Mega Scizor will be in Mega Raids from June 17, 2026 at 6 am to June 24, 2026 at 6 am local time."
-        },
-        {
-            "title": "Shadow Dialga in Shadow Raids",
-            "article_url": "https://leekduck.com/events/shadow-dialga-in-shadow-raids-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Dialga"
-                ],
-                "shiny": [
-                    "Dialga"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-02T06:00:00",
-            "end_time": "2026-06-30T22:00:00",
-            "description": "Shadow Dialga will appear in Pokemon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Dialga!\nShadow Dialga will appear in five-star Shadow Raids every weekend from June 2 to June 30."
-        },
-        {
-            "title": "Celesteela and Kartana in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/celesteela-kartana-in-5-star-raid-battles-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Celesteela",
-                    "Kartana"
-                ],
-                "shiny": [
-                    "Celesteela",
-                    "Kartana"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-24T06:00:00",
-            "end_time": "2026-06-30T22:00:00",
-            "description": "Celesteela and Kartana will be in five-star raid battles from June 24, 2026 to June 30, 2026.\n- Celesteela will appear in the Southern Hemisphere.\n- Kartana will appear in the Northern Hemisphere.\nThere will also be a Raid Hour featuring these Pokemon from 6:00 pm to 7:00 pm local time on the following date:\n- June 24\nThese Pokemon will remain in their respective regions."
-        },
-        {
-            "title": "Mega Pidgeot in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-pidgeot-in-mega-raids-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Pidgeot"
-                ],
-                "shiny": [
-                    "Mega Pidgeot",
-                    "Pidgeot"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-24T06:00:00",
-            "end_time": "2026-07-01T06:00:00",
-            "description": "Mega Pidgeot will be in Mega Raids from June 24, 2026 at 6 am to July 1, 2026 at 6 am local time."
-        }
-    ],
     "Raid Hour": [
         {
             "title": "Zekrom Raid Hour",
@@ -727,6 +557,207 @@
             "description": "The Great League, Ultra League, and Master League: Mega Edition will run from September 1, 2026, at 1:00 p.m. to September 8, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
         }
     ],
+    "Raid Battles": [
+        {
+            "title": "Zekrom in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/zekrom-in-5-star-raid-battles-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Zekrom"
+                ],
+                "shiny": [
+                    "Zekrom"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-10T06:00:00",
+            "end_time": "2026-06-16T22:00:00",
+            "description": "Zekrom will be in five-star raid battles from June 10, 2026 to June 16, 2026.\nThere will also be a Raid Hour featuring Zekrom from 6:00 pm to 7:00 pm local time on the following date:\n- June 10"
+        },
+        {
+            "title": "Mega Lopunny in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-lopunny-in-mega-raids-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Lopunny"
+                ],
+                "shiny": [
+                    "Lopunny",
+                    "Mega Lopunny"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-10T06:00:00",
+            "end_time": "2026-06-17T06:00:00",
+            "description": "Mega Lopunny will be in Mega Raids from June 10, 2026 at 6 am to June 17, 2026 at 6 am local time."
+        },
+        {
+            "title": "Necrozma in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/necrozma-in-5-star-raid-battles-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Necrozma"
+                ],
+                "shiny": [
+                    "Necrozma"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-17T06:00:00",
+            "end_time": "2026-06-23T22:00:00",
+            "description": "Necrozma will be in five-star raid battles from June 17, 2026 to June 23, 2026.\nThere will also be a Raid Hour featuring Necrozma from 6:00 pm to 7:00 pm local time on the following date:\n- June 17"
+        },
+        {
+            "title": "Mega Scizor in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-scizor-in-mega-raids-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Scizor"
+                ],
+                "shiny": [
+                    "Mega Scizor",
+                    "Scizor"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-17T06:00:00",
+            "end_time": "2026-06-24T06:00:00",
+            "description": "Mega Scizor will be in Mega Raids from June 17, 2026 at 6 am to June 24, 2026 at 6 am local time."
+        },
+        {
+            "title": "Shadow Dialga in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-dialga-in-shadow-raids-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Dialga"
+                ],
+                "shiny": [
+                    "Dialga"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-02T06:00:00",
+            "end_time": "2026-06-30T22:00:00",
+            "description": "Shadow Dialga will appear in Pokemon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Dialga!\nShadow Dialga will appear in five-star Shadow Raids every weekend from June 2 to June 30."
+        },
+        {
+            "title": "Celesteela and Kartana in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/celesteela-kartana-in-5-star-raid-battles-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Celesteela",
+                    "Kartana"
+                ],
+                "shiny": [
+                    "Celesteela",
+                    "Kartana"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-24T06:00:00",
+            "end_time": "2026-06-30T22:00:00",
+            "description": "Celesteela and Kartana will be in five-star raid battles from June 24, 2026 to June 30, 2026.\n- Celesteela will appear in the Southern Hemisphere.\n- Kartana will appear in the Northern Hemisphere.\nThere will also be a Raid Hour featuring these Pokemon from 6:00 pm to 7:00 pm local time on the following date:\n- June 24\nThese Pokemon will remain in their respective regions."
+        },
+        {
+            "title": "Mega Pidgeot in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-pidgeot-in-mega-raids-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Pidgeot"
+                ],
+                "shiny": [
+                    "Mega Pidgeot",
+                    "Pidgeot"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-24T06:00:00",
+            "end_time": "2026-07-01T06:00:00",
+            "description": "Mega Pidgeot will be in Mega Raids from June 24, 2026 at 6 am to July 1, 2026 at 6 am local time."
+        }
+    ],
+    "Pokémon Spotlight Hour": [
+        {
+            "title": "Swinub Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-06-18/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-06-18T18:00:00",
+            "end_time": "2026-06-18T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday.\nJune 18: The featured Pokémon is Swinub and the special bonus is 2× Transfer Candy."
+        },
+        {
+            "title": "Wingull Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-06-25/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-06-25T18:00:00",
+            "end_time": "2026-06-25T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday.\nJune 25: The featured Pokémon is Wingull and the special bonus is 2× Catch Stardust."
+        },
+        {
+            "title": "Pidgey Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-07-02/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-07-02T18:00:00",
+            "end_time": "2026-07-02T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday.\nJuly 2: The featured Pokémon is Pidgey and the special bonus is 2× Evolution XP."
+        },
+        {
+            "title": "Zubat Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-07-16/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-07-16T18:00:00",
+            "end_time": "2026-07-16T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday.\nJuly 16: The featured Pokémon is Zubat and the special bonus is 2× Catch XP."
+        },
+        {
+            "title": "Eevee Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-07-23/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-07-23T18:00:00",
+            "end_time": "2026-07-23T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday.\nJuly 23: The featured Pokémon is Eevee and the special bonus is 2× Catch Candy."
+        },
+        {
+            "title": "Bidoof Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-07-30/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-07-30T18:00:00",
+            "end_time": "2026-07-30T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday.\nJuly 30: The featured Pokémon is Bidoof and the special bonus is 2× Transfer Candy."
+        }
+    ],
     "Community Day": [
         {
             "title": "Frigibax Community Day",
@@ -782,6 +813,52 @@
             "start_time": "2026-08-15T14:00:00",
             "end_time": "2026-08-15T17:00:00",
             "description": "The August Community Day event will take place on August 15, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        }
+    ],
+    "Choose Your Path": [
+        {
+            "title": "Choose Your Path: Fossil Fun",
+            "article_url": "https://leekduck.com/events/choose-your-path-fossil-fun-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/choose-your-path-evergreen.jpg",
+            "category": "Choose Your Path",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-06-17T10:00:00",
+            "end_time": "2026-06-21T20:00:00",
+            "description": "Choose Your Path Timed Research is a new way to play during non-event weeks, giving you the freedom to explore Pokémon GO your way!\nDuring a Choose Your Path Timed Research week, you’ll be able to select one of three paths: Explore, Catch, or Battle. Your choice will shape the Timed Research tasks and bonuses throughout the week.\nYou may have different research opportunities than other Trainers."
+        },
+        {
+            "title": "Choose Your Path: Charged Embers",
+            "article_url": "https://leekduck.com/events/choose-your-path-charged-embers-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/choose-your-path-evergreen.jpg",
+            "category": "Choose Your Path",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-06-30T10:00:00",
+            "end_time": "2026-07-03T20:00:00",
+            "description": "Choose Your Path Timed Research is a new way to play during non-event weeks, giving you the freedom to explore Pokémon GO your way!\nDuring a Choose Your Path Timed Research week, you’ll be able to select one of three paths: Explore, Catch, or Battle. Your choice will shape the Timed Research tasks and bonuses throughout the week.\nYou may have different research opportunities than other Trainers."
+        },
+        {
+            "title": "Choose Your Path: Fairy Trail",
+            "article_url": "https://leekduck.com/events/choose-your-path-fairy-trail-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/choose-your-path-evergreen.jpg",
+            "category": "Choose Your Path",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-07-28T10:00:00",
+            "end_time": "2026-08-03T20:00:00",
+            "description": "Choose Your Path Timed Research is a new way to play during non-event weeks, giving you the freedom to explore Pokémon GO your way!\nDuring a Choose Your Path Timed Research week, you’ll be able to select one of three paths: Explore, Catch, or Battle. Your choice will shape the Timed Research tasks and bonuses throughout the week.\nYou may have different research opportunities than other Trainers."
+        },
+        {
+            "title": "Choose Your Path: Venom and Vines",
+            "article_url": "https://leekduck.com/events/choose-your-path-venom-and-vines-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/choose-your-path-evergreen.jpg",
+            "category": "Choose Your Path",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-08-11T10:00:00",
+            "end_time": "2026-08-17T20:00:00",
+            "description": "Choose Your Path Timed Research is a new way to play during non-event weeks, giving you the freedom to explore Pokémon GO your way!\nDuring a Choose Your Path Timed Research week, you’ll be able to select one of three paths: Explore, Catch, or Battle. Your choice will shape the Timed Research tasks and bonuses throughout the week.\nYou may have different research opportunities than other Trainers."
         }
     ],
     "Raid Day": [
