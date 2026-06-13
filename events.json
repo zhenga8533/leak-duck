@@ -207,6 +207,19 @@
             "description": "Join millions of Trainers across the globe for Pokémon GO Fest 2026: Global! This worldwide event takes place from July 11, 2026 at 10 am to July 12, 2026 at 7 pm local time.\nFor the first time, GO Fest: Global is free for all Trainers who log in during event weekend. Everyone can access the featured Special Research, event bonuses, and increased Shiny encounter opportunities at no cost."
         }
     ],
+    "Research": [
+        {
+            "title": "Twitch Drops for 2026 Pokémon North American International Championships",
+            "article_url": "https://leekduck.com/events/naic-2026-timed-research-twitch-drops/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-12-naic-2026-timed-research-twitch-drops/naic-2026-go-drops.png",
+            "category": "Research",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1781272800,
+            "end_time": 1781578740,
+            "description": "Get codes for exclusive Timed Research and a Battle Bundle during the 2026 Pokémon North American International Championships Twitch broadcast.\nWhen P4T0M4N reached the top at the 2026 Pokémon GO Europe International Championships, he had his faithful Seaking helping him along the way. Watch the 2026 NAIC stream, and you can get one of your own to join your team.\nTune in to Twitch.tv/PokemonGO during NAIC or the Grand Finals on Twitch.tv/Pokemon, and you’ll earn rewards the longer you watch. Here’s what you can get:\nWatch for 30 minutes: Unique Timed Research that includes the following.\n- An encounter with a Seaking that knows the move Icy Wind\n- 20 Goldeen Candy XL\n- 10 Charged TMs\n- 10 Fast TMs\nWatch for 45 minutes: An NAIC Battle Bundle that includes the following.\n- 1 Elite Charged TM\n- 1 Rare Candy XL\n- 25 Charged TMs\n- 25 Fast TMs\nBoth redemptions must be claimed by June 26, 2026, at 8:00 p.m. PDT.\nFind more information on the Timed Research from the Twitch Drops in the Research section."
+        }
+    ],
     "Event": [
         {
             "title": "Candela's Quest for Victory",
