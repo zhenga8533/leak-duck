@@ -2421,6 +2421,43 @@
             "start_time": "2026-06-02T10:00:00",
             "end_time": "2026-06-08T20:00:00",
             "description": "The Spark’s Caretaking Quest event will take place from June 2, 2026 at 10 am to June 8, 2026 at 8 pm.\nTeam up with Spark for an exploration-driven adventure centered on hatching Eggs and discovering Pokemon."
+        },
+        {
+            "title": "Candela's Quest for Victory",
+            "article_url": "https://leekduck.com/events/candelas-quest-for-victory/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-09-candelas-quest-for-victory/candelas-quest-for-victory.jpg",
+            "category": "Event",
+            "details": {
+                "spawns": [
+                    "Charmander",
+                    "Flareon",
+                    "Fletchling",
+                    "Hisuian Growlithe",
+                    "Machop",
+                    "Mankey",
+                    "Ponyta",
+                    "Scyther",
+                    "Slugma"
+                ],
+                "raids": [
+                    "Hisuian Growlithe",
+                    "Honedge",
+                    "Machamp",
+                    "Magcargo",
+                    "Rockruff",
+                    "Scizor",
+                    "Scraggy"
+                ],
+                "bonuses": [
+                    "1.5x Raid Stardust",
+                    "Increased Attack bonus from friends in raids",
+                    "Receive up to two Raid Passes by spinning Photo Discs at Gyms"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-09T10:00:00",
+            "end_time": "2026-06-15T20:00:00",
+            "description": "The Candela’s Quest for Victory event will take place from June 9, 2026 at 10 am to June 15, 2026 at 8 pm.\nStep into battle alongside Candela in an event focused on raids and battling."
         }
     ],
     "PokéStop Showcase": [
@@ -2920,6 +2957,17 @@
             "start_time": "2026-06-08T06:00:00",
             "end_time": "2026-06-08T21:00:00",
             "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 8, 2026, the featured Dynamax Pokemon is Electabuzz.\n- Electabuzz"
+        },
+        {
+            "title": "Dynamax Roggenrola during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-06-15/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-06-15T06:00:00",
+            "end_time": "2026-06-15T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 15, 2026, the featured Dynamax Pokemon is Roggenrola.\n- Roggenrola"
         }
     ],
     "GO Pass": [
@@ -4110,6 +4158,17 @@
             "start_time": "2026-02-19T19:00:00",
             "end_time": "2026-03-02T00:00:00",
             "description": "All Trainers can redeem the following code to receive Fairy type Timed Research available starting with Pokémon GO Tour in person events.\nCode: TH4NKY0UF41RYMUCH Quick Redeem: https://store.pokemongo.com/offer-redemption?passcode=TH4NKY0UF41RYMUCH\nIt is not clear when this promo code will expire. The dates shown on this page are for the Timed Research."
+        },
+        {
+            "title": "Twitch Drops for 2026 Pokémon North American International Championships",
+            "article_url": "https://leekduck.com/events/naic-2026-timed-research-twitch-drops/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-12-naic-2026-timed-research-twitch-drops/2026-naic-go-drops.png",
+            "category": "Research",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1781272800,
+            "end_time": 1781578740,
+            "description": "Get codes for exclusive Timed Research and a Battle Bundle during the 2026 Pokémon North American International Championships Twitch broadcast.\nWhen P4T0M4N reached the top at the 2026 Pokémon GO Europe International Championships, he had his faithful Seaking helping him along the way. Watch the 2026 NAIC stream, and you can get one of your own to join your team.\nTune in to Twitch.tv/PokemonGO during NAIC or the Grand Finals on Twitch.tv/Pokemon, and you’ll earn rewards the longer you watch. Here’s what you can get:\nWatch for 30 minutes: Unique Timed Research that includes the following.\n- An encounter with a Seaking that knows the move Icy Wind\n- 20 Goldeen Candy XL\n- 10 Charged TMs\n- 10 Fast TMs\nWatch for 45 minutes: An NAIC Battle Bundle that includes the following.\n- 1 Elite Charged TM\n- 1 Rare Candy XL\n- 25 Charged TMs\n- 25 Fast TMs\nBoth redemptions must be claimed by June 26, 2026, at 8:00 p.m. PDT.\nFind more information on the Timed Research from the Twitch Drops in the Research section."
         }
     ],
     "Pokémon GO Tour": [

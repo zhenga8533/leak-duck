@@ -1,196 +1,4 @@
 {
-    "Research": [
-        {
-            "title": "Twitch Drops for 2026 Pokémon North American International Championships",
-            "article_url": "https://leekduck.com/events/naic-2026-timed-research-twitch-drops/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-12-naic-2026-timed-research-twitch-drops/2026-naic-go-drops.png",
-            "category": "Research",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1781272800,
-            "end_time": 1781578740,
-            "description": "Get codes for exclusive Timed Research and a Battle Bundle during the 2026 Pokémon North American International Championships Twitch broadcast.\nWhen P4T0M4N reached the top at the 2026 Pokémon GO Europe International Championships, he had his faithful Seaking helping him along the way. Watch the 2026 NAIC stream, and you can get one of your own to join your team.\nTune in to Twitch.tv/PokemonGO during NAIC or the Grand Finals on Twitch.tv/Pokemon, and you’ll earn rewards the longer you watch. Here’s what you can get:\nWatch for 30 minutes: Unique Timed Research that includes the following.\n- An encounter with a Seaking that knows the move Icy Wind\n- 20 Goldeen Candy XL\n- 10 Charged TMs\n- 10 Fast TMs\nWatch for 45 minutes: An NAIC Battle Bundle that includes the following.\n- 1 Elite Charged TM\n- 1 Rare Candy XL\n- 25 Charged TMs\n- 25 Fast TMs\nBoth redemptions must be claimed by June 26, 2026, at 8:00 p.m. PDT.\nFind more information on the Timed Research from the Twitch Drops in the Research section."
-        }
-    ],
-    "Event": [
-        {
-            "title": "Candela's Quest for Victory",
-            "article_url": "https://leekduck.com/events/candelas-quest-for-victory/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-09-candelas-quest-for-victory/candelas-quest-for-victory.jpg",
-            "category": "Event",
-            "details": {
-                "spawns": [
-                    "Charmander",
-                    "Flareon",
-                    "Fletchling",
-                    "Hisuian Growlithe",
-                    "Machop",
-                    "Mankey",
-                    "Ponyta",
-                    "Scyther",
-                    "Slugma"
-                ],
-                "raids": [
-                    "Hisuian Growlithe",
-                    "Honedge",
-                    "Machamp",
-                    "Magcargo",
-                    "Rockruff",
-                    "Scizor",
-                    "Scraggy"
-                ],
-                "bonuses": [
-                    "1.5x Raid Stardust",
-                    "Increased Attack bonus from friends in raids",
-                    "Receive up to two Raid Passes by spinning Photo Discs at Gyms"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-09T10:00:00",
-            "end_time": "2026-06-15T20:00:00",
-            "description": "The Candela’s Quest for Victory event will take place from June 9, 2026 at 10 am to June 15, 2026 at 8 pm.\nStep into battle alongside Candela in an event focused on raids and battling."
-        },
-        {
-            "title": "Flying Taxi",
-            "article_url": "https://leekduck.com/events/flying-taxi-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-23-flying-taxi-2026/flying-taxi-2026.jpg",
-            "category": "Event",
-            "details": {
-                "features": [
-                    "Squawkabilly (Blue)",
-                    "Squawkabilly (Green)",
-                    "Squawkabilly (White)",
-                    "Squawkabilly (Yellow)"
-                ],
-                "spawns": [
-                    "Hoothoot",
-                    "Rookidee",
-                    "Squawkabilly (White)"
-                ],
-                "raids": [
-                    "Bombirdier",
-                    "Corvisquire",
-                    "Hisuian Braviary",
-                    "Starly",
-                    "Swablu",
-                    "Vullaby"
-                ],
-                "bonuses": [
-                    "2× Catch Candy",
-                    "Earn more Stardust from defeating Team GO Rocket Grunts and Leaders"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-23T10:00:00",
-            "end_time": "2026-06-29T20:00:00",
-            "description": "Take flight as Squawkabilly makes its Pokémon GO debut!\nThe Flying Taxi event will take place from June 23, 2026 at 10 am to June 29, 2026 at 8 pm."
-        },
-        {
-            "title": "Flying Taxi: Taken Over",
-            "article_url": "https://leekduck.com/events/flying-taxi-taken-over-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-25-flying-taxi-taken-over-2026/flying-taxi-taken-over-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× Catch Candy",
-                    "Earn more Stardust from defeating Team GO Rocket Grunts and Leaders",
-                    "Pokémon caught via one-star and three-star Shadow Raids during the event will have a wider variance of Attack, Defense, and HP",
-                    "Team GO Rocket will appear more frequently at PokéStops and in balloons*",
-                    "You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration"
-                ],
-                "features": [
-                    "Reshiram"
-                ],
-                "shadow": [
-                    "Hoothoot",
-                    "Noibat",
-                    "Rookidee",
-                    "Seel"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-25T00:00:00",
-            "end_time": "2026-06-29T20:00:00",
-            "description": "Rescue Shadow Reshiram and more during Flying Taxi: Taken Over!\nThe Flying Taxi: Taken Over event will take place from June 25, 2026 at 12 am to June 29, 2026 at 8 pm."
-        },
-        {
-            "title": "10th Anniversary Party",
-            "article_url": "https://leekduck.com/events/10th-anniversary-party/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-04-10th-anniversary-party/10th-anniversary-party-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "4× Stardust for catching Pokémon.",
-                    "4× XP for catching Pokémon.",
-                    "Event-themed Pokémon appearing in the wild are more likely to be Shiny.",
-                    "Gimmighoul holding a 10th anniversary coin may have a Special Background!",
-                    "When you use a Coin Bag during this event, you may encounter Shiny Gimmighoul—if you’re lucky!"
-                ],
-                "features": [
-                    "Gimmighoul (10th Anniversary Coin)"
-                ],
-                "spawns": [
-                    "Cake Hat Pikachu",
-                    "Eevee",
-                    "Party Hat Wurmple"
-                ],
-                "moves": [
-                    "Blastoise",
-                    "Bulbasaur",
-                    "Charizard",
-                    "Charmander",
-                    "Charmeleon",
-                    "Ivysaur",
-                    "Squirtle",
-                    "Venusaur",
-                    "Wartortle"
-                ],
-                "shiny": [
-                    "Cake Hat Pikachu",
-                    "Eevee",
-                    "Gimmighoul",
-                    "Party Hat Wurmple"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-04T10:00:00",
-            "end_time": "2026-07-06T20:00:00",
-            "description": "Celebrate a decade of Pokémon GO together during the 10th Anniversary Party!\nThe 10th Anniversary Party event will take place from July 4, 2026 at 10 am to July 6, 2026 at 8 pm."
-        },
-        {
-            "title": "Weekend Event",
-            "article_url": "https://leekduck.com/events/weekend-event-july-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-07-18T10:00:00",
-            "end_time": "2026-07-18T20:00:00",
-            "description": "The Weekend Event event will take place on July 18, 2026 from 10 am to 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Hatch Day",
-            "article_url": "https://leekduck.com/events/hatch-day-august-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-08-08T11:00:00",
-            "end_time": "2026-08-08T17:00:00",
-            "description": "The Hatch Day event will take place on August 8, 2026 from 11 am to 5 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Example Event Template (Auto ToC Demo)",
-            "article_url": "https://leekduck.com/events/example_event/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/example_event/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-12-01T10:00:00",
-            "end_time": "2026-12-02T20:00:00",
-            "description": "This file demonstrates the reusable event pattern:\n- Keep all section if blocks in the template body.\n- Set event_toc_auto: true.\n- Fill data lists only for sections you want to show.\n- Leave unused section data empty to auto-hide both section and ToC item."
-        }
-    ],
     "Max Mondays": [
         {
             "title": "Dynamax Roggenrola during Max Monday",
@@ -631,15 +439,37 @@
             "description": "Frigibax, the Ice Fin Pokémon, will be featured during June Community Day!"
         },
         {
-            "title": "July Community Day",
+            "title": "Sobble Community Day",
             "article_url": "https://leekduck.com/events/july-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-04-july-communityday2026/sobble-july-cd-2026.jpg",
             "category": "Community Day",
-            "details": {},
+            "details": {
+                "bonuses": [
+                    "2x Catch Candy",
+                    "2x Chance to receive Candy XL from catching Pokémon",
+                    "3-hour Incense**",
+                    "3-hour Lures***",
+                    "???",
+                    "Increased Spawns",
+                    "One additional Special Trade can be made for a maximum of three for the day*",
+                    "Trades made will require 50% less Stardust*"
+                ],
+                "features": [
+                    "Sobble"
+                ],
+                "spawns": [
+                    "Sobble"
+                ],
+                "shiny": [
+                    "Drizzile",
+                    "Inteleon",
+                    "Sobble"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-07-04T14:00:00",
             "end_time": "2026-07-04T17:00:00",
-            "description": "The July Community Day event will take place on July 4, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+            "description": "Sobble, the Water Lizard Pokémon, will be featured during July Community Day!"
         },
         {
             "title": "August Community Day",
@@ -774,6 +604,148 @@
             "start_time": "2026-08-22T14:00:00",
             "end_time": "2026-08-22T17:00:00",
             "description": "The Raid Day event will take place on August 22, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        }
+    ],
+    "Event": [
+        {
+            "title": "Flying Taxi",
+            "article_url": "https://leekduck.com/events/flying-taxi-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-23-flying-taxi-2026/flying-taxi-2026.jpg",
+            "category": "Event",
+            "details": {
+                "features": [
+                    "Squawkabilly (Blue)",
+                    "Squawkabilly (Green)",
+                    "Squawkabilly (White)",
+                    "Squawkabilly (Yellow)"
+                ],
+                "spawns": [
+                    "Hoothoot",
+                    "Rookidee",
+                    "Squawkabilly (White)"
+                ],
+                "raids": [
+                    "Bombirdier",
+                    "Corvisquire",
+                    "Hisuian Braviary",
+                    "Starly",
+                    "Swablu",
+                    "Vullaby"
+                ],
+                "bonuses": [
+                    "2× Catch Candy",
+                    "Earn more Stardust from defeating Team GO Rocket Grunts and Leaders"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-23T10:00:00",
+            "end_time": "2026-06-29T20:00:00",
+            "description": "Take flight as Squawkabilly makes its Pokémon GO debut!\nThe Flying Taxi event will take place from June 23, 2026 at 10 am to June 29, 2026 at 8 pm."
+        },
+        {
+            "title": "Flying Taxi: Taken Over",
+            "article_url": "https://leekduck.com/events/flying-taxi-taken-over-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-25-flying-taxi-taken-over-2026/flying-taxi-taken-over-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Catch Candy",
+                    "Earn more Stardust from defeating Team GO Rocket Grunts and Leaders",
+                    "Pokémon caught via one-star and three-star Shadow Raids during the event will have a wider variance of Attack, Defense, and HP",
+                    "Team GO Rocket will appear more frequently at PokéStops and in balloons*",
+                    "You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration"
+                ],
+                "features": [
+                    "Reshiram"
+                ],
+                "shadow": [
+                    "Hoothoot",
+                    "Noibat",
+                    "Rookidee",
+                    "Seel"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-25T00:00:00",
+            "end_time": "2026-06-29T20:00:00",
+            "description": "Rescue Shadow Reshiram and more during Flying Taxi: Taken Over!\nThe Flying Taxi: Taken Over event will take place from June 25, 2026 at 12 am to June 29, 2026 at 8 pm."
+        },
+        {
+            "title": "10th Anniversary Party",
+            "article_url": "https://leekduck.com/events/10th-anniversary-party/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-04-10th-anniversary-party/10th-anniversary-party-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "4× Stardust for catching Pokémon.",
+                    "4× XP for catching Pokémon.",
+                    "Event-themed Pokémon appearing in the wild are more likely to be Shiny.",
+                    "Gimmighoul holding a 10th anniversary coin may have a Special Background!",
+                    "When you use a Coin Bag during this event, you may encounter Shiny Gimmighoul—if you’re lucky!"
+                ],
+                "features": [
+                    "Gimmighoul (10th Anniversary Coin)"
+                ],
+                "spawns": [
+                    "Cake Hat Pikachu",
+                    "Eevee",
+                    "Party Hat Wurmple"
+                ],
+                "moves": [
+                    "Blastoise",
+                    "Bulbasaur",
+                    "Charizard",
+                    "Charmander",
+                    "Charmeleon",
+                    "Ivysaur",
+                    "Squirtle",
+                    "Venusaur",
+                    "Wartortle"
+                ],
+                "shiny": [
+                    "Cake Hat Pikachu",
+                    "Eevee",
+                    "Gimmighoul",
+                    "Party Hat Wurmple"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-04T10:00:00",
+            "end_time": "2026-07-06T20:00:00",
+            "description": "Celebrate a decade of Pokémon GO together during the 10th Anniversary Party!\nThe 10th Anniversary Party event will take place from July 4, 2026 at 10 am to July 6, 2026 at 8 pm."
+        },
+        {
+            "title": "Weekend Event",
+            "article_url": "https://leekduck.com/events/weekend-event-july-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-07-18T10:00:00",
+            "end_time": "2026-07-18T20:00:00",
+            "description": "The Weekend Event event will take place on July 18, 2026 from 10 am to 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Hatch Day",
+            "article_url": "https://leekduck.com/events/hatch-day-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-08-08T11:00:00",
+            "end_time": "2026-08-08T17:00:00",
+            "description": "The Hatch Day event will take place on August 8, 2026 from 11 am to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Example Event Template (Auto ToC Demo)",
+            "article_url": "https://leekduck.com/events/example_event/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/example_event/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-12-01T10:00:00",
+            "end_time": "2026-12-02T20:00:00",
+            "description": "This file demonstrates the reusable event pattern:\n- Keep all section if blocks in the template body.\n- Set event_toc_auto: true.\n- Fill data lists only for sections you want to show.\n- Leave unused section data empty to auto-hide both section and ToC item."
         }
     ],
     "GO Pass": [
