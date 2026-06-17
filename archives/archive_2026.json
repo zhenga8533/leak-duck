@@ -890,6 +890,24 @@
             "start_time": "2026-06-03T06:00:00",
             "end_time": "2026-06-10T06:00:00",
             "description": "Mega Audino will be in Mega Raids from June 3, 2026 at 6 am to June 10, 2026 at 6 am local time."
+        },
+        {
+            "title": "Zekrom in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/zekrom-in-5-star-raid-battles-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Zekrom"
+                ],
+                "shiny": [
+                    "Zekrom"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-10T06:00:00",
+            "end_time": "2026-06-16T22:00:00",
+            "description": "Zekrom will be in five-star raid battles from June 10, 2026 to June 16, 2026.\nThere will also be a Raid Hour featuring Zekrom from 6:00 pm to 7:00 pm local time on the following date:\n- June 10"
         }
     ],
     "Community Day": [
