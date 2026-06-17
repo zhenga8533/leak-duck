@@ -1,39 +1,4 @@
 {
-    "Max Mondays": [
-        {
-            "title": "Dynamax Roggenrola during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-06-15/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-06-15T06:00:00",
-            "end_time": "2026-06-15T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 15, 2026, the featured Dynamax Pokemon is Roggenrola.\n- Roggenrola"
-        },
-        {
-            "title": "Dynamax Hoothoot during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-06-22/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-06-22T06:00:00",
-            "end_time": "2026-06-22T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 22, 2026, the featured Dynamax Pokemon is Hoothoot.\n- Hoothoot"
-        },
-        {
-            "title": "Dynamax Pidove during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-06-29/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-06-29T06:00:00",
-            "end_time": "2026-06-29T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 29, 2026, the featured Dynamax Pokemon is Pidove.\n- Pidove"
-        }
-    ],
     "GO Battle League": [
         {
             "title": "Ultra League and Pokémon North America International Championships 2026 Cup: Great League Edition | Forever Forward",
@@ -441,17 +406,17 @@
         {
             "title": "Sobble Community Day",
             "article_url": "https://leekduck.com/events/july-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-04-july-communityday2026/sobble-july-cd-2026.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
             "category": "Community Day",
             "details": {
                 "bonuses": [
+                    "1-hour Lures*",
+                    "1/4 Hatch Distance",
                     "2x Catch Candy",
                     "2x Chance to receive Candy XL from catching Pokémon",
-                    "3-hour Incense**",
-                    "3-hour Lures***",
-                    "???",
+                    "3-hour Incense",
                     "Increased Spawns",
-                    "One additional Special Trade can be made for a maximum of three for the day*",
+                    "One additional Special Trade can be made for a maximum of two for the day*",
                     "Trades made will require 50% less Stardust*"
                 ],
                 "features": [
@@ -489,7 +454,16 @@
             "article_url": "https://leekduck.com/events/choose-your-path-fossil-fun-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/choose-your-path-evergreen.jpg",
             "category": "Choose Your Path",
-            "details": {},
+            "details": {
+                "bonuses": [
+                    "Battle (Raids): An additional 5,000 XP for completing raids",
+                    "Battle (Team GO Rocket): Extra Mysterious Components from Team GO Rocket Grunts",
+                    "Catch (Candy): Additional Candy for catching Pokémon with Nice Throws or better",
+                    "Catch (XP): 1.5× XP for catching Pokémon with Nice Throws or better",
+                    "Explore (Hatch): 1/2 Egg Hatch Distance bonus",
+                    "Explore (PokéStops): 5× XP for spinning PokéStops"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-06-17T10:00:00",
             "end_time": "2026-06-21T20:00:00",
@@ -527,6 +501,30 @@
             "start_time": "2026-08-11T10:00:00",
             "end_time": "2026-08-17T20:00:00",
             "description": "Choose Your Path Timed Research is a new way to play during non-event weeks, giving you the freedom to explore Pokémon GO your way!\nDuring a Choose Your Path Timed Research week, you’ll be able to select one of three paths: Explore, Catch, or Battle. Your choice will shape the Timed Research tasks and bonuses throughout the week.\nYou may have different research opportunities than other Trainers."
+        }
+    ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Hoothoot during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-06-22/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-06-22T06:00:00",
+            "end_time": "2026-06-22T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 22, 2026, the featured Dynamax Pokemon is Hoothoot.\n- Hoothoot"
+        },
+        {
+            "title": "Dynamax Pidove during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-06-29/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-06-29T06:00:00",
+            "end_time": "2026-06-29T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 29, 2026, the featured Dynamax Pokemon is Pidove.\n- Pidove"
         }
     ],
     "Raid Day": [
