@@ -1,119 +1,4 @@
 {
-    "Raid Battles": [
-        {
-            "title": "Mega Lopunny in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-lopunny-in-mega-raids-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Lopunny"
-                ],
-                "shiny": [
-                    "Lopunny",
-                    "Mega Lopunny"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-10T06:00:00",
-            "end_time": "2026-06-17T06:00:00",
-            "description": "Mega Lopunny will be in Mega Raids from June 10, 2026 at 6 am to June 17, 2026 at 6 am local time."
-        },
-        {
-            "title": "Necrozma in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/necrozma-in-5-star-raid-battles-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Necrozma"
-                ],
-                "shiny": [
-                    "Necrozma"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-17T06:00:00",
-            "end_time": "2026-06-23T22:00:00",
-            "description": "Necrozma will be in five-star raid battles from June 17, 2026 to June 23, 2026.\nThere will also be a Raid Hour featuring Necrozma from 6:00 pm to 7:00 pm local time on the following date:\n- June 17"
-        },
-        {
-            "title": "Mega Scizor in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-scizor-in-mega-raids-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Scizor"
-                ],
-                "shiny": [
-                    "Mega Scizor",
-                    "Scizor"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-17T06:00:00",
-            "end_time": "2026-06-24T06:00:00",
-            "description": "Mega Scizor will be in Mega Raids from June 17, 2026 at 6 am to June 24, 2026 at 6 am local time."
-        },
-        {
-            "title": "Shadow Dialga in Shadow Raids",
-            "article_url": "https://leekduck.com/events/shadow-dialga-in-shadow-raids-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Dialga"
-                ],
-                "shiny": [
-                    "Dialga"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-02T06:00:00",
-            "end_time": "2026-06-30T22:00:00",
-            "description": "Shadow Dialga will appear in Pokemon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Dialga!\nShadow Dialga will appear in five-star Shadow Raids every weekend from June 2 to June 30."
-        },
-        {
-            "title": "Celesteela and Kartana in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/celesteela-kartana-in-5-star-raid-battles-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Celesteela",
-                    "Kartana"
-                ],
-                "shiny": [
-                    "Celesteela",
-                    "Kartana"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-24T06:00:00",
-            "end_time": "2026-06-30T22:00:00",
-            "description": "Celesteela and Kartana will be in five-star raid battles from June 24, 2026 to June 30, 2026.\n- Celesteela will appear in the Southern Hemisphere.\n- Kartana will appear in the Northern Hemisphere.\nThere will also be a Raid Hour featuring these Pokemon from 6:00 pm to 7:00 pm local time on the following date:\n- June 24\nThese Pokemon will remain in their respective regions."
-        },
-        {
-            "title": "Mega Pidgeot in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-pidgeot-in-mega-raids-june-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Pidgeot"
-                ],
-                "shiny": [
-                    "Mega Pidgeot",
-                    "Pidgeot"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-24T06:00:00",
-            "end_time": "2026-07-01T06:00:00",
-            "description": "Mega Pidgeot will be in Mega Raids from June 24, 2026 at 6 am to July 1, 2026 at 6 am local time."
-        }
-    ],
     "Raid Hour": [
         {
             "title": "Necrozma Raid Hour",
@@ -280,9 +165,9 @@
             "category": "Community Day",
             "details": {},
             "is_local_time": true,
-            "start_time": "2026-08-15T14:00:00",
-            "end_time": "2026-08-15T17:00:00",
-            "description": "The August Community Day event will take place on August 15, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+            "start_time": "2026-08-16T14:00:00",
+            "end_time": "2026-08-16T17:00:00",
+            "description": "The August Community Day event will take place on August 16, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
     "Choose Your Path": [
@@ -496,6 +381,102 @@
             "start_time": 1788292800,
             "end_time": 1788897600,
             "description": "The Great League, Ultra League, and Master League: Mega Edition will run from September 1, 2026, at 1:00 p.m. to September 8, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
+        }
+    ],
+    "Raid Battles": [
+        {
+            "title": "Necrozma in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/necrozma-in-5-star-raid-battles-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Necrozma"
+                ],
+                "shiny": [
+                    "Necrozma"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-17T06:00:00",
+            "end_time": "2026-06-23T22:00:00",
+            "description": "Necrozma will be in five-star raid battles from June 17, 2026 to June 23, 2026.\nThere will also be a Raid Hour featuring Necrozma from 6:00 pm to 7:00 pm local time on the following date:\n- June 17"
+        },
+        {
+            "title": "Mega Scizor in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-scizor-in-mega-raids-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Scizor"
+                ],
+                "shiny": [
+                    "Mega Scizor",
+                    "Scizor"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-17T06:00:00",
+            "end_time": "2026-06-24T06:00:00",
+            "description": "Mega Scizor will be in Mega Raids from June 17, 2026 at 6 am to June 24, 2026 at 6 am local time."
+        },
+        {
+            "title": "Shadow Dialga in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-dialga-in-shadow-raids-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Dialga"
+                ],
+                "shiny": [
+                    "Dialga"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-02T06:00:00",
+            "end_time": "2026-06-30T22:00:00",
+            "description": "Shadow Dialga will appear in Pokemon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Dialga!\nShadow Dialga will appear in five-star Shadow Raids every weekend from June 2 to June 30."
+        },
+        {
+            "title": "Celesteela and Kartana in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/celesteela-kartana-in-5-star-raid-battles-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Celesteela",
+                    "Kartana"
+                ],
+                "shiny": [
+                    "Celesteela",
+                    "Kartana"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-24T06:00:00",
+            "end_time": "2026-06-30T22:00:00",
+            "description": "Celesteela and Kartana will be in five-star raid battles from June 24, 2026 to June 30, 2026.\n- Celesteela will appear in the Southern Hemisphere.\n- Kartana will appear in the Northern Hemisphere.\nThere will also be a Raid Hour featuring these Pokemon from 6:00 pm to 7:00 pm local time on the following date:\n- June 24\nThese Pokemon will remain in their respective regions."
+        },
+        {
+            "title": "Mega Pidgeot in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-pidgeot-in-mega-raids-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Pidgeot"
+                ],
+                "shiny": [
+                    "Mega Pidgeot",
+                    "Pidgeot"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-24T06:00:00",
+            "end_time": "2026-07-01T06:00:00",
+            "description": "Mega Pidgeot will be in Mega Raids from June 24, 2026 at 6 am to July 1, 2026 at 6 am local time."
         }
     ],
     "Raid Day": [
