@@ -1,35 +1,15 @@
 {
-    "Raid Hour": [
-        {
-            "title": "Necrozma Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20260617/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-06-17T18:00:00",
-            "end_time": "2026-06-17T19:00:00",
-            "description": "A Raid Hour featuring Necrozma is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
-        },
-        {
-            "title": "Celesteela and Kartana Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20260624/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-06-24T18:00:00",
-            "end_time": "2026-06-24T19:00:00",
-            "description": "A Raid Hour featuring Celesteela and Kartana is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids.\n- Celesteela is currently only available in the Southern Hemisphere.\n- Kartana is currently only available in the Northern Hemisphere."
-        }
-    ],
     "Pokémon Spotlight Hour": [
         {
             "title": "Swinub Spotlight Hour",
             "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-06-18/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
             "category": "Pokémon Spotlight Hour",
-            "details": {},
+            "details": {
+                "spawns": [
+                    "Swinub"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-06-18T18:00:00",
             "end_time": "2026-06-18T19:00:00",
@@ -40,7 +20,11 @@
             "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-06-25/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
             "category": "Pokémon Spotlight Hour",
-            "details": {},
+            "details": {
+                "spawns": [
+                    "Wingull"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-06-25T18:00:00",
             "end_time": "2026-06-25T19:00:00",
@@ -51,7 +35,11 @@
             "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-07-02/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
             "category": "Pokémon Spotlight Hour",
-            "details": {},
+            "details": {
+                "spawns": [
+                    "Pidgey"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-07-02T18:00:00",
             "end_time": "2026-07-02T19:00:00",
@@ -62,7 +50,11 @@
             "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-07-16/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
             "category": "Pokémon Spotlight Hour",
-            "details": {},
+            "details": {
+                "spawns": [
+                    "Zubat"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-07-16T18:00:00",
             "end_time": "2026-07-16T19:00:00",
@@ -73,7 +65,11 @@
             "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-07-23/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
             "category": "Pokémon Spotlight Hour",
-            "details": {},
+            "details": {
+                "spawns": [
+                    "Eevee"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-07-23T18:00:00",
             "end_time": "2026-07-23T19:00:00",
@@ -84,7 +80,11 @@
             "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-07-30/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
             "category": "Pokémon Spotlight Hour",
-            "details": {},
+            "details": {
+                "spawns": [
+                    "Bidoof"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-07-30T18:00:00",
             "end_time": "2026-07-30T19:00:00",
@@ -479,6 +479,19 @@
             "description": "Mega Pidgeot will be in Mega Raids from June 24, 2026 at 6 am to July 1, 2026 at 6 am local time."
         }
     ],
+    "Raid Hour": [
+        {
+            "title": "Celesteela and Kartana Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20260624/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-06-24T18:00:00",
+            "end_time": "2026-06-24T19:00:00",
+            "description": "A Raid Hour featuring Celesteela and Kartana is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids.\n- Celesteela is currently only available in the Southern Hemisphere.\n- Kartana is currently only available in the Northern Hemisphere."
+        }
+    ],
     "Raid Day": [
         {
             "title": "Skarmory Super Mega Raid Day",
@@ -663,6 +676,152 @@
             "start_time": "2026-07-04T10:00:00",
             "end_time": "2026-07-06T20:00:00",
             "description": "Celebrate a decade of Pokémon GO together during the 10th Anniversary Party!\nThe 10th Anniversary Party event will take place from July 4, 2026 at 10 am to July 6, 2026 at 8 pm."
+        },
+        {
+            "title": "Road of Legends",
+            "article_url": "https://leekduck.com/events/road-of-legends-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-06-road-of-legends-2026/road-of-legends-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "No Remote Raid Pass limit Monday, July 6, to Sunday, July 12, 2026",
+                    "Party Power charges faster in raids",
+                    "Premier Balls will be more effective at catching Pokémon after raids",
+                    "Receive special stickers from spinning PokéStops and opening Gifts",
+                    "Trainers level 31 and up are guaranteed to receive Candy XL for trading Pokémon",
+                    "Up to 2 free Raid Passes from spinning Photo Discs at Gyms"
+                ],
+                "eggs": [
+                    "Abra",
+                    "Aerodactyl",
+                    "Audino",
+                    "Axew",
+                    "Bagon",
+                    "Beldum",
+                    "Bouffalant",
+                    "Bulbasaur",
+                    "Charmander",
+                    "Frigibax",
+                    "Gastly",
+                    "Gible",
+                    "Goomy",
+                    "Heracross",
+                    "Jangmo-o",
+                    "Larvesta",
+                    "Larvitar",
+                    "Mareep",
+                    "Mime Jr.",
+                    "Mudkip",
+                    "Pidgey",
+                    "Pinsir",
+                    "Ralts",
+                    "Riolu",
+                    "Snover",
+                    "Squirtle",
+                    "Torchic",
+                    "Toxel",
+                    "Treecko",
+                    "Tropius",
+                    "Weedle"
+                ],
+                "raids": [
+                    "Articuno",
+                    "Azelf",
+                    "Blacephalon",
+                    "Buzzwole",
+                    "Celesteela",
+                    "Cobalion",
+                    "Cresselia",
+                    "Darkrai",
+                    "Deoxys (Attack)",
+                    "Deoxys (Defense)",
+                    "Deoxys (Normal)",
+                    "Deoxys (Speed)",
+                    "Dialga",
+                    "Enamorus (Incarnate)",
+                    "Enamorus (Therian Forme)",
+                    "Entei",
+                    "Genesect",
+                    "Genesect (Burn)",
+                    "Genesect (Chill)",
+                    "Genesect (Douse)",
+                    "Genesect (Shock)",
+                    "Giratina (Altered)",
+                    "Giratina (Origin)",
+                    "Groudon",
+                    "Guzzlord",
+                    "Heatran",
+                    "Ho-Oh",
+                    "Kartana",
+                    "Kyogre",
+                    "Kyurem",
+                    "Kyurem (Black)",
+                    "Kyurem (White)",
+                    "Landorus (Incarnate)",
+                    "Landorus (Therian)",
+                    "Latias",
+                    "Latios",
+                    "Lugia",
+                    "Lunala",
+                    "Mega Gardevoir",
+                    "Mega Gengar",
+                    "Mega Salamence",
+                    "Mega Tyranitar",
+                    "Mesprit",
+                    "Moltres",
+                    "Necrozma",
+                    "Necrozma (Dawn Wings)",
+                    "Necrozma (Dusk Mane)",
+                    "Nihilego",
+                    "Origin Forme Dialga",
+                    "Origin Forme Palkia",
+                    "Palkia",
+                    "Pheromosa",
+                    "Primal Groudon",
+                    "Primal Kyogre",
+                    "Raikou",
+                    "Rayquaza",
+                    "Regice",
+                    "Regidrago",
+                    "Regieleki",
+                    "Regigigas",
+                    "Regirock",
+                    "Registeel",
+                    "Reshiram",
+                    "Solgaleo",
+                    "Stakataka",
+                    "Suicune",
+                    "Tapu Bulu",
+                    "Tapu Fini",
+                    "Tapu Koko",
+                    "Tapu Lele",
+                    "Terrakion",
+                    "Thundurus (Incarnate)",
+                    "Thundurus (Therian)",
+                    "Tornadus (Incarnate)",
+                    "Tornadus (Therian)",
+                    "Uxie",
+                    "Virizion",
+                    "Xerneas",
+                    "Xurkitree",
+                    "Yveltal",
+                    "Zacian (Crowned Sword)",
+                    "Zacian (Hero of Many Battles)",
+                    "Zamazenta (Crowned Shield)",
+                    "Zamazenta (Hero of Many Battles)",
+                    "Zapdos",
+                    "Zekrom"
+                ],
+                "moves": [
+                    "Kyurem",
+                    "Origin Forme Dialga",
+                    "Origin Forme Palkia"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-06T00:01:00",
+            "end_time": "2026-07-10T23:59:00",
+            "description": "The countdown to Pokémon GO Fest 2026: Global starts here! During the Road of Legends, Trainers around the world can gear up for the big weekend with a full week of powerful raid encounters, event bonuses, and GO Pass rewards. Whether you’re looking to strengthen your team, stock up on rewards, or take on some of Pokémon GO’s most formidable foes, this is your chance to get ready for the adventure ahead."
         },
         {
             "title": "Weekend Event",
