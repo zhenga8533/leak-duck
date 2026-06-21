@@ -1144,6 +1144,39 @@
             "start_time": "2026-05-16T14:00:00",
             "end_time": "2026-05-16T17:00:00",
             "description": "Deino, the Irate Pokemon, will be featured during May Community Day Classic!"
+        },
+        {
+            "title": "Frigibax Community Day",
+            "article_url": "https://leekduck.com/events/june-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-20-june-communityday2026/frigibax-cd-placeholder.jpg",
+            "category": "Community Day",
+            "details": {
+                "bonuses": [
+                    "1-hour Lures*",
+                    "2x Catch Candy",
+                    "2x Chance to receive Candy XL from catching Pokemon",
+                    "3-hour Incense",
+                    "3x Catch Stardust",
+                    "Increased Spawns",
+                    "One additional Special Trade can be made for a maximum of two for the day*",
+                    "Trades made will require 50% less Stardust*"
+                ],
+                "features": [
+                    "Frigibax"
+                ],
+                "spawns": [
+                    "Frigibax"
+                ],
+                "shiny": [
+                    "Arctibax",
+                    "Baxcalibur",
+                    "Frigibax"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-20T14:00:00",
+            "end_time": "2026-06-20T17:00:00",
+            "description": "Frigibax, the Ice Fin Pokémon, will be featured during June Community Day!"
         }
     ],
     "Event": [
