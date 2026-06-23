@@ -1,64 +1,83 @@
 {
-    "Frigibax Community Day Tasks": [
+    "Flying Taxi Tasks": [
         {
-            "task": "Catch 3 Frigibax",
+            "task": "Catch 5 Flying-type Pokémon",
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Frigibax",
-                    "shiny_available": true,
+                    "name": "Squawkabilly (Yellow)",
+                    "shiny_available": false,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm996.icon.png"
-                },
-                {
-                    "type": "item",
-                    "name": "Great Ball",
-                    "quantity": 5,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Great Ball.png"
-                },
-                {
-                    "type": "item",
-                    "name": "Ultra Ball",
-                    "quantity": 2,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Ultra Ball.png"
-                },
-                {
-                    "type": "item",
-                    "name": "Pinap Berry",
-                    "quantity": 2,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Pinap Berry.png"
-                },
-                {
-                    "type": "item",
-                    "name": "Stardust",
-                    "quantity": 500,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
-                }
-            ]
-        }
-    ],
-    "Frigibax Community Day - Special backgrounds Tasks": [
-        {
-            "task": "Catch 5 Pokemon while in a Party",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Frigibax",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm996.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm931.fYELLOW.icon.png"
                 }
             ]
         },
         {
-            "task": "Catch 50 Pokemon",
+            "task": "Catch 10 Flying-type Pokémon",
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Frigibax",
+                    "name": "Squawkabilly (Blue)",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm931.fBLUE.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Squawkabilly (Green)",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm931.fGREEN.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 15 Flying-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Squawkabilly (White)",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm931.fWHITE.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Evolve 3 Flying-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Spearow",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm996.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm21.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Wattrel",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm940.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Flying-type Pokémon 5 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Hoothoot",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm163.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Rookidee",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm821.icon.png"
                 }
             ]
         }
