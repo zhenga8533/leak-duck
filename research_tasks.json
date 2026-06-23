@@ -82,65 +82,6 @@
             ]
         }
     ],
-    "Choose Your Path: Fossil Fun Tasks": [
-        {
-            "task": "Defeat a Team GO Rocket Grunt",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Cranidos",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm408.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Shieldon",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm410.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Make 5 Nice Throws",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Cranidos",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm408.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Shieldon",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm410.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Explore 1 km",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Cranidos",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm408.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Shieldon",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm410.icon.png"
-                }
-            ]
-        }
-    ],
     "Catching Tasks": [
         {
             "task": "Catch 7 Pokémon",
