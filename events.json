@@ -1,72 +1,4 @@
 {
-    "Max Mondays": [
-        {
-            "title": "Dynamax Hoothoot during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-06-22/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-06-22T06:00:00",
-            "end_time": "2026-06-22T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 22, 2026, the featured Dynamax Pokemon is Hoothoot.\n- Hoothoot"
-        },
-        {
-            "title": "Dynamax Pidove during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-06-29/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-06-29T06:00:00",
-            "end_time": "2026-06-29T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 29, 2026, the featured Dynamax Pokemon is Pidove.\n- Pidove"
-        },
-        {
-            "title": "Dynamax Chansey during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-07-06/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-07-06T06:00:00",
-            "end_time": "2026-07-06T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn July 6, 2026, the featured Dynamax Pokemon is Chansey.\n- Chansey"
-        },
-        {
-            "title": "Dynamax Deino during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-07-13/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-07-13T06:00:00",
-            "end_time": "2026-07-13T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn July 13, 2026, the featured Dynamax Pokemon is Deino.\n- Deino"
-        },
-        {
-            "title": "Dynamax Trubbish during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-07-20/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-07-20T06:00:00",
-            "end_time": "2026-07-20T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn July 20, 2026, the featured Dynamax Pokemon is Trubbish.\n- Trubbish"
-        },
-        {
-            "title": "Dynamax Feebas during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-07-27/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-07-27T06:00:00",
-            "end_time": "2026-07-27T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn July 27, 2026, the featured Dynamax Pokemon is Feebas.\n- Feebas"
-        }
-    ],
     "GO Battle League": [
         {
             "title": "Master League: Mega Edition and Sunshine Cup: Great League Edition | Forever Forward",
@@ -1015,6 +947,63 @@
             "description": "This file demonstrates the reusable event pattern:\n- Keep all section if blocks in the template body.\n- Set event_toc_auto: true.\n- Fill data lists only for sections you want to show.\n- Leave unused section data empty to auto-hide both section and ToC item."
         }
     ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Pidove during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-06-29/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-06-29T06:00:00",
+            "end_time": "2026-06-29T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 29, 2026, the featured Dynamax Pokemon is Pidove.\n- Pidove"
+        },
+        {
+            "title": "Dynamax Chansey during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-07-06/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-07-06T06:00:00",
+            "end_time": "2026-07-06T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn July 6, 2026, the featured Dynamax Pokemon is Chansey.\n- Chansey"
+        },
+        {
+            "title": "Dynamax Deino during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-07-13/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-07-13T06:00:00",
+            "end_time": "2026-07-13T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn July 13, 2026, the featured Dynamax Pokemon is Deino.\n- Deino"
+        },
+        {
+            "title": "Dynamax Trubbish during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-07-20/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-07-20T06:00:00",
+            "end_time": "2026-07-20T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn July 20, 2026, the featured Dynamax Pokemon is Trubbish.\n- Trubbish"
+        },
+        {
+            "title": "Dynamax Feebas during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-07-27/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-07-27T06:00:00",
+            "end_time": "2026-07-27T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn July 27, 2026, the featured Dynamax Pokemon is Feebas.\n- Feebas"
+        }
+    ],
     "Choose Your Path": [
         {
             "title": "Choose Your Path: Charged Embers",
@@ -1054,7 +1043,7 @@
         {
             "title": "Sobble Community Day",
             "article_url": "https://leekduck.com/events/july-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-04-july-communityday2026/sobble-july-cd-2026.jpg",
             "category": "Community Day",
             "details": {
                 "bonuses": [
