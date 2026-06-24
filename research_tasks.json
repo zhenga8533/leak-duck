@@ -1,4 +1,34 @@
 {
+    "Flying Taxi: Taken Over Tasks": [
+        {
+            "task": "Defeat a Team GO Rocket Grunt",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Mysterious Component",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Mysterious Component.png"
+                }
+            ]
+        },
+        {
+            "task": "Purify 3 Shadow Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Fast TM",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Fast TM.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Charged TM",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Charged TM.png"
+                }
+            ]
+        }
+    ],
     "Flying Taxi Tasks": [
         {
             "task": "Catch 5 Flying-type Pokémon",

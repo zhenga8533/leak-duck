@@ -927,6 +927,24 @@
             "start_time": "2026-06-10T06:00:00",
             "end_time": "2026-06-17T06:00:00",
             "description": "Mega Lopunny will be in Mega Raids from June 10, 2026 at 6 am to June 17, 2026 at 6 am local time."
+        },
+        {
+            "title": "Necrozma in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/necrozma-in-5-star-raid-battles-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Necrozma"
+                ],
+                "shiny": [
+                    "Necrozma"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-17T06:00:00",
+            "end_time": "2026-06-23T22:00:00",
+            "description": "Necrozma will be in five-star raid battles from June 17, 2026 to June 23, 2026.\nThere will also be a Raid Hour featuring Necrozma from 6:00 pm to 7:00 pm local time on the following date:\n- June 17"
         }
     ],
     "Community Day": [
