@@ -4132,6 +4132,37 @@
             "start_time": "2026-05-23T14:00:00",
             "end_time": "2026-05-23T17:00:00",
             "description": "Fall in formation and ready your Link Charges for Falinks Super Mega Raid Day!"
+        },
+        {
+            "title": "Skarmory Super Mega Raid Day",
+            "article_url": "https://leekduck.com/events/skarmory-super-mega-raid-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-27-skarmory-super-mega-raid-day-2026/skarmory-super-mega-raid-day-2026.jpg",
+            "category": "Raid Day",
+            "details": {
+                "bonuses": [
+                    "An additional 5,000 Stardust from Super Mega Raid Battles",
+                    "An additional 5,000 XP from Super Mega Raid Battles",
+                    "Increased chance of encountering Shiny Skarmory from Super Mega Raids",
+                    "Increased chance to get Rare Candy XL from Raid Battles",
+                    "Receive up to 14 Raid Passes from spinning Gym Photo Discs",
+                    "Receive up to six free Raid Passes from spinning Gym Photo Discs",
+                    "Remote Raid Pass limit increased to 20 from Friday, June 26, at 5:00 p.m. to Saturday, June 27, 2026, at 8:00 p.m. PDT"
+                ],
+                "features": [
+                    "Mega Skarmory"
+                ],
+                "raids": [
+                    "Mega Skarmory"
+                ],
+                "shiny": [
+                    "Mega Skarmory",
+                    "Skarmory"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-27T14:00:00",
+            "end_time": "2026-06-27T17:00:00",
+            "description": "Stay sharp for Skarmory Super Mega Raid Day!"
         }
     ],
     "Team GO Rocket": [
