@@ -1,81 +1,4 @@
 {
-    "Raid Day": [
-        {
-            "title": "Skarmory Super Mega Raid Day",
-            "article_url": "https://leekduck.com/events/skarmory-super-mega-raid-day-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-27-skarmory-super-mega-raid-day-2026/skarmory-super-mega-raid-day-2026.jpg",
-            "category": "Raid Day",
-            "details": {
-                "bonuses": [
-                    "An additional 5,000 Stardust from Super Mega Raid Battles",
-                    "An additional 5,000 XP from Super Mega Raid Battles",
-                    "Increased chance of encountering Shiny Skarmory from Super Mega Raids",
-                    "Increased chance to get Rare Candy XL from Raid Battles",
-                    "Receive up to 14 Raid Passes from spinning Gym Photo Discs",
-                    "Receive up to six free Raid Passes from spinning Gym Photo Discs",
-                    "Remote Raid Pass limit increased to 20 from Friday, June 26, at 5:00 p.m. to Saturday, June 27, 2026, at 8:00 p.m. PDT"
-                ],
-                "features": [
-                    "Mega Skarmory"
-                ],
-                "raids": [
-                    "Mega Skarmory"
-                ],
-                "shiny": [
-                    "Mega Skarmory",
-                    "Skarmory"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-27T14:00:00",
-            "end_time": "2026-06-27T17:00:00",
-            "description": "Stay sharp for Skarmory Super Mega Raid Day!"
-        },
-        {
-            "title": "Raichu Super Mega Raid Day",
-            "article_url": "https://leekduck.com/events/raichu-super-mega-raid-day-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-18-raichu-super-mega-raid-day-2026/raichu-super-mega-raid-day-2026.jpg",
-            "category": "Raid Day",
-            "details": {
-                "bonuses": [
-                    "An additional 5,000 Stardust from Super Mega Raids",
-                    "An additional 5,000 XP from Super Mega Raids",
-                    "Increased chance of encountering Shiny Raichu from Super Mega Raids",
-                    "Increased chance to get Rare Candy XL from Raid Battles",
-                    "Raichu caught from Super Mega Raids will have Mega Level 1 unlocked",
-                    "Receive up to 14 Raid Passes from spinning Gym Photo Discs",
-                    "Receive up to six free Raid Passes from spinning Gym Photo Discs",
-                    "Remote Raid Pass limit increased to 20 from Friday, July 17, at 5:00 p.m. to Saturday, July 18, 2026, at 8:00 p.m. PDT"
-                ],
-                "features": [
-                    "Mega Raichu X",
-                    "Mega Raichu Y"
-                ],
-                "raids": [
-                    "Mega Raichu X",
-                    "Mega Raichu Y"
-                ],
-                "shiny": [
-                    "Raichu"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-18T14:00:00",
-            "end_time": "2026-07-18T17:00:00",
-            "description": "Sparks fly for Raichu Super Mega Raid Day!"
-        },
-        {
-            "title": "Raid Day",
-            "article_url": "https://leekduck.com/events/raid-day-august-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-08-22T14:00:00",
-            "end_time": "2026-08-22T17:00:00",
-            "description": "The Raid Day event will take place on August 22, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        }
-    ],
     "Event": [
         {
             "title": "Flying Taxi",
@@ -977,7 +900,16 @@
             "article_url": "https://leekduck.com/events/choose-your-path-charged-embers-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/choose-your-path-evergreen.jpg",
             "category": "Choose Your Path",
-            "details": {},
+            "details": {
+                "bonuses": [
+                    "Battle (Raids): An additional 5,000 XP for completing raids",
+                    "Battle (Team GO Rocket): Extra Mysterious Components from Team GO Rocket Grunts",
+                    "Catch (Candy): Additional Candy for catching Pokémon with Nice Throws or better",
+                    "Catch (XP): 1.5× XP for catching Pokémon with Nice Throws or better",
+                    "Explore (Hatch): 1/2 Egg Hatch Distance bonus",
+                    "Explore (PokéStops): 5× XP for spinning PokéStops"
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-06-30T10:00:00",
             "end_time": "2026-07-03T20:00:00",
@@ -1222,6 +1154,52 @@
             "start_time": "2026-07-11T10:00:00",
             "end_time": "2026-07-12T19:00:00",
             "description": "Join millions of Trainers across the globe for Pokémon GO Fest 2026: Global! This worldwide event takes place from July 11, 2026 at 10 am to July 12, 2026 at 7 pm local time.\nFor the first time, GO Fest: Global is free for all Trainers who log in during event weekend. Everyone can access the featured Special Research, event bonuses, and increased Shiny encounter opportunities at no cost."
+        }
+    ],
+    "Raid Day": [
+        {
+            "title": "Raichu Super Mega Raid Day",
+            "article_url": "https://leekduck.com/events/raichu-super-mega-raid-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-18-raichu-super-mega-raid-day-2026/raichu-super-mega-raid-day-2026.jpg",
+            "category": "Raid Day",
+            "details": {
+                "bonuses": [
+                    "An additional 5,000 Stardust from Super Mega Raids",
+                    "An additional 5,000 XP from Super Mega Raids",
+                    "Increased chance of encountering Shiny Raichu from Super Mega Raids",
+                    "Increased chance to get Rare Candy XL from Raid Battles",
+                    "Raichu caught from Super Mega Raids will have Mega Level 1 unlocked",
+                    "Receive up to 14 Raid Passes from spinning Gym Photo Discs",
+                    "Receive up to six free Raid Passes from spinning Gym Photo Discs",
+                    "Remote Raid Pass limit increased to 20 from Friday, July 17, at 5:00 p.m. to Saturday, July 18, 2026, at 8:00 p.m. PDT"
+                ],
+                "features": [
+                    "Mega Raichu X",
+                    "Mega Raichu Y"
+                ],
+                "raids": [
+                    "Mega Raichu X",
+                    "Mega Raichu Y"
+                ],
+                "shiny": [
+                    "Raichu"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-18T14:00:00",
+            "end_time": "2026-07-18T17:00:00",
+            "description": "Sparks fly for Raichu Super Mega Raid Day!"
+        },
+        {
+            "title": "Raid Day",
+            "article_url": "https://leekduck.com/events/raid-day-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-08-22T14:00:00",
+            "end_time": "2026-08-22T17:00:00",
+            "description": "The Raid Day event will take place on August 22, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
     "Season": [
