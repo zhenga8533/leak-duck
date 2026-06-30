@@ -2546,6 +2546,80 @@
             "start_time": "2026-06-09T10:00:00",
             "end_time": "2026-06-15T20:00:00",
             "description": "The Candela’s Quest for Victory event will take place from June 9, 2026 at 10 am to June 15, 2026 at 8 pm.\nStep into battle alongside Candela in an event focused on raids and battling."
+        },
+        {
+            "title": "Flying Taxi",
+            "article_url": "https://leekduck.com/events/flying-taxi-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-23-flying-taxi-2026/flying-taxi-2026.jpg",
+            "category": "Event",
+            "details": {
+                "features": [
+                    "Squawkabilly (Blue)",
+                    "Squawkabilly (Green)",
+                    "Squawkabilly (White)",
+                    "Squawkabilly (Yellow)"
+                ],
+                "spawns": [
+                    "Hoothoot",
+                    "Pidgey",
+                    "Pidove",
+                    "Pikipek",
+                    "Rookidee",
+                    "Spearow",
+                    "Squawkabilly (Blue)",
+                    "Squawkabilly (Green)",
+                    "Squawkabilly (White)",
+                    "Squawkabilly (Yellow)",
+                    "Wattrel"
+                ],
+                "raids": [
+                    "Bombirdier",
+                    "Corvisquire",
+                    "Hisuian Braviary",
+                    "Starly",
+                    "Swablu",
+                    "Vullaby"
+                ],
+                "bonuses": [
+                    "2× Catch Candy",
+                    "Earn more Stardust from defeating Team GO Rocket Grunts and Leaders"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-23T10:00:00",
+            "end_time": "2026-06-29T20:00:00",
+            "description": "Take flight as Squawkabilly makes its Pokémon GO debut!\nThe Flying Taxi event will take place from June 23, 2026 at 10 am to June 29, 2026 at 8 pm."
+        },
+        {
+            "title": "Flying Taxi: Taken Over",
+            "article_url": "https://leekduck.com/events/flying-taxi-taken-over-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-25-flying-taxi-taken-over-2026/flying-taxi-taken-over-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Catch Candy",
+                    "Earn more Stardust from defeating Team GO Rocket Grunts and Leaders",
+                    "Pokémon caught via one-star and three-star Shadow Raids during the event will have a wider variance of Attack, Defense, and HP",
+                    "Team GO Rocket will appear more frequently at PokéStops and in balloons*",
+                    "You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration"
+                ],
+                "features": [
+                    "Reshiram"
+                ],
+                "shadow": [
+                    "Amaura",
+                    "Axew",
+                    "Hoothoot",
+                    "Noibat",
+                    "Rookidee",
+                    "Seel",
+                    "Tyrunt"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-25T00:00:00",
+            "end_time": "2026-06-29T20:00:00",
+            "description": "Rescue Shadow Reshiram and more during Flying Taxi: Taken Over!\nThe Flying Taxi: Taken Over event will take place from June 25, 2026 at 12 am to June 29, 2026 at 8 pm."
         }
     ],
     "PokéStop Showcase": [
@@ -3067,6 +3141,17 @@
             "start_time": "2026-06-22T06:00:00",
             "end_time": "2026-06-22T21:00:00",
             "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 22, 2026, the featured Dynamax Pokemon is Hoothoot.\n- Hoothoot"
+        },
+        {
+            "title": "Dynamax Pidove during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-06-29/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-06-29T06:00:00",
+            "end_time": "2026-06-29T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 29, 2026, the featured Dynamax Pokemon is Pidove.\n- Pidove"
         }
     ],
     "GO Pass": [
