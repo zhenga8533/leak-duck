@@ -1,420 +1,4 @@
 {
-    "Event": [
-        {
-            "title": "Flying Taxi",
-            "article_url": "https://leekduck.com/events/flying-taxi-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-23-flying-taxi-2026/flying-taxi-2026.jpg",
-            "category": "Event",
-            "details": {
-                "features": [
-                    "Squawkabilly (Blue)",
-                    "Squawkabilly (Green)",
-                    "Squawkabilly (White)",
-                    "Squawkabilly (Yellow)"
-                ],
-                "spawns": [
-                    "Hoothoot",
-                    "Pidgey",
-                    "Pidove",
-                    "Pikipek",
-                    "Rookidee",
-                    "Spearow",
-                    "Squawkabilly (Blue)",
-                    "Squawkabilly (Green)",
-                    "Squawkabilly (White)",
-                    "Squawkabilly (Yellow)",
-                    "Wattrel"
-                ],
-                "raids": [
-                    "Bombirdier",
-                    "Corvisquire",
-                    "Hisuian Braviary",
-                    "Starly",
-                    "Swablu",
-                    "Vullaby"
-                ],
-                "bonuses": [
-                    "2× Catch Candy",
-                    "Earn more Stardust from defeating Team GO Rocket Grunts and Leaders"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-23T10:00:00",
-            "end_time": "2026-06-29T20:00:00",
-            "description": "Take flight as Squawkabilly makes its Pokémon GO debut!\nThe Flying Taxi event will take place from June 23, 2026 at 10 am to June 29, 2026 at 8 pm."
-        },
-        {
-            "title": "Flying Taxi: Taken Over",
-            "article_url": "https://leekduck.com/events/flying-taxi-taken-over-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-25-flying-taxi-taken-over-2026/flying-taxi-taken-over-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× Catch Candy",
-                    "Earn more Stardust from defeating Team GO Rocket Grunts and Leaders",
-                    "Pokémon caught via one-star and three-star Shadow Raids during the event will have a wider variance of Attack, Defense, and HP",
-                    "Team GO Rocket will appear more frequently at PokéStops and in balloons*",
-                    "You can use a Charged TM to help a Shadow Pokémon forget the Charged Attack Frustration"
-                ],
-                "features": [
-                    "Reshiram"
-                ],
-                "shadow": [
-                    "Amaura",
-                    "Axew",
-                    "Hoothoot",
-                    "Noibat",
-                    "Rookidee",
-                    "Seel",
-                    "Tyrunt"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-25T00:00:00",
-            "end_time": "2026-06-29T20:00:00",
-            "description": "Rescue Shadow Reshiram and more during Flying Taxi: Taken Over!\nThe Flying Taxi: Taken Over event will take place from June 25, 2026 at 12 am to June 29, 2026 at 8 pm."
-        },
-        {
-            "title": "10th Anniversary Party",
-            "article_url": "https://leekduck.com/events/10th-anniversary-party/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-04-10th-anniversary-party/10th-anniversary-party-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "4× Stardust for catching Pokémon.",
-                    "4× XP for catching Pokémon.",
-                    "Event-themed Pokémon appearing in the wild are more likely to be Shiny.",
-                    "Gimmighoul holding a 10th anniversary coin may have a Special Background!",
-                    "When you use a Coin Bag during this event, you may encounter Shiny Gimmighoul—if you’re lucky!"
-                ],
-                "features": [
-                    "Gimmighoul (10th Anniversary Coin)"
-                ],
-                "spawns": [
-                    "Cake Hat Pikachu",
-                    "Eevee",
-                    "Party Hat Wurmple"
-                ],
-                "moves": [
-                    "Blastoise",
-                    "Bulbasaur",
-                    "Charizard",
-                    "Charmander",
-                    "Charmeleon",
-                    "Ivysaur",
-                    "Squirtle",
-                    "Venusaur",
-                    "Wartortle"
-                ],
-                "shiny": [
-                    "Cake Hat Pikachu",
-                    "Eevee",
-                    "Gimmighoul",
-                    "Party Hat Wurmple"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-04T10:00:00",
-            "end_time": "2026-07-06T20:00:00",
-            "description": "Celebrate a decade of Pokémon GO together during the 10th Anniversary Party!\nThe 10th Anniversary Party event will take place from July 4, 2026 at 10 am to July 6, 2026 at 8 pm."
-        },
-        {
-            "title": "Road of Legends",
-            "article_url": "https://leekduck.com/events/road-of-legends-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-06-road-of-legends-2026/road-of-legends-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "No Remote Raid Pass limit Monday, July 6, to Sunday, July 12, 2026",
-                    "Party Power charges faster in raids",
-                    "Premier Balls will be more effective at catching Pokémon after raids",
-                    "Receive special stickers from spinning PokéStops and opening Gifts",
-                    "Trainers level 31 and up are guaranteed to receive Candy XL for trading Pokémon",
-                    "Up to 2 free Raid Passes from spinning Photo Discs at Gyms"
-                ],
-                "eggs": [
-                    "Abra",
-                    "Aerodactyl",
-                    "Audino",
-                    "Axew",
-                    "Bagon",
-                    "Beldum",
-                    "Bouffalant",
-                    "Bulbasaur",
-                    "Charmander",
-                    "Frigibax",
-                    "Gastly",
-                    "Gible",
-                    "Goomy",
-                    "Heracross",
-                    "Jangmo-o",
-                    "Larvesta",
-                    "Larvitar",
-                    "Mareep",
-                    "Mime Jr.",
-                    "Mudkip",
-                    "Pidgey",
-                    "Pinsir",
-                    "Ralts",
-                    "Riolu",
-                    "Snover",
-                    "Squirtle",
-                    "Torchic",
-                    "Toxel",
-                    "Treecko",
-                    "Tropius",
-                    "Weedle"
-                ],
-                "raids": [
-                    "Articuno",
-                    "Azelf",
-                    "Blacephalon",
-                    "Buzzwole",
-                    "Celesteela",
-                    "Cobalion",
-                    "Cresselia",
-                    "Darkrai",
-                    "Deoxys (Attack)",
-                    "Deoxys (Defense)",
-                    "Deoxys (Normal)",
-                    "Deoxys (Speed)",
-                    "Dialga",
-                    "Enamorus (Incarnate)",
-                    "Enamorus (Therian Forme)",
-                    "Entei",
-                    "Genesect",
-                    "Genesect (Burn)",
-                    "Genesect (Chill)",
-                    "Genesect (Douse)",
-                    "Genesect (Shock)",
-                    "Giratina (Altered)",
-                    "Giratina (Origin)",
-                    "Groudon",
-                    "Guzzlord",
-                    "Heatran",
-                    "Ho-Oh",
-                    "Kartana",
-                    "Kyogre",
-                    "Kyurem",
-                    "Kyurem (Black)",
-                    "Kyurem (White)",
-                    "Landorus (Incarnate)",
-                    "Landorus (Therian)",
-                    "Latias",
-                    "Latios",
-                    "Lugia",
-                    "Lunala",
-                    "Mega Gardevoir",
-                    "Mega Gengar",
-                    "Mega Salamence",
-                    "Mega Tyranitar",
-                    "Mesprit",
-                    "Moltres",
-                    "Necrozma",
-                    "Necrozma (Dawn Wings)",
-                    "Necrozma (Dusk Mane)",
-                    "Nihilego",
-                    "Origin Forme Dialga",
-                    "Origin Forme Palkia",
-                    "Palkia",
-                    "Pheromosa",
-                    "Primal Groudon",
-                    "Primal Kyogre",
-                    "Raikou",
-                    "Rayquaza",
-                    "Regice",
-                    "Regidrago",
-                    "Regieleki",
-                    "Regigigas",
-                    "Regirock",
-                    "Registeel",
-                    "Reshiram",
-                    "Solgaleo",
-                    "Stakataka",
-                    "Suicune",
-                    "Tapu Bulu",
-                    "Tapu Fini",
-                    "Tapu Koko",
-                    "Tapu Lele",
-                    "Terrakion",
-                    "Thundurus (Incarnate)",
-                    "Thundurus (Therian)",
-                    "Tornadus (Incarnate)",
-                    "Tornadus (Therian)",
-                    "Uxie",
-                    "Virizion",
-                    "Xerneas",
-                    "Xurkitree",
-                    "Yveltal",
-                    "Zacian (Crowned Sword)",
-                    "Zacian (Hero of Many Battles)",
-                    "Zamazenta (Crowned Shield)",
-                    "Zamazenta (Hero of Many Battles)",
-                    "Zapdos",
-                    "Zekrom"
-                ],
-                "moves": [
-                    "Kyurem",
-                    "Origin Forme Dialga",
-                    "Origin Forme Palkia"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-06T00:01:00",
-            "end_time": "2026-07-10T23:59:00",
-            "description": "The countdown to Pokémon GO Fest 2026: Global starts here! During the Road of Legends, Trainers around the world can gear up for the big weekend with a full week of powerful raid encounters, event bonuses, and GO Pass rewards. Whether you’re looking to strengthen your team, stock up on rewards, or take on some of Pokémon GO’s most formidable foes, this is your chance to get ready for the adventure ahead."
-        },
-        {
-            "title": "Special Anniversary Pikachu Celebration",
-            "article_url": "https://leekduck.com/events/special-anniversary-pikachu-celebration-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-13-special-anniversary-pikachu-celebration-2026/special-anniversary-pikachu-celebration-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× Candy for transferring Pokémon",
-                    "2× Stardust for catching Pokémon",
-                    "3× Candy for transferring Pokémon",
-                    "3× Stardust for catching Pokémon",
-                    "Even greater chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
-                    "Increased chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
-                    "Pikachu will appear more frequently in the wild.",
-                    "Pikachu will be easier to catch during the event."
-                ],
-                "spawns": [
-                    "Pikachu wearing a Tricks & Treats costume",
-                    "Summer Style Pikachu",
-                    "Winter Carnival Pikachu"
-                ],
-                "raids": [
-                    "Amethyst Crown Pikachu",
-                    "Dapper Pikachu with blue accents",
-                    "Dapper Pikachu with red accents",
-                    "Dapper Pikachu with yellow accents",
-                    "Pikachu wearing a varsity jacket",
-                    "Safari Hat Pikachu",
-                    "World Championships 2022 Pikachu",
-                    "World Championships 2023 Pikachu",
-                    "World Championships 2024 Pikachu"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-13T10:00:00",
-            "end_time": "2026-07-20T20:00:00",
-            "description": "Keep the festivities going with three celebrations of different costumed Pikachu!\nThe Special Anniversary Pikachu Celebration event will take place from July 13, 2026 at 10 am to July 20, 2026 at 8 pm."
-        },
-        {
-            "title": "Happy Birthday, Professor Willow!",
-            "article_url": "https://leekduck.com/events/happy-birthday-professor-willow-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-21-happy-birthday-professor-willow-2026/happy-birthday-professor-willow-2026.jpg",
-            "category": "Event",
-            "details": {
-                "features": [
-                    "Professor Willow's assistant Pikachu"
-                ],
-                "raids": [
-                    "Professor Willow's assistant Pikachu"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-21T10:00:00",
-            "end_time": "2026-07-21T20:00:00",
-            "description": "Wish Professor Willow a very happy birthday with Professor Willow’s assistant Pikachu!\nThe Happy Birthday, Professor Willow! event will take place on July 21, 2026 from 10 am to 8 pm."
-        },
-        {
-            "title": "Ozone Ascent",
-            "article_url": "https://leekduck.com/events/ozone-ascent-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-25-ozone-ascent-2026/ozone-ascent-2026.jpg",
-            "category": "Event",
-            "details": {
-                "features": [
-                    "Rayquaza"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-25T10:00:00",
-            "end_time": "2026-07-26T20:00:00",
-            "description": "Complete Timed Research to encounter Rayquaza and more!\nThe Ozone Ascent event will take place from July 25, 2026 at 10 am to July 26, 2026 at 8 pm."
-        },
-        {
-            "title": "Hatch Day",
-            "article_url": "https://leekduck.com/events/hatch-day-august-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-08-08T11:00:00",
-            "end_time": "2026-08-08T17:00:00",
-            "description": "The Hatch Day event will take place on August 8, 2026 from 11 am to 5 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Example Event Template (Auto ToC Demo)",
-            "article_url": "https://leekduck.com/events/example_event/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/example_event/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-12-01T10:00:00",
-            "end_time": "2026-12-02T20:00:00",
-            "description": "This file demonstrates the reusable event pattern:\n- Keep all section if blocks in the template body.\n- Set event_toc_auto: true.\n- Fill data lists only for sections you want to show.\n- Leave unused section data empty to auto-hide both section and ToC item."
-        }
-    ],
-    "Max Mondays": [
-        {
-            "title": "Dynamax Pidove during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-06-29/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-06-29T06:00:00",
-            "end_time": "2026-06-29T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn June 29, 2026, the featured Dynamax Pokemon is Pidove.\n- Pidove"
-        },
-        {
-            "title": "Dynamax Chansey during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-07-06/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-07-06T06:00:00",
-            "end_time": "2026-07-06T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn July 6, 2026, the featured Dynamax Pokemon is Chansey.\n- Chansey"
-        },
-        {
-            "title": "Dynamax Deino during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-07-13/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-07-13T06:00:00",
-            "end_time": "2026-07-13T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn July 13, 2026, the featured Dynamax Pokemon is Deino.\n- Deino"
-        },
-        {
-            "title": "Dynamax Trubbish during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-07-20/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-07-20T06:00:00",
-            "end_time": "2026-07-20T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn July 20, 2026, the featured Dynamax Pokemon is Trubbish.\n- Trubbish"
-        },
-        {
-            "title": "Dynamax Feebas during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-07-27/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-07-27T06:00:00",
-            "end_time": "2026-07-27T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn July 27, 2026, the featured Dynamax Pokemon is Feebas.\n- Feebas"
-        }
-    ],
     "GO Battle League": [
         {
             "title": "Great League, Ultra League, and Master League | Forever Forward",
@@ -984,6 +568,337 @@
             "description": "The August Community Day event will take place on August 16, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
+    "Event": [
+        {
+            "title": "10th Anniversary Party",
+            "article_url": "https://leekduck.com/events/10th-anniversary-party/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-04-10th-anniversary-party/10th-anniversary-party-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "4× Stardust for catching Pokémon.",
+                    "4× XP for catching Pokémon.",
+                    "Event-themed Pokémon appearing in the wild are more likely to be Shiny.",
+                    "Gimmighoul holding a 10th anniversary coin may have a Special Background!",
+                    "When you use a Coin Bag during this event, you may encounter Shiny Gimmighoul—if you’re lucky!"
+                ],
+                "features": [
+                    "Gimmighoul (10th Anniversary Coin)"
+                ],
+                "spawns": [
+                    "Cake Hat Pikachu",
+                    "Eevee",
+                    "Party Hat Wurmple"
+                ],
+                "moves": [
+                    "Blastoise",
+                    "Bulbasaur",
+                    "Charizard",
+                    "Charmander",
+                    "Charmeleon",
+                    "Ivysaur",
+                    "Squirtle",
+                    "Venusaur",
+                    "Wartortle"
+                ],
+                "shiny": [
+                    "Cake Hat Pikachu",
+                    "Eevee",
+                    "Gimmighoul",
+                    "Party Hat Wurmple"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-04T10:00:00",
+            "end_time": "2026-07-06T20:00:00",
+            "description": "Celebrate a decade of Pokémon GO together during the 10th Anniversary Party!\nThe 10th Anniversary Party event will take place from July 4, 2026 at 10 am to July 6, 2026 at 8 pm."
+        },
+        {
+            "title": "Road of Legends",
+            "article_url": "https://leekduck.com/events/road-of-legends-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-06-road-of-legends-2026/road-of-legends-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "No Remote Raid Pass limit Monday, July 6, to Sunday, July 12, 2026",
+                    "Party Power charges faster in raids",
+                    "Premier Balls will be more effective at catching Pokémon after raids",
+                    "Receive special stickers from spinning PokéStops and opening Gifts",
+                    "Trainers level 31 and up are guaranteed to receive Candy XL for trading Pokémon",
+                    "Up to 2 free Raid Passes from spinning Photo Discs at Gyms"
+                ],
+                "eggs": [
+                    "Abra",
+                    "Aerodactyl",
+                    "Audino",
+                    "Axew",
+                    "Bagon",
+                    "Beldum",
+                    "Bouffalant",
+                    "Bulbasaur",
+                    "Charmander",
+                    "Frigibax",
+                    "Gastly",
+                    "Gible",
+                    "Goomy",
+                    "Heracross",
+                    "Jangmo-o",
+                    "Larvesta",
+                    "Larvitar",
+                    "Mareep",
+                    "Mime Jr.",
+                    "Mudkip",
+                    "Pidgey",
+                    "Pinsir",
+                    "Ralts",
+                    "Riolu",
+                    "Snover",
+                    "Squirtle",
+                    "Torchic",
+                    "Toxel",
+                    "Treecko",
+                    "Tropius",
+                    "Weedle"
+                ],
+                "raids": [
+                    "Articuno",
+                    "Azelf",
+                    "Blacephalon",
+                    "Buzzwole",
+                    "Celesteela",
+                    "Cobalion",
+                    "Cresselia",
+                    "Darkrai",
+                    "Deoxys (Attack)",
+                    "Deoxys (Defense)",
+                    "Deoxys (Normal)",
+                    "Deoxys (Speed)",
+                    "Dialga",
+                    "Enamorus (Incarnate)",
+                    "Enamorus (Therian Forme)",
+                    "Entei",
+                    "Genesect",
+                    "Genesect (Burn)",
+                    "Genesect (Chill)",
+                    "Genesect (Douse)",
+                    "Genesect (Shock)",
+                    "Giratina (Altered)",
+                    "Giratina (Origin)",
+                    "Groudon",
+                    "Guzzlord",
+                    "Heatran",
+                    "Ho-Oh",
+                    "Kartana",
+                    "Kyogre",
+                    "Kyurem",
+                    "Kyurem (Black)",
+                    "Kyurem (White)",
+                    "Landorus (Incarnate)",
+                    "Landorus (Therian)",
+                    "Latias",
+                    "Latios",
+                    "Lugia",
+                    "Lunala",
+                    "Mega Gardevoir",
+                    "Mega Gengar",
+                    "Mega Salamence",
+                    "Mega Tyranitar",
+                    "Mesprit",
+                    "Moltres",
+                    "Necrozma",
+                    "Necrozma (Dawn Wings)",
+                    "Necrozma (Dusk Mane)",
+                    "Nihilego",
+                    "Origin Forme Dialga",
+                    "Origin Forme Palkia",
+                    "Palkia",
+                    "Pheromosa",
+                    "Primal Groudon",
+                    "Primal Kyogre",
+                    "Raikou",
+                    "Rayquaza",
+                    "Regice",
+                    "Regidrago",
+                    "Regieleki",
+                    "Regigigas",
+                    "Regirock",
+                    "Registeel",
+                    "Reshiram",
+                    "Solgaleo",
+                    "Stakataka",
+                    "Suicune",
+                    "Tapu Bulu",
+                    "Tapu Fini",
+                    "Tapu Koko",
+                    "Tapu Lele",
+                    "Terrakion",
+                    "Thundurus (Incarnate)",
+                    "Thundurus (Therian)",
+                    "Tornadus (Incarnate)",
+                    "Tornadus (Therian)",
+                    "Uxie",
+                    "Virizion",
+                    "Xerneas",
+                    "Xurkitree",
+                    "Yveltal",
+                    "Zacian (Crowned Sword)",
+                    "Zacian (Hero of Many Battles)",
+                    "Zamazenta (Crowned Shield)",
+                    "Zamazenta (Hero of Many Battles)",
+                    "Zapdos",
+                    "Zekrom"
+                ],
+                "moves": [
+                    "Kyurem",
+                    "Origin Forme Dialga",
+                    "Origin Forme Palkia"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-06T00:01:00",
+            "end_time": "2026-07-10T23:59:00",
+            "description": "The countdown to Pokémon GO Fest 2026: Global starts here! During the Road of Legends, Trainers around the world can gear up for the big weekend with a full week of powerful raid encounters, event bonuses, and GO Pass rewards. Whether you’re looking to strengthen your team, stock up on rewards, or take on some of Pokémon GO’s most formidable foes, this is your chance to get ready for the adventure ahead."
+        },
+        {
+            "title": "Special Anniversary Pikachu Celebration",
+            "article_url": "https://leekduck.com/events/special-anniversary-pikachu-celebration-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-13-special-anniversary-pikachu-celebration-2026/special-anniversary-pikachu-celebration-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Candy for transferring Pokémon",
+                    "2× Stardust for catching Pokémon",
+                    "3× Candy for transferring Pokémon",
+                    "3× Stardust for catching Pokémon",
+                    "Even greater chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
+                    "Increased chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
+                    "Pikachu will appear more frequently in the wild.",
+                    "Pikachu will be easier to catch during the event."
+                ],
+                "spawns": [
+                    "Pikachu wearing a Tricks & Treats costume",
+                    "Summer Style Pikachu",
+                    "Winter Carnival Pikachu"
+                ],
+                "raids": [
+                    "Amethyst Crown Pikachu",
+                    "Dapper Pikachu with blue accents",
+                    "Dapper Pikachu with red accents",
+                    "Dapper Pikachu with yellow accents",
+                    "Pikachu wearing a varsity jacket",
+                    "Safari Hat Pikachu",
+                    "World Championships 2022 Pikachu",
+                    "World Championships 2023 Pikachu",
+                    "World Championships 2024 Pikachu"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-13T10:00:00",
+            "end_time": "2026-07-20T20:00:00",
+            "description": "Keep the festivities going with three celebrations of different costumed Pikachu!\nThe Special Anniversary Pikachu Celebration event will take place from July 13, 2026 at 10 am to July 20, 2026 at 8 pm."
+        },
+        {
+            "title": "Happy Birthday, Professor Willow!",
+            "article_url": "https://leekduck.com/events/happy-birthday-professor-willow-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-21-happy-birthday-professor-willow-2026/happy-birthday-professor-willow-2026.jpg",
+            "category": "Event",
+            "details": {
+                "features": [
+                    "Professor Willow's assistant Pikachu"
+                ],
+                "raids": [
+                    "Professor Willow's assistant Pikachu"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-21T10:00:00",
+            "end_time": "2026-07-21T20:00:00",
+            "description": "Wish Professor Willow a very happy birthday with Professor Willow’s assistant Pikachu!\nThe Happy Birthday, Professor Willow! event will take place on July 21, 2026 from 10 am to 8 pm."
+        },
+        {
+            "title": "Ozone Ascent",
+            "article_url": "https://leekduck.com/events/ozone-ascent-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-25-ozone-ascent-2026/ozone-ascent-2026.jpg",
+            "category": "Event",
+            "details": {
+                "features": [
+                    "Rayquaza"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-25T10:00:00",
+            "end_time": "2026-07-26T20:00:00",
+            "description": "Complete Timed Research to encounter Rayquaza and more!\nThe Ozone Ascent event will take place from July 25, 2026 at 10 am to July 26, 2026 at 8 pm."
+        },
+        {
+            "title": "Hatch Day",
+            "article_url": "https://leekduck.com/events/hatch-day-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-08-08T11:00:00",
+            "end_time": "2026-08-08T17:00:00",
+            "description": "The Hatch Day event will take place on August 8, 2026 from 11 am to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Example Event Template (Auto ToC Demo)",
+            "article_url": "https://leekduck.com/events/example_event/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/example_event/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-12-01T10:00:00",
+            "end_time": "2026-12-02T20:00:00",
+            "description": "This file demonstrates the reusable event pattern:\n- Keep all section if blocks in the template body.\n- Set event_toc_auto: true.\n- Fill data lists only for sections you want to show.\n- Leave unused section data empty to auto-hide both section and ToC item."
+        }
+    ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Chansey during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-07-06/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-07-06T06:00:00",
+            "end_time": "2026-07-06T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn July 6, 2026, the featured Dynamax Pokemon is Chansey.\n- Chansey"
+        },
+        {
+            "title": "Dynamax Deino during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-07-13/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-07-13T06:00:00",
+            "end_time": "2026-07-13T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn July 13, 2026, the featured Dynamax Pokemon is Deino.\n- Deino"
+        },
+        {
+            "title": "Dynamax Trubbish during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-07-20/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-07-20T06:00:00",
+            "end_time": "2026-07-20T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn July 20, 2026, the featured Dynamax Pokemon is Trubbish.\n- Trubbish"
+        },
+        {
+            "title": "Dynamax Feebas during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-07-27/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-07-27T06:00:00",
+            "end_time": "2026-07-27T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn July 27, 2026, the featured Dynamax Pokemon is Feebas.\n- Feebas"
+        }
+    ],
     "GO Pass": [
         {
             "title": "GO Pass: June",
@@ -1008,6 +923,30 @@
             "start_time": "2026-06-02T10:00:00",
             "end_time": "2026-07-07T10:00:00",
             "description": "Lugia and the Timed Incubator return for GO Pass: June!\nFrom Tuesday, June 2, at 10:00 a.m. to Tuesday, July 7, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for June will be available in Pokémon GO!"
+        },
+        {
+            "title": "GO Pass: July",
+            "article_url": "https://leekduck.com/events/go-pass-july-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-07-go-pass-july-2026/go-pass-july-2026.jpg",
+            "category": "GO Pass",
+            "details": {
+                "bonuses": [
+                    "2× Daily Adventure Incense duration",
+                    "Hold 10 more Gifts in your Item Bag",
+                    "Hold up to 20 more Gifts in your Item Bag",
+                    "Increased XP and Stardust from hatching Eggs",
+                    "One additional Candy for trading Pokémon",
+                    "Open up to 40 Gifts per day",
+                    "Open up to 50 Gifts per day",
+                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Trainers level 31 and above will receive one guaranteed Candy XL when trading Pokémon"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-07T10:00:00",
+            "end_time": "2026-08-04T10:00:00",
+            "description": "The Pokémon GO 10th Anniversary Celebration continues with GO Pass: July! Ho-Oh, Gimmighoul holding a 10th anniversary coin, and more await.\nFrom Tuesday, July 7, at 10:00 a.m. to Tuesday, August 4, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for July will be available in Pokémon GO!"
         }
     ],
     "Pokémon GO Fest": [
