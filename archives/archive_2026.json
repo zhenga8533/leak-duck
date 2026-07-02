@@ -983,6 +983,25 @@
             "start_time": "2026-06-24T06:00:00",
             "end_time": "2026-06-30T22:00:00",
             "description": "Celesteela and Kartana will be in five-star raid battles from June 24, 2026 to June 30, 2026.\n- Celesteela will appear in the Southern Hemisphere.\n- Kartana will appear in the Northern Hemisphere.\nThere will also be a Raid Hour featuring these Pokemon from 6:00 pm to 7:00 pm local time on the following date:\n- June 24\nThese Pokemon will remain in their respective regions."
+        },
+        {
+            "title": "Mega Pidgeot in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-pidgeot-in-mega-raids-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Pidgeot"
+                ],
+                "shiny": [
+                    "Mega Pidgeot",
+                    "Pidgeot"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-24T06:00:00",
+            "end_time": "2026-07-01T06:00:00",
+            "description": "Mega Pidgeot will be in Mega Raids from June 24, 2026 at 6 am to July 1, 2026 at 6 am local time."
         }
     ],
     "Community Day": [
