@@ -1,4 +1,108 @@
 {
+    "10th Anniversary Party Tasks": [
+        {
+            "task": "Catch 10 Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Bulbasaur wearing a Party Hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm1.cJAN_2020_NOEVOLVE.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Charmander wearing a Party Hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm4.cJAN_2020_NOEVOLVE.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Squirtle wearing a Party Hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm7.cJAN_2020_NOEVOLVE.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Pokémon 10 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing a Cake Hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.cANNIVERSARY_2022_NOEVOLVE.icon.png"
+                }
+            ]
+        }
+    ],
+    "Sobble Community Day Tasks": [
+        {
+            "task": "Catch 3 Sobble",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Sobble",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm816.icon.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Great Ball",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Great Ball.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Ultra Ball",
+                    "quantity": 2,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Ultra Ball.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Pinap Berry",
+                    "quantity": 2,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Pinap Berry.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Stardust",
+                    "quantity": 500,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+                }
+            ]
+        }
+    ],
+    "Sobble Community Day - Special backgrounds Tasks": [
+        {
+            "task": "Catch 5 Pokemon while in a Party",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Sobble",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm816.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 50 Pokemon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Sobble",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm816.icon.png"
+                }
+            ]
+        }
+    ],
     "Choose Your Path: Charged Embers Tasks": [
         {
             "task": "Defeat a Team GO Rocket Grunt",

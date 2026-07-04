@@ -1,66 +1,4 @@
 {
-    "Pokémon Spotlight Hour": [
-        {
-            "title": "Pidgey Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-07-02/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Pidgey"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-02T18:00:00",
-            "end_time": "2026-07-02T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday.\nJuly 2: The featured Pokémon is Pidgey and the special bonus is 2× Evolution XP."
-        },
-        {
-            "title": "Zubat Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-07-16/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Zubat"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-16T18:00:00",
-            "end_time": "2026-07-16T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday.\nJuly 16: The featured Pokémon is Zubat and the special bonus is 2× Catch XP."
-        },
-        {
-            "title": "Eevee Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-07-23/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Eevee"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-23T18:00:00",
-            "end_time": "2026-07-23T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday.\nJuly 23: The featured Pokémon is Eevee and the special bonus is 2× Catch Candy."
-        },
-        {
-            "title": "Bidoof Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-07-30/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    "Bidoof"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-30T18:00:00",
-            "end_time": "2026-07-30T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday.\nJuly 30: The featured Pokémon is Bidoof and the special bonus is 2× Transfer Candy."
-        }
-    ],
     "Choose Your Path": [
         {
             "title": "Choose Your Path: Charged Embers",
@@ -353,16 +291,22 @@
                     "4× Stardust for catching Pokémon.",
                     "4× XP for catching Pokémon.",
                     "Event-themed Pokémon appearing in the wild are more likely to be Shiny.",
-                    "Gimmighoul holding a 10th anniversary coin may have a Special Background!",
-                    "When you use a Coin Bag during this event, you may encounter Shiny Gimmighoul—if you’re lucky!"
+                    "Gimmighoul holding a 10th anniversary coin may have a Special Background!*",
+                    "When you use a Coin Bag during this event, you may encounter Shiny Gimmighoul—if you’re lucky!*"
                 ],
                 "features": [
                     "Gimmighoul (10th Anniversary Coin)"
                 ],
                 "spawns": [
                     "Cake Hat Pikachu",
+                    "Caterpie",
                     "Eevee",
-                    "Party Hat Wurmple"
+                    "Hisuian Voltorb",
+                    "Party Hat Bulbasaur",
+                    "Party Hat Charmander",
+                    "Party Hat Squirtle",
+                    "Party Hat Wurmple",
+                    "Voltorb"
                 ],
                 "moves": [
                     "Blastoise",
@@ -379,6 +323,9 @@
                     "Cake Hat Pikachu",
                     "Eevee",
                     "Gimmighoul",
+                    "Party Hat Bulbasaur",
+                    "Party Hat Charmander",
+                    "Party Hat Squirtle",
                     "Party Hat Wurmple"
                 ]
             },
@@ -1013,6 +960,53 @@
             "start_time": "2026-07-29T18:00:00",
             "end_time": "2026-07-29T19:00:00",
             "description": "A Raid Hour featuring Kyurem is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        }
+    ],
+    "Pokémon Spotlight Hour": [
+        {
+            "title": "Zubat Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-07-16/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Zubat"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-16T18:00:00",
+            "end_time": "2026-07-16T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday.\nJuly 16: The featured Pokémon is Zubat and the special bonus is 2× Catch XP."
+        },
+        {
+            "title": "Eevee Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-07-23/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Eevee"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-23T18:00:00",
+            "end_time": "2026-07-23T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday.\nJuly 23: The featured Pokémon is Eevee and the special bonus is 2× Catch Candy."
+        },
+        {
+            "title": "Bidoof Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-07-30/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    "Bidoof"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-30T18:00:00",
+            "end_time": "2026-07-30T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday.\nJuly 30: The featured Pokémon is Bidoof and the special bonus is 2× Transfer Candy."
         }
     ],
     "Raid Day": [
