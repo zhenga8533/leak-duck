@@ -1,50 +1,4 @@
 {
-    "Community Day": [
-        {
-            "title": "Sobble Community Day",
-            "article_url": "https://leekduck.com/events/july-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-04-july-communityday2026/sobble-july-cd-2026.jpg",
-            "category": "Community Day",
-            "details": {
-                "bonuses": [
-                    "1-hour Lures*",
-                    "1/4 Hatch Distance",
-                    "2x Catch Candy",
-                    "2x Chance to receive Candy XL from catching Pokémon",
-                    "3-hour Incense",
-                    "Increased Spawns",
-                    "One additional Special Trade can be made for a maximum of two for the day*",
-                    "Trades made will require 50% less Stardust*"
-                ],
-                "features": [
-                    "Sobble"
-                ],
-                "spawns": [
-                    "Sobble"
-                ],
-                "shiny": [
-                    "Drizzile",
-                    "Inteleon",
-                    "Sobble"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-04T14:00:00",
-            "end_time": "2026-07-04T17:00:00",
-            "description": "Sobble, the Water Lizard Pokémon, will be featured during July Community Day!"
-        },
-        {
-            "title": "August Community Day",
-            "article_url": "https://leekduck.com/events/august-communityday2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
-            "category": "Community Day",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-08-16T14:00:00",
-            "end_time": "2026-08-16T17:00:00",
-            "description": "The August Community Day event will take place on August 16, 2026 from 2 pm to 5 pm. Stay tuned for more details."
-        }
-    ],
     "Raid Battles": [
         {
             "title": "Articuno, Zapdos, and Moltres in 5-star Raid Battles",
@@ -1033,6 +987,19 @@
             "start_time": "2026-08-11T10:00:00",
             "end_time": "2026-08-17T20:00:00",
             "description": "Choose Your Path Timed Research is a new way to play during non-event weeks, giving you the freedom to explore Pokémon GO your way!\nDuring a Choose Your Path Timed Research week, you’ll be able to select one of three paths: Explore, Catch, or Battle. Your choice will shape the Timed Research tasks and bonuses throughout the week.\nYou may have different research opportunities than other Trainers."
+        }
+    ],
+    "Community Day": [
+        {
+            "title": "August Community Day",
+            "article_url": "https://leekduck.com/events/august-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "category": "Community Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-08-16T14:00:00",
+            "end_time": "2026-08-16T17:00:00",
+            "description": "The August Community Day event will take place on August 16, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
     "Season": [

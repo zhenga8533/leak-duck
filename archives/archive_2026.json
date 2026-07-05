@@ -1252,6 +1252,39 @@
             "start_time": "2026-06-20T14:00:00",
             "end_time": "2026-06-20T17:00:00",
             "description": "Frigibax, the Ice Fin Pokémon, will be featured during June Community Day!"
+        },
+        {
+            "title": "Sobble Community Day",
+            "article_url": "https://leekduck.com/events/july-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-04-july-communityday2026/sobble-july-cd-2026.jpg",
+            "category": "Community Day",
+            "details": {
+                "bonuses": [
+                    "1-hour Lures*",
+                    "1/4 Hatch Distance",
+                    "2x Catch Candy",
+                    "2x Chance to receive Candy XL from catching Pokémon",
+                    "3-hour Incense",
+                    "Increased Spawns",
+                    "One additional Special Trade can be made for a maximum of two for the day*",
+                    "Trades made will require 50% less Stardust*"
+                ],
+                "features": [
+                    "Sobble"
+                ],
+                "spawns": [
+                    "Sobble"
+                ],
+                "shiny": [
+                    "Drizzile",
+                    "Inteleon",
+                    "Sobble"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-04T14:00:00",
+            "end_time": "2026-07-04T17:00:00",
+            "description": "Sobble, the Water Lizard Pokémon, will be featured during July Community Day!"
         }
     ],
     "Event": [
