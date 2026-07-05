@@ -1,48 +1,4 @@
 {
-    "Choose Your Path": [
-        {
-            "title": "Choose Your Path: Charged Embers",
-            "article_url": "https://leekduck.com/events/choose-your-path-charged-embers-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/choose-your-path-evergreen.jpg",
-            "category": "Choose Your Path",
-            "details": {
-                "bonuses": [
-                    "Battle (Raids): An additional 5,000 XP for completing raids",
-                    "Battle (Team GO Rocket): Extra Mysterious Components from Team GO Rocket Grunts",
-                    "Catch (Candy): Additional Candy for catching Pokémon with Nice Throws or better",
-                    "Catch (XP): 1.5× XP for catching Pokémon with Nice Throws or better",
-                    "Explore (Hatch): 1/2 Egg Hatch Distance bonus",
-                    "Explore (PokéStops): 5× XP for spinning PokéStops"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-06-30T10:00:00",
-            "end_time": "2026-07-03T20:00:00",
-            "description": "Choose Your Path Timed Research is a new way to play during non-event weeks, giving you the freedom to explore Pokémon GO your way!\nDuring a Choose Your Path Timed Research week, you’ll be able to select one of three paths: Explore, Catch, or Battle. Your choice will shape the Timed Research tasks and bonuses throughout the week.\nYou may have different research opportunities than other Trainers."
-        },
-        {
-            "title": "Choose Your Path: Fairy Trail",
-            "article_url": "https://leekduck.com/events/choose-your-path-fairy-trail-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/choose-your-path-evergreen.jpg",
-            "category": "Choose Your Path",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-07-28T10:00:00",
-            "end_time": "2026-08-03T20:00:00",
-            "description": "Choose Your Path Timed Research is a new way to play during non-event weeks, giving you the freedom to explore Pokémon GO your way!\nDuring a Choose Your Path Timed Research week, you’ll be able to select one of three paths: Explore, Catch, or Battle. Your choice will shape the Timed Research tasks and bonuses throughout the week.\nYou may have different research opportunities than other Trainers."
-        },
-        {
-            "title": "Choose Your Path: Venom and Vines",
-            "article_url": "https://leekduck.com/events/choose-your-path-venom-and-vines-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/choose-your-path-evergreen.jpg",
-            "category": "Choose Your Path",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-08-11T10:00:00",
-            "end_time": "2026-08-17T20:00:00",
-            "description": "Choose Your Path Timed Research is a new way to play during non-event weeks, giving you the freedom to explore Pokémon GO your way!\nDuring a Choose Your Path Timed Research week, you’ll be able to select one of three paths: Explore, Catch, or Battle. Your choice will shape the Timed Research tasks and bonuses throughout the week.\nYou may have different research opportunities than other Trainers."
-        }
-    ],
     "Community Day": [
         {
             "title": "Sobble Community Day",
@@ -1053,6 +1009,30 @@
             "start_time": "2026-08-22T14:00:00",
             "end_time": "2026-08-22T17:00:00",
             "description": "The Raid Day event will take place on August 22, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        }
+    ],
+    "Choose Your Path": [
+        {
+            "title": "Choose Your Path: Fairy Trail",
+            "article_url": "https://leekduck.com/events/choose-your-path-fairy-trail-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/choose-your-path-evergreen.jpg",
+            "category": "Choose Your Path",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-07-28T10:00:00",
+            "end_time": "2026-08-03T20:00:00",
+            "description": "Choose Your Path Timed Research is a new way to play during non-event weeks, giving you the freedom to explore Pokémon GO your way!\nDuring a Choose Your Path Timed Research week, you’ll be able to select one of three paths: Explore, Catch, or Battle. Your choice will shape the Timed Research tasks and bonuses throughout the week.\nYou may have different research opportunities than other Trainers."
+        },
+        {
+            "title": "Choose Your Path: Venom and Vines",
+            "article_url": "https://leekduck.com/events/choose-your-path-venom-and-vines-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/choose-your-path-evergreen.jpg",
+            "category": "Choose Your Path",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-08-11T10:00:00",
+            "end_time": "2026-08-17T20:00:00",
+            "description": "Choose Your Path Timed Research is a new way to play during non-event weeks, giving you the freedom to explore Pokémon GO your way!\nDuring a Choose Your Path Timed Research week, you’ll be able to select one of three paths: Explore, Catch, or Battle. Your choice will shape the Timed Research tasks and bonuses throughout the week.\nYou may have different research opportunities than other Trainers."
         }
     ],
     "Season": [
