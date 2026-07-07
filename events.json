@@ -1,195 +1,4 @@
 {
-    "Raid Battles": [
-        {
-            "title": "Articuno, Zapdos, and Moltres in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/articuno-zapdos-moltres-in-5-star-raid-battles-july-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Articuno",
-                    "Moltres",
-                    "Zapdos"
-                ],
-                "shiny": [
-                    "Articuno",
-                    "Moltres",
-                    "Zapdos"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-01T06:00:00",
-            "end_time": "2026-07-05T22:00:00",
-            "description": "Articuno, Zapdos, and Moltres will be in five-star raid battles from July 1, 2026 to July 5, 2026.\nThere will also be a Raid Hour featuring Articuno, Zapdos, and Moltres from 6:00 pm to 7:00 pm local time on the following date:\n- July 1"
-        },
-        {
-            "title": "Mega Lucario in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-lucario-in-mega-raids-july-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Lucario"
-                ],
-                "shiny": [
-                    "Lucario",
-                    "Mega Lucario"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-01T06:00:00",
-            "end_time": "2026-07-05T22:00:00",
-            "description": "Mega Lucario will be in Mega Raids from July 1, 2026 at 6 am to July 5, 2026 at 10 pm local time."
-        },
-        {
-            "title": "Mega Lucario in Mega Raids - July 13",
-            "article_url": "https://leekduck.com/events/mega-lucario-in-mega-raids-july-13-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Lucario"
-                ],
-                "shiny": [
-                    "Lucario",
-                    "Mega Lucario"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-13T06:00:00",
-            "end_time": "2026-07-14T22:00:00",
-            "description": "Mega Lucario returns to Mega Raids from July 13, 2026 at 6 am to July 14, 2026 at 10 pm local time."
-        },
-        {
-            "title": "Kyogre in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/kyogre-in-5-star-raid-battles-july-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Kyogre"
-                ],
-                "shiny": [
-                    "Kyogre"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-15T06:00:00",
-            "end_time": "2026-07-21T22:00:00",
-            "description": "Kyogre will be in five-star raid battles from July 15, 2026 to July 21, 2026.\nThere will also be a Raid Hour featuring Kyogre from 6:00 pm to 7:00 pm local time on the following date:\n- July 15"
-        },
-        {
-            "title": "Mega Sceptile in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-sceptile-in-mega-raids-july-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Sceptile"
-                ],
-                "shiny": [
-                    "Mega Sceptile",
-                    "Sceptile"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-15T06:00:00",
-            "end_time": "2026-07-21T22:00:00",
-            "description": "Mega Sceptile will be in Mega Raids from July 15, 2026 at 6 am to July 21, 2026 at 10 pm local time."
-        },
-        {
-            "title": "Mega Salamence in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-salamence-in-mega-raids-july-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Salamence"
-                ],
-                "shiny": [
-                    "Mega Salamence",
-                    "Salamence"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-22T06:00:00",
-            "end_time": "2026-07-28T22:00:00",
-            "description": "Mega Salamence will be in Mega Raids from July 22, 2026 at 6 am to July 28, 2026 at 10 pm local time."
-        },
-        {
-            "title": "Solgaleo in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/solgaleo-in-5-star-raid-battles-july-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/solgaleo.jpg?v2",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Solgaleo"
-                ],
-                "shiny": [
-                    "Solgaleo"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-22T06:00:00",
-            "end_time": "2026-07-28T22:00:00",
-            "description": "Solgaleo will be in five-star raid battles from July 22, 2026 to July 28, 2026.\nThere will also be a Raid Hour featuring Solgaleo from 6:00 pm to 7:00 pm local time on the following date:\n- July 22"
-        },
-        {
-            "title": "Shadow Palkia in Shadow Raids",
-            "article_url": "https://leekduck.com/events/shadow-palkia-in-shadow-raids-july-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Palkia"
-                ],
-                "shiny": [
-                    "Palkia"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-01T06:00:00",
-            "end_time": "2026-08-04T22:00:00",
-            "description": "Shadow Palkia will appear in Pokemon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Palkia!\nShadow Palkia will appear in five-star Shadow Raids every weekend from July 1 to August 4."
-        },
-        {
-            "title": "Kyurem in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/kyurem-in-5-star-raid-battles-july-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/kyurem.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Kyurem"
-                ],
-                "shiny": [
-                    "Kyurem"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-29T06:00:00",
-            "end_time": "2026-08-04T22:00:00",
-            "description": "Kyurem will be in five-star raid battles from July 29, 2026 to August 4, 2026.\nThere will also be a Raid Hour featuring Kyurem from 6:00 pm to 7:00 pm local time on the following date:\n- July 29"
-        },
-        {
-            "title": "Mega Aggron in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-aggron-in-mega-raids-july-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    "Mega Aggron"
-                ],
-                "shiny": [
-                    "Aggron",
-                    "Mega Aggron"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-29T06:00:00",
-            "end_time": "2026-08-04T22:00:00",
-            "description": "Mega Aggron will be in Mega Raids from July 29, 2026 at 6 am to August 4, 2026 at 10 pm local time."
-        }
-    ],
     "Event": [
         {
             "title": "10th Anniversary Party",
@@ -691,6 +500,31 @@
             "description": "The Great League, Ultra League, and Master League: Mega Edition will run from September 1, 2026, at 1:00 p.m. to September 8, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
         }
     ],
+    "Twitch Drops": [
+        {
+            "title": "Twitch Drops for Pokémon GO 10th Anniversary Celebration",
+            "article_url": "https://leekduck.com/events/pokemon-go-10th-anniversary-celebration-twitch-drops/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-09-pokemon-go-10th-anniversary-celebration-twitch-drops/rewards.jpg",
+            "category": "Twitch Drops",
+            "details": {
+                "bonuses": [
+                    "10 Great Balls",
+                    "10 Lucky Eggs",
+                    "10 Poké Balls",
+                    "10 Rare Candy",
+                    "10 Rare Candy XL",
+                    "10 Revives",
+                    "10 Star Pieces",
+                    "10 Super Incubators",
+                    "10 Ultra Balls",
+                    "20 Hyper Potions"
+                ]
+            },
+            "is_local_time": false,
+            "start_time": 1783636200,
+            "end_time": 1783647000
+        }
+    ],
     "Pokémon GO Fest": [
         {
             "title": "Pokémon GO Fest 2026: Global",
@@ -835,6 +669,156 @@
             "start_time": "2026-07-11T10:00:00",
             "end_time": "2026-07-12T19:00:00",
             "description": "Join millions of Trainers across the globe for Pokémon GO Fest 2026: Global! This worldwide event takes place from July 11, 2026 at 10 am to July 12, 2026 at 7 pm local time.\nFor the first time, GO Fest: Global is free for all Trainers who log in during event weekend. Everyone can access the featured Special Research, event bonuses, and increased Shiny encounter opportunities at no cost."
+        }
+    ],
+    "Raid Battles": [
+        {
+            "title": "Mega Lucario in Mega Raids - July 13",
+            "article_url": "https://leekduck.com/events/mega-lucario-in-mega-raids-july-13-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Lucario"
+                ],
+                "shiny": [
+                    "Lucario",
+                    "Mega Lucario"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-13T06:00:00",
+            "end_time": "2026-07-14T22:00:00",
+            "description": "Mega Lucario returns to Mega Raids from July 13, 2026 at 6 am to July 14, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Kyogre in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/kyogre-in-5-star-raid-battles-july-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Kyogre"
+                ],
+                "shiny": [
+                    "Kyogre"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-15T06:00:00",
+            "end_time": "2026-07-21T22:00:00",
+            "description": "Kyogre will be in five-star raid battles from July 15, 2026 to July 21, 2026.\nThere will also be a Raid Hour featuring Kyogre from 6:00 pm to 7:00 pm local time on the following date:\n- July 15"
+        },
+        {
+            "title": "Mega Sceptile in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-sceptile-in-mega-raids-july-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Sceptile"
+                ],
+                "shiny": [
+                    "Mega Sceptile",
+                    "Sceptile"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-15T06:00:00",
+            "end_time": "2026-07-21T22:00:00",
+            "description": "Mega Sceptile will be in Mega Raids from July 15, 2026 at 6 am to July 21, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Mega Salamence in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-salamence-in-mega-raids-july-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Salamence"
+                ],
+                "shiny": [
+                    "Mega Salamence",
+                    "Salamence"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-22T06:00:00",
+            "end_time": "2026-07-28T22:00:00",
+            "description": "Mega Salamence will be in Mega Raids from July 22, 2026 at 6 am to July 28, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Solgaleo in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/solgaleo-in-5-star-raid-battles-july-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/solgaleo.jpg?v2",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Solgaleo"
+                ],
+                "shiny": [
+                    "Solgaleo"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-22T06:00:00",
+            "end_time": "2026-07-28T22:00:00",
+            "description": "Solgaleo will be in five-star raid battles from July 22, 2026 to July 28, 2026.\nThere will also be a Raid Hour featuring Solgaleo from 6:00 pm to 7:00 pm local time on the following date:\n- July 22"
+        },
+        {
+            "title": "Shadow Palkia in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-palkia-in-shadow-raids-july-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Palkia"
+                ],
+                "shiny": [
+                    "Palkia"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-01T06:00:00",
+            "end_time": "2026-08-04T22:00:00",
+            "description": "Shadow Palkia will appear in Pokemon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Palkia!\nShadow Palkia will appear in five-star Shadow Raids every weekend from July 1 to August 4."
+        },
+        {
+            "title": "Kyurem in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/kyurem-in-5-star-raid-battles-july-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/kyurem.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Kyurem"
+                ],
+                "shiny": [
+                    "Kyurem"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-29T06:00:00",
+            "end_time": "2026-08-04T22:00:00",
+            "description": "Kyurem will be in five-star raid battles from July 29, 2026 to August 4, 2026.\nThere will also be a Raid Hour featuring Kyurem from 6:00 pm to 7:00 pm local time on the following date:\n- July 29"
+        },
+        {
+            "title": "Mega Aggron in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-aggron-in-mega-raids-july-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    "Mega Aggron"
+                ],
+                "shiny": [
+                    "Aggron",
+                    "Mega Aggron"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-29T06:00:00",
+            "end_time": "2026-08-04T22:00:00",
+            "description": "Mega Aggron will be in Mega Raids from July 29, 2026 at 6 am to August 4, 2026 at 10 pm local time."
         }
     ],
     "Raid Hour": [
