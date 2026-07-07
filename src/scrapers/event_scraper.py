@@ -11,13 +11,6 @@ from .event_page_scraper import EventPageScraper
 EVENTS_FEED_URL = "https://leekduck.com/feeds/events.json"
 
 
-def scrape_single_event_page(
-    url: str, scraper: EventPageScraper
-) -> Optional[dict[str, Any]]:
-    """Helper function to scrape a single event page with a shared scraper instance."""
-    return scraper.scrape(url)
-
-
 class EventScraper(BaseScraper):
     def __init__(
         self,
@@ -148,7 +141,7 @@ class EventScraper(BaseScraper):
             total_events = len(events_to_scrape)
             for idx, event in enumerate(events_to_scrape, 1):
                 print(f"Processing event {idx}/{total_events}: {event['title']}", flush=True)
-                result = scrape_single_event_page(event["article_url"], page_scraper)
+                result = page_scraper.scrape(event["article_url"])
                 if result and result.get("article_url") in all_events_data:
                     all_events_data[result["article_url"]].update(result)
 

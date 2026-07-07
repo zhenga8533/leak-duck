@@ -76,9 +76,6 @@ class EventPageScraper:
         response.raise_for_status()
         return response.text
 
-    def close(self) -> None:
-        """No-op kept for API compatibility with callers that manage scraper lifecycle."""
-
     def _parse_event_details(self, soup: BeautifulSoup, url: str) -> dict[str, Any]:
         """Parses the HTML soup to extract event details."""
         event_details: dict[str, Any] = {"article_url": url, "details": {}}
@@ -291,15 +288,6 @@ class EventPageScraper:
                     time.sleep(self.retry_delay)
                 else:
                     return {"article_url": url, "error": f"RequestException: {e}"}
-
-            except AttributeError as e:
-                print(
-                    f"Attribute error scraping event page {url} (attempt {attempt}): {e}",
-                    flush=True,
-                )
-                if attempt == self.max_retries:
-                    return {"article_url": url, "error": "AttributeError"}
-                time.sleep(self.retry_delay)
 
             except Exception as e:
                 print(
