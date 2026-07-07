@@ -9,7 +9,7 @@ A Python-based web scraper that automatically collects and updates Pokémon GO d
 
 ## About The Project
 
-This project provides a reliable, automated way to access up-to-date information for Pokémon GO. It scrapes the Leek Duck website for the latest details on Raid Bosses, Events, Field Research, Team GO Rocket lineups, and the current Egg Pool. The scraper is designed to be run automatically **every 12 hours** via a GitHub Actions workflow, ensuring the data is always fresh and reliable.
+This project provides a reliable, automated way to access up-to-date information for Pokémon GO. It scrapes the Leek Duck website for the latest details on Raid Bosses, Events, Field Research, Team GO Rocket lineups, and the current Egg Pool. The scraper is designed to be run automatically **every hour** via a GitHub Actions workflow, ensuring the data is always fresh and reliable.
 
 The scraped data is automatically committed and pushed to the `data` branch of this repository, making it easy to use as a free, simple API for your own projects.
 
@@ -17,7 +17,7 @@ The scraped data is automatically committed and pushed to the `data` branch of t
 
 ## Features
 
-- **Automated Scraping**: Runs automatically every 12 hours using GitHub Actions.
+- **Automated Scraping**: Runs automatically every hour using GitHub Actions.
 - **Comprehensive Data**: Scrapes a wide range of Pokémon GO data, including:
   - **Raid Bosses**: Current Pokémon in all raid tiers.
   - **Events**: A categorized list of all current and upcoming in-game events.
@@ -133,7 +133,7 @@ To get a local copy up and running, follow these simple steps.
 This repository is configured to run the scraper automatically using GitHub Actions.
 
 - **Workflow file:** `.github/workflows/run_scrapers.yml`
-- **Trigger:** The workflow runs on a schedule (every 12 hours) and can also be triggered manually from the "Actions" tab in GitHub.
+- **Trigger:** The workflow runs on a schedule (every hour) and can also be triggered manually from the "Actions" tab in GitHub.
 - **Process:**
   1.  The action checks out the `main` branch to get the latest scraper code.
   2.  It installs the Python dependencies (using a cache for speed).
