@@ -144,41 +144,13 @@ class EventScraper(BaseScraper):
         }
 
         if events_to_scrape:
-            print(f"Initializing Selenium WebDriver for {len(events_to_scrape)} events...", flush=True)
-            try:
-                page_scraper = EventPageScraper()
-                print("WebDriver initialized successfully", flush=True)
-            except RuntimeError as e:
-                print(f"✗ Failed to initialize WebDriver: {e}", flush=True)
-                print("Skipping event detail scraping, returning basic event data only", flush=True)
-                # Continue with basic event data without detailed scraping
-                self._apply_feed_dates(all_events_data)
-                new_events_by_category: dict[str, list[dict[str, Any]]] = {}
-                for event in all_events_data.values():
-                    category = event.get("category", "Event")
-                    if category not in new_events_by_category:
-                        new_events_by_category[category] = []
-                    new_events_by_category[category].append(event)
-
-                merged_events = self.existing_events_data.copy()
-                for category, events in new_events_by_category.items():
-                    if category not in merged_events:
-                        merged_events[category] = []
-                    merged_events[category].extend(events)
-
-                return merged_events
-
-            try:
-                total_events = len(events_to_scrape)
-                for idx, event in enumerate(events_to_scrape, 1):
-                    print(f"Processing event {idx}/{total_events}: {event['title']}", flush=True)
-                    result = scrape_single_event_page(
-                        event["article_url"], page_scraper
-                    )
-                    if result and result.get("article_url") in all_events_data:
-                        all_events_data[result["article_url"]].update(result)
-            finally:
-                page_scraper.close()
+            page_scraper = EventPageScraper()
+            total_events = len(events_to_scrape)
+            for idx, event in enumerate(events_to_scrape, 1):
+                print(f"Processing event {idx}/{total_events}: {event['title']}", flush=True)
+                result = scrape_single_event_page(event["article_url"], page_scraper)
+                if result and result.get("article_url") in all_events_data:
+                    all_events_data[result["article_url"]].update(result)
 
         self._apply_feed_dates(all_events_data)
         new_events_by_category: dict[str, list[dict[str, Any]]] = {}
