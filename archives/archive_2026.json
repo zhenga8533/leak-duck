@@ -3513,6 +3513,30 @@
             "start_time": "2026-05-05T10:00:00",
             "end_time": "2026-06-02T10:00:00",
             "description": "Rank up to earn rewards including an encounter with Suicune, up to 1,400 total PokéCoins, and more!\nFrom Tuesday, May 5, at 10:00 a.m. to Tuesday, June 2, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for May will be available in Pokémon GO!"
+        },
+        {
+            "title": "GO Pass: June",
+            "article_url": "https://leekduck.com/events/go-pass-june-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-02-go-pass-june-2026/go-pass-june-2026.jpg",
+            "category": "GO Pass",
+            "details": {
+                "bonuses": [
+                    "2× Daily Adventure Incense duration",
+                    "Hold 10 more Gifts in your Item Bag",
+                    "Hold up to 20 more Gifts in your Item Bag",
+                    "Increased XP and Stardust from hatching Eggs",
+                    "One additional Candy for trading Pokémon",
+                    "Open up to 40 Gifts per day",
+                    "Open up to 50 Gifts per day",
+                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Trainers level 31 and above will receive one guaranteed Candy XL when trading Pokémon"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-02T10:00:00",
+            "end_time": "2026-07-07T10:00:00",
+            "description": "Lugia and the Timed Incubator return for GO Pass: June!\nFrom Tuesday, June 2, at 10:00 a.m. to Tuesday, July 7, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for June will be available in Pokémon GO!"
         }
     ],
     "GO Battle League": [
