@@ -95,6 +95,26 @@ def process_time_data(
     return None
 
 
+def parse_feed_datetime(value: Optional[str]) -> Optional[Union[str, int]]:
+    """
+    Parses an ISO 8601 timestamp from the official leekduck.com/feeds/events.json feed.
+
+    Naive timestamps (no offset) represent local event time and are kept as an
+    ISO string; offset-aware timestamps are converted to unix time, matching the
+    schema produced by process_time_data() for HTML-scraped dates.
+    """
+    if not value:
+        return None
+    try:
+        dt_object = datetime.fromisoformat(value)
+    except ValueError:
+        return None
+
+    if dt_object.tzinfo is not None:
+        return int(dt_object.timestamp())
+    return dt_object.isoformat()
+
+
 def clean_banner_url(url: Optional[str]) -> Optional[str]:
     if not url:
         return None

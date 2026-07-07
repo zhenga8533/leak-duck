@@ -3,10 +3,12 @@ from typing import Any, Optional, cast
 import requests
 from bs4 import BeautifulSoup, Tag
 
-from src.utils import clean_banner_url
+from src.utils import clean_banner_url, parse_feed_datetime
 
 from .base_scraper import BaseScraper
 from .event_page_scraper import EventPageScraper
+
+EVENTS_FEED_URL = "https://leekduck.com/feeds/events.json"
 
 
 def scrape_single_event_page(
@@ -34,6 +36,42 @@ class EventScraper(BaseScraper):
         self.existing_events_data: dict[str, list[dict[str, Any]]] = {}
         if self.check_existing_events:
             self._fetch_existing_events()
+        self.event_dates_feed = self._fetch_event_dates_feed()
+
+    def _fetch_event_dates_feed(self) -> dict[str, dict[str, Optional[str]]]:
+        """Fetches leekduck.com's official events feed for authoritative start/end times."""
+        try:
+            timeout = self.scraper_settings.get("timeout", 15)
+            response = requests.get(EVENTS_FEED_URL, timeout=timeout)
+            response.raise_for_status()
+            feed = response.json()
+            return {
+                entry["eventID"]: {
+                    "start": entry.get("start"),
+                    "end": entry.get("end"),
+                }
+                for entry in feed
+                if entry.get("eventID")
+            }
+        except (requests.exceptions.RequestException, ValueError) as e:
+            print(f"Could not fetch events date feed: {e}", flush=True)
+            return {}
+
+    def _apply_feed_dates(self, all_events_data: dict[str, dict[str, Any]]) -> None:
+        """Overlays authoritative start/end times from the official events feed."""
+        for event in all_events_data.values():
+            event_id = event.pop("event_id", None)
+            feed_entry = self.event_dates_feed.get(event_id) if event_id else None
+            if not feed_entry:
+                continue
+
+            start_time = parse_feed_datetime(feed_entry.get("start"))
+            end_time = parse_feed_datetime(feed_entry.get("end"))
+            if start_time is not None:
+                event["start_time"] = start_time
+                event["is_local_time"] = isinstance(start_time, str)
+            if end_time is not None:
+                event["end_time"] = end_time
 
     def _fetch_existing_events(self):
         if not self.github_user or not self.github_repo:
@@ -85,6 +123,8 @@ class EventScraper(BaseScraper):
             if isinstance(image_element, Tag) and image_element.has_attr("src"):
                 banner_url = clean_banner_url(str(image_element["src"]).strip())
 
+            event_id = str(href).strip("/").rsplit("/", 1)[-1]
+
             events_to_scrape.append(
                 {
                     "title": title_element.get_text(strip=True),
@@ -95,6 +135,7 @@ class EventScraper(BaseScraper):
                         if category_element
                         else "Event"
                     ),
+                    "event_id": event_id,
                 }
             )
 
@@ -111,6 +152,7 @@ class EventScraper(BaseScraper):
                 print(f"✗ Failed to initialize WebDriver: {e}", flush=True)
                 print("Skipping event detail scraping, returning basic event data only", flush=True)
                 # Continue with basic event data without detailed scraping
+                self._apply_feed_dates(all_events_data)
                 new_events_by_category: dict[str, list[dict[str, Any]]] = {}
                 for event in all_events_data.values():
                     category = event.get("category", "Event")
@@ -138,6 +180,7 @@ class EventScraper(BaseScraper):
             finally:
                 page_scraper.close()
 
+        self._apply_feed_dates(all_events_data)
         new_events_by_category: dict[str, list[dict[str, Any]]] = {}
         for event in all_events_data.values():
             category = event.get("category", "Event")

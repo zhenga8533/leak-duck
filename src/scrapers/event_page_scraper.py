@@ -2,22 +2,12 @@ import json
 import os
 import re
 import time
-from concurrent.futures import ThreadPoolExecutor
-from concurrent.futures import TimeoutError as FuturesTimeoutError
 from datetime import datetime, timedelta
 from typing import Any, Optional, cast
 from urllib.parse import quote_plus
 
+import requests
 from bs4 import BeautifulSoup, Tag
-from selenium import webdriver
-from selenium.common.exceptions import TimeoutException, WebDriverException
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.common.by import By
-from selenium.webdriver.remote.webdriver import WebDriver
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.ui import WebDriverWait
-from urllib3.exceptions import ReadTimeoutError
 
 from src.utils import process_time_data, save_html
 
@@ -45,91 +35,18 @@ def clean_spacing(text: str) -> str:
 
 class EventPageScraper:
     """
-    A class to scrape dynamic event pages using Selenium and BeautifulSoup.
+    A class to scrape event pages using requests and BeautifulSoup.
 
-    This scraper is designed to fetch and parse event details from pages that
-    load their content dynamically using JavaScript.
+    Event pages are server-rendered: dates, descriptions, Pokémon lists, and
+    bonuses are all present in the initial HTML response, so no JS execution
+    is required to read them.
     """
 
     def __init__(self):
-        """Initializes the EventPageScraper and its WebDriver."""
-        self.driver: WebDriver = self._get_driver_with_timeout(timeout=30)
         self.cache_expiration_hours = self._load_cache_expiration()
         self.max_retries = 3
         self.retry_delay = 1  # seconds
-        self.driver_stuck = False  # Track if driver is in a bad state
-        self.driver_init_timeout = 30  # Timeout for driver initialization
-
-    def _get_driver_with_timeout(self, timeout: int = 30) -> WebDriver:
-        """
-        Gets a WebDriver with a timeout to prevent indefinite hangs.
-
-        Args:
-            timeout: Maximum seconds to wait for driver initialization
-
-        Returns:
-            WebDriver instance
-
-        Raises:
-            RuntimeError: If driver initialization times out or fails
-        """
-        with ThreadPoolExecutor(max_workers=1) as executor:
-            future = executor.submit(self._get_driver)
-            try:
-                return future.result(timeout=timeout)
-            except FuturesTimeoutError:
-                error_msg = (
-                    f"WebDriver initialization timed out after {timeout} seconds"
-                )
-                print(f"✗ {error_msg}", flush=True)
-                raise RuntimeError(error_msg)
-            except Exception as e:
-                error_msg = f"WebDriver initialization failed: {e}"
-                print(f"✗ {error_msg}", flush=True)
-                raise RuntimeError(error_msg)
-
-    def _get_driver(self) -> WebDriver:
-        """Configures and returns a headless Chrome WebDriver instance."""
-        options = Options()
-        options.add_argument("--headless=new")  # Use new headless mode
-        options.add_argument("--disable-gpu")
-        options.add_argument("--no-sandbox")
-        options.add_argument("--disable-setuid-sandbox")
-        options.add_argument("--log-level=3")
-        options.add_argument("--disable-extensions")
-        options.add_argument("--disable-dev-shm-usage")
-        options.add_argument("--disable-software-rasterizer")
-        options.add_argument("--window-size=1920,1080")
-        options.add_argument("--disable-web-security")
-        options.add_argument("--disable-features=IsolateOrigins,site-per-process")
-        options.add_argument(
-            "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
-        )
-        options.add_argument("--disable-blink-features=AutomationControlled")
-        options.add_experimental_option(
-            "excludeSwitches", ["enable-logging", "enable-automation"]
-        )
-        options.add_experimental_option("useAutomationExtension", False)
-
-        # This will make the driver wait for the initial HTML to load, but not for all
-        # resources like images and stylesheets. This can prevent the scraper from
-        # getting stuck on pages with slow-loading assets.
-        options.page_load_strategy = "eager"
-
-        service = Service(log_output=os.devnull)
-        driver = webdriver.Chrome(service=service, options=options)
-
-        # Set timeouts to prevent long hangs
-        driver.set_page_load_timeout(25)  # Max 25 seconds for page load
-        driver.set_script_timeout(15)  # Max 15 seconds for scripts
-
-        # Set remote connection timeout to 30 seconds (shorter than the default 120)
-        ce: Any = getattr(driver, "command_executor", None)
-        if ce and hasattr(ce, "set_timeout"):
-            ce.set_timeout(30)
-
-        return driver
+        self.timeout = 15
 
     def _load_cache_expiration(self) -> int:
         """Loads the cache expiration time from config.json."""
@@ -153,68 +70,14 @@ class EventPageScraper:
 
         return file_modified_time > expiration_time
 
-    def _is_valid_time(self, time_value: Optional[Any]) -> bool:
-        """Checks if a time value is valid (not None, empty, or invalid)."""
-        if time_value is None or time_value == "":
-            return False
-        if isinstance(time_value, str):
-            # Check for common invalid patterns
-            if time_value.lower() in ["none", "null", "invalid", "tbd", "tba"]:
-                return False
-        return True
-
-    def _has_valid_times(self, event_details: dict[str, Any]) -> bool:
-        """Checks if event has both valid start and end times."""
-        return self._is_valid_time(
-            event_details.get("start_time")
-        ) and self._is_valid_time(event_details.get("end_time"))
-
-    def _restart_driver(self) -> bool:
-        """
-        Restarts the WebDriver when it gets stuck or unresponsive.
-
-        Returns:
-            True if restart was successful, False otherwise
-        """
-        try:
-            print("⟳ Restarting WebDriver...", flush=True)
-            # Close the old driver
-            try:
-                self.driver.quit()
-            except Exception:
-                pass  # Ignore errors when closing stuck driver
-
-            # Create a new driver
-            self.driver = self._get_driver_with_timeout(
-                timeout=self.driver_init_timeout
-            )
-            self.driver_stuck = False
-            print("✓ WebDriver restarted successfully", flush=True)
-            return True
-        except Exception as e:
-            print(f"✗ Failed to restart WebDriver: {e}", flush=True)
-            self.driver_stuck = True
-            return False
-
-    def _fetch_dynamic_html(self, url: str) -> str:
-        """Fetches the HTML content of a page after dynamic content has loaded."""
-        # Page load timeout is already set in _get_driver
-        self.driver.get(url)
-
-        WebDriverWait(self.driver, 10).until(
-            EC.presence_of_element_located(
-                (
-                    By.CSS_SELECTOR,
-                    "#event-time-date-box span[data-event-page-date], "
-                    "#event-time-date-box span:not([data-event-page-date])",
-                )
-            )
-        )
-        return self.driver.page_source
+    def _fetch_html(self, url: str) -> str:
+        """Fetches the HTML content of an event page."""
+        response = requests.get(url, timeout=self.timeout)
+        response.raise_for_status()
+        return response.text
 
     def close(self) -> None:
-        """Closes the WebDriver session."""
-        self.driver.quit()
+        """No-op kept for API compatibility with callers that manage scraper lifecycle."""
 
     def _parse_event_details(self, soup: BeautifulSoup, url: str) -> dict[str, Any]:
         """Parses the HTML soup to extract event details."""
@@ -384,7 +247,10 @@ class EventPageScraper:
 
     def scrape(self, url: str) -> dict[str, Any]:
         """
-        Scrapes a given URL for event details with retry logic for invalid times.
+        Scrapes a given URL for event details, retrying on request errors.
+
+        Note: start_time/end_time parsed here are a fallback only -- EventScraper
+        overlays authoritative dates from leekduck.com's official events feed.
 
         Args:
             url: The URL of the event page to scrape.
@@ -396,7 +262,6 @@ class EventPageScraper:
 
         for attempt in range(1, self.max_retries + 1):
             try:
-                # Check if cache exists and is valid
                 use_cache = self._is_cache_valid(html_path) and attempt == 1
 
                 if use_cache:
@@ -405,109 +270,27 @@ class EventPageScraper:
                         html_content = f.read()
                 else:
                     print(
-                        f"Scraping dynamic event page: {url} (attempt {attempt}/{self.max_retries})",
+                        f"Scraping event page: {url} (attempt {attempt}/{self.max_retries})",
                         flush=True,
                     )
-                    html_content = self._fetch_dynamic_html(url)
+                    html_content = self._fetch_html(url)
 
                 soup = BeautifulSoup(html_content, "lxml")
                 event_details = self._parse_event_details(soup, url)
 
-                # Check if times are valid
-                if self._has_valid_times(event_details):
-                    # Valid times - save HTML and return
-                    if not use_cache:
-                        save_html(html_content, html_path)
-                    return event_details
-                else:
-                    # Invalid times
-                    print(f"Invalid start/end time on attempt {attempt}", flush=True)
-                    print(
-                        f"  start_time: {event_details.get('start_time')}", flush=True
-                    )
-                    print(f"  end_time: {event_details.get('end_time')}", flush=True)
+                if not use_cache:
+                    save_html(html_content, html_path)
+                return event_details
 
-                    # Delete cache if it exists (it's bad data)
-                    if os.path.exists(html_path):
-                        os.remove(html_path)
-                        print(f"Deleted invalid cache", flush=True)
-
-                    # If this is not the last attempt, wait and retry
-                    if attempt < self.max_retries:
-                        print(
-                            f"Waiting {self.retry_delay}s before retry...", flush=True
-                        )
-                        time.sleep(self.retry_delay)
-                    else:
-                        print(
-                            f"✗ All {self.max_retries} attempts failed - skipping event",
-                            flush=True,
-                        )
-                        return {"article_url": url, "error": "InvalidTimes"}
-
-            except TimeoutException as e:
+            except requests.exceptions.RequestException as e:
                 print(
-                    f"Timeout error scraping event page {url} (attempt {attempt}): {e}",
+                    f"Request error scraping event page {url} (attempt {attempt}): {e}",
                     flush=True,
                 )
-                # Mark driver as potentially stuck and restart it
-                self.driver_stuck = True
                 if attempt < self.max_retries:
-                    if not self._restart_driver():
-                        return {"article_url": url, "error": "DriverRestartFailed"}
                     time.sleep(self.retry_delay)
                 else:
-                    return {"article_url": url, "error": "TimeoutException"}
-
-            except (ReadTimeoutError, ConnectionError, OSError) as e:
-                # These errors indicate the WebDriver connection is stuck
-                error_type = type(e).__name__
-                print(
-                    f"Connection error scraping {url} (attempt {attempt}): {error_type} - {e}",
-                    flush=True,
-                )
-                self.driver_stuck = True
-                if attempt < self.max_retries:
-                    if not self._restart_driver():
-                        return {"article_url": url, "error": "DriverRestartFailed"}
-                    time.sleep(self.retry_delay)
-                else:
-                    return {
-                        "article_url": url,
-                        "error": f"ConnectionError: {error_type}",
-                    }
-
-            except WebDriverException as e:
-                # General WebDriver errors - might indicate stuck driver
-                print(
-                    f"WebDriver error scraping {url} (attempt {attempt}): {e}",
-                    flush=True,
-                )
-                # Check if error message indicates connection issues
-                error_str = str(e).lower()
-                if (
-                    "timeout" in error_str
-                    or "connection" in error_str
-                    or "disconnected" in error_str
-                ):
-                    self.driver_stuck = True
-                    if attempt < self.max_retries:
-                        if not self._restart_driver():
-                            return {"article_url": url, "error": "DriverRestartFailed"}
-                        time.sleep(self.retry_delay)
-                    else:
-                        return {
-                            "article_url": url,
-                            "error": f"WebDriverException: {str(e)[:100]}",
-                        }
-                else:
-                    # Non-connection WebDriver error
-                    if attempt == self.max_retries:
-                        return {
-                            "article_url": url,
-                            "error": f"WebDriverException: {str(e)[:100]}",
-                        }
-                    time.sleep(self.retry_delay)
+                    return {"article_url": url, "error": f"RequestException: {e}"}
 
             except AttributeError as e:
                 print(
@@ -523,20 +306,9 @@ class EventPageScraper:
                     f"Unexpected error scraping {url} (attempt {attempt}): {e}",
                     flush=True,
                 )
-                # Check if it's a connection-related error from the error message
-                error_str = str(e).lower()
-                if "timeout" in error_str or "connection" in error_str:
-                    self.driver_stuck = True
-                    if attempt < self.max_retries:
-                        if not self._restart_driver():
-                            return {"article_url": url, "error": "DriverRestartFailed"}
-                        time.sleep(self.retry_delay)
-                    else:
-                        return {"article_url": url, "error": str(e)}
-                else:
-                    if attempt == self.max_retries:
-                        return {"article_url": url, "error": str(e)}
-                    time.sleep(self.retry_delay)
+                if attempt == self.max_retries:
+                    return {"article_url": url, "error": str(e)}
+                time.sleep(self.retry_delay)
 
         # Should never reach here, but just in case
         return {"article_url": url, "error": "MaxRetriesExceeded"}

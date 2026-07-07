@@ -11,7 +11,7 @@
   },
   "scrapers": {
     "RaidBossScraper": {
-      "url": "https://leekduck.com/boss/",
+      "url": "https://leekduck.com/raid-bosses/",
       "file_name": "raid_bosses",
       "enabled": true
     },
