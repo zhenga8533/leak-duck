@@ -279,17 +279,6 @@
             "start_time": "2026-08-08T11:00:00",
             "end_time": "2026-08-08T17:00:00",
             "description": "The Hatch Day event will take place on August 8, 2026 from 11 am to 5 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Example Event Template (Auto ToC Demo)",
-            "article_url": "https://leekduck.com/events/example_event/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/example_event/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-12-01T10:00:00",
-            "end_time": "2026-12-02T20:00:00",
-            "description": "This file demonstrates the reusable event pattern:\n- Keep all section if blocks in the template body.\n- Set event_toc_auto: true.\n- Fill data lists only for sections you want to show.\n- Leave unused section data empty to auto-hide both section and ToC item."
         }
     ],
     "Max Mondays": [
@@ -509,15 +498,16 @@
             "details": {
                 "bonuses": [
                     "10 Great Balls",
+                    "10 Hyper Potions",
                     "10 Lucky Eggs",
+                    "10 Max Potions",
+                    "10 Max Revives",
                     "10 Poké Balls",
+                    "10 Potions",
                     "10 Rare Candy",
                     "10 Rare Candy XL",
                     "10 Revives",
-                    "10 Star Pieces",
-                    "10 Super Incubators",
-                    "10 Ultra Balls",
-                    "20 Hyper Potions"
+                    "10 Ultra Balls"
                 ]
             },
             "is_local_time": false,
