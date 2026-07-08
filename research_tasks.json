@@ -1,44 +1,4 @@
 {
-    "10th Anniversary Party Tasks": [
-        {
-            "task": "Catch 10 Pokémon",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Bulbasaur wearing a Party Hat",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm1.cJAN_2020_NOEVOLVE.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Charmander wearing a Party Hat",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm4.cJAN_2020_NOEVOLVE.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Squirtle wearing a Party Hat",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm7.cJAN_2020_NOEVOLVE.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Power up Pokémon 10 times",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Pikachu wearing a Cake Hat",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.cANNIVERSARY_2022_NOEVOLVE.icon.png"
-                }
-            ]
-        }
-    ],
     "Catching Tasks": [
         {
             "task": "Catch 7 Pokémon",
