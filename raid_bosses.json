@@ -21,22 +21,22 @@
     ],
     "Mega Raids": [
         {
-            "name": "Mega Gardevoir",
+            "name": "Mega Gengar",
             "tier": "Mega Raids",
             "shiny_available": true,
             "cp_range": {
-                "min": 1688,
-                "max": 1767
+                "min": 1566,
+                "max": 1644
             },
             "boosted_cp_range": {
-                "min": 2110,
-                "max": 2209
+                "min": 1958,
+                "max": 2055
             },
             "types": [
-                "Psychic",
-                "Fairy"
+                "Ghost",
+                "Poison"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm282.fMEGA.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm94.fMEGA.icon.png"
         }
     ],
     "1-Star Raids": [
