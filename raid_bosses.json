@@ -21,22 +21,22 @@
     ],
     "Mega Raids": [
         {
-            "name": "Mega Tyranitar",
+            "name": "Mega Gardevoir",
             "tier": "Mega Raids",
             "shiny_available": true,
             "cp_range": {
-                "min": 2103,
-                "max": 2191
+                "min": 1688,
+                "max": 1767
             },
             "boosted_cp_range": {
-                "min": 2629,
-                "max": 2739
+                "min": 2110,
+                "max": 2209
             },
             "types": [
-                "Rock",
-                "Dark"
+                "Psychic",
+                "Fairy"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm248.fMEGA.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm282.fMEGA.icon.png"
         }
     ],
     "1-Star Raids": [
