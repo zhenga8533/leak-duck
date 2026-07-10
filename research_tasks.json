@@ -1,4 +1,242 @@
 {
+    "Pokémon GO Fest 2026: Global - Sunday Tasks": [
+        {
+            "task": "Win a raid",
+            "rewards": [
+                {
+                    "type": "resource",
+                    "name": "Mega Mewtwo Y Mega Energy",
+                    "quantity": 150,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Mega Mewtwo Energy Y.png"
+                }
+            ]
+        }
+    ],
+    "Pokémon GO Fest 2026: Global - Saturday Tasks": [
+        {
+            "task": "Win a raid",
+            "rewards": [
+                {
+                    "type": "resource",
+                    "name": "Mega Mewtwo X Mega Energy",
+                    "quantity": 150,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Mega Mewtwo Energy X.png"
+                }
+            ]
+        }
+    ],
+    "Pokémon GO Fest 2026: Global - Ice hour Tasks": [
+        {
+            "task": "Catch 6 Ice-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Lapras",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm131.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Amaura",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm698.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Bergmite",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm712.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Ice-type Pokémon 3 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Lapras",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm131.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Amaura",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm698.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Bergmite",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm712.icon.png"
+                }
+            ]
+        }
+    ],
+    "Pokémon GO Fest 2026: Global - Electric hour Tasks": [
+        {
+            "task": "Catch 6 Electric-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Tynamo",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm602.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Stunfisk",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm618.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Dedenne",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm702.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Electric-type Pokémon 3 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Stunfisk",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm618.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Dedenne",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm702.icon.png"
+                }
+            ]
+        }
+    ],
+    "Pokémon GO Fest 2026: Global - Common tasks Tasks": [
+        {
+            "task": "Catch 8 different species of Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Bulbasaur wearing a Pikachu Visor",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm1.cSPRING_2020_NOEVOLVE.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Charmander wearing a Pikachu Visor",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm4.cSPRING_2020_NOEVOLVE.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Squirtle wearing a Pikachu Visor",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm7.cSPRING_2020_NOEVOLVE.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 8 different species of Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing a Team Instinct hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOFEST_2026_CAP_YELLOW.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing a Team Mystic hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOFEST_2026_CAP_BLUE.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing a Team Valor hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOFEST_2026_CAP_RED.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 10 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Poké Ball",
+                    "quantity": 10,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Poke Ball.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Stardust",
+                    "quantity": 500,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Ultra Ball",
+                    "quantity": 3,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Ultra Ball.png"
+                }
+            ]
+        },
+        {
+            "task": "Hatch an Egg",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Stardust",
+                    "quantity": 1000,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+                }
+            ]
+        },
+        {
+            "task": "Spin 5 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Poké Ball",
+                    "quantity": 10,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Poke Ball.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Stardust",
+                    "quantity": 500,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Ultra Ball",
+                    "quantity": 3,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Ultra Ball.png"
+                }
+            ]
+        }
+    ],
     "Catching Tasks": [
         {
             "task": "Catch 7 Pokémon",
