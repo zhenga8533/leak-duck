@@ -19,24 +19,41 @@
             "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm484.icon.png"
         }
     ],
-    "Mega Raids": [
+    "Primal Raids": [
         {
-            "name": "Mega Gengar",
-            "tier": "Mega Raids",
+            "name": "Primal Kyogre",
+            "tier": "Primal Raids",
             "shiny_available": true,
             "cp_range": {
-                "min": 1566,
-                "max": 1644
+                "min": 2260,
+                "max": 2351
             },
             "boosted_cp_range": {
-                "min": 1958,
-                "max": 2055
+                "min": 2825,
+                "max": 2939
             },
             "types": [
-                "Ghost",
-                "Poison"
+                "Water"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm94.fMEGA.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm382.fPRIMAL.icon.png"
+        },
+        {
+            "name": "Primal Groudon",
+            "tier": "Primal Raids",
+            "shiny_available": true,
+            "cp_range": {
+                "min": 2260,
+                "max": 2351
+            },
+            "boosted_cp_range": {
+                "min": 2825,
+                "max": 2939
+            },
+            "types": [
+                "Ground",
+                "Fire"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm383.fPRIMAL.icon.png"
         }
     ],
     "1-Star Raids": [
