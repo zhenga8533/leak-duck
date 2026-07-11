@@ -1,132 +1,5 @@
 {
-    "Pokémon GO Fest 2026: Global - Sunday Tasks": [
-        {
-            "task": "Win a raid",
-            "rewards": [
-                {
-                    "type": "resource",
-                    "name": "Mega Mewtwo Y Mega Energy",
-                    "quantity": 150,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Mega Mewtwo Energy Y.png"
-                }
-            ]
-        }
-    ],
-    "Pokémon GO Fest 2026: Global - Saturday Tasks": [
-        {
-            "task": "Win a raid",
-            "rewards": [
-                {
-                    "type": "resource",
-                    "name": "Mega Mewtwo X Mega Energy",
-                    "quantity": 150,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Mega Mewtwo Energy X.png"
-                }
-            ]
-        }
-    ],
-    "Pokémon GO Fest 2026: Global - Ice hour Tasks": [
-        {
-            "task": "Catch 6 Ice-type Pokémon",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Lapras",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm131.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Amaura",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm698.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Bergmite",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm712.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Power up Ice-type Pokémon 3 times",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Lapras",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm131.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Amaura",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm698.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Bergmite",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm712.icon.png"
-                }
-            ]
-        }
-    ],
-    "Pokémon GO Fest 2026: Global - Electric hour Tasks": [
-        {
-            "task": "Catch 6 Electric-type Pokémon",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Tynamo",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm602.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Stunfisk",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm618.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Dedenne",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm702.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Power up Electric-type Pokémon 3 times",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Stunfisk",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm618.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Dedenne",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm702.icon.png"
-                }
-            ]
-        }
-    ],
-    "Pokémon GO Fest 2026: Global - Common tasks Tasks": [
+    "Pokémon GO Fest 2026: Global - Common tasks": [
         {
             "task": "Catch 8 different species of Pokémon",
             "rewards": [
@@ -233,6 +106,140 @@
                     "name": "Ultra Ball",
                     "quantity": 3,
                     "asset_url": "https://cdn.leekduck.com/assets/img/items/Ultra Ball.png"
+                }
+            ]
+        }
+    ],
+    "Pokémon GO Fest 2026: Global - Electric hour Tasks": [
+        {
+            "task": "Catch 6 Electric-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Tynamo",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm602.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Stunfisk",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm618.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Dedenne",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm702.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Electric-type Pokémon 3 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Tynamo",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm602.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Stunfisk",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm618.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Dedenne",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm702.icon.png"
+                }
+            ]
+        }
+    ],
+    "Pokémon GO Fest 2026: Global - Ice hour Tasks": [
+        {
+            "task": "Catch 6 Ice-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Lapras",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm131.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Amaura",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm698.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Bergmite",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm712.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Ice-type Pokémon 3 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Lapras",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm131.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Amaura",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm698.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Bergmite",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm712.icon.png"
+                }
+            ]
+        }
+    ],
+    "Pokémon GO Fest 2026: Global - Saturday Tasks": [
+        {
+            "task": "Win a raid",
+            "rewards": [
+                {
+                    "type": "resource",
+                    "name": "Mega Mewtwo X Mega Energy",
+                    "quantity": 150,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Mega Mewtwo Energy X.png"
+                }
+            ]
+        }
+    ],
+    "Pokémon GO Fest 2026: Global - Sunday Tasks": [
+        {
+            "task": "Win a raid",
+            "rewards": [
+                {
+                    "type": "resource",
+                    "name": "Mega Mewtwo Y Mega Energy",
+                    "quantity": 150,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/mega_energy/Mega Mewtwo Energy Y.png"
                 }
             ]
         }
