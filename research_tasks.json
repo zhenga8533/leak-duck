@@ -520,6 +520,13 @@
             "rewards": [
                 {
                     "type": "encounter",
+                    "name": "Onix",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm95.icon.png"
+                },
+                {
+                    "type": "encounter",
                     "name": "Aerodactyl",
                     "shiny_available": true,
                     "cp_range": null,
@@ -531,13 +538,6 @@
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm410.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Dwebble",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm557.icon.png"
                 }
             ]
         },
@@ -546,6 +546,13 @@
             "rewards": [
                 {
                     "type": "encounter",
+                    "name": "Onix",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm95.icon.png"
+                },
+                {
+                    "type": "encounter",
                     "name": "Aerodactyl",
                     "shiny_available": true,
                     "cp_range": null,
@@ -557,13 +564,6 @@
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm410.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Dwebble",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm557.icon.png"
                 }
             ]
         }

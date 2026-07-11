@@ -21,58 +21,57 @@
     ],
     "Mega Raids": [
         {
-            "name": "Mega Ampharos",
+            "name": "Mega Alakazam",
             "tier": "Mega Raids",
             "shiny_available": true,
             "cp_range": {
-                "min": 1554,
-                "max": 1630
+                "min": 1666,
+                "max": 1747
             },
             "boosted_cp_range": {
-                "min": 1943,
-                "max": 2037
+                "min": 2083,
+                "max": 2184
             },
             "types": [
-                "Electric",
-                "Dragon"
+                "Psychic"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm181.fMEGA.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm65.fMEGA.icon.png"
         },
         {
-            "name": "Mega Blaziken",
+            "name": "Mega Gengar",
             "tier": "Mega Raids",
             "shiny_available": true,
             "cp_range": {
-                "min": 1550,
-                "max": 1627
+                "min": 1566,
+                "max": 1644
             },
             "boosted_cp_range": {
-                "min": 1938,
-                "max": 2034
+                "min": 1958,
+                "max": 2055
             },
             "types": [
-                "Fire",
-                "Fighting"
+                "Ghost",
+                "Poison"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm257.fMEGA.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm94.fMEGA.icon.png"
         },
         {
-            "name": "Mega Abomasnow",
+            "name": "Mega Swampert",
             "tier": "Mega Raids",
             "shiny_available": true,
             "cp_range": {
-                "min": 1281,
-                "max": 1349
+                "min": 1622,
+                "max": 1699
             },
             "boosted_cp_range": {
-                "min": 1601,
-                "max": 1687
+                "min": 2027,
+                "max": 2124
             },
             "types": [
-                "Grass",
-                "Ice"
+                "Water",
+                "Ground"
             ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm460.fMEGA.icon.png"
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm260.fMEGA.icon.png"
         }
     ],
     "5-Star Raids": [
