@@ -406,6 +406,208 @@
             ]
         }
     ],
+    "Pokémon GO Fest 2026: Global - Water hour Tasks": [
+        {
+            "task": "Catch 6 Water-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Squirtle wearing a Pikachu Visor",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm7.cSPRING_2020_NOEVOLVE.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Horsea",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm116.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Goldeen",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm118.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Water-type Pokémon 3 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Squirtle wearing a Pikachu Visor",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm7.cSPRING_2020_NOEVOLVE.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Horsea",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm116.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Goldeen",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm118.icon.png"
+                }
+            ]
+        }
+    ],
+    "Pokémon GO Fest 2026: Global - Flying hour Tasks": [
+        {
+            "task": "Catch 6 Flying-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Scyther",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm123.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Gligar",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm207.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Noibat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm714.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Flying-type Pokémon 3 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Scyther",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm123.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Gligar",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm207.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Noibat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm714.icon.png"
+                }
+            ]
+        }
+    ],
+    "Pokémon GO Fest 2026: Global - Rock hour Tasks": [
+        {
+            "task": "Catch 6 Rock-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Onix",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm95.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Aerodactyl",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm142.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Rock-type Pokémon 3 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Onix",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm95.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Aerodactyl",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm142.icon.png"
+                }
+            ]
+        }
+    ],
+    "Pokémon GO Fest 2026: Global - Dragon hour Tasks": [
+        {
+            "task": "Catch 6 Dragon-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Dratini",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm147.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Bagon",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm371.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Turtonator",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm776.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Dragon-type Pokémon 3 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Dratini",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm147.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Bagon",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm371.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Turtonator",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm776.icon.png"
+                }
+            ]
+        }
+    ],
     "Catching Tasks": [
         {
             "task": "Catch 7 Pokémon",
