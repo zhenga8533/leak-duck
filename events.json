@@ -1,233 +1,4 @@
 {
-    "Event": [
-        {
-            "title": "Road of Legends",
-            "article_url": "https://leekduck.com/events/road-of-legends-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-06-road-of-legends-2026/road-of-legends-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "No Remote Raid Pass limit Monday, July 6, to Sunday, July 12, 2026",
-                    "Party Power charges faster in raids",
-                    "Premier Balls will be more effective at catching Pokémon after raids",
-                    "Receive special stickers from spinning PokéStops and opening Gifts",
-                    "Up to 2 free Raid Passes from spinning Photo Discs at Gyms"
-                ],
-                "eggs": [
-                    "Abra",
-                    "Aerodactyl",
-                    "Audino",
-                    "Axew",
-                    "Bagon",
-                    "Beldum",
-                    "Bouffalant",
-                    "Bulbasaur",
-                    "Charmander",
-                    "Frigibax",
-                    "Gastly",
-                    "Gible",
-                    "Goomy",
-                    "Heracross",
-                    "Jangmo-o",
-                    "Larvesta",
-                    "Larvitar",
-                    "Mareep",
-                    "Mime Jr.",
-                    "Mudkip",
-                    "Pidgey",
-                    "Pinsir",
-                    "Ralts",
-                    "Riolu",
-                    "Snover",
-                    "Squirtle",
-                    "Torchic",
-                    "Toxel",
-                    "Treecko",
-                    "Tropius",
-                    "Weedle"
-                ],
-                "raids": [
-                    "Articuno",
-                    "Azelf",
-                    "Blacephalon",
-                    "Buzzwole",
-                    "Celesteela",
-                    "Cobalion",
-                    "Cresselia",
-                    "Darkrai",
-                    "Deoxys (Attack)",
-                    "Deoxys (Defense)",
-                    "Deoxys (Normal)",
-                    "Deoxys (Speed)",
-                    "Dialga",
-                    "Enamorus (Incarnate)",
-                    "Enamorus (Therian Forme)",
-                    "Entei",
-                    "Genesect",
-                    "Genesect (Burn)",
-                    "Genesect (Chill)",
-                    "Genesect (Douse)",
-                    "Genesect (Shock)",
-                    "Giratina (Altered)",
-                    "Giratina (Origin)",
-                    "Groudon",
-                    "Guzzlord",
-                    "Heatran",
-                    "Ho-Oh",
-                    "Kartana",
-                    "Kyogre",
-                    "Kyurem",
-                    "Kyurem (Black)",
-                    "Kyurem (White)",
-                    "Landorus (Incarnate)",
-                    "Landorus (Therian)",
-                    "Latias",
-                    "Latios",
-                    "Lugia",
-                    "Lunala",
-                    "Mega Gardevoir",
-                    "Mega Gengar",
-                    "Mega Salamence",
-                    "Mega Tyranitar",
-                    "Mesprit",
-                    "Moltres",
-                    "Necrozma",
-                    "Necrozma (Dawn Wings)",
-                    "Necrozma (Dusk Mane)",
-                    "Nihilego",
-                    "Origin Forme Dialga",
-                    "Origin Forme Palkia",
-                    "Palkia",
-                    "Pheromosa",
-                    "Primal Groudon",
-                    "Primal Kyogre",
-                    "Raikou",
-                    "Rayquaza",
-                    "Regice",
-                    "Regidrago",
-                    "Regieleki",
-                    "Regigigas",
-                    "Regirock",
-                    "Registeel",
-                    "Reshiram",
-                    "Solgaleo",
-                    "Stakataka",
-                    "Suicune",
-                    "Tapu Bulu",
-                    "Tapu Fini",
-                    "Tapu Koko",
-                    "Tapu Lele",
-                    "Terrakion",
-                    "Thundurus (Incarnate)",
-                    "Thundurus (Therian)",
-                    "Tornadus (Incarnate)",
-                    "Tornadus (Therian)",
-                    "Uxie",
-                    "Virizion",
-                    "Xerneas",
-                    "Xurkitree",
-                    "Yveltal",
-                    "Zacian (Crowned Sword)",
-                    "Zacian (Hero of Many Battles)",
-                    "Zamazenta (Crowned Shield)",
-                    "Zamazenta (Hero of Many Battles)",
-                    "Zapdos",
-                    "Zekrom"
-                ],
-                "moves": [
-                    "Kyurem",
-                    "Origin Forme Dialga",
-                    "Origin Forme Palkia"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-06T00:01:00",
-            "end_time": "2026-07-10T23:59:00",
-            "description": "The countdown to Pokémon GO Fest 2026: Global starts here! During the Road of Legends, Trainers around the world can gear up for the big weekend with a full week of powerful raid encounters, event bonuses, and GO Pass rewards. Whether you’re looking to strengthen your team, stock up on rewards, or take on some of Pokémon GO’s most formidable foes, this is your chance to get ready for the adventure ahead."
-        },
-        {
-            "title": "Special Anniversary Pikachu Celebration",
-            "article_url": "https://leekduck.com/events/special-anniversary-pikachu-celebration-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-13-special-anniversary-pikachu-celebration-2026/special-anniversary-pikachu-celebration-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× Candy for transferring Pokémon",
-                    "2× Stardust for catching Pokémon",
-                    "3× Candy for transferring Pokémon",
-                    "3× Stardust for catching Pokémon",
-                    "Even greater chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
-                    "Increased chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
-                    "Pikachu will appear more frequently in the wild.",
-                    "Pikachu will be easier to catch during the event."
-                ],
-                "spawns": [
-                    "Pikachu wearing a Tricks & Treats costume",
-                    "Summer Style Pikachu",
-                    "Winter Carnival Pikachu"
-                ],
-                "raids": [
-                    "Amethyst Crown Pikachu",
-                    "Dapper Pikachu with blue accents",
-                    "Dapper Pikachu with red accents",
-                    "Dapper Pikachu with yellow accents",
-                    "Pikachu wearing a varsity jacket",
-                    "Safari Hat Pikachu",
-                    "World Championships 2022 Pikachu",
-                    "World Championships 2023 Pikachu",
-                    "World Championships 2024 Pikachu"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-13T10:00:00",
-            "end_time": "2026-07-20T20:00:00",
-            "description": "Keep the festivities going with three celebrations of different costumed Pikachu!\nThe Special Anniversary Pikachu Celebration event will take place from July 13, 2026 at 10 am to July 20, 2026 at 8 pm."
-        },
-        {
-            "title": "Happy Birthday, Professor Willow!",
-            "article_url": "https://leekduck.com/events/happy-birthday-professor-willow-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-21-happy-birthday-professor-willow-2026/happy-birthday-professor-willow-2026.jpg",
-            "category": "Event",
-            "details": {
-                "features": [
-                    "Professor Willow's assistant Pikachu"
-                ],
-                "raids": [
-                    "Professor Willow's assistant Pikachu"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-21T10:00:00",
-            "end_time": "2026-07-21T20:00:00",
-            "description": "Wish Professor Willow a very happy birthday with Professor Willow’s assistant Pikachu!\nThe Happy Birthday, Professor Willow! event will take place on July 21, 2026 from 10 am to 8 pm."
-        },
-        {
-            "title": "Ozone Ascent",
-            "article_url": "https://leekduck.com/events/ozone-ascent-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-25-ozone-ascent-2026/ozone-ascent-2026.jpg",
-            "category": "Event",
-            "details": {
-                "features": [
-                    "Rayquaza"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-25T10:00:00",
-            "end_time": "2026-07-26T20:00:00",
-            "description": "Complete Timed Research to encounter Rayquaza and more!\nThe Ozone Ascent event will take place from July 25, 2026 at 10 am to July 26, 2026 at 8 pm."
-        },
-        {
-            "title": "Hatch Day",
-            "article_url": "https://leekduck.com/events/hatch-day-august-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-08-08T11:00:00",
-            "end_time": "2026-08-08T17:00:00",
-            "description": "The Hatch Day event will take place on August 8, 2026 from 11 am to 5 pm. Stay tuned for more details."
-        }
-    ],
     "Twitch Drops": [
         {
             "title": "Twitch Drops for Pokémon GO 10th Anniversary Celebration",
@@ -818,6 +589,90 @@
             "start_time": "2026-08-22T14:00:00",
             "end_time": "2026-08-22T17:00:00",
             "description": "The Raid Day event will take place on August 22, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        }
+    ],
+    "Event": [
+        {
+            "title": "Special Anniversary Pikachu Celebration",
+            "article_url": "https://leekduck.com/events/special-anniversary-pikachu-celebration-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-13-special-anniversary-pikachu-celebration-2026/special-anniversary-pikachu-celebration-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Candy for transferring Pokémon",
+                    "2× Stardust for catching Pokémon",
+                    "3× Candy for transferring Pokémon",
+                    "3× Stardust for catching Pokémon",
+                    "Even greater chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
+                    "Increased chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
+                    "Pikachu will appear more frequently in the wild.",
+                    "Pikachu will be easier to catch during the event."
+                ],
+                "spawns": [
+                    "Pikachu wearing a Tricks & Treats costume",
+                    "Summer Style Pikachu",
+                    "Winter Carnival Pikachu"
+                ],
+                "raids": [
+                    "Amethyst Crown Pikachu",
+                    "Dapper Pikachu with blue accents",
+                    "Dapper Pikachu with red accents",
+                    "Dapper Pikachu with yellow accents",
+                    "Pikachu wearing a varsity jacket",
+                    "Safari Hat Pikachu",
+                    "World Championships 2022 Pikachu",
+                    "World Championships 2023 Pikachu",
+                    "World Championships 2024 Pikachu"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-13T10:00:00",
+            "end_time": "2026-07-20T20:00:00",
+            "description": "Keep the festivities going with three celebrations of different costumed Pikachu!\nThe Special Anniversary Pikachu Celebration event will take place from July 13, 2026 at 10 am to July 20, 2026 at 8 pm."
+        },
+        {
+            "title": "Happy Birthday, Professor Willow!",
+            "article_url": "https://leekduck.com/events/happy-birthday-professor-willow-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-21-happy-birthday-professor-willow-2026/happy-birthday-professor-willow-2026.jpg",
+            "category": "Event",
+            "details": {
+                "features": [
+                    "Professor Willow's assistant Pikachu"
+                ],
+                "raids": [
+                    "Professor Willow's assistant Pikachu"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-21T10:00:00",
+            "end_time": "2026-07-21T20:00:00",
+            "description": "Wish Professor Willow a very happy birthday with Professor Willow’s assistant Pikachu!\nThe Happy Birthday, Professor Willow! event will take place on July 21, 2026 from 10 am to 8 pm."
+        },
+        {
+            "title": "Ozone Ascent",
+            "article_url": "https://leekduck.com/events/ozone-ascent-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-25-ozone-ascent-2026/ozone-ascent-2026.jpg",
+            "category": "Event",
+            "details": {
+                "features": [
+                    "Rayquaza"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-25T10:00:00",
+            "end_time": "2026-07-26T20:00:00",
+            "description": "Complete Timed Research to encounter Rayquaza and more!\nThe Ozone Ascent event will take place from July 25, 2026 at 10 am to July 26, 2026 at 8 pm."
+        },
+        {
+            "title": "Hatch Day",
+            "article_url": "https://leekduck.com/events/hatch-day-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-08-08T11:00:00",
+            "end_time": "2026-08-08T17:00:00",
+            "description": "The Hatch Day event will take place on August 8, 2026 from 11 am to 5 pm. Stay tuned for more details."
         }
     ],
     "Choose Your Path": [
