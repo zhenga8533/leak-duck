@@ -1,4 +1,80 @@
 {
+    "Super Mega Raids": [
+        {
+            "name": "Mega Mewtwo X",
+            "tier": "Super Mega Raids",
+            "shiny_available": true,
+            "cp_range": {
+                "min": 2294,
+                "max": 2387
+            },
+            "boosted_cp_range": {
+                "min": 2868,
+                "max": 2984
+            },
+            "types": [
+                "Psychic",
+                "Fighting"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm150.fMEGA_X.icon.png"
+        }
+    ],
+    "Mega Raids": [
+        {
+            "name": "Mega Ampharos",
+            "tier": "Mega Raids",
+            "shiny_available": true,
+            "cp_range": {
+                "min": 1554,
+                "max": 1630
+            },
+            "boosted_cp_range": {
+                "min": 1943,
+                "max": 2037
+            },
+            "types": [
+                "Electric",
+                "Dragon"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm181.fMEGA.icon.png"
+        },
+        {
+            "name": "Mega Blaziken",
+            "tier": "Mega Raids",
+            "shiny_available": true,
+            "cp_range": {
+                "min": 1550,
+                "max": 1627
+            },
+            "boosted_cp_range": {
+                "min": 1938,
+                "max": 2034
+            },
+            "types": [
+                "Fire",
+                "Fighting"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm257.fMEGA.icon.png"
+        },
+        {
+            "name": "Mega Abomasnow",
+            "tier": "Mega Raids",
+            "shiny_available": true,
+            "cp_range": {
+                "min": 1281,
+                "max": 1349
+            },
+            "boosted_cp_range": {
+                "min": 1601,
+                "max": 1687
+            },
+            "types": [
+                "Grass",
+                "Ice"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm460.fMEGA.icon.png"
+        }
+    ],
     "5-Star Raids": [
         {
             "name": "Shadow Palkia",
@@ -17,43 +93,6 @@
                 "Dragon"
             ],
             "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm484.icon.png"
-        }
-    ],
-    "Primal Raids": [
-        {
-            "name": "Primal Kyogre",
-            "tier": "Primal Raids",
-            "shiny_available": true,
-            "cp_range": {
-                "min": 2260,
-                "max": 2351
-            },
-            "boosted_cp_range": {
-                "min": 2825,
-                "max": 2939
-            },
-            "types": [
-                "Water"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm382.fPRIMAL.icon.png"
-        },
-        {
-            "name": "Primal Groudon",
-            "tier": "Primal Raids",
-            "shiny_available": true,
-            "cp_range": {
-                "min": 2260,
-                "max": 2351
-            },
-            "boosted_cp_range": {
-                "min": 2825,
-                "max": 2939
-            },
-            "types": [
-                "Ground",
-                "Fire"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm383.fPRIMAL.icon.png"
         }
     ],
     "1-Star Raids": [
