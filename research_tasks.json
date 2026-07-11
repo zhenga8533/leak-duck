@@ -218,6 +218,168 @@
             ]
         }
     ],
+    "Pokémon GO Fest 2026: Global - Fire hour Tasks": [
+        {
+            "task": "Catch 6 Fire-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Charmander wearing a Pikachu Visor",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm4.cSPRING_2020_NOEVOLVE.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Hisuian Growlithe",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm58.fHISUIAN.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Litleo",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm667.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Fire-type Pokémon 3 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Charmander wearing a Pikachu Visor",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm4.cSPRING_2020_NOEVOLVE.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Hisuian Growlithe",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm58.fHISUIAN.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Litleo",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm667.icon.png"
+                }
+            ]
+        }
+    ],
+    "Pokémon GO Fest 2026: Global - Ghost hour Tasks": [
+        {
+            "task": "Catch 6 Ghost-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Duskull",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm355.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Frillish",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm592.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Phantump",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm708.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Ghost-type Pokémon 3 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Duskull",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm355.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Frillish",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm592.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Phantump",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm708.icon.png"
+                }
+            ]
+        }
+    ],
+    "Pokémon GO Fest 2026: Global - Psychic hour Tasks": [
+        {
+            "task": "Catch 6 Psychic-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Spoink",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm325.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Baltoy",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm343.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Bronzor",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm436.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Psychic-type Pokémon 3 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Spoink",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm325.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Baltoy",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm343.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Bronzor",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm436.icon.png"
+                }
+            ]
+        }
+    ],
     "Pokémon GO Fest 2026: Global - Saturday Tasks": [
         {
             "task": "Win a raid",
