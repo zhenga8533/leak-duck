@@ -622,6 +622,227 @@
             ]
         }
     ],
+    "Pokémon GO Fest 2026: Global - Ground hour Tasks": [
+        {
+            "task": "Catch 6 Ground-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Gible",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm443.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Hippopotas",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm449.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Stunfisk",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm618.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Ground-type Pokémon 3 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Gible",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm443.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Hippopotas",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm449.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Stunfisk",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm618.icon.png"
+                }
+            ]
+        }
+    ],
+    "Pokémon GO Fest 2026: Global - Steel hour Tasks": [
+        {
+            "task": "Catch 6 Steel-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Mawile",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm303.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Beldum",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm374.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Klink",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm599.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Steel-type Pokémon 3 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Mawile",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm303.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Beldum",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm374.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Klink",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm599.icon.png"
+                }
+            ]
+        }
+    ],
+    "Pokémon GO Fest 2026: Global - Normal hour Tasks": [
+        {
+            "task": "Catch 6 Normal-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Dunsparce",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm206.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Zigzagoon",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm263.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Oranguru",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm765.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Normal-type Pokémon 3 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Dunsparce",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm206.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Zigzagoon",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm263.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Oranguru",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm765.icon.png"
+                }
+            ]
+        }
+    ],
+    "Pokémon GO Fest 2026: Global - Poison hour Tasks": [],
+    "Pokémon GO Fest 2026: Global - Bug hour Tasks": [
+        {
+            "task": "Catch 6 Bug-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Pinsir",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm127.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pineco",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm204.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Dewpider",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm751.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Bug-type Pokémon 3 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Pinsir",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm127.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pineco",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm204.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Dewpider",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm751.icon.png"
+                }
+            ]
+        }
+    ],
+    "Pokémon GO Fest 2026: Global - Grass hour Tasks": [],
+    "Pokémon GO Fest 2026: Global - Dark hour Tasks": [],
+    "Pokémon GO Fest 2026: Global - Fairy hour Tasks": [],
+    "Pokémon GO Fest 2026: Global - Fighting hour Tasks": [],
     "Catching Tasks": [
         {
             "task": "Catch 7 Pokémon",
