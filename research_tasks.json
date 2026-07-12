@@ -858,10 +858,10 @@
                 },
                 {
                     "type": "encounter",
-                    "name": "Dewpider",
+                    "name": "Wimpod",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm751.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm767.icon.png"
                 }
             ]
         },
@@ -884,10 +884,10 @@
                 },
                 {
                     "type": "encounter",
-                    "name": "Dewpider",
+                    "name": "Wimpod",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm751.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm767.icon.png"
                 }
             ]
         }
