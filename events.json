@@ -1,30 +1,4 @@
 {
-    "Twitch Drops": [
-        {
-            "title": "Twitch Drops for Pokémon GO 10th Anniversary Celebration",
-            "article_url": "https://leekduck.com/events/pokemon-go-10th-anniversary-celebration-twitch-drops/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-09-pokemon-go-10th-anniversary-celebration-twitch-drops/rewards.jpg",
-            "category": "Twitch Drops",
-            "details": {
-                "bonuses": [
-                    "10 Great Balls",
-                    "10 Hyper Potions",
-                    "10 Lucky Eggs",
-                    "10 Max Potions",
-                    "10 Max Revives",
-                    "10 Poké Balls",
-                    "10 Potions",
-                    "10 Rare Candy",
-                    "10 Rare Candy XL",
-                    "10 Revives",
-                    "10 Ultra Balls"
-                ]
-            },
-            "is_local_time": false,
-            "start_time": 1783580400,
-            "end_time": 1783839480
-        }
-    ],
     "Pokémon GO Fest": [
         {
             "title": "Pokémon GO Fest 2026: Global",
