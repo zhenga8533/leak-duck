@@ -628,10 +628,10 @@
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Gible",
+                    "name": "Paldean Wooper",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm443.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm194.fPALDEA.icon.png"
                 },
                 {
                     "type": "encounter",
@@ -642,10 +642,10 @@
                 },
                 {
                     "type": "encounter",
-                    "name": "Stunfisk",
+                    "name": "Galarian Stunfisk",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm618.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm618.fGALARIAN.icon.png"
                 }
             ]
         },
@@ -654,10 +654,10 @@
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Gible",
+                    "name": "Paldean Wooper",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm443.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm194.fPALDEA.icon.png"
                 },
                 {
                     "type": "encounter",
@@ -668,10 +668,10 @@
                 },
                 {
                     "type": "encounter",
-                    "name": "Stunfisk",
+                    "name": "Galarian Stunfisk",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm618.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm618.fGALARIAN.icon.png"
                 }
             ]
         }
@@ -682,17 +682,17 @@
             "rewards": [
                 {
                     "type": "encounter",
+                    "name": "Alolan Sandshrew",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm27.fALOLA.icon.png"
+                },
+                {
+                    "type": "encounter",
                     "name": "Mawile",
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm303.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Beldum",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm374.icon.png"
                 },
                 {
                     "type": "encounter",
@@ -708,17 +708,17 @@
             "rewards": [
                 {
                     "type": "encounter",
+                    "name": "Alolan Sandshrew",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm27.fALOLA.icon.png"
+                },
+                {
+                    "type": "encounter",
                     "name": "Mawile",
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm303.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Beldum",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm374.icon.png"
                 },
                 {
                     "type": "encounter",
@@ -839,7 +839,60 @@
             ]
         }
     ],
-    "Pokémon GO Fest 2026: Global - Grass hour Tasks": [],
+    "Pokémon GO Fest 2026: Global - Grass hour Tasks": [
+        {
+            "task": "Catch 6 Grass-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Bulbasaur wearing a Pikachu Visor",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm1.cSPRING_2020_NOEVOLVE.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Treecko",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm252.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Lileep",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm345.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Grass-type Pokémon 3 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Bulbasaur wearing a Pikachu Visor",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm1.cSPRING_2020_NOEVOLVE.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Treecko",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm252.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Lileep",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm345.icon.png"
+                }
+            ]
+        }
+    ],
     "Pokémon GO Fest 2026: Global - Dark hour Tasks": [],
     "Pokémon GO Fest 2026: Global - Fairy hour Tasks": [],
     "Pokémon GO Fest 2026: Global - Fighting hour Tasks": [],

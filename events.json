@@ -673,6 +673,24 @@
             "start_time": "2026-08-08T11:00:00",
             "end_time": "2026-08-08T17:00:00",
             "description": "The Hatch Day event will take place on August 8, 2026 from 11 am to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Water Festival",
+            "article_url": "https://leekduck.com/events/water-festival-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-18-water-festival-2026/water-festival-2026.jpg",
+            "category": "Event",
+            "details": {
+                "features": [
+                    "Arrokuda",
+                    "Barraskewda",
+                    "Cramorant",
+                    "Psyduck (Swim Ring)"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-18T10:00:00",
+            "end_time": "2026-08-24T20:00:00",
+            "description": "Dive into the Water Festival with returning Psyduck in a swim ring, plus the Pokémon GO debuts of Cramorant, Arrokuda, and Barraskewda!\nThe Water Festival event will take place from August 18, 2026 at 10 am to August 24, 2026 at 8 pm local time."
         }
     ],
     "Choose Your Path": [
