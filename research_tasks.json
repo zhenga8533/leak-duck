@@ -784,7 +784,60 @@
             ]
         }
     ],
-    "Pokémon GO Fest 2026: Global - Poison hour Tasks": [],
+    "Pokémon GO Fest 2026: Global - Poison hour Tasks": [
+        {
+            "task": "Catch 6 Poison-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Weedle",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm13.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Skorupi",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm451.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Skrelp",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm690.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Poison-type Pokémon 3 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Weedle",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm13.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Skorupi",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm451.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Skrelp",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm690.icon.png"
+                }
+            ]
+        }
+    ],
     "Pokémon GO Fest 2026: Global - Bug hour Tasks": [
         {
             "task": "Catch 6 Bug-type Pokémon",
@@ -893,9 +946,168 @@
             ]
         }
     ],
-    "Pokémon GO Fest 2026: Global - Dark hour Tasks": [],
-    "Pokémon GO Fest 2026: Global - Fairy hour Tasks": [],
-    "Pokémon GO Fest 2026: Global - Fighting hour Tasks": [],
+    "Pokémon GO Fest 2026: Global - Dark hour Tasks": [
+        {
+            "task": "Catch 6 Dark-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Larvitar",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm246.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Vullaby",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm629.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Inkay",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm686.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Dark-type Pokémon 3 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Larvitar",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm246.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Vullaby",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm629.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Inkay",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm686.icon.png"
+                }
+            ]
+        }
+    ],
+    "Pokémon GO Fest 2026: Global - Fairy hour Tasks": [
+        {
+            "task": "Catch 6 Fairy-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Jigglypuff",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm39.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Marill",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm183.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Ralts",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm280.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Fairy-type Pokémon 3 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Jigglypuff",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm39.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Marill",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm183.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Ralts",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm280.icon.png"
+                }
+            ]
+        }
+    ],
+    "Pokémon GO Fest 2026: Global - Fighting hour Tasks": [
+        {
+            "task": "Catch 6 Fighting-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Meditite",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm307.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Lucario",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm448.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pancham",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm674.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Power up Fighting-type Pokémon 3 times",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Meditite",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm307.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Lucario",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm448.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pancham",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm674.icon.png"
+                }
+            ]
+        }
+    ],
     "Catching Tasks": [
         {
             "task": "Catch 7 Pokémon",
