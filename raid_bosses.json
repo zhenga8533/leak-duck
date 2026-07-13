@@ -1,207 +1,4 @@
 {
-    "Super Mega Raids": [
-        {
-            "name": "Mega Mewtwo Y",
-            "tier": "Super Mega Raids",
-            "shiny_available": true,
-            "cp_range": {
-                "min": 2294,
-                "max": 2387
-            },
-            "boosted_cp_range": {
-                "min": 2868,
-                "max": 2984
-            },
-            "types": [
-                "Psychic"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm150.fMEGA_Y.icon.png"
-        }
-    ],
-    "Mega Raids": [
-        {
-            "name": "Mega Metagross",
-            "tier": "Mega Raids",
-            "shiny_available": true,
-            "cp_range": {
-                "min": 2078,
-                "max": 2166
-            },
-            "boosted_cp_range": {
-                "min": 2598,
-                "max": 2708
-            },
-            "types": [
-                "Steel",
-                "Psychic"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm376.fMEGA.icon.png"
-        },
-        {
-            "name": "Mega Garchomp",
-            "tier": "Mega Raids",
-            "shiny_available": true,
-            "cp_range": {
-                "min": 2174,
-                "max": 2264
-            },
-            "boosted_cp_range": {
-                "min": 2718,
-                "max": 2830
-            },
-            "types": [
-                "Dragon",
-                "Ground"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm445.fMEGA.icon.png"
-        },
-        {
-            "name": "Mega Audino",
-            "tier": "Mega Raids",
-            "shiny_available": false,
-            "cp_range": {
-                "min": 901,
-                "max": 961
-            },
-            "boosted_cp_range": {
-                "min": 1127,
-                "max": 1201
-            },
-            "types": [
-                "Normal",
-                "Fairy"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm531.fMEGA.icon.png"
-        },
-        {
-            "name": "Mega Beedrill",
-            "tier": "Mega Raids",
-            "shiny_available": true,
-            "cp_range": {
-                "min": 994,
-                "max": 1054
-            },
-            "boosted_cp_range": {
-                "min": 1242,
-                "max": 1318
-            },
-            "types": [
-                "Bug",
-                "Poison"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm15.fMEGA.icon.png"
-        },
-        {
-            "name": "Mega Pinsir",
-            "tier": "Mega Raids",
-            "shiny_available": true,
-            "cp_range": {
-                "min": 1613,
-                "max": 1690
-            },
-            "boosted_cp_range": {
-                "min": 2016,
-                "max": 2113
-            },
-            "types": [
-                "Bug",
-                "Flying"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm127.fMEGA.icon.png"
-        },
-        {
-            "name": "Mega Sceptile",
-            "tier": "Mega Raids",
-            "shiny_available": true,
-            "cp_range": {
-                "min": 1500,
-                "max": 1575
-            },
-            "boosted_cp_range": {
-                "min": 1876,
-                "max": 1969
-            },
-            "types": [
-                "Grass",
-                "Dragon"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm254.fMEGA.icon.png"
-        },
-        {
-            "name": "Mega Tyranitar",
-            "tier": "Mega Raids",
-            "shiny_available": true,
-            "cp_range": {
-                "min": 2103,
-                "max": 2191
-            },
-            "boosted_cp_range": {
-                "min": 2629,
-                "max": 2739
-            },
-            "types": [
-                "Rock",
-                "Dark"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm248.fMEGA.icon.png"
-        },
-        {
-            "name": "Mega Gardevoir",
-            "tier": "Mega Raids",
-            "shiny_available": true,
-            "cp_range": {
-                "min": 1688,
-                "max": 1767
-            },
-            "boosted_cp_range": {
-                "min": 2110,
-                "max": 2209
-            },
-            "types": [
-                "Psychic",
-                "Fairy"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm282.fMEGA.icon.png"
-        },
-        {
-            "name": "Mega Lucario",
-            "tier": "Mega Raids",
-            "shiny_available": true,
-            "cp_range": {
-                "min": 1469,
-                "max": 1544
-            },
-            "boosted_cp_range": {
-                "min": 1837,
-                "max": 1930
-            },
-            "types": [
-                "Fighting",
-                "Steel"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm448.fMEGA.icon.png"
-        }
-    ],
-    "5-Star Raids": [
-        {
-            "name": "Shadow Palkia",
-            "tier": 5,
-            "shiny_available": true,
-            "cp_range": {
-                "min": 2118,
-                "max": 2280
-            },
-            "boosted_cp_range": {
-                "min": 2648,
-                "max": 2850
-            },
-            "types": [
-                "Water",
-                "Dragon"
-            ],
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm484.icon.png"
-        }
-    ],
     "1-Star Raids": [
         {
             "name": "Shadow Phanpy",
@@ -271,6 +68,46 @@
                 "Fighting"
             ],
             "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm56.icon.png"
+        }
+    ],
+    "5-Star Raids": [
+        {
+            "name": "Shadow Palkia",
+            "tier": 5,
+            "shiny_available": true,
+            "cp_range": {
+                "min": 2118,
+                "max": 2280
+            },
+            "boosted_cp_range": {
+                "min": 2648,
+                "max": 2850
+            },
+            "types": [
+                "Water",
+                "Dragon"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm484.icon.png"
+        }
+    ],
+    "Mega Raids": [
+        {
+            "name": "Mega Lucario",
+            "tier": "Mega Raids",
+            "shiny_available": true,
+            "cp_range": {
+                "min": 1469,
+                "max": 1544
+            },
+            "boosted_cp_range": {
+                "min": 1837,
+                "max": 1930
+            },
+            "types": [
+                "Fighting",
+                "Steel"
+            ],
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm448.fMEGA.icon.png"
         }
     ],
     "3-Star Raids": [
