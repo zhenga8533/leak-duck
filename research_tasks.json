@@ -1,4 +1,77 @@
 {
+    "Special Anniversary Pikachu Celebration Tasks": [
+        {
+            "task": "Win 3 raids",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing a varsity jacket",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fWCS_2025.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "World Championships 2022 Pikachu",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fWCS_2022.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "World Championships 2024 Pikachu",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fWCS_2024.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 10 Pikachu",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing Leaf's Hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2026_A_02.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing Lyra's Hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2026_B_02.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing May's Bandana",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.cGOTOUR_2023_BANDANA_NOEVOLVE.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing Red's Hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2026_A.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 15 Pikachu",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Meloetta Hat Pikachu",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.cGOFEST_2021_NOEVOLVE.icon.png"
+                }
+            ]
+        }
+    ],
     "Pokémon GO Fest 2026: Global - Common tasks": [
         {
             "task": "Catch 8 different species of Pokémon",
