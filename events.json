@@ -593,22 +593,58 @@
             "description": "The Hatch Day event will take place on August 8, 2026 from 11 am to 5 pm. Stay tuned for more details."
         },
         {
-            "title": "Water Festival",
+            "title": "Ultra Unlock: Water Festival",
             "article_url": "https://leekduck.com/events/water-festival-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-18-water-festival-2026/water-festival-2026.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-18-water-festival-2026/water-festival-2026.jpg?v2",
             "category": "Event",
             "details": {
+                "bonuses": [
+                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
+                    "2× Candy for catching Pokémon",
+                    "2× XP for catching Pokémon.",
+                    "3× Stardust for catching Pokémon.",
+                    "3× XP for catching Pokémon.",
+                    "4× Stardust for catching Pokémon.",
+                    "4× XP for catching Pokémon.",
+                    "5× Stardust for catching Pokémon.",
+                    "Increased chance to encounter Shiny Ducklett and Shiny Dewpider",
+                    "Rainy Lure Modules will attract Arrokuda"
+                ],
                 "features": [
                     "Arrokuda",
                     "Barraskewda",
                     "Cramorant",
                     "Psyduck (Swim Ring)"
+                ],
+                "spawns": [
+                    "Clamperl",
+                    "Feebas",
+                    "Goldeen",
+                    "Mareanie",
+                    "Psyduck",
+                    "Wiglett",
+                    "Wimpod"
+                ],
+                "raids": [
+                    "Dondozo",
+                    "Hisuian Samurott",
+                    "Psyduck (Swim Ring)",
+                    "Scarf Lapras",
+                    "Tatsugiri (Curly)",
+                    "Tatsugiri (Droopy)",
+                    "Tatsugiri (Stretchy)"
+                ],
+                "shiny": [
+                    "Araquanid",
+                    "Dewpider",
+                    "Ducklett",
+                    "Swanna"
                 ]
             },
             "is_local_time": true,
             "start_time": "2026-08-18T10:00:00",
             "end_time": "2026-08-24T20:00:00",
-            "description": "Dive into the Water Festival with returning Psyduck in a swim ring, plus the Pokémon GO debuts of Cramorant, Arrokuda, and Barraskewda!\nThe Water Festival event will take place from August 18, 2026 at 10 am to August 24, 2026 at 8 pm local time."
+            "description": "Arrokuda and Cramorant splash into Pokémon GO during Ultra Unlock: Water Festival!\nThe Ultra Unlock: Water Festival event will take place from August 18, 2026 at 10 am to August 24, 2026 at 8 pm local time."
         }
     ],
     "Choose Your Path": [
