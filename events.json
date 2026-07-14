@@ -567,8 +567,18 @@
                         "shiny_available": true
                     },
                     {
+                        "name": "Flying Pikachu with Multicolored Balloons",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fCOSTUME_2020.icon.png",
+                        "shiny_available": true
+                    },
+                    {
                         "name": "Halloween Pikachu",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cHALLOWEEN_2021_NOEVOLVE.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Holiday Attire Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cHOLIDAY_2023.icon.png",
                         "shiny_available": true
                     },
                     {
@@ -582,6 +592,16 @@
                         "shiny_available": true
                     },
                     {
+                        "name": "Pyrite Crown Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fSUMMER_2023_D.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Quartz Crown Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fSUMMER_2023_C.icon.png",
+                        "shiny_available": true
+                    },
+                    {
                         "name": "Summer Style Pikachu",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_05.png",
                         "shiny_available": true
@@ -589,6 +609,11 @@
                     {
                         "name": "Trick or Treat Pikachu",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cFALL_2023_NOEVOLVE.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Winter Carnival Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_pm0025_01_pgo_winter2020.png",
                         "shiny_available": true
                     },
                     {
@@ -1240,11 +1265,6 @@
                     {
                         "name": "Gigantamax Rillaboom",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm812.fGIGANTAMAX.s.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Rillaboom",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm812.s.icon.png",
                         "shiny_available": false
                     }
                 ]

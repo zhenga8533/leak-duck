@@ -79,6 +79,72 @@
             ]
         }
     ],
+    "Special Anniversary Pikachu Celebration - Celebration 2 Tasks": [
+        {
+            "task": "Catch 10 Pikachu",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing Akari's Kerchief",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2024_B_02.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing May's Bandana",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.cGOTOUR_2023_BANDANA_NOEVOLVE.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 15 Pikachu",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Gracidea Pikachu",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.cGOFEST_2022_NOEVOLVE.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Win 3 raids",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing a varsity jacket",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fWCS_2025.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "World Championships 2022 Pikachu",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fWCS_2022.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "World Championships 2023 Pikachu",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fWCS_2023.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "World Championships 2024 Pikachu",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fWCS_2024.icon.png"
+                }
+            ]
+        }
+    ],
     "Catching Tasks": [
         {
             "task": "Catch 7 Pokémon",
