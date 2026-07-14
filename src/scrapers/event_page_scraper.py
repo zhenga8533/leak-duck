@@ -9,7 +9,7 @@ from urllib.parse import quote_plus
 import requests
 from bs4 import BeautifulSoup, Tag
 
-from src.utils import process_time_data, save_html
+from src.utils import clean_banner_url, process_time_data, save_html
 
 
 def clean_spacing(text: str) -> str:
@@ -211,25 +211,47 @@ class EventPageScraper:
             next_element = next_element.find_next_sibling()
 
         if section_id in event_details["details"]:
-            event_details["details"][section_id] = sorted(
-                list(set(event_details["details"][section_id]))
-            )
+            items = event_details["details"][section_id]
+            if items and isinstance(items[0], dict):
+                # Pokémon entries: dedupe by name (dicts aren't hashable for set()).
+                deduped_by_name = {item["name"]: item for item in items}
+                event_details["details"][section_id] = sorted(
+                    deduped_by_name.values(), key=lambda p: p["name"]
+                )
+            else:
+                event_details["details"][section_id] = sorted(list(set(items)))
 
     def _parse_pokemon_list(
         self, element: Tag, section_id: str, event_details: dict[str, Any]
     ):
-        """Parses a list of Pokémon from a section."""
-        pokemon_list = set()
+        """Parses a list of Pokémon from a section, including asset URL and shiny availability."""
+        pokemon_list = []
+        seen_names = set()
         for li in element.find_all("li", class_="pkmn-list-item"):
             li_tag = cast(Tag, li)
             pkmn_name_div = cast(Optional[Tag], li_tag.find("div", class_="pkmn-name"))
-            if pkmn_name_div:
-                pokemon_list.add(clean_spacing(pkmn_name_div.get_text(strip=True)))
+            if not pkmn_name_div:
+                continue
+
+            name = clean_spacing(pkmn_name_div.get_text(strip=True))
+            if name in seen_names:
+                continue
+            seen_names.add(name)
+
+            asset_img = cast(Optional[Tag], li_tag.select_one(".pkmn-list-img img"))
+            asset_url = (
+                clean_banner_url(asset_img["src"])
+                if asset_img and asset_img.has_attr("src")
+                else None
+            )
+            is_shiny = li_tag.find("img", class_="shiny-icon") is not None
+
+            pokemon_list.append(
+                {"name": name, "asset_url": asset_url, "shiny_available": is_shiny}
+            )
 
         if pokemon_list:
-            event_details["details"].setdefault(section_id, []).extend(
-                sorted(list(pokemon_list))
-            )
+            event_details["details"].setdefault(section_id, []).extend(pokemon_list)
 
     def _parse_bonuses(self, element: Tag, event_details: dict[str, Any]):
         """Parses a list of bonuses."""
