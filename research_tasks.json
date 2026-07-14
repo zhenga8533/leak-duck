@@ -1,5 +1,5 @@
 {
-    "Special Anniversary Pikachu Celebration Tasks": [
+    "Special Anniversary Pikachu Celebration - Celebration 1 Tasks": [
         {
             "task": "Catch 10 Pikachu",
             "rewards": [
@@ -92,10 +92,45 @@
                 },
                 {
                     "type": "encounter",
+                    "name": "Pikachu wearing Brendan's Hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.cGOTOUR_2023_HAT.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing Dawn's Hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2024_A_02.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing Ethan's Hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2026_B.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing Lucas's Hat",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2024_A.icon.png"
+                },
+                {
+                    "type": "encounter",
                     "name": "Pikachu wearing May's Bandana",
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.cGOTOUR_2023_BANDANA_NOEVOLVE.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing Rei's Cap",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fGOTOUR_2024_B.icon.png"
                 }
             ]
         },
