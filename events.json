@@ -1210,6 +1210,51 @@
             "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn July 27, 2026, the featured Dynamax Pokemon is Feebas.\n- Feebas"
         }
     ],
+    "Max Battles": [
+        {
+            "title": "Gigantamax Rillaboom Max Battle Day",
+            "article_url": "https://leekduck.com/events/gigantamax-rillaboom-max-battle-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-01-gigantamax-rillaboom-max-battle-day-2026/gigantamax-rillaboom-max-battle-day.jpg",
+            "category": "Max Battles",
+            "details": {
+                "bonuses": [
+                    "1/4 Adventuring distance to receive Max Particles*",
+                    "2× Max Particles from exploring*",
+                    "2× XP from Max Battles",
+                    "8× Max Particles from Power Spots",
+                    "Additional Power Spots will be active",
+                    "All Power Spots will host Gigantamax Battles",
+                    "From July 31 at 5:00 p.m. to August 1 at 8:00 p.m. PDT (GMT −7), the daily Remote Raid limit will increase from 10 to 20",
+                    "Max Particle collection limit increased to 1,600",
+                    "Power Spots will refresh more frequently",
+                    "Up to three Special Trades for the day"
+                ],
+                "features": [
+                    {
+                        "name": "Gigantamax Rillaboom",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0812_000_mf_g_00000000_f_n.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Gigantamax Rillaboom",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm812.fGIGANTAMAX.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Rillaboom",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm812.s.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-01T14:00:00",
+            "end_time": "2026-08-01T17:00:00",
+            "description": "The Gigantamax Rillaboom Max Battle Day event will take place on August 1, 2026 from 2 pm to 5 pm local time."
+        }
+    ],
     "Choose Your Path": [
         {
             "title": "Choose Your Path: Fairy Trail",
