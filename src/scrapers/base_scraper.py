@@ -2,7 +2,7 @@ import json
 import os
 import time
 from abc import ABC, abstractmethod
-from typing import Any, Optional
+from typing import Any, Optional, Union
 
 import requests
 from bs4 import BeautifulSoup
@@ -43,7 +43,7 @@ class BaseScraper(ABC):
                     return None
         return None
 
-    def save_to_json(self, data: dict[Any, Any] | list[Any]):
+    def save_to_json(self, data: Union[dict[Any, Any], list[Any]]):
         json_dir = os.path.dirname(self.json_path)
         if not os.path.exists(json_dir):
             os.makedirs(json_dir)
@@ -54,7 +54,7 @@ class BaseScraper(ABC):
         print(f"Successfully saved {self.json_path}")
 
     @abstractmethod
-    def parse(self, soup: BeautifulSoup) -> dict[Any, Any] | list[Any]:
+    def parse(self, soup: BeautifulSoup) -> Union[dict[Any, Any], list[Any]]:
         pass
 
     def run(self):

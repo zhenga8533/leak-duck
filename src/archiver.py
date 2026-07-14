@@ -1,7 +1,7 @@
 import json
 import os
 from datetime import datetime, timedelta, timezone
-from typing import Any
+from typing import Any, Optional
 
 import requests
 
@@ -19,7 +19,9 @@ class EventArchiver:
 
         self.events_path = os.path.join(self.json_dir, "events.json")
 
-    def _should_archive(self, event: dict[str, Any], now_utc: datetime) -> tuple[bool, datetime | None]:
+    def _should_archive(
+        self, event: dict[str, Any], now_utc: datetime
+    ) -> tuple[bool, Optional[datetime]]:
         end_time = event.get("end_time")
         if not end_time:
             return False, None

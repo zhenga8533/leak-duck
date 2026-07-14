@@ -50,7 +50,7 @@ class EventScraper(BaseScraper):
             print(f"Could not fetch events date feed: {e}", flush=True)
             return {}
 
-    def _apply_feed_dates(self, all_events_data: dict[str, dict[str, Any]]) -> None:
+    def _apply_feed_dates(self, all_events_data: dict[str, dict[str, Any]]):
         """Overlays authoritative start/end times from the official events feed."""
         for event in all_events_data.values():
             event_id = event.pop("event_id", None)
