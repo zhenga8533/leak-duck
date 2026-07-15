@@ -1,31 +1,37 @@
-import json
-import os
 import time
 from abc import ABC, abstractmethod
-from typing import Any, Optional, Union
+from typing import Any
 
 import requests
 from bs4 import BeautifulSoup
 
-from src.utils import save_html
+from src.paths import HTML_DIR, data_dir
+from src.utils import save_html, write_json_atomic
+from src.validation import validate_scraper_output
+
+
+class ScraperFetchError(RuntimeError):
+    """Raised after a scraper exhausts its HTTP retries."""
 
 
 class BaseScraper(ABC):
     def __init__(self, url: str, file_name: str, scraper_settings: dict[str, Any]):
         self.url = url
-        self.raw_html_path = os.path.join("html", f"{file_name}.html")
-        self.json_path = os.path.join(
-            "json" if not os.getenv("CI") else ".", f"{file_name}.json"
-        )
+        self.file_name = file_name
+        self.raw_html_path = HTML_DIR / f"{file_name}.html"
+        self.json_path = data_dir() / f"{file_name}.json"
         self.scraper_settings = scraper_settings
 
-    def _fetch_html(self) -> Optional[BeautifulSoup]:
+    def _fetch_html(self) -> BeautifulSoup:
         retries = self.scraper_settings.get("retries", 3)
         delay = self.scraper_settings.get("delay", 5)
         timeout = self.scraper_settings.get("timeout", 15)
 
         for attempt in range(retries):
-            print(f"Fetching HTML from {self.url} (Attempt {attempt + 1}/{retries})...", flush=True)
+            print(
+                f"Fetching HTML from {self.url} (Attempt {attempt + 1}/{retries})...",
+                flush=True,
+            )
             try:
                 response = requests.get(self.url, timeout=timeout)
                 response.raise_for_status()
@@ -40,27 +46,22 @@ class BaseScraper(ABC):
                     time.sleep(delay)
                 else:
                     print("All retry attempts failed.", flush=True)
-                    return None
-        return None
+                    raise ScraperFetchError(
+                        f"Failed to fetch {self.url} after {retries} attempts"
+                    ) from e
+        raise ScraperFetchError(f"No fetch attempts configured for {self.url}")
 
-    def save_to_json(self, data: Union[dict[Any, Any], list[Any]]):
-        json_dir = os.path.dirname(self.json_path)
-        if not os.path.exists(json_dir):
-            os.makedirs(json_dir)
-
+    def save_to_json(self, data: dict[Any, Any] | list[Any]) -> None:
         print(f"Saving data to {self.json_path}...")
-        with open(self.json_path, "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=4)
+        write_json_atomic(self.json_path, data)
         print(f"Successfully saved {self.json_path}")
 
     @abstractmethod
-    def parse(self, soup: BeautifulSoup) -> Union[dict[Any, Any], list[Any]]:
+    def parse(self, soup: BeautifulSoup) -> dict[Any, Any] | list[Any]:
         pass
 
-    def run(self):
+    def run(self) -> None:
         soup = self._fetch_html()
-        if soup:
-            data = self.parse(soup)
-            self.save_to_json(data)
-        else:
-            self.save_to_json({})
+        data = self.parse(soup)
+        validate_scraper_output(self.file_name, data)
+        self.save_to_json(data)

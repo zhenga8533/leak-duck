@@ -1,14 +1,14 @@
-import json
-import os
 import re
 import time
 from datetime import datetime, timedelta
-from typing import Any, Optional, cast
+from pathlib import Path
+from typing import Any, cast
 from urllib.parse import quote_plus
 
 import requests
 from bs4 import BeautifulSoup, Tag
 
+from src.paths import HTML_DIR
 from src.utils import clean_banner_url, process_time_data, save_html
 
 
@@ -42,30 +42,19 @@ class EventPageScraper:
     is required to read them.
     """
 
-    def __init__(self):
-        self.cache_expiration_hours = self._load_cache_expiration()
-        self.max_retries = 3
-        self.retry_delay = 1  # seconds
-        self.timeout = 15
+    def __init__(self, scraper_settings: dict[str, Any] | None = None):
+        settings = scraper_settings or {}
+        self.cache_expiration_hours = settings.get("cache_expiration_hours", 1)
+        self.max_retries = settings.get("retries", 3)
+        self.retry_delay = settings.get("delay", 1)
+        self.timeout = settings.get("timeout", 15)
 
-    def _load_cache_expiration(self) -> int:
-        """Loads the cache expiration time from config.json."""
-        try:
-            config_path = os.path.join("src", "config.json")
-            with open(config_path, "r") as f:
-                config = json.load(f)
-                return config.get("scraper_settings", {}).get(
-                    "cache_expiration_hours", 1
-                )
-        except Exception:
-            return 1  # Default to 1 hour if config can't be loaded
-
-    def _is_cache_valid(self, cache_path: str) -> bool:
+    def _is_cache_valid(self, cache_path: Path) -> bool:
         """Checks if the cached HTML file exists and is not expired."""
-        if not os.path.exists(cache_path):
+        if not cache_path.exists():
             return False
 
-        file_modified_time = datetime.fromtimestamp(os.path.getmtime(cache_path))
+        file_modified_time = datetime.fromtimestamp(cache_path.stat().st_mtime)
         expiration_time = datetime.now() - timedelta(hours=self.cache_expiration_hours)
 
         return file_modified_time > expiration_time
@@ -85,14 +74,10 @@ class EventPageScraper:
             return event_details
 
         # Time details
-        start_date_element = cast(
-            Optional[Tag], soup.find("span", id="event-date-start")
-        )
-        start_time_element = cast(
-            Optional[Tag], soup.find("span", id="event-time-start")
-        )
-        end_date_element = cast(Optional[Tag], soup.find("span", id="event-date-end"))
-        end_time_element = cast(Optional[Tag], soup.find("span", id="event-time-end"))
+        start_date_element = cast(Tag | None, soup.find("span", id="event-date-start"))
+        start_time_element = cast(Tag | None, soup.find("span", id="event-time-start"))
+        end_date_element = cast(Tag | None, soup.find("span", id="event-date-end"))
+        end_time_element = cast(Tag | None, soup.find("span", id="event-time-end"))
 
         is_local = not (
             isinstance(start_date_element, Tag)
@@ -111,7 +96,7 @@ class EventPageScraper:
         description_div = content.find("div", class_="event-description")
         if isinstance(description_div, Tag):
             description_parts = []
-            current_section_id: Optional[str] = None
+            current_section_id: str | None = None
             current_section_items = []
 
             for child in description_div.children:
@@ -129,9 +114,9 @@ class EventPageScraper:
                 ):
                     # Save current section if we were in one
                     if current_section_id and current_section_items:
-                        event_details["details"][
-                            current_section_id
-                        ] = current_section_items
+                        event_details["details"][current_section_id] = (
+                            current_section_items
+                        )
                         current_section_items = []
 
                     # Start new section
@@ -229,7 +214,7 @@ class EventPageScraper:
         seen_names = set()
         for li in element.find_all("li", class_="pkmn-list-item"):
             li_tag = cast(Tag, li)
-            pkmn_name_div = cast(Optional[Tag], li_tag.find("div", class_="pkmn-name"))
+            pkmn_name_div = cast(Tag | None, li_tag.find("div", class_="pkmn-name"))
             if not pkmn_name_div:
                 continue
 
@@ -238,7 +223,7 @@ class EventPageScraper:
                 continue
             seen_names.add(name)
 
-            asset_img = cast(Optional[Tag], li_tag.select_one(".pkmn-list-img img"))
+            asset_img = cast(Tag | None, li_tag.select_one(".pkmn-list-img img"))
             asset_url = (
                 clean_banner_url(asset_img["src"])
                 if asset_img and asset_img.has_attr("src")
@@ -275,9 +260,12 @@ class EventPageScraper:
             url: The URL of the event page to scrape.
 
         Returns:
-            A dictionary containing the scraped event details, or error dict if all retries fail.
+            A dictionary containing the scraped event details.
+
+        Raises:
+            RuntimeError: If fetching or parsing fails after all retries.
         """
-        html_path = os.path.join("html", f"event_page_{quote_plus(url)}.html")
+        html_path = HTML_DIR / f"event_page_{quote_plus(url)}.html"
 
         for attempt in range(1, self.max_retries + 1):
             try:
@@ -285,7 +273,7 @@ class EventPageScraper:
 
                 if use_cache:
                     print(f"Using cached HTML for: {url}", flush=True)
-                    with open(html_path, "r", encoding="utf-8") as f:
+                    with html_path.open("r", encoding="utf-8") as f:
                         html_content = f.read()
                 else:
                     print(
@@ -309,7 +297,9 @@ class EventPageScraper:
                 if attempt < self.max_retries:
                     time.sleep(self.retry_delay)
                 else:
-                    return {"article_url": url, "error": f"RequestException: {e}"}
+                    raise RuntimeError(
+                        f"Failed to scrape event page {url} after {self.max_retries} attempts"
+                    ) from e
 
             except Exception as e:
                 print(
@@ -317,8 +307,10 @@ class EventPageScraper:
                     flush=True,
                 )
                 if attempt == self.max_retries:
-                    return {"article_url": url, "error": str(e)}
+                    raise RuntimeError(
+                        f"Failed to parse event page {url} after {self.max_retries} attempts"
+                    ) from e
                 time.sleep(self.retry_delay)
 
         # Should never reach here, but just in case
-        return {"article_url": url, "error": "MaxRetriesExceeded"}
+        raise RuntimeError(f"Failed to scrape event page {url}")

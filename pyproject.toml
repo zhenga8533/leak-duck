@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "leak-duck"
+version = "1.0.0"
+description = "Scheduled Pokémon GO data scrapers for Leek Duck"
+readme = "README.md"
+requires-python = ">=3.12"
+license = { file = "LICENSE" }
+dependencies = [
+    "beautifulsoup4==4.15.0",
+    "lxml==6.1.1",
+    "requests==2.34.2",
+]
+
+[project.scripts]
+leak-duck = "src.main:main"
+
+[tool.setuptools]
+packages = ["src", "src.scrapers"]
+
+[tool.setuptools.package-data]
+src = ["config.json"]
+
+[tool.ruff]
+line-length = 88
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["B", "E", "F", "I", "UP"]
+ignore = ["E501"]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"

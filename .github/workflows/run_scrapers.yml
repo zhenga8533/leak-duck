@@ -5,66 +5,63 @@ on:
     - cron: "0 * * * *"
   workflow_dispatch:
 
+concurrency:
+  group: leak-duck-data-publisher
+  cancel-in-progress: false
+
 jobs:
   scrape-and-commit:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     permissions:
       contents: write
+    env:
+      LEAK_DUCK_OUTPUT_DIR: ${{ runner.temp }}/leak-duck-data
 
     steps:
       - name: Check out main branch for code
-        uses: actions/checkout@v4
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
         with:
           ref: main
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
         with:
           python-version: "3.12"
-
-      - name: Cache dependencies
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
+          cache: pip
+          cache-dependency-path: requirements.txt
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      - name: Run regression tests
+        run: python -m unittest discover -v
 
       - name: Run archiver and scrapers
         run: python -m src.main
 
       - name: Commit and push JSON to data branch
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Temporarily move all new data out of the way
-          mkdir -p ./temp_data
-          if ls *.json 1> /dev/null 2>&1; then
-            mv *.json ./temp_data/
-          fi
-          if [ -d "./archives" ]; then
-            mv archives ./temp_data/
-          fi
+          git fetch origin data
+          git checkout -B data origin/data
 
-          # Prepare the data branch
-          git fetch
-          git checkout -f data
-
-          # Move the new data back, overwriting old files if they exist
-          if [ -d "./temp_data" ]; then
-            cp -r ./temp_data/* .
-            rm -rf ./temp_data
+          cp "$LEAK_DUCK_OUTPUT_DIR"/*.json .
+          if [ -d "$LEAK_DUCK_OUTPUT_DIR/archives" ]; then
+            mkdir -p archives
+            cp -R "$LEAK_DUCK_OUTPUT_DIR/archives/." archives/
           fi
 
-          # Specifically add only the data files and folders
-          git add *.json
-          git add archives/
+          git add -- '*.json'
+          if [ -d archives ]; then
+            git add -- archives/
+          fi
 
-          # Commit and push
-          git commit -m "Automated data update" || echo "No changes to commit"
-          git push origin data
+          if git diff --cached --quiet; then
+            echo "No data changes to commit"
+          else
+            git commit -m "Automated data update"
+            git push origin data
+          fi

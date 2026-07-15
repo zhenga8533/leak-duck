@@ -1,8 +1,11 @@
-from typing import Any, Optional, cast
+import json
+from typing import Any, cast
+from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup, Tag
 
+from src.paths import data_dir
 from src.utils import clean_banner_url, parse_feed_datetime
 
 from .base_scraper import BaseScraper
@@ -18,8 +21,8 @@ class EventScraper(BaseScraper):
         file_name: str,
         scraper_settings: dict[str, Any],
         check_existing_events: bool = False,
-        github_user: Optional[str] = None,
-        github_repo: Optional[str] = None,
+        github_user: str | None = None,
+        github_repo: str | None = None,
     ):
         super().__init__(url, file_name, scraper_settings)
         self.check_existing_events = check_existing_events
@@ -31,7 +34,7 @@ class EventScraper(BaseScraper):
             self._fetch_existing_events()
         self.event_dates_feed = self._fetch_event_dates_feed()
 
-    def _fetch_event_dates_feed(self) -> dict[str, dict[str, Optional[str]]]:
+    def _fetch_event_dates_feed(self) -> dict[str, dict[str, str | None]]:
         """Fetches leekduck.com's official events feed for authoritative start/end times."""
         try:
             timeout = self.scraper_settings.get("timeout", 15)
@@ -70,9 +73,20 @@ class EventScraper(BaseScraper):
         if not self.github_user or not self.github_repo:
             print(
                 "GitHub user or repo not configured. Skipping check for existing events.",
-                flush=True
+                flush=True,
             )
             return
+
+        local_events_path = data_dir() / "events.json"
+        if local_events_path.exists():
+            try:
+                data = json.loads(local_events_path.read_text(encoding="utf-8"))
+                self._set_existing_events(data)
+                return
+            except (OSError, ValueError) as e:
+                raise RuntimeError(
+                    f"Could not read local archived events from {local_events_path}"
+                ) from e
 
         data_url = f"https://raw.githubusercontent.com/{self.github_user}/{self.github_repo}/data/events.json"
         try:
@@ -80,14 +94,21 @@ class EventScraper(BaseScraper):
             response = requests.get(data_url, timeout=timeout)
             response.raise_for_status()
             data = response.json()
-            self.existing_events_data = data
-            for category in data.values():
-                for event in category:
-                    self.existing_event_urls.add(event["article_url"])
-            print(f"Found {len(self.existing_event_urls)} existing events.", flush=True)
+            self._set_existing_events(data)
         except (requests.exceptions.RequestException, ValueError) as e:
             print(f"Could not fetch existing events: {e}", flush=True)
             self.existing_events_data = {}
+
+    def _set_existing_events(self, data: Any) -> None:
+        if not isinstance(data, dict):
+            raise ValueError("Existing events data must be a JSON object")
+        self.existing_events_data = data
+        for category in data.values():
+            if not isinstance(category, list):
+                raise ValueError("Existing event categories must be lists")
+            for event in category:
+                self.existing_event_urls.add(event["article_url"])
+        print(f"Found {len(self.existing_event_urls)} existing events.", flush=True)
 
     def parse(self, soup: BeautifulSoup) -> dict[str, list[dict[str, Any]]]:
         events_to_scrape: list[dict[str, Any]] = []
@@ -107,7 +128,7 @@ class EventScraper(BaseScraper):
             image_element = link.select_one(".event-img-wrapper img")
             category_element = link.select_one(".event-item-wrapper > p")
 
-            article_url = "https://leekduck.com" + str(href)
+            article_url = urljoin(self.url, str(href))
 
             if self.check_existing_events and article_url in self.existing_event_urls:
                 continue
@@ -137,10 +158,13 @@ class EventScraper(BaseScraper):
         }
 
         if events_to_scrape:
-            page_scraper = EventPageScraper()
+            page_scraper = EventPageScraper(self.scraper_settings)
             total_events = len(events_to_scrape)
             for idx, event in enumerate(events_to_scrape, 1):
-                print(f"Processing event {idx}/{total_events}: {event['title']}", flush=True)
+                print(
+                    f"Processing event {idx}/{total_events}: {event['title']}",
+                    flush=True,
+                )
                 result = page_scraper.scrape(event["article_url"])
                 if result and result.get("article_url") in all_events_data:
                     all_events_data[result["article_url"]].update(result)
@@ -153,7 +177,10 @@ class EventScraper(BaseScraper):
                 new_events_by_category[category] = []
             new_events_by_category[category].append(event)
 
-        merged_events = self.existing_events_data.copy()
+        merged_events = {
+            category: list(events)
+            for category, events in self.existing_events_data.items()
+        }
         for category, events in new_events_by_category.items():
             if category not in merged_events:
                 merged_events[category] = []

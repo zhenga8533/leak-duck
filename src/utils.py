@@ -1,23 +1,48 @@
+import json
 import os
 import re
 from datetime import datetime
-from typing import Any, Optional, Union
+from pathlib import Path
+from tempfile import NamedTemporaryFile
+from typing import Any
 
 from bs4.element import Tag
 
 
-def save_html(content: str, path: str):
+def save_html(content: str, path: str | Path) -> None:
     """Utility function to save HTML content to a specified path."""
     if not os.getenv("CI"):
-        html_dir = os.path.dirname(path)
-        if not os.path.exists(html_dir):
-            os.makedirs(html_dir)
-        with open(path, "w", encoding="utf-8") as f:
+        output_path = Path(path)
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+        with output_path.open("w", encoding="utf-8") as f:
             f.write(content)
-        print(f"Saved raw HTML to {path}")
+        print(f"Saved raw HTML to {output_path}")
 
 
-def parse_cp_range(cp_string: str) -> Optional[dict[str, int]]:
+def write_json_atomic(path: str | Path, data: Any) -> None:
+    """Write JSON atomically so interrupted runs cannot leave truncated files."""
+    output_path = Path(path)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    temporary_path: Path | None = None
+    try:
+        with NamedTemporaryFile(
+            "w",
+            encoding="utf-8",
+            dir=output_path.parent,
+            prefix=f".{output_path.name}.",
+            suffix=".tmp",
+            delete=False,
+        ) as temporary_file:
+            temporary_path = Path(temporary_file.name)
+            json.dump(data, temporary_file, ensure_ascii=False, indent=4)
+            temporary_file.write("\n")
+        temporary_path.replace(output_path)
+    finally:
+        if temporary_path is not None and temporary_path.exists():
+            temporary_path.unlink()
+
+
+def parse_cp_range(cp_string: str) -> dict[str, int] | None:
     """
     A helper function to parse a CP range string (e.g., "2190 - 2280").
     """
@@ -65,8 +90,8 @@ def parse_pokemon_list(container: Tag) -> list[dict[str, Any]]:
 
 
 def process_time_data(
-    date_element: Optional[Tag], time_element: Optional[Tag], is_local: bool
-) -> Optional[Union[str, int]]:
+    date_element: Tag | None, time_element: Tag | None, is_local: bool
+) -> str | int | None:
     if is_local:
         if date_element and time_element:
             raw_date_str = date_element.get_text(strip=True)
@@ -95,7 +120,7 @@ def process_time_data(
     return None
 
 
-def parse_feed_datetime(value: Optional[str]) -> Optional[Union[str, int]]:
+def parse_feed_datetime(value: str | None) -> str | int | None:
     """
     Parses an ISO 8601 timestamp from the official leekduck.com/feeds/events.json feed.
 
@@ -115,7 +140,7 @@ def parse_feed_datetime(value: Optional[str]) -> Optional[Union[str, int]]:
     return dt_object.isoformat()
 
 
-def clean_banner_url(url: Optional[str]) -> Optional[str]:
+def clean_banner_url(url: str | None) -> str | None:
     if not url:
         return None
     return re.sub(r"cdn-cgi/image/.*?\/(?=assets)", "", url)

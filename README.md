@@ -25,7 +25,7 @@ The scraped data is automatically committed and pushed to the `data` branch of t
   - **Team GO Rocket**: The complete lineups for Giovanni, Leaders, and Grunts.
   - **Egg Pool**: The current list of Pokémon hatching from each egg distance.
 - **Data Archiving**: Automatically archives past events to a separate file for historical data.
-- **Resilient**: Includes retry logic with configurable delay and timeout settings to handle network errors gracefully.
+- **Failure-safe**: Uses retries, atomic writes, output validation, and nonzero exits to prevent failed runs from publishing empty or partial datasets.
 - **Organized**: A clean and modular project structure that is easy to understand and extend.
 
 ---
@@ -74,7 +74,7 @@ The following files are generated:
         "max": 2850
       },
       "types": ["Water", "Dragon"],
-      "asset_url": "[https://cdn.leekduck.com/assets/img/pokemon_icons/pm484.icon.png](https://cdn.leekduck.com/assets/img/pokemon_icons/pm484.icon.png)"
+      "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm484.icon.png"
     }
   ]
 }
@@ -96,7 +96,7 @@ To get a local copy up and running, follow these simple steps.
 1.  **Clone the repository:**
 
     ```sh
-    git clone [https://github.com/zhenga8533/leak-duck.git](https://github.com/zhenga8533/leak-duck.git)
+    git clone https://github.com/zhenga8533/leak-duck.git
     cd leak-duck
     ```
 
@@ -126,6 +126,22 @@ To get a local copy up and running, follow these simple steps.
 
     When run locally, the script will create two folders in your project root: `html/` and `json/`. These folders are included in the `.gitignore` and will not be committed to your repository.
 
+    To write JSON somewhere else, set `LEAK_DUCK_OUTPUT_DIR` to the desired directory before running the command. An installed `leak-duck` command uses the current directory by default; `LEAK_DUCK_HOME` can set a different runtime root.
+
+### Development Checks
+
+Install the pinned development tools and run the same checks used by CI:
+
+```sh
+pip install -r requirements-dev.txt
+ruff format --check .
+ruff check .
+python -m unittest discover -v
+python -m compileall -q src tests
+```
+
+Use `ruff format .` to apply formatting. The tests are offline and cover parser selectors, output validation, fetch failures, and archive-preservation behavior.
+
 ---
 
 ## Automation with GitHub Actions
@@ -136,10 +152,10 @@ This repository is configured to run the scraper automatically using GitHub Acti
 - **Trigger:** The workflow runs on a schedule (every hour) and can also be triggered manually from the "Actions" tab in GitHub.
 - **Process:**
   1.  The action checks out the `main` branch to get the latest scraper code.
-  2.  It installs the Python dependencies (using a cache for speed).
-  3.  It runs the `src/main.py` script, which generates the JSON files.
-  4.  The action then checks out the `data` branch, adds the new JSON files, and commits them.
-  5.  Finally, it pushes the updated data files directly to the `data` branch.
+  2.  It installs the pinned Python dependencies and runs the regression tests.
+  3.  It runs the scraper into a temporary output directory.
+  4.  Only after the complete run succeeds does it check out the `data` branch and copy the validated files.
+  5.  It commits and pushes only when the generated data changed. Concurrent publishers are serialized to avoid races.
 
 **Note:** For the GitHub Action to work, you must **manually create the `data` branch** as a clean, orphan branch in your repository first.
 
@@ -150,8 +166,10 @@ This repository is configured to run the scraper automatically using GitHub Acti
 ```
 leak-duck/
 ├── .github/
-│   └── workflows/
-│       └── run_scrapers.yml
+│   ├── workflows/
+│   │   ├── ci.yml
+│   │   └── run_scrapers.yml
+│   └── dependabot.yml
 ├── src/
 │   ├── scrapers/
 │   │   ├── __init__.py
@@ -166,10 +184,18 @@ leak-duck/
 │   ├── archiver.py
 │   ├── config.json
 │   ├── main.py
+│   ├── paths.py
+│   ├── validation.py
 │   └── utils.py
+├── tests/
+│   ├── test_archiver.py
+│   ├── test_scrapers.py
+│   └── test_validation.py
 ├── .gitignore
 ├── LICENSE
+├── pyproject.toml
 ├── README.md
+├── requirements-dev.txt
 └── requirements.txt
 ```
 
