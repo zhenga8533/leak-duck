@@ -15,10 +15,11 @@ jobs:
     timeout-minutes: 30
     permissions:
       contents: write
-    env:
-      LEAK_DUCK_OUTPUT_DIR: ${{ runner.temp }}/leak-duck-data
 
     steps:
+      - name: Configure output directory
+        run: echo "LEAK_DUCK_OUTPUT_DIR=$RUNNER_TEMP/leak-duck-data" >> "$GITHUB_ENV"
+
       - name: Check out main branch for code
         uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
         with:
