@@ -92,21 +92,21 @@
     ],
     "Mega Raids": [
         {
-            "name": "Mega Lucario",
+            "name": "Mega Sceptile",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm448.fMEGA.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm254.fMEGA.icon.png",
             "tier": "Mega Raids",
             "cp_range": {
-                "min": 1469,
-                "max": 1544
+                "min": 1500,
+                "max": 1575
             },
             "boosted_cp_range": {
-                "min": 1837,
-                "max": 1930
+                "min": 1876,
+                "max": 1969
             },
             "types": [
-                "Fighting",
-                "Steel"
+                "Grass",
+                "Dragon"
             ]
         }
     ],
