@@ -1043,6 +1043,37 @@
             "start_time": "2026-07-01T06:00:00",
             "end_time": "2026-07-05T22:00:00",
             "description": "Mega Lucario will be in Mega Raids from July 1, 2026 at 6 am to July 5, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Mega Lucario in Mega Raids - July 13",
+            "article_url": "https://leekduck.com/events/mega-lucario-in-mega-raids-july-13-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Mega Lucario",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm448.fMEGA.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Lucario",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_448_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Lucario",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm448.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-13T06:00:00",
+            "end_time": "2026-07-14T22:00:00",
+            "description": "Mega Lucario returns to Mega Raids from July 13, 2026 at 6 am to July 14, 2026 at 10 pm local time."
         }
     ],
     "Community Day": [
