@@ -45,16 +45,18 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+          cp .github/data-branch-readme.md "$LEAK_DUCK_OUTPUT_DIR/README.md"
           git fetch origin data
           git checkout -B data origin/data
 
+          cp "$LEAK_DUCK_OUTPUT_DIR/README.md" README.md
           cp "$LEAK_DUCK_OUTPUT_DIR"/*.json .
           if [ -d "$LEAK_DUCK_OUTPUT_DIR/archives" ]; then
             mkdir -p archives
             cp -R "$LEAK_DUCK_OUTPUT_DIR/archives/." archives/
           fi
 
-          git add -- '*.json'
+          git add -- README.md '*.json'
           if [ -d archives ]; then
             git add -- archives/
           fi
