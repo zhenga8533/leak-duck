@@ -70,46 +70,6 @@
             ]
         }
     ],
-    "5-Star Raids": [
-        {
-            "name": "Shadow Palkia",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm484.icon.png",
-            "tier": 5,
-            "cp_range": {
-                "min": 2118,
-                "max": 2280
-            },
-            "boosted_cp_range": {
-                "min": 2648,
-                "max": 2850
-            },
-            "types": [
-                "Water",
-                "Dragon"
-            ]
-        }
-    ],
-    "Mega Raids": [
-        {
-            "name": "Mega Sceptile",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm254.fMEGA.icon.png",
-            "tier": "Mega Raids",
-            "cp_range": {
-                "min": 1500,
-                "max": 1575
-            },
-            "boosted_cp_range": {
-                "min": 1876,
-                "max": 1969
-            },
-            "types": [
-                "Grass",
-                "Dragon"
-            ]
-        }
-    ],
     "3-Star Raids": [
         {
             "name": "Shadow Scyther",
@@ -162,6 +122,46 @@
             "types": [
                 "Rock",
                 "Ground"
+            ]
+        }
+    ],
+    "5-Star Raids": [
+        {
+            "name": "Shadow Palkia",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm484.icon.png",
+            "tier": 5,
+            "cp_range": {
+                "min": 2118,
+                "max": 2280
+            },
+            "boosted_cp_range": {
+                "min": 2648,
+                "max": 2850
+            },
+            "types": [
+                "Water",
+                "Dragon"
+            ]
+        }
+    ],
+    "Mega Raids": [
+        {
+            "name": "Mega Sceptile",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm254.fMEGA.icon.png",
+            "tier": "Mega Raids",
+            "cp_range": {
+                "min": 1500,
+                "max": 1575
+            },
+            "boosted_cp_range": {
+                "min": 1876,
+                "max": 1969
+            },
+            "types": [
+                "Grass",
+                "Dragon"
             ]
         }
     ]
