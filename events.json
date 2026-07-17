@@ -127,6 +127,16 @@
                         "shiny_available": true
                     },
                     {
+                        "name": "Cake Hat Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cANNIVERSARY_2022_NOEVOLVE.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Cherry Blossom Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cSPRING_2023.icon.png",
+                        "shiny_available": true
+                    },
+                    {
                         "name": "Dapper Pikachu with blue accents",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_BLUE.icon.png",
                         "shiny_available": true
@@ -139,6 +149,21 @@
                     {
                         "name": "Dapper Pikachu with yellow accents",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_YELLOW.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Flower Crown Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_07.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Flower Hat Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_12.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Flying 5th Anniversary Balloons Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_pm0025_01_pgo_5thanniversary.png",
                         "shiny_available": true
                     },
                     {
@@ -162,8 +187,18 @@
                         "shiny_available": true
                     },
                     {
+                        "name": "Moon Crown Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2024_MTIARA.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Party Top Hat Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cJAN_2023_NOEVOLVE.icon.png",
+                        "shiny_available": true
+                    },
+                    {
                         "name": "Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_28.png",
                         "shiny_available": true
                     },
                     {
@@ -189,6 +224,11 @@
                     {
                         "name": "Summer Style Pikachu",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_05.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Sun Crown Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2024_STIARA.icon.png",
                         "shiny_available": true
                     },
                     {
