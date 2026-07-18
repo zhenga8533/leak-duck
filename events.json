@@ -1393,8 +1393,8 @@
                     "Additional 5,000 XP from completed raids",
                     "Link Charge cap will increase to 2,000",
                     "Premier Balls will be more effective at catching Pokémon after raids",
-                    "There will be no limit on Remote Raids for all Trainers from Saturday, July 25, at 1:00 p.m. PDT to Sunday, July 26, at 12:00 p.m. PDT",
-                    "Up to nine free Raid Passes per day by spinning Photo Discs at Gyms"
+                    "There will be no limit on Remote Raids for all Trainers from Saturday, July 25, at 1:00 p.m. PDT to Sunday, July 26, at 11:59 p.m. PDT",
+                    "Up to twelve free Raid Passes per day by spinning Photo Discs at Gyms"
                 ],
                 "raids": [
                     {
@@ -2004,7 +2004,7 @@
             "is_local_time": true,
             "start_time": "2026-07-26T10:00:00",
             "end_time": "2026-07-26T19:00:00",
-            "description": "As compensation for a technical issue that prevented some Trainers from joining Raid Battles during Pokémon GO Fest 2026: Global, a special Sunday raid makeup event will be held on July 26, 2026 from 10 am to 7 pm local time.\nThis makeup event is only for Trainers in Asia-Pacific, Europe, the Middle East, and Africa, up to and including the UTC+0 time zone (UTC+14 through UTC+0). Raid Bosses featured during the original Sunday of GO Fest 2026: Global—including Mega Mewtwo Y Super Mega Raids—will appear!\nThe issue did not consume Raid Passes, but did prevent Trainers from joining Raid Battles as normal."
+            "description": "UPDATE from Scopely:\nAs compensation for a technical issue that prevented some Trainers from joining Raid Battles during Pokémon GO Fest 2026: Global, a special Sunday raid makeup event will be held on July 26, 2026 from 10 am to 7 pm local time.\nRaid Bosses featured during the original Sunday of GO Fest 2026: Global—including Mega Mewtwo Y Super Mega Raids—will appear!"
         }
     ],
     "Max Battles": [
