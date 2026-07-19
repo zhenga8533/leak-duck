@@ -4743,6 +4743,59 @@
             "start_time": "2026-06-27T14:00:00",
             "end_time": "2026-06-27T17:00:00",
             "description": "Stay sharp for Skarmory Super Mega Raid Day!"
+        },
+        {
+            "title": "Raichu Super Mega Raid Day",
+            "article_url": "https://leekduck.com/events/raichu-super-mega-raid-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-18-raichu-super-mega-raid-day-2026/raichu-super-mega-raid-day-2026.jpg",
+            "category": "Raid Day",
+            "details": {
+                "bonuses": [
+                    "An additional 5,000 Stardust from Super Mega Raids",
+                    "An additional 5,000 XP from Super Mega Raids",
+                    "Increased chance of encountering Shiny Raichu from Super Mega Raids",
+                    "Increased chance to get Rare Candy XL from Raid Battles",
+                    "Raichu caught from Super Mega Raids will have Mega Level 1 unlocked",
+                    "Receive up to 14 Raid Passes from spinning Gym Photo Discs",
+                    "Receive up to six free Raid Passes from spinning Gym Photo Discs",
+                    "Remote Raid Pass limit increased to 20 from Friday, July 17, at 5:00 p.m. to Saturday, July 18, 2026, at 8:00 p.m. PDT"
+                ],
+                "features": [
+                    {
+                        "name": "Mega Raichu X",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Raichu X.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Raichu Y",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Raichu Y.png",
+                        "shiny_available": true
+                    }
+                ],
+                "raids": [
+                    {
+                        "name": "Mega Raichu X",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Raichu X.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Raichu Y",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Raichu Y.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Raichu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_026_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-18T14:00:00",
+            "end_time": "2026-07-18T17:00:00",
+            "description": "Sparks fly for Raichu Super Mega Raid Day!"
         }
     ],
     "Team GO Rocket": [
