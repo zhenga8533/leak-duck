@@ -1403,6 +1403,11 @@
                         "shiny_available": true
                     },
                     {
+                        "name": "Buzzwole",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm794.icon.png",
+                        "shiny_available": true
+                    },
+                    {
                         "name": "Celesteela",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm797.icon.png",
                         "shiny_available": true
@@ -1707,6 +1712,11 @@
                     {
                         "name": "Blacephalon",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm806.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Buzzwole",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm794.s.icon.png",
                         "shiny_available": false
                     },
                     {
