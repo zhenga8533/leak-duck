@@ -1,4 +1,66 @@
 {
+    "Ultra Unlock: 10th Anniversary Edition Tasks": [
+        {
+            "task": "Catch 5 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Ultra Ball",
+                    "quantity": 3,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Ultra Ball.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 10 Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Fennekin",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm653.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Win a raid",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Professor Willow's assistant Pikachu",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fANNIVERSARY_2026.icon.png"
+                }
+            ]
+        }
+    ],
+    "Happy Birthday, Professor Willow! Tasks": [
+        {
+            "task": "Catch 10 Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Professor Willow's assistant Pikachu",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fANNIVERSARY_2026.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Spin 50 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "PokéCoin",
+                    "quantity": 10,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/PokeCoin.png"
+                }
+            ]
+        }
+    ],
     "Special Anniversary Pikachu Celebration - Celebration 1 Tasks": [
         {
             "task": "Catch 10 Pikachu",
