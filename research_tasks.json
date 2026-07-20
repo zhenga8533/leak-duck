@@ -24,18 +24,6 @@
             ]
         },
         {
-            "task": "Win a raid",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Professor Willow's assistant Pikachu",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fANNIVERSARY_2026.icon.png"
-                }
-            ]
-        },
-        {
             "task": "Catch 10 Pokémon",
             "rewards": [
                 {
@@ -102,11 +90,9 @@
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm906.icon.png"
                 }
             ]
-        }
-    ],
-    "Ultra Unlock: 10th Anniversary Edition - Willows birthday research Tasks": [
+        },
         {
-            "task": "Catch 10 Pokémon",
+            "task": "Win a raid",
             "rewards": [
                 {
                     "type": "encounter",
@@ -114,81 +100,6 @@
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fANNIVERSARY_2026.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Complete 5 Field Research tasks",
-            "rewards": [
-                {
-                    "type": "item",
-                    "name": "Incense",
-                    "quantity": 1,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Incense.png"
-                },
-                {
-                    "type": "item",
-                    "name": "Lucky Egg",
-                    "quantity": 1,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Lucky Egg.png"
-                },
-                {
-                    "type": "item",
-                    "name": "Lure Module",
-                    "quantity": 1,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Lure Module.png"
-                }
-            ]
-        },
-        {
-            "task": "Catch 100 Pokémon",
-            "rewards": [
-                {
-                    "type": "item",
-                    "name": "Incense",
-                    "quantity": 1,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Incense.png"
-                },
-                {
-                    "type": "item",
-                    "name": "Lucky Egg",
-                    "quantity": 1,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Lucky Egg.png"
-                },
-                {
-                    "type": "item",
-                    "name": "PokéCoin",
-                    "quantity": 10,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/PokeCoin.png"
-                }
-            ]
-        },
-        {
-            "task": "Spin 50 PokéStops or Gyms",
-            "rewards": [
-                {
-                    "type": "item",
-                    "name": "Incense",
-                    "quantity": 1,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Incense.png"
-                },
-                {
-                    "type": "item",
-                    "name": "Lucky Egg",
-                    "quantity": 1,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Lucky Egg.png"
-                },
-                {
-                    "type": "item",
-                    "name": "Lure Module",
-                    "quantity": 1,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Lure Module.png"
-                },
-                {
-                    "type": "item",
-                    "name": "PokéCoin",
-                    "quantity": 10,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/PokeCoin.png"
                 }
             ]
         }
@@ -207,6 +118,29 @@
             ]
         },
         {
+            "task": "Catch 100 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "PokéCoin",
+                    "quantity": 10,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/PokeCoin.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Incense",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Incense.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Lucky Egg",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Lucky Egg.png"
+                }
+            ]
+        },
+        {
             "task": "Complete 5 Field Research tasks",
             "rewards": [
                 {
@@ -230,31 +164,14 @@
             ]
         },
         {
-            "task": "Catch 100 Pokémon",
+            "task": "Spin 50 PokéStops or Gyms",
             "rewards": [
-                {
-                    "type": "item",
-                    "name": "Incense",
-                    "quantity": 1,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Incense.png"
-                },
-                {
-                    "type": "item",
-                    "name": "Lucky Egg",
-                    "quantity": 1,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Lucky Egg.png"
-                },
                 {
                     "type": "item",
                     "name": "PokéCoin",
                     "quantity": 10,
                     "asset_url": "https://cdn.leekduck.com/assets/img/items/PokeCoin.png"
-                }
-            ]
-        },
-        {
-            "task": "Spin 50 PokéStops or Gyms",
-            "rewards": [
+                },
                 {
                     "type": "item",
                     "name": "Incense",
@@ -272,12 +189,6 @@
                     "name": "Lure Module",
                     "quantity": 1,
                     "asset_url": "https://cdn.leekduck.com/assets/img/items/Lure Module.png"
-                },
-                {
-                    "type": "item",
-                    "name": "PokéCoin",
-                    "quantity": 10,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/items/PokeCoin.png"
                 }
             ]
         }
