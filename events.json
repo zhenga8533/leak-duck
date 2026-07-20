@@ -444,17 +444,17 @@
                     {
                         "name": "Blastoise",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_009_00.png",
-                        "shiny_available": true
+                        "shiny_available": false
                     },
                     {
                         "name": "Blaziken",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_257_00.png",
-                        "shiny_available": true
+                        "shiny_available": false
                     },
                     {
                         "name": "Charizard",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_00.png",
-                        "shiny_available": true
+                        "shiny_available": false
                     },
                     {
                         "name": "Chesnaught",
@@ -474,37 +474,37 @@
                     {
                         "name": "Delphox",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_655_00.png",
-                        "shiny_available": true
+                        "shiny_available": false
                     },
                     {
                         "name": "Emboar",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_500_00.png",
-                        "shiny_available": true
+                        "shiny_available": false
                     },
                     {
                         "name": "Empoleon",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_395_00.png",
-                        "shiny_available": true
+                        "shiny_available": false
                     },
                     {
                         "name": "Feraligatr",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_160_00.png",
-                        "shiny_available": true
+                        "shiny_available": false
                     },
                     {
                         "name": "Greninja",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_658_00.png",
-                        "shiny_available": true
+                        "shiny_available": false
                     },
                     {
                         "name": "Incineroar",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm727.icon.png",
-                        "shiny_available": true
+                        "shiny_available": false
                     },
                     {
                         "name": "Infernape",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_392_00.png",
-                        "shiny_available": true
+                        "shiny_available": false
                     },
                     {
                         "name": "Inteleon",
@@ -514,7 +514,7 @@
                     {
                         "name": "Meganium",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_154_00.png",
-                        "shiny_available": true
+                        "shiny_available": false
                     },
                     {
                         "name": "Meowscarada",
@@ -524,7 +524,7 @@
                     {
                         "name": "Primarina",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm730.icon.png",
-                        "shiny_available": true
+                        "shiny_available": false
                     },
                     {
                         "name": "Quaquaval",
@@ -544,37 +544,37 @@
                     {
                         "name": "Sceptile",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_254_00.png",
-                        "shiny_available": true
+                        "shiny_available": false
                     },
                     {
                         "name": "Serperior",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_497_00.png",
-                        "shiny_available": true
+                        "shiny_available": false
                     },
                     {
                         "name": "Skeledirge",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm911.icon.png",
-                        "shiny_available": true
+                        "shiny_available": false
                     },
                     {
                         "name": "Swampert",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_260_00.png",
-                        "shiny_available": true
+                        "shiny_available": false
                     },
                     {
                         "name": "Torterra",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_389_00.png",
-                        "shiny_available": true
+                        "shiny_available": false
                     },
                     {
                         "name": "Typhlosion",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_157_00.png",
-                        "shiny_available": true
+                        "shiny_available": false
                     },
                     {
                         "name": "Venusaur",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_003_00.png",
-                        "shiny_available": true
+                        "shiny_available": false
                     }
                 ]
             },
