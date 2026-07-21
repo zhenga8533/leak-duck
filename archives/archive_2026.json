@@ -2980,6 +2980,207 @@
             "start_time": "2026-07-06T00:01:00",
             "end_time": "2026-07-10T23:59:00",
             "description": "The countdown to Pokémon GO Fest 2026: Global starts here! During the Road of Legends, Trainers around the world can gear up for the big weekend with a full week of powerful raid encounters, event bonuses, and GO Pass rewards. Whether you’re looking to strengthen your team, stock up on rewards, or take on some of Pokémon GO’s most formidable foes, this is your chance to get ready for the adventure ahead."
+        },
+        {
+            "title": "Special Anniversary Pikachu Celebration",
+            "article_url": "https://leekduck.com/events/special-anniversary-pikachu-celebration-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-13-special-anniversary-pikachu-celebration-2026/special-anniversary-pikachu-celebration-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Candy for transferring Pokémon",
+                    "2× Stardust for catching Pokémon",
+                    "3× Candy for transferring Pokémon",
+                    "3× Stardust for catching Pokémon",
+                    "Even greater chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
+                    "Increased chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
+                    "Pikachu will appear more frequently in the wild.",
+                    "Pikachu will be easier to catch during the event."
+                ],
+                "spawns": [
+                    {
+                        "name": "Aquamarine Crown Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fSUMMER_2023_B.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Cake Hat Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cANNIVERSARY_2022_NOEVOLVE.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Cherry Blossom Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cSPRING_2023.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Dapper Pikachu with blue accents",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_BLUE.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Dapper Pikachu with red accents",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_RED.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Dapper Pikachu with yellow accents",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_YELLOW.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Flower Crown Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_07.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Flower Hat Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_12.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Flying 5th Anniversary Balloons Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_pm0025_01_pgo_5thanniversary.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Flying Pikachu with Multicolored Balloons",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fCOSTUME_2020.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Halloween Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cHALLOWEEN_2021_NOEVOLVE.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Holiday Attire Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cHOLIDAY_2023.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Malachite Crown Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fSUMMER_2023_A.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Moon Crown Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2024_MTIARA.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Party Top Hat Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cJAN_2023_NOEVOLVE.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_28.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Polka Dot Party Hat Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_11.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Pyrite Crown Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fSUMMER_2023_D.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Quartz Crown Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fSUMMER_2023_C.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Santa Hat Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cHOLIDAY_2016.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Summer Style Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_05.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Sun Crown Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2024_STIARA.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Trick or Treat Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cFALL_2023_NOEVOLVE.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Winter Beanie Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_08.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Winter Carnival Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_pm0025_01_pgo_winter2020.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Witch Hat Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cHALLOWEEN_2017.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "raids": [
+                    {
+                        "name": "Amethyst Crown Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fSUMMER_2023_E.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Formal Pikachu with blue accents",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_MONOCLE_BLUE.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Formal Pikachu with red accents",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_MONOCLE_RED.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Formal Pikachu with yellow accents",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_MONOCLE_YELLOW.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Pikachu wearing a varsity jacket",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fWCS_2025.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Safari Hat Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_13.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "World Championships 2022 Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fWCS_2022.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "World Championships 2023 Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fWCS_2023.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "World Championships 2024 Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fWCS_2024.icon.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-13T10:00:00",
+            "end_time": "2026-07-20T20:00:00",
+            "description": "Keep the festivities going with three celebrations of different costumed Pikachu!\nThe Special Anniversary Pikachu Celebration event will take place from July 13, 2026 at 10 am to July 20, 2026 at 8 pm."
         }
     ],
     "PokéStop Showcase": [
