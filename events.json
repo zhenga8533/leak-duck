@@ -1,206 +1,95 @@
 {
-    "Event": [
+    "GO Battle League": [
         {
-            "title": "Special Anniversary Pikachu Celebration",
-            "article_url": "https://leekduck.com/events/special-anniversary-pikachu-celebration-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-13-special-anniversary-pikachu-celebration-2026/special-anniversary-pikachu-celebration-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× Candy for transferring Pokémon",
-                    "2× Stardust for catching Pokémon",
-                    "3× Candy for transferring Pokémon",
-                    "3× Stardust for catching Pokémon",
-                    "Even greater chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
-                    "Increased chance for Trainers level 31 and up to receive Candy XL for transferring Pokémon",
-                    "Pikachu will appear more frequently in the wild.",
-                    "Pikachu will be easier to catch during the event."
-                ],
-                "spawns": [
-                    {
-                        "name": "Aquamarine Crown Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fSUMMER_2023_B.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Cake Hat Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cANNIVERSARY_2022_NOEVOLVE.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Cherry Blossom Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cSPRING_2023.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Dapper Pikachu with blue accents",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_BLUE.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Dapper Pikachu with red accents",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_RED.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Dapper Pikachu with yellow accents",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_GOGGLES_YELLOW.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Flower Crown Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_07.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Flower Hat Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_12.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Flying 5th Anniversary Balloons Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_pm0025_01_pgo_5thanniversary.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Flying Pikachu with Multicolored Balloons",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fCOSTUME_2020.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Halloween Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cHALLOWEEN_2021_NOEVOLVE.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Holiday Attire Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cHOLIDAY_2023.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Malachite Crown Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fSUMMER_2023_A.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Moon Crown Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2024_MTIARA.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Party Top Hat Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cJAN_2023_NOEVOLVE.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_28.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Polka Dot Party Hat Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_11.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Pyrite Crown Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fSUMMER_2023_D.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Quartz Crown Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fSUMMER_2023_C.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Santa Hat Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cHOLIDAY_2016.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Summer Style Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_05.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Sun Crown Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2024_STIARA.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Trick or Treat Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cFALL_2023_NOEVOLVE.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Winter Beanie Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_08.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Winter Carnival Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_pm0025_01_pgo_winter2020.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Witch Hat Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.cHALLOWEEN_2017.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "raids": [
-                    {
-                        "name": "Amethyst Crown Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fSUMMER_2023_E.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Formal Pikachu with blue accents",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_MONOCLE_BLUE.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Formal Pikachu with red accents",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_MONOCLE_RED.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Formal Pikachu with yellow accents",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGOFEST_2025_MONOCLE_YELLOW.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Pikachu wearing a varsity jacket",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fWCS_2025.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Safari Hat Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00_13.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "World Championships 2022 Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fWCS_2022.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "World Championships 2023 Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fWCS_2023.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "World Championships 2024 Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fWCS_2024.icon.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-13T10:00:00",
-            "end_time": "2026-07-20T20:00:00",
-            "description": "Keep the festivities going with three celebrations of different costumed Pikachu!\nThe Special Anniversary Pikachu Celebration event will take place from July 13, 2026 at 10 am to July 20, 2026 at 8 pm."
+            "title": "Master League and Retro Cup: Great League Edition | Forever Forward",
+            "article_url": "https://leekduck.com/events/gbl-forever-forward_master-league_retro-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1784059200,
+            "end_time": 1784664000,
+            "description": "The Master League and Retro Cup: Great League Edition will run from July 14, 2026, at 1:00 p.m. to July 21, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Dark-, Steel-, and Fairy-type Pokémon are not eligible."
         },
+        {
+            "title": "Great League, Ultra League, and Master League | Forever Forward",
+            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_ultra-league_master-league-split-2/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-27-forever-forward.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1784664000,
+            "end_time": 1785268800,
+            "description": "The Great League, Ultra League, and Master League will run from July 21, 2026, at 1:00 p.m. to July 28, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
+        },
+        {
+            "title": "Great League and Master Premier | Forever Forward",
+            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_master-premier/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1785268800,
+            "end_time": 1785873600,
+            "description": "The Great League and Master Premier will run from July 28, 2026, at 1:00 p.m. to August 4, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- No CP limit.\n- Mythical and Legendary Pokémon are not eligible."
+        },
+        {
+            "title": "Ultra League and Weather Cup: Great League Edition | Forever Forward",
+            "article_url": "https://leekduck.com/events/gbl-forever-forward_ultra-league_weather-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1785873600,
+            "end_time": 1786478400,
+            "description": "The Ultra League and Weather Cup: Great League Edition will run from August 4, 2026, at 1:00 p.m. to August 11, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Fire-, Water-, Ice-, and Rock-type Pokémon are eligible."
+        },
+        {
+            "title": "Master League and Evolution Cup: Great League Edition | Forever Forward",
+            "article_url": "https://leekduck.com/events/gbl-forever-forward_master-league_evolution-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1786478400,
+            "end_time": 1787083200,
+            "description": "The Master League and Evolution Cup: Great League Edition will run from August 11, 2026, at 1:00 p.m. to August 18, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Pokémon that have evolved at least once and can evolve again will be eligible."
+        },
+        {
+            "title": "Great League and Scroll Cup: Great League Edition | Forever Forward",
+            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_scroll-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1787083200,
+            "end_time": 1787688000,
+            "description": "The Great League and Scroll Cup: Great League Edition will run from August 18, 2026, at 1:00 p.m. to August 25, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Water-, Fighting-, and Dark-type Pokémon are eligible.\nThe following Pokémon will not be allowed.\n- Primarina"
+        },
+        {
+            "title": "Great League, Ultra League, and Master League | Forever Forward",
+            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_ultra-league_master-league-split-3/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-27-forever-forward.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1787688000,
+            "end_time": 1788292800,
+            "description": "The Great League, Ultra League, and Master League will run from August 25, 2026, at 1:00 p.m. to September 1, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
+        },
+        {
+            "title": "Great League, Ultra League, and Master League: Mega Edition | Forever Forward",
+            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_ultra-league_master-league-mega-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-27-forever-forward.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1788292800,
+            "end_time": 1788897600,
+            "description": "The Great League, Ultra League, and Master League: Mega Edition will run from September 1, 2026, at 1:00 p.m. to September 8, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
+        }
+    ],
+    "Event": [
         {
             "title": "Happy Birthday, Professor Willow!",
             "article_url": "https://leekduck.com/events/happy-birthday-professor-willow-2026/",
@@ -897,120 +786,6 @@
             "start_time": "2026-08-18T10:00:00",
             "end_time": "2026-08-24T20:00:00",
             "description": "Arrokuda and Cramorant splash into Pokémon GO during Ultra Unlock: Water Festival!\nThe Ultra Unlock: Water Festival event will take place from August 18, 2026 at 10 am to August 24, 2026 at 8 pm local time."
-        }
-    ],
-    "Max Mondays": [
-        {
-            "title": "Dynamax Trubbish during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-07-20/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-07-20T06:00:00",
-            "end_time": "2026-07-20T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn July 20, 2026, the featured Dynamax Pokemon is Trubbish.\n- Trubbish"
-        },
-        {
-            "title": "Dynamax Feebas during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-07-27/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-07-27T06:00:00",
-            "end_time": "2026-07-27T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn July 27, 2026, the featured Dynamax Pokemon is Feebas.\n- Feebas"
-        }
-    ],
-    "GO Battle League": [
-        {
-            "title": "Master League and Retro Cup: Great League Edition | Forever Forward",
-            "article_url": "https://leekduck.com/events/gbl-forever-forward_master-league_retro-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1784059200,
-            "end_time": 1784664000,
-            "description": "The Master League and Retro Cup: Great League Edition will run from July 14, 2026, at 1:00 p.m. to July 21, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Dark-, Steel-, and Fairy-type Pokémon are not eligible."
-        },
-        {
-            "title": "Great League, Ultra League, and Master League | Forever Forward",
-            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_ultra-league_master-league-split-2/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-27-forever-forward.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1784664000,
-            "end_time": 1785268800,
-            "description": "The Great League, Ultra League, and Master League will run from July 21, 2026, at 1:00 p.m. to July 28, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
-        },
-        {
-            "title": "Great League and Master Premier | Forever Forward",
-            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_master-premier/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1785268800,
-            "end_time": 1785873600,
-            "description": "The Great League and Master Premier will run from July 28, 2026, at 1:00 p.m. to August 4, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- No CP limit.\n- Mythical and Legendary Pokémon are not eligible."
-        },
-        {
-            "title": "Ultra League and Weather Cup: Great League Edition | Forever Forward",
-            "article_url": "https://leekduck.com/events/gbl-forever-forward_ultra-league_weather-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1785873600,
-            "end_time": 1786478400,
-            "description": "The Ultra League and Weather Cup: Great League Edition will run from August 4, 2026, at 1:00 p.m. to August 11, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Fire-, Water-, Ice-, and Rock-type Pokémon are eligible."
-        },
-        {
-            "title": "Master League and Evolution Cup: Great League Edition | Forever Forward",
-            "article_url": "https://leekduck.com/events/gbl-forever-forward_master-league_evolution-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1786478400,
-            "end_time": 1787083200,
-            "description": "The Master League and Evolution Cup: Great League Edition will run from August 11, 2026, at 1:00 p.m. to August 18, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Pokémon that have evolved at least once and can evolve again will be eligible."
-        },
-        {
-            "title": "Great League and Scroll Cup: Great League Edition | Forever Forward",
-            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_scroll-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1787083200,
-            "end_time": 1787688000,
-            "description": "The Great League and Scroll Cup: Great League Edition will run from August 18, 2026, at 1:00 p.m. to August 25, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Water-, Fighting-, and Dark-type Pokémon are eligible.\nThe following Pokémon will not be allowed.\n- Primarina"
-        },
-        {
-            "title": "Great League, Ultra League, and Master League | Forever Forward",
-            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_ultra-league_master-league-split-3/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-27-forever-forward.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1787688000,
-            "end_time": 1788292800,
-            "description": "The Great League, Ultra League, and Master League will run from August 25, 2026, at 1:00 p.m. to September 1, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
-        },
-        {
-            "title": "Great League, Ultra League, and Master League: Mega Edition | Forever Forward",
-            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_ultra-league_master-league-mega-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-27-forever-forward.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1788292800,
-            "end_time": 1788897600,
-            "description": "The Great League, Ultra League, and Master League: Mega Edition will run from September 1, 2026, at 1:00 p.m. to September 8, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
         }
     ],
     "Raid Battles": [
@@ -1913,6 +1688,19 @@
             "description": "UPDATE from Scopely:\nAs compensation for a technical issue that prevented some Trainers from joining Raid Battles during Pokémon GO Fest 2026: Global, a special Sunday raid makeup event will be held on July 26, 2026 from 10 am to 7 pm local time.\nRaid Bosses featured during the original Sunday of GO Fest 2026: Global—including Mega Mewtwo Y Super Mega Raids—will appear!"
         }
     ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Feebas during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-07-27/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-07-27T06:00:00",
+            "end_time": "2026-07-27T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn July 27, 2026, the featured Dynamax Pokemon is Feebas.\n- Feebas"
+        }
+    ],
     "Max Battles": [
         {
             "title": "Gigantamax Rillaboom Max Battle Day",
@@ -2001,6 +1789,31 @@
             "start_time": "2026-07-07T10:00:00",
             "end_time": "2026-08-04T10:00:00",
             "description": "The Pokémon GO 10th Anniversary Celebration continues with GO Pass: July! Ho-Oh, Gimmighoul holding a 10th anniversary coin, and more await.\nFrom Tuesday, July 7, at 10:00 a.m. to Tuesday, August 4, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for July will be available in Pokémon GO!"
+        },
+        {
+            "title": "GO Pass: August",
+            "article_url": "https://leekduck.com/events/go-pass-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-04-go-pass-august-2026/go-pass-august-2026.jpg",
+            "category": "GO Pass",
+            "details": {
+                "bonuses": [
+                    "2× Daily Adventure Incense duration",
+                    "Hold 10 more Gifts in your Item Bag",
+                    "Hold up to 20 more Gifts in your Item Bag",
+                    "Increased XP and Stardust from hatching Eggs",
+                    "One additional Candy for trading Pokémon",
+                    "One single-use Incubator awarded for your first PokéStop or Gym spin of the day",
+                    "Open up to 40 Gifts per day",
+                    "Open up to 50 Gifts per day",
+                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Trainers level 31 and above will receive one guaranteed Candy XL when trading Pokémon"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-04T10:00:00",
+            "end_time": "2026-09-08T10:00:00",
+            "description": "The Lucky Trinket returns and Latias soars into GO Pass: August!\nThe GO Pass and GO Pass Deluxe for August will be available from August 4, 2026 at 10:00 am to September 8, 2026 at 10:00 am local time."
         }
     ],
     "Community Day": [
