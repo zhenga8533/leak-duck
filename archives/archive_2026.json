@@ -3181,6 +3181,32 @@
             "start_time": "2026-07-13T10:00:00",
             "end_time": "2026-07-20T20:00:00",
             "description": "Keep the festivities going with three celebrations of different costumed Pikachu!\nThe Special Anniversary Pikachu Celebration event will take place from July 13, 2026 at 10 am to July 20, 2026 at 8 pm."
+        },
+        {
+            "title": "Happy Birthday, Professor Willow!",
+            "article_url": "https://leekduck.com/events/happy-birthday-professor-willow-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-21-happy-birthday-professor-willow-2026/happy-birthday-professor-willow-2026.jpg",
+            "category": "Event",
+            "details": {
+                "features": [
+                    {
+                        "name": "Professor Willow's assistant Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fANNIVERSARY_2026.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "raids": [
+                    {
+                        "name": "Professor Willow's assistant Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fANNIVERSARY_2026.icon.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-21T10:00:00",
+            "end_time": "2026-07-21T20:00:00",
+            "description": "Wish Professor Willow a very happy birthday with Professor Willow’s assistant Pikachu!\nThe Happy Birthday, Professor Willow! event will take place on July 21, 2026 from 10 am to 8 pm."
         }
     ],
     "PokéStop Showcase": [
