@@ -1074,6 +1074,63 @@
             "start_time": "2026-07-13T06:00:00",
             "end_time": "2026-07-14T22:00:00",
             "description": "Mega Lucario returns to Mega Raids from July 13, 2026 at 6 am to July 14, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Kyogre in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/kyogre-in-5-star-raid-battles-july-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/kyogre.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Kyogre",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_382_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Kyogre",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_382_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-15T06:00:00",
+            "end_time": "2026-07-21T22:00:00",
+            "description": "Kyogre will be in five-star raid battles from July 15, 2026 to July 21, 2026.\nThere will also be a Raid Hour featuring Kyogre from 6:00 pm to 7:00 pm local time on the following date:\n- July 15"
+        },
+        {
+            "title": "Mega Sceptile in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-sceptile-in-mega-raids-july-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Mega Sceptile",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm254.fMEGA.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Mega Sceptile",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm254.fMEGA.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Sceptile",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_254_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-15T06:00:00",
+            "end_time": "2026-07-21T22:00:00",
+            "description": "Mega Sceptile will be in Mega Raids from July 15, 2026 at 6 am to July 21, 2026 at 10 pm local time."
         }
     ],
     "Community Day": [
