@@ -147,21 +147,21 @@
     ],
     "Mega Raids": [
         {
-            "name": "Mega Sceptile",
+            "name": "Mega Salamence",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm254.fMEGA.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm373.fMEGA.icon.png",
             "tier": "Mega Raids",
             "cp_range": {
-                "min": 1500,
-                "max": 1575
+                "min": 2054,
+                "max": 2142
             },
             "boosted_cp_range": {
-                "min": 1876,
-                "max": 1969
+                "min": 2568,
+                "max": 2678
             },
             "types": [
-                "Grass",
-                "Dragon"
+                "Dragon",
+                "Flying"
             ]
         }
     ]
