@@ -1,992 +1,4 @@
 {
-    "GO Battle League": [
-        {
-            "title": "Master League and Retro Cup: Great League Edition | Forever Forward",
-            "article_url": "https://leekduck.com/events/gbl-forever-forward_master-league_retro-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1784059200,
-            "end_time": 1784664000,
-            "description": "The Master League and Retro Cup: Great League Edition will run from July 14, 2026, at 1:00 p.m. to July 21, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Dark-, Steel-, and Fairy-type Pokémon are not eligible."
-        },
-        {
-            "title": "Great League, Ultra League, and Master League | Forever Forward",
-            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_ultra-league_master-league-split-2/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-27-forever-forward.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1784664000,
-            "end_time": 1785268800,
-            "description": "The Great League, Ultra League, and Master League will run from July 21, 2026, at 1:00 p.m. to July 28, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
-        },
-        {
-            "title": "Great League and Master Premier | Forever Forward",
-            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_master-premier/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1785268800,
-            "end_time": 1785873600,
-            "description": "The Great League and Master Premier will run from July 28, 2026, at 1:00 p.m. to August 4, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- No CP limit.\n- Mythical and Legendary Pokémon are not eligible."
-        },
-        {
-            "title": "Ultra League and Weather Cup: Great League Edition | Forever Forward",
-            "article_url": "https://leekduck.com/events/gbl-forever-forward_ultra-league_weather-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1785873600,
-            "end_time": 1786478400,
-            "description": "The Ultra League and Weather Cup: Great League Edition will run from August 4, 2026, at 1:00 p.m. to August 11, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Fire-, Water-, Ice-, and Rock-type Pokémon are eligible."
-        },
-        {
-            "title": "Master League and Evolution Cup: Great League Edition | Forever Forward",
-            "article_url": "https://leekduck.com/events/gbl-forever-forward_master-league_evolution-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1786478400,
-            "end_time": 1787083200,
-            "description": "The Master League and Evolution Cup: Great League Edition will run from August 11, 2026, at 1:00 p.m. to August 18, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Pokémon that have evolved at least once and can evolve again will be eligible."
-        },
-        {
-            "title": "Great League and Scroll Cup: Great League Edition | Forever Forward",
-            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_scroll-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1787083200,
-            "end_time": 1787688000,
-            "description": "The Great League and Scroll Cup: Great League Edition will run from August 18, 2026, at 1:00 p.m. to August 25, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Water-, Fighting-, and Dark-type Pokémon are eligible.\nThe following Pokémon will not be allowed.\n- Primarina"
-        },
-        {
-            "title": "Great League, Ultra League, and Master League | Forever Forward",
-            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_ultra-league_master-league-split-3/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-27-forever-forward.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1787688000,
-            "end_time": 1788292800,
-            "description": "The Great League, Ultra League, and Master League will run from August 25, 2026, at 1:00 p.m. to September 1, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
-        },
-        {
-            "title": "Great League, Ultra League, and Master League: Mega Edition | Forever Forward",
-            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_ultra-league_master-league-mega-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-27-forever-forward.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1788292800,
-            "end_time": 1788897600,
-            "description": "The Great League, Ultra League, and Master League: Mega Edition will run from September 1, 2026, at 1:00 p.m. to September 8, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
-        }
-    ],
-    "Event": [
-        {
-            "title": "Happy Birthday, Professor Willow!",
-            "article_url": "https://leekduck.com/events/happy-birthday-professor-willow-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-21-happy-birthday-professor-willow-2026/happy-birthday-professor-willow-2026.jpg",
-            "category": "Event",
-            "details": {
-                "features": [
-                    {
-                        "name": "Professor Willow's assistant Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fANNIVERSARY_2026.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "raids": [
-                    {
-                        "name": "Professor Willow's assistant Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fANNIVERSARY_2026.icon.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-21T10:00:00",
-            "end_time": "2026-07-21T20:00:00",
-            "description": "Wish Professor Willow a very happy birthday with Professor Willow’s assistant Pikachu!\nThe Happy Birthday, Professor Willow! event will take place on July 21, 2026 from 10 am to 8 pm."
-        },
-        {
-            "title": "Ozone Ascent",
-            "article_url": "https://leekduck.com/events/ozone-ascent-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-25-ozone-ascent-2026/ozone-ascent-2026.jpg",
-            "category": "Event",
-            "details": {
-                "features": [
-                    {
-                        "name": "Rayquaza",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_384_00.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-25T10:00:00",
-            "end_time": "2026-07-26T20:00:00",
-            "description": "Complete Timed Research to encounter Rayquaza and more!\nThe Ozone Ascent event will take place from July 25, 2026 at 10 am to July 26, 2026 at 8 pm."
-        },
-        {
-            "title": "Ultra Unlock: 10th Anniversary Edition",
-            "article_url": "https://leekduck.com/events/ultra-unlock-10th-anniversary-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-21-ultra-unlock-10th-anniversary-edition/ultra-unlock-10th-anniversary-edition.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "10× XP for catching Pokémon.",
-                    "2× Candy for catching Pokémon",
-                    "6× XP for catching Pokémon.",
-                    "8× XP for catching Pokémon.",
-                    "First partner Pokémon may have a team-specific Special Background!*",
-                    "GO Pass Deluxe: 3× Candy for catching Pokémon",
-                    "Increased chance of receiving Candy XL from catching Pokémon"
-                ],
-                "spawns": [
-                    {
-                        "name": "Beldum",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Bulbasaur",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_001_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Charmander",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Chespin",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_650_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Chikorita",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_152_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Chimchar",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_390_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Cyndaquil",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_155_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Dreepy",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm885.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Fennekin",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_653_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Froakie",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_656_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Fuecoco",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm909.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Gible",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Grookey",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm810.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Litten",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm725.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Mudkip",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_258_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Oshawott",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_501_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Piplup",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_393_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Popplio",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm728.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Quaxly",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm912.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Rowlet",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm722.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Scorbunny",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm813.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Snivy",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_495_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Sobble",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm816.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Sprigatito",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm906.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Squirtle",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_007_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Tepig",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_498_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Torchic",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_255_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Totodile",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_158_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Treecko",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_252_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Turtwig",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_387_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "raids": [
-                    {
-                        "name": "Party Hat Gengar",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_00_11.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Party Hat Grimer",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm88.cANNIVERSARY_2024.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Party Hat Nidorino",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_033_00_11.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Party Hat Raticate",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_020_00_11.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Party Hat Wobbuffet",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_202_00_11.png",
-                        "shiny_available": true
-                    }
-                ],
-                "moves": [
-                    {
-                        "name": "Blastoise",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_009_00.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Blaziken",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_257_00.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Charizard",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_00.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Chesnaught",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_652_00.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Cinderace",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm815.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Decidueye",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm724.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Delphox",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_655_00.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Emboar",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_500_00.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Empoleon",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_395_00.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Feraligatr",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_160_00.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Greninja",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_658_00.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Incineroar",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm727.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Infernape",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_392_00.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Inteleon",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm818.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Meganium",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_154_00.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Meowscarada",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm908.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Primarina",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm730.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Quaquaval",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm914.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Rillaboom",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm812.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Samurott",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_503_00.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Sceptile",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_254_00.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Serperior",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_497_00.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Skeledirge",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm911.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Swampert",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_260_00.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Torterra",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_389_00.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Typhlosion",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_157_00.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Venusaur",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_003_00.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-21T10:00:00",
-            "end_time": "2026-07-27T20:00:00",
-            "description": "First partner and costumed Pokémon galore in Ultra Unlock: 10th Anniversary Edition!\nThe Ultra Unlock: 10th Anniversary Edition event will take place from July 21, 2026 at 10 am to July 27, 2026 at 8 pm."
-        },
-        {
-            "title": "Fire and Ice Hatch Day",
-            "article_url": "https://leekduck.com/events/fire-and-ice-hatch-day-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-08-fire-and-ice-hatch-day-2026/fire-and-ice-hatch-day-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "1/2 Egg Hatch Distance*",
-                    "2× Candy from hatching Eggs*",
-                    "Increased chance of hatching Shiny Smoochum and Shiny Magby",
-                    "Increased chance of receiving 2 km Eggs from spinning PokéStops"
-                ],
-                "features": [
-                    {
-                        "name": "Larvesta",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Magby",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_240_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Smoochum",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_238_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Larvesta",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.s.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Magby",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_240_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Smoochum",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_238_00_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-08T11:00:00",
-            "end_time": "2026-08-08T17:00:00",
-            "description": "Feeling the heat—and the chill? Fire and Ice Hatch Day features Smoochum and Magby hatching much more frequently from 2 km Eggs, with an increased chance of hatching Shiny Smoochum and Shiny Magby!\nThe Fire and Ice Hatch Day event will take place on August 8, 2026 from 11 am to 5 pm."
-        },
-        {
-            "title": "Summer Marathon: Arctic Embers",
-            "article_url": "https://leekduck.com/events/summer-marathon-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-04-summer-marathon-2026/summer-marathon-2026.jpg",
-            "category": "Event",
-            "details": {
-                "features": [
-                    {
-                        "name": "Snom",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm872.s.icon.png",
-                        "shiny_available": false
-                    }
-                ],
-                "bonuses": [
-                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
-                    "2× XP for spinning a PokéStop",
-                    "GO Pass Deluxe: 1/4 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
-                    "GO Pass Deluxe: 3× XP for spinning a PokéStop"
-                ],
-                "spawns": [
-                    {
-                        "name": "Alolan Vulpix",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_037_61.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Growlithe",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_058_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Ponyta",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_077_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Slugma",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_218_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Snorunt",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_361_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Snover",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_459_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Swinub",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_220_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Vanillite",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_582_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Vulpix",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_037_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "eggs": [
-                    {
-                        "name": "Darumaka",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_554_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Galarian Darumaka",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_554_31.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Sizzlipede",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Sneasel",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_215_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Snom",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm872.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Ponyta",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_077_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Slugma",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_218_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Snover",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_459_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Vanillite",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_582_00_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-04T10:00:00",
-            "end_time": "2026-08-10T20:00:00",
-            "description": "Fire up or chill out during Summer Marathon: Arctic Embers!\nThe Summer Marathon: Arctic Embers event will take place from August 4, 2026 at 10 am to August 10, 2026 at 8 pm."
-        },
-        {
-            "title": "Ultra Unlock: Water Festival",
-            "article_url": "https://leekduck.com/events/water-festival-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-18-water-festival-2026/water-festival-2026.jpg?v2",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
-                    "2× Candy for catching Pokémon",
-                    "2× XP for catching Pokémon.",
-                    "3× Stardust for catching Pokémon.",
-                    "3× XP for catching Pokémon.",
-                    "4× Stardust for catching Pokémon.",
-                    "4× XP for catching Pokémon.",
-                    "5× Stardust for catching Pokémon.",
-                    "Increased chance to encounter Shiny Ducklett and Shiny Dewpider",
-                    "Rainy Lure Modules will attract Arrokuda"
-                ],
-                "features": [
-                    {
-                        "name": "Arrokuda",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0846_000_mf_n_00000000_f_n.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Barraskewda",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0847_000_mf_n_00000000_f_n.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Cramorant",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0845_000_mf_n_00000000_f_n.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Psyduck (Swim Ring)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm54.fSWIM_2025.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "spawns": [
-                    {
-                        "name": "Clamperl",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_366_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Feebas",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_349_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Goldeen",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_118_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Mareanie",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm747.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Psyduck",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_054_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Wiglett",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0960_000_mf_n_00000000_f_n.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Wimpod",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm767.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "raids": [
-                    {
-                        "name": "Dondozo",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm977.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Hisuian Samurott",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm503.fHISUIAN.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Psyduck (Swim Ring)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm54.fSWIM_2025.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Scarf Lapras",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm131.fCOSTUME_2020.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Tatsugiri (Curly)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm978.fCURLY.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Tatsugiri (Droopy)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm978.fDROOPY.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Tatsugiri (Stretchy)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm978.fSTRETCHY.icon.png",
-                        "shiny_available": false
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Araquanid",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm752.s.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Dewpider",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm751.s.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Ducklett",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_580_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Swanna",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_581_00_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-18T10:00:00",
-            "end_time": "2026-08-24T20:00:00",
-            "description": "Arrokuda and Cramorant splash into Pokémon GO during Ultra Unlock: Water Festival!\nThe Ultra Unlock: Water Festival event will take place from August 18, 2026 at 10 am to August 24, 2026 at 8 pm local time."
-        }
-    ],
-    "Raid Battles": [
-        {
-            "title": "Kyogre in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/kyogre-in-5-star-raid-battles-july-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/kyogre.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Kyogre",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_382_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Kyogre",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_382_00_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-15T06:00:00",
-            "end_time": "2026-07-21T22:00:00",
-            "description": "Kyogre will be in five-star raid battles from July 15, 2026 to July 21, 2026.\nThere will also be a Raid Hour featuring Kyogre from 6:00 pm to 7:00 pm local time on the following date:\n- July 15"
-        },
-        {
-            "title": "Mega Sceptile in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-sceptile-in-mega-raids-july-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Mega Sceptile",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm254.fMEGA.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Mega Sceptile",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm254.fMEGA.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Sceptile",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_254_00_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-15T06:00:00",
-            "end_time": "2026-07-21T22:00:00",
-            "description": "Mega Sceptile will be in Mega Raids from July 15, 2026 at 6 am to July 21, 2026 at 10 pm local time."
-        },
-        {
-            "title": "Mega Salamence in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-salamence-in-mega-raids-july-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Mega Salamence",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm373.fMEGA.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Mega Salamence",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm373.fMEGA.s.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Salamence",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_373_00_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-22T06:00:00",
-            "end_time": "2026-07-28T22:00:00",
-            "description": "Mega Salamence will be in Mega Raids from July 22, 2026 at 6 am to July 28, 2026 at 10 pm local time."
-        },
-        {
-            "title": "Solgaleo in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/solgaleo-in-5-star-raid-battles-july-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/solgaleo.jpg?v2",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Solgaleo",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm791.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Solgaleo",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm791.s.icon.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-22T06:00:00",
-            "end_time": "2026-07-28T22:00:00",
-            "description": "Solgaleo will be in five-star raid battles from July 22, 2026 to July 28, 2026.\nThere will also be a Raid Hour featuring Solgaleo from 6:00 pm to 7:00 pm local time on the following date:\n- July 22"
-        },
-        {
-            "title": "Shadow Palkia in Shadow Raids",
-            "article_url": "https://leekduck.com/events/shadow-palkia-in-shadow-raids-july-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Palkia",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_484_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Palkia",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_484_00_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-01T06:00:00",
-            "end_time": "2026-08-04T22:00:00",
-            "description": "Shadow Palkia will appear in Pokemon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Palkia!\nShadow Palkia will appear in five-star Shadow Raids every weekend from July 1 to August 4."
-        },
-        {
-            "title": "Kyurem in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/kyurem-in-5-star-raid-battles-july-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/kyurem.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Kyurem",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_11.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Kyurem",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_11_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-29T06:00:00",
-            "end_time": "2026-08-04T22:00:00",
-            "description": "Kyurem will be in five-star raid battles from July 29, 2026 to August 4, 2026.\nThere will also be a Raid Hour featuring Kyurem from 6:00 pm to 7:00 pm local time on the following date:\n- July 29"
-        },
-        {
-            "title": "Mega Aggron in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-aggron-in-mega-raids-july-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Mega Aggron",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm306.fMEGA.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Aggron",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_306_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Mega Aggron",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/ppm306.fMEGA.s.icon.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-29T06:00:00",
-            "end_time": "2026-08-04T22:00:00",
-            "description": "Mega Aggron will be in Mega Raids from July 29, 2026 at 6 am to August 4, 2026 at 10 pm local time."
-        }
-    ],
     "Raid Hour": [
         {
             "title": "Solgaleo Raid Hour",
@@ -1688,6 +700,679 @@
             "description": "UPDATE from Scopely:\nAs compensation for a technical issue that prevented some Trainers from joining Raid Battles during Pokémon GO Fest 2026: Global, a special Sunday raid makeup event will be held on July 26, 2026 from 10 am to 7 pm local time.\nRaid Bosses featured during the original Sunday of GO Fest 2026: Global—including Mega Mewtwo Y Super Mega Raids—will appear!"
         }
     ],
+    "Event": [
+        {
+            "title": "Ozone Ascent",
+            "article_url": "https://leekduck.com/events/ozone-ascent-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-25-ozone-ascent-2026/ozone-ascent-2026.jpg",
+            "category": "Event",
+            "details": {
+                "features": [
+                    {
+                        "name": "Rayquaza",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_384_00.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-25T10:00:00",
+            "end_time": "2026-07-26T20:00:00",
+            "description": "Complete Timed Research to encounter Rayquaza and more!\nThe Ozone Ascent event will take place from July 25, 2026 at 10 am to July 26, 2026 at 8 pm."
+        },
+        {
+            "title": "Ultra Unlock: 10th Anniversary Edition",
+            "article_url": "https://leekduck.com/events/ultra-unlock-10th-anniversary-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-21-ultra-unlock-10th-anniversary-edition/ultra-unlock-10th-anniversary-edition.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "10× XP for catching Pokémon.",
+                    "2× Candy for catching Pokémon",
+                    "6× XP for catching Pokémon.",
+                    "8× XP for catching Pokémon.",
+                    "First partner Pokémon may have a team-specific Special Background!*",
+                    "GO Pass Deluxe: 3× Candy for catching Pokémon",
+                    "Increased chance of receiving Candy XL from catching Pokémon"
+                ],
+                "spawns": [
+                    {
+                        "name": "Beldum",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Bulbasaur",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_001_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Charmander",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Chespin",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_650_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Chikorita",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_152_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Chimchar",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_390_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Cyndaquil",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_155_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Dreepy",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm885.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Fennekin",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_653_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Froakie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_656_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Fuecoco",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm909.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Gible",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Grookey",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm810.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Litten",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm725.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mudkip",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_258_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Oshawott",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_501_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Piplup",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_393_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Popplio",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm728.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Quaxly",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm912.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Rowlet",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm722.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Scorbunny",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm813.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Snivy",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_495_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Sobble",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm816.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Sprigatito",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm906.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Squirtle",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_007_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Tepig",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_498_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Torchic",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_255_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Totodile",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_158_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Treecko",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_252_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Turtwig",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_387_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "raids": [
+                    {
+                        "name": "Party Hat Gengar",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_00_11.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Party Hat Grimer",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm88.cANNIVERSARY_2024.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Party Hat Nidorino",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_033_00_11.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Party Hat Raticate",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_020_00_11.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Party Hat Wobbuffet",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_202_00_11.png",
+                        "shiny_available": true
+                    }
+                ],
+                "moves": [
+                    {
+                        "name": "Blastoise",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_009_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Blaziken",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_257_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Charizard",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Chesnaught",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_652_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Cinderace",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm815.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Decidueye",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm724.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Delphox",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_655_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Emboar",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_500_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Empoleon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_395_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Feraligatr",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_160_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Greninja",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_658_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Incineroar",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm727.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Infernape",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_392_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Inteleon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm818.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Meganium",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_154_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Meowscarada",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm908.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Primarina",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm730.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Quaquaval",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm914.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Rillaboom",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm812.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Samurott",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_503_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Sceptile",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_254_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Serperior",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_497_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Skeledirge",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm911.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Swampert",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_260_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Torterra",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_389_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Typhlosion",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_157_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Venusaur",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_003_00.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-21T10:00:00",
+            "end_time": "2026-07-27T20:00:00",
+            "description": "First partner and costumed Pokémon galore in Ultra Unlock: 10th Anniversary Edition!\nThe Ultra Unlock: 10th Anniversary Edition event will take place from July 21, 2026 at 10 am to July 27, 2026 at 8 pm."
+        },
+        {
+            "title": "Fire and Ice Hatch Day",
+            "article_url": "https://leekduck.com/events/fire-and-ice-hatch-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-08-fire-and-ice-hatch-day-2026/fire-and-ice-hatch-day-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "1/2 Egg Hatch Distance*",
+                    "2× Candy from hatching Eggs*",
+                    "Increased chance of hatching Shiny Smoochum and Shiny Magby",
+                    "Increased chance of receiving 2 km Eggs from spinning PokéStops"
+                ],
+                "features": [
+                    {
+                        "name": "Larvesta",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Magby",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_240_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Smoochum",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_238_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Larvesta",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Magby",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_240_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Smoochum",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_238_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-08T11:00:00",
+            "end_time": "2026-08-08T17:00:00",
+            "description": "Feeling the heat—and the chill? Fire and Ice Hatch Day features Smoochum and Magby hatching much more frequently from 2 km Eggs, with an increased chance of hatching Shiny Smoochum and Shiny Magby!\nThe Fire and Ice Hatch Day event will take place on August 8, 2026 from 11 am to 5 pm."
+        },
+        {
+            "title": "Summer Marathon: Arctic Embers",
+            "article_url": "https://leekduck.com/events/summer-marathon-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-04-summer-marathon-2026/summer-marathon-2026.jpg",
+            "category": "Event",
+            "details": {
+                "features": [
+                    {
+                        "name": "Snom",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm872.s.icon.png",
+                        "shiny_available": false
+                    }
+                ],
+                "bonuses": [
+                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
+                    "2× XP for spinning a PokéStop",
+                    "GO Pass Deluxe: 1/4 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
+                    "GO Pass Deluxe: 3× XP for spinning a PokéStop"
+                ],
+                "spawns": [
+                    {
+                        "name": "Alolan Vulpix",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_037_61.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Growlithe",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_058_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Ponyta",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_077_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Slugma",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_218_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Snorunt",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_361_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Snover",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_459_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Swinub",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_220_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Vanillite",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_582_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Vulpix",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_037_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "eggs": [
+                    {
+                        "name": "Darumaka",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_554_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Galarian Darumaka",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_554_31.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Sizzlipede",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Sneasel",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_215_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Snom",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm872.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Ponyta",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_077_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Slugma",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_218_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Snover",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_459_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Vanillite",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_582_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-04T10:00:00",
+            "end_time": "2026-08-10T20:00:00",
+            "description": "Fire up or chill out during Summer Marathon: Arctic Embers!\nThe Summer Marathon: Arctic Embers event will take place from August 4, 2026 at 10 am to August 10, 2026 at 8 pm."
+        },
+        {
+            "title": "Ultra Unlock: Water Festival",
+            "article_url": "https://leekduck.com/events/water-festival-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-18-water-festival-2026/water-festival-2026.jpg?v2",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
+                    "2× Candy for catching Pokémon",
+                    "2× XP for catching Pokémon.",
+                    "3× Stardust for catching Pokémon.",
+                    "3× XP for catching Pokémon.",
+                    "4× Stardust for catching Pokémon.",
+                    "4× XP for catching Pokémon.",
+                    "5× Stardust for catching Pokémon.",
+                    "Increased chance to encounter Shiny Ducklett and Shiny Dewpider",
+                    "Rainy Lure Modules will attract Arrokuda"
+                ],
+                "features": [
+                    {
+                        "name": "Arrokuda",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0846_000_mf_n_00000000_f_n.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Barraskewda",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0847_000_mf_n_00000000_f_n.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Cramorant",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0845_000_mf_n_00000000_f_n.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Psyduck (Swim Ring)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm54.fSWIM_2025.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "spawns": [
+                    {
+                        "name": "Clamperl",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_366_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Feebas",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_349_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Goldeen",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_118_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mareanie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm747.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Psyduck",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_054_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Wiglett",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0960_000_mf_n_00000000_f_n.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Wimpod",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm767.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "raids": [
+                    {
+                        "name": "Dondozo",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm977.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Hisuian Samurott",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm503.fHISUIAN.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Psyduck (Swim Ring)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm54.fSWIM_2025.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Scarf Lapras",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm131.fCOSTUME_2020.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Tatsugiri (Curly)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm978.fCURLY.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Tatsugiri (Droopy)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm978.fDROOPY.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Tatsugiri (Stretchy)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm978.fSTRETCHY.icon.png",
+                        "shiny_available": false
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Araquanid",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm752.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Dewpider",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm751.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Ducklett",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_580_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Swanna",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_581_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-18T10:00:00",
+            "end_time": "2026-08-24T20:00:00",
+            "description": "Arrokuda and Cramorant splash into Pokémon GO during Ultra Unlock: Water Festival!\nThe Ultra Unlock: Water Festival event will take place from August 18, 2026 at 10 am to August 24, 2026 at 8 pm local time."
+        }
+    ],
     "Max Mondays": [
         {
             "title": "Dynamax Feebas during Max Monday",
@@ -1699,6 +1384,227 @@
             "start_time": "2026-07-27T06:00:00",
             "end_time": "2026-07-27T21:00:00",
             "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn July 27, 2026, the featured Dynamax Pokemon is Feebas.\n- Feebas"
+        }
+    ],
+    "GO Battle League": [
+        {
+            "title": "Great League, Ultra League, and Master League | Forever Forward",
+            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_ultra-league_master-league-split-2/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-27-forever-forward.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1784664000,
+            "end_time": 1785268800,
+            "description": "The Great League, Ultra League, and Master League will run from July 21, 2026, at 1:00 p.m. to July 28, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
+        },
+        {
+            "title": "Great League and Master Premier | Forever Forward",
+            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_master-premier/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1785268800,
+            "end_time": 1785873600,
+            "description": "The Great League and Master Premier will run from July 28, 2026, at 1:00 p.m. to August 4, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- No CP limit.\n- Mythical and Legendary Pokémon are not eligible."
+        },
+        {
+            "title": "Ultra League and Weather Cup: Great League Edition | Forever Forward",
+            "article_url": "https://leekduck.com/events/gbl-forever-forward_ultra-league_weather-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1785873600,
+            "end_time": 1786478400,
+            "description": "The Ultra League and Weather Cup: Great League Edition will run from August 4, 2026, at 1:00 p.m. to August 11, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Fire-, Water-, Ice-, and Rock-type Pokémon are eligible."
+        },
+        {
+            "title": "Master League and Evolution Cup: Great League Edition | Forever Forward",
+            "article_url": "https://leekduck.com/events/gbl-forever-forward_master-league_evolution-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1786478400,
+            "end_time": 1787083200,
+            "description": "The Master League and Evolution Cup: Great League Edition will run from August 11, 2026, at 1:00 p.m. to August 18, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Pokémon that have evolved at least once and can evolve again will be eligible."
+        },
+        {
+            "title": "Great League and Scroll Cup: Great League Edition | Forever Forward",
+            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_scroll-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1787083200,
+            "end_time": 1787688000,
+            "description": "The Great League and Scroll Cup: Great League Edition will run from August 18, 2026, at 1:00 p.m. to August 25, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Water-, Fighting-, and Dark-type Pokémon are eligible.\nThe following Pokémon will not be allowed.\n- Primarina"
+        },
+        {
+            "title": "Great League, Ultra League, and Master League | Forever Forward",
+            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_ultra-league_master-league-split-3/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-27-forever-forward.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1787688000,
+            "end_time": 1788292800,
+            "description": "The Great League, Ultra League, and Master League will run from August 25, 2026, at 1:00 p.m. to September 1, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
+        },
+        {
+            "title": "Great League, Ultra League, and Master League: Mega Edition | Forever Forward",
+            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_ultra-league_master-league-mega-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-27-forever-forward.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1788292800,
+            "end_time": 1788897600,
+            "description": "The Great League, Ultra League, and Master League: Mega Edition will run from September 1, 2026, at 1:00 p.m. to September 8, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
+        }
+    ],
+    "Raid Battles": [
+        {
+            "title": "Mega Salamence in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-salamence-in-mega-raids-july-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Mega Salamence",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm373.fMEGA.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Mega Salamence",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm373.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Salamence",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_373_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-22T06:00:00",
+            "end_time": "2026-07-28T22:00:00",
+            "description": "Mega Salamence will be in Mega Raids from July 22, 2026 at 6 am to July 28, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Solgaleo in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/solgaleo-in-5-star-raid-battles-july-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/solgaleo.jpg?v2",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Solgaleo",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm791.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Solgaleo",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm791.s.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-22T06:00:00",
+            "end_time": "2026-07-28T22:00:00",
+            "description": "Solgaleo will be in five-star raid battles from July 22, 2026 to July 28, 2026.\nThere will also be a Raid Hour featuring Solgaleo from 6:00 pm to 7:00 pm local time on the following date:\n- July 22"
+        },
+        {
+            "title": "Shadow Palkia in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-palkia-in-shadow-raids-july-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Palkia",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_484_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Palkia",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_484_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-01T06:00:00",
+            "end_time": "2026-08-04T22:00:00",
+            "description": "Shadow Palkia will appear in Pokemon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Palkia!\nShadow Palkia will appear in five-star Shadow Raids every weekend from July 1 to August 4."
+        },
+        {
+            "title": "Kyurem in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/kyurem-in-5-star-raid-battles-july-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/kyurem.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Kyurem",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_11.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Kyurem",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_11_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-29T06:00:00",
+            "end_time": "2026-08-04T22:00:00",
+            "description": "Kyurem will be in five-star raid battles from July 29, 2026 to August 4, 2026.\nThere will also be a Raid Hour featuring Kyurem from 6:00 pm to 7:00 pm local time on the following date:\n- July 29"
+        },
+        {
+            "title": "Mega Aggron in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-aggron-in-mega-raids-july-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Mega Aggron",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm306.fMEGA.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Aggron",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_306_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Aggron",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/ppm306.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-29T06:00:00",
+            "end_time": "2026-08-04T22:00:00",
+            "description": "Mega Aggron will be in Mega Raids from July 29, 2026 at 6 am to August 4, 2026 at 10 pm local time."
         }
     ],
     "Max Battles": [
