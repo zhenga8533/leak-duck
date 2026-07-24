@@ -1,44 +1,4 @@
 {
-    "Pokémon Spotlight Hour": [
-        {
-            "title": "Eevee Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-07-23/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    {
-                        "name": "Eevee",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_133_00.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-23T18:00:00",
-            "end_time": "2026-07-23T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday.\nJuly 23: The featured Pokémon is Eevee and the special bonus is 2× Catch Candy."
-        },
-        {
-            "title": "Bidoof Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-07-30/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    {
-                        "name": "Bidoof",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_399_00.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-30T18:00:00",
-            "end_time": "2026-07-30T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday.\nJuly 30: The featured Pokémon is Bidoof and the special bonus is 2× Transfer Candy."
-        }
-    ],
     "Pokémon GO Fest": [
         {
             "title": "GO Fest 2026 Sunday Raid Makeup",
@@ -2009,6 +1969,27 @@
             "start_time": "2026-09-02T18:00:00",
             "end_time": "2026-09-02T19:00:00",
             "description": "A Raid Hour featuring Regirock, Regice, and Registeel is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        }
+    ],
+    "Pokémon Spotlight Hour": [
+        {
+            "title": "Bidoof Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-07-30/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    {
+                        "name": "Bidoof",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_399_00.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-30T18:00:00",
+            "end_time": "2026-07-30T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday.\nJuly 30: The featured Pokémon is Bidoof and the special bonus is 2× Transfer Candy."
         }
     ],
     "Max Battles": [
