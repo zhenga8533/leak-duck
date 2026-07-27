@@ -3264,6 +3264,25 @@
             "start_time": "2026-07-21T10:00:00",
             "end_time": "2026-07-21T20:00:00",
             "description": "Wish Professor Willow a very happy birthday with Professor Willow’s assistant Pikachu!\nThe Happy Birthday, Professor Willow! event will take place on July 21, 2026 from 10 am to 8 pm."
+        },
+        {
+            "title": "Ozone Ascent - Rayquaza Timed Research",
+            "article_url": "https://leekduck.com/events/ozone-ascent-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-25-ozone-ascent-2026/ozone-ascent-2026.jpg",
+            "category": "Event",
+            "details": {
+                "features": [
+                    {
+                        "name": "Rayquaza",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_384_00.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-25T10:00:00",
+            "end_time": "2026-07-26T20:00:00",
+            "description": "Complete Timed Research to encounter Rayquaza and more!\nThe Ozone Ascent - Rayquaza Timed Research event will take place from July 25, 2026 at 10 am to July 26, 2026 at 8 pm."
         }
     ],
     "PokéStop Showcase": [
