@@ -1,4 +1,63 @@
 {
+    "Choose Your Path: Fairy Trail Tasks": [
+        {
+            "task": "Defeat a Team GO Rocket Grunt",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Morelull",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm755.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Impidimp",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm859.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Make 5 Nice Throws",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Morelull",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm755.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Impidimp",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm859.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Explore 1 km",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Morelull",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm755.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Impidimp",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm859.icon.png"
+                }
+            ]
+        }
+    ],
     "Ultra Unlock: 10th Anniversary Edition Tasks": [
         {
             "task": "Catch 5 Pokémon",
@@ -226,65 +285,6 @@
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fANNIVERSARY_2026.icon.png"
-                }
-            ]
-        }
-    ],
-    "Choose Your Path: Fairy Trail Tasks": [
-        {
-            "task": "Defeat a Team GO Rocket Grunt",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Morelull",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm755.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Impidimp",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm859.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Make 5 Nice Throws",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Morelull",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm755.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Impidimp",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm859.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Explore 1 km",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Morelull",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm755.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Impidimp",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm859.icon.png"
                 }
             ]
         }
