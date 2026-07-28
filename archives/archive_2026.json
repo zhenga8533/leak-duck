@@ -3283,6 +3283,343 @@
             "start_time": "2026-07-25T10:00:00",
             "end_time": "2026-07-26T20:00:00",
             "description": "Complete Timed Research to encounter Rayquaza and more!\nThe Ozone Ascent - Rayquaza Timed Research event will take place from July 25, 2026 at 10 am to July 26, 2026 at 8 pm."
+        },
+        {
+            "title": "Ultra Unlock: 10th Anniversary Edition",
+            "article_url": "https://leekduck.com/events/ultra-unlock-10th-anniversary-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-21-ultra-unlock-10th-anniversary-edition/ultra-unlock-10th-anniversary-edition.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "10× XP for catching Pokémon.",
+                    "2× Candy for catching Pokémon",
+                    "6× XP for catching Pokémon.",
+                    "8× XP for catching Pokémon.",
+                    "First partner Pokémon may have a team-specific Special Background!*",
+                    "GO Pass Deluxe: 3× Candy for catching Pokémon",
+                    "Increased chance of receiving Candy XL from catching Pokémon"
+                ],
+                "spawns": [
+                    {
+                        "name": "Beldum",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Bulbasaur",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_001_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Charmander",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Chespin",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_650_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Chikorita",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_152_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Chimchar",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_390_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Cyndaquil",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_155_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Dreepy",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm885.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Fennekin",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_653_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Froakie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_656_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Fuecoco",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm909.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Gible",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Grookey",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm810.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Litten",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm725.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mudkip",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_258_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Oshawott",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_501_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Piplup",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_393_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Popplio",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm728.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Quaxly",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm912.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Rowlet",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm722.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Scorbunny",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm813.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Snivy",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_495_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Sobble",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm816.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Sprigatito",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm906.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Squirtle",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_007_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Tepig",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_498_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Torchic",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_255_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Totodile",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_158_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Treecko",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_252_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Turtwig",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_387_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "raids": [
+                    {
+                        "name": "Party Hat Gengar",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_00_11.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Party Hat Grimer",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm88.cANNIVERSARY_2024.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Party Hat Nidorino",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_033_00_11.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Party Hat Raticate",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_020_00_11.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Party Hat Wobbuffet",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_202_00_11.png",
+                        "shiny_available": true
+                    }
+                ],
+                "moves": [
+                    {
+                        "name": "Blastoise",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_009_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Blaziken",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_257_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Charizard",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Chesnaught",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_652_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Cinderace",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm815.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Decidueye",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm724.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Delphox",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_655_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Emboar",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_500_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Empoleon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_395_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Feraligatr",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_160_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Greninja",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_658_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Incineroar",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm727.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Infernape",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_392_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Inteleon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm818.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Meganium",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_154_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Meowscarada",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm908.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Primarina",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm730.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Quaquaval",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm914.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Rillaboom",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm812.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Samurott",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_503_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Sceptile",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_254_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Serperior",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_497_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Skeledirge",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm911.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Swampert",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_260_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Torterra",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_389_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Typhlosion",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_157_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Venusaur",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_003_00.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-07-21T10:00:00",
+            "end_time": "2026-07-27T20:00:00",
+            "description": "First partner and costumed Pokémon galore in Ultra Unlock: 10th Anniversary Edition!\nThe Ultra Unlock: 10th Anniversary Edition event will take place from July 21, 2026 at 10 am to July 27, 2026 at 8 pm."
         }
     ],
     "PokéStop Showcase": [
