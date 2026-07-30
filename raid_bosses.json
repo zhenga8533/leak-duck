@@ -147,21 +147,20 @@
     ],
     "Mega Raids": [
         {
-            "name": "Mega Salamence",
+            "name": "Mega Aggron",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm373.fMEGA.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm306.fMEGA.icon.png",
             "tier": "Mega Raids",
             "cp_range": {
-                "min": 2054,
-                "max": 2142
+                "min": 1636,
+                "max": 1714
             },
             "boosted_cp_range": {
-                "min": 2568,
-                "max": 2678
+                "min": 2045,
+                "max": 2143
             },
             "types": [
-                "Dragon",
-                "Flying"
+                "Steel"
             ]
         }
     ]
