@@ -1,65 +1,4 @@
 {
-    "Pokémon Spotlight Hour": [
-        {
-            "title": "Bidoof Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-07-30/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    {
-                        "name": "Bidoof",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_399_00.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-30T18:00:00",
-            "end_time": "2026-07-30T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday.\nJuly 30: The featured Pokémon is Bidoof and the special bonus is 2× Transfer Candy."
-        }
-    ],
-    "Max Battles": [
-        {
-            "title": "Gigantamax Rillaboom Max Battle Day",
-            "article_url": "https://leekduck.com/events/gigantamax-rillaboom-max-battle-day-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-01-gigantamax-rillaboom-max-battle-day-2026/gigantamax-rillaboom-max-battle-day.jpg",
-            "category": "Max Battles",
-            "details": {
-                "bonuses": [
-                    "1/4 Adventuring distance to receive Max Particles*",
-                    "2× Max Particles from exploring*",
-                    "2× XP from Max Battles",
-                    "8× Max Particles from Power Spots",
-                    "Additional Power Spots will be active",
-                    "All Power Spots will host Gigantamax Battles",
-                    "From July 31 at 5:00 p.m. to August 1 at 8:00 p.m. PDT (GMT −7), the daily Remote Raid limit will increase from 10 to 20",
-                    "Max Particle collection limit increased to 1,600",
-                    "Power Spots will refresh more frequently",
-                    "Up to three Special Trades for the day"
-                ],
-                "features": [
-                    {
-                        "name": "Gigantamax Rillaboom",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0812_000_mf_g_00000000_f_n.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Gigantamax Rillaboom",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm812.fGIGANTAMAX.s.icon.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-01T14:00:00",
-            "end_time": "2026-08-01T17:00:00",
-            "description": "The Gigantamax Rillaboom Max Battle Day event will take place on August 1, 2026 from 2 pm to 5 pm local time."
-        }
-    ],
     "Choose Your Path": [
         {
             "title": "Choose Your Path: Fairy Trail",
@@ -1031,6 +970,32 @@
             "start_time": "2026-08-25T10:00:00",
             "end_time": "2026-08-30T20:00:00",
             "description": "The Pokémon XP & 2026 Worlds event will take place from August 25, 2026 at 10 am to August 30, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "LEGO Stores and Pokémon GO",
+            "article_url": "https://leekduck.com/events/lego-pokemon-go-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-03-lego-pokemon-go-2026/lego-pokemon-go-2026.jpg",
+            "category": "Event",
+            "details": {
+                "features": [
+                    {
+                        "name": "Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "raids": [
+                    {
+                        "name": "Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-03T10:00:00",
+            "end_time": "2026-09-30T23:59:00",
+            "description": "The Pokémon GO and LEGO Group partnership continues for Trainers in the US, UK, Poland, France, Germany, and Australia! Visit participating LEGO Store locations for raids, a LEGO-themed stamp rally, event stickers, and LEGO Pokémon SMART Play.\nThe LEGO Stores and Pokémon GO event will take place from August 3, 2026 at 10 am to September 30, 2026 at 11 pm."
         }
     ],
     "Community Day": [
