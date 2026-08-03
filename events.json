@@ -806,8 +806,23 @@
                         "shiny_available": true
                     },
                     {
+                        "name": "Cubchoo",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_613_00.png",
+                        "shiny_available": true
+                    },
+                    {
                         "name": "Growlithe",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_058_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Litleo",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_667_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Litwick",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_607_00.png",
                         "shiny_available": true
                     },
                     {
