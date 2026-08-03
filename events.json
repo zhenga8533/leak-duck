@@ -873,6 +873,11 @@
                         "shiny_available": true
                     },
                     {
+                        "name": "Larvesta",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.icon.png",
+                        "shiny_available": true
+                    },
+                    {
                         "name": "Sizzlipede",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png",
                         "shiny_available": true
