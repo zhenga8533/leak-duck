@@ -1077,6 +1077,12 @@
                         "shiny_available": true
                     }
                 ],
+                "bonuses": [
+                    "Nanab Berry ×5",
+                    "Pinap Berry ×5",
+                    "Poké Ball ×10",
+                    "Razz Berry ×5"
+                ],
                 "raids": [
                     {
                         "name": "Pikachu",
