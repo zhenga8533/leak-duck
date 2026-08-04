@@ -1,94 +1,4 @@
 {
-    "Choose Your Path": [
-        {
-            "title": "Choose Your Path: Fairy Trail",
-            "article_url": "https://leekduck.com/events/choose-your-path-fairy-trail-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/choose-your-path-evergreen.jpg",
-            "category": "Choose Your Path",
-            "details": {
-                "bonuses": [
-                    "Battle (Raids): An additional 5,000 XP for completing raids",
-                    "Battle (Team GO Rocket): Extra Mysterious Components from Team GO Rocket Grunts",
-                    "Catch (Candy): Additional Candy for catching Pokémon with Nice Throws or better",
-                    "Catch (XP): 1.5× XP for catching Pokémon with Nice Throws or better",
-                    "Explore (Hatch): 1/2 Egg Hatch Distance bonus",
-                    "Explore (PokéStops): 5× XP for spinning PokéStops"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-28T10:00:00",
-            "end_time": "2026-08-03T20:00:00",
-            "description": "Choose Your Path Timed Research is a new way to play during non-event weeks, giving you the freedom to explore Pokémon GO your way!\nDuring a Choose Your Path Timed Research week, you’ll be able to select one of three paths: Explore, Catch, or Battle. Your choice will shape the Timed Research tasks and bonuses throughout the week.\nYou may have different research opportunities than other Trainers."
-        },
-        {
-            "title": "Choose Your Path: Venom and Vines",
-            "article_url": "https://leekduck.com/events/choose-your-path-venom-and-vines-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/choose-your-path-evergreen.jpg",
-            "category": "Choose Your Path",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-08-11T10:00:00",
-            "end_time": "2026-08-17T20:00:00",
-            "description": "Choose Your Path Timed Research is a new way to play during non-event weeks, giving you the freedom to explore Pokémon GO your way!\nDuring a Choose Your Path Timed Research week, you’ll be able to select one of three paths: Explore, Catch, or Battle. Your choice will shape the Timed Research tasks and bonuses throughout the week.\nYou may have different research opportunities than other Trainers."
-        }
-    ],
-    "Max Mondays": [
-        {
-            "title": "Dynamax Magmar during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-08-03/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-08-03T06:00:00",
-            "end_time": "2026-08-03T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn August 3, 2026, the featured Dynamax Pokemon is Magmar.\n- Magmar"
-        },
-        {
-            "title": "Dynamax Beldum during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-08-10/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-08-10T06:00:00",
-            "end_time": "2026-08-10T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn August 10, 2026, the featured Dynamax Pokemon is Beldum.\n- Beldum"
-        },
-        {
-            "title": "Dynamax Magikarp during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-08-17/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-08-17T06:00:00",
-            "end_time": "2026-08-17T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn August 17, 2026, the featured Dynamax Pokemon is Magikarp.\n- Magikarp"
-        },
-        {
-            "title": "Dynamax Hitmontop during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-08-24/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-08-24T06:00:00",
-            "end_time": "2026-08-24T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn August 24, 2026, the featured Dynamax Pokemon is Hitmontop.\n- Hitmontop"
-        },
-        {
-            "title": "Dynamax Eevee during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-08-31/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-08-31T06:00:00",
-            "end_time": "2026-08-31T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn August 31, 2026, the featured Dynamax Pokemon is Eevee.\n- Eevee"
-        }
-    ],
     "GO Pass": [
         {
             "title": "GO Pass: July",
@@ -1117,6 +1027,52 @@
             "description": "The Pokémon GO and LEGO Group partnership continues for Trainers in the US, UK, Poland, France, Germany, and Australia! Visit participating LEGO Store locations for raids, a LEGO-themed stamp rally, event stickers, and LEGO Pokémon SMART Play.\nThe LEGO Stores and Pokémon GO event will take place from August 3, 2026 at 10 am to September 30, 2026 at 11 pm."
         }
     ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Beldum during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-08-10/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-08-10T06:00:00",
+            "end_time": "2026-08-10T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn August 10, 2026, the featured Dynamax Pokemon is Beldum.\n- Beldum"
+        },
+        {
+            "title": "Dynamax Magikarp during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-08-17/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-08-17T06:00:00",
+            "end_time": "2026-08-17T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn August 17, 2026, the featured Dynamax Pokemon is Magikarp.\n- Magikarp"
+        },
+        {
+            "title": "Dynamax Hitmontop during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-08-24/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-08-24T06:00:00",
+            "end_time": "2026-08-24T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn August 24, 2026, the featured Dynamax Pokemon is Hitmontop.\n- Hitmontop"
+        },
+        {
+            "title": "Dynamax Eevee during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-08-31/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-08-31T06:00:00",
+            "end_time": "2026-08-31T21:00:00",
+            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn August 31, 2026, the featured Dynamax Pokemon is Eevee.\n- Eevee"
+        }
+    ],
     "Community Day": [
         {
             "title": "Nickit Community Day",
@@ -1165,6 +1121,19 @@
             "start_time": "2026-08-16T14:00:00",
             "end_time": "2026-08-16T17:00:00",
             "description": "Nickit, the Fox Pokémon, will be featured during August Community Day!"
+        }
+    ],
+    "Choose Your Path": [
+        {
+            "title": "Choose Your Path: Venom and Vines",
+            "article_url": "https://leekduck.com/events/choose-your-path-venom-and-vines-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/choose-your-path-evergreen.jpg",
+            "category": "Choose Your Path",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-08-11T10:00:00",
+            "end_time": "2026-08-17T20:00:00",
+            "description": "Choose Your Path Timed Research is a new way to play during non-event weeks, giving you the freedom to explore Pokémon GO your way!\nDuring a Choose Your Path Timed Research week, you’ll be able to select one of three paths: Explore, Catch, or Battle. Your choice will shape the Timed Research tasks and bonuses throughout the week.\nYou may have different research opportunities than other Trainers."
         }
     ],
     "Raid Day": [
