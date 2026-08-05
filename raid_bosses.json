@@ -1,166 +1,167 @@
 {
     "1-Star Raids": [
         {
-            "name": "Shadow Phanpy",
+            "name": "Shadow Slowpoke",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm231.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm79.icon.png",
             "tier": 1,
             "cp_range": {
-                "min": 600,
-                "max": 689
+                "min": 610,
+                "max": 700
             },
             "boosted_cp_range": {
-                "min": 750,
-                "max": 862
+                "min": 763,
+                "max": 876
             },
             "types": [
-                "Ground"
+                "Water",
+                "Psychic"
             ]
         },
         {
-            "name": "Shadow Ralts",
+            "name": "Shadow Aipom",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm280.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm190.icon.png",
             "tier": 1,
             "cp_range": {
-                "min": 250,
-                "max": 308
+                "min": 678,
+                "max": 770
             },
             "boosted_cp_range": {
-                "min": 313,
-                "max": 385
+                "min": 848,
+                "max": 963
             },
             "types": [
-                "Psychic",
-                "Fairy"
+                "Normal"
             ]
         },
         {
-            "name": "Shadow Darumaka",
+            "name": "Shadow Croagunk",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm554.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm453.icon.png",
             "tier": 1,
             "cp_range": {
-                "min": 726,
-                "max": 823
+                "min": 466,
+                "max": 544
             },
             "boosted_cp_range": {
-                "min": 907,
-                "max": 1030
+                "min": 583,
+                "max": 680
             },
             "types": [
-                "Fire"
-            ]
-        },
-        {
-            "name": "Shadow Mankey",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm56.icon.png",
-            "tier": 1,
-            "cp_range": {
-                "min": 578,
-                "max": 665
-            },
-            "boosted_cp_range": {
-                "min": 723,
-                "max": 832
-            },
-            "types": [
+                "Poison",
                 "Fighting"
+            ]
+        },
+        {
+            "name": "Shadow Grubbin",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm736.icon.png",
+            "tier": 1,
+            "cp_range": {
+                "min": 483,
+                "max": 562
+            },
+            "boosted_cp_range": {
+                "min": 604,
+                "max": 703
+            },
+            "types": [
+                "Bug"
             ]
         }
     ],
     "3-Star Raids": [
         {
-            "name": "Shadow Scyther",
+            "name": "Shadow Snorlax",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm123.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm143.icon.png",
             "tier": 3,
             "cp_range": {
-                "min": 1414,
-                "max": 1546
+                "min": 1696,
+                "max": 1843
             },
             "boosted_cp_range": {
-                "min": 1768,
-                "max": 1933
+                "min": 2120,
+                "max": 2304
             },
             "types": [
-                "Bug",
-                "Flying"
+                "Normal"
             ]
         },
         {
-            "name": "Shadow Hitmonchan",
+            "name": "Shadow Hitmontop",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm107.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm237.icon.png",
             "tier": 3,
             "cp_range": {
-                "min": 1210,
-                "max": 1332
+                "min": 1114,
+                "max": 1232
             },
             "boosted_cp_range": {
-                "min": 1512,
-                "max": 1665
+                "min": 1393,
+                "max": 1540
             },
             "types": [
                 "Fighting"
             ]
         },
         {
-            "name": "Shadow Graveler",
+            "name": "Shadow Lampent",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm75.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm608.icon.png",
             "tier": 3,
             "cp_range": {
-                "min": 975,
-                "max": 1084
+                "min": 871,
+                "max": 976
             },
             "boosted_cp_range": {
-                "min": 1219,
-                "max": 1355
+                "min": 1089,
+                "max": 1220
             },
             "types": [
-                "Rock",
-                "Ground"
+                "Ghost",
+                "Fire"
             ]
         }
     ],
     "5-Star Raids": [
         {
-            "name": "Shadow Palkia",
+            "name": "Shadow Giratina (Altered)",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm484.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm487.fALTERED.icon.png",
             "tier": 5,
             "cp_range": {
-                "min": 2118,
-                "max": 2280
+                "min": 1782,
+                "max": 1931
             },
             "boosted_cp_range": {
-                "min": 2648,
-                "max": 2850
+                "min": 2228,
+                "max": 2414
             },
             "types": [
-                "Water",
+                "Ghost",
                 "Dragon"
             ]
         }
     ],
     "Mega Raids": [
         {
-            "name": "Mega Aggron",
+            "name": "Mega Blaziken",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm306.fMEGA.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm257.fMEGA.icon.png",
             "tier": "Mega Raids",
             "cp_range": {
-                "min": 1636,
-                "max": 1714
+                "min": 1550,
+                "max": 1627
             },
             "boosted_cp_range": {
-                "min": 2045,
-                "max": 2143
+                "min": 1938,
+                "max": 2034
             },
             "types": [
-                "Steel"
+                "Fire",
+                "Fighting"
             ]
         }
     ]

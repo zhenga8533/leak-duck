@@ -1,502 +1,4 @@
 {
-    "GO Pass": [
-        {
-            "title": "GO Pass: July",
-            "article_url": "https://leekduck.com/events/go-pass-july-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-07-07-go-pass-july-2026/go-pass-july-2026.jpg",
-            "category": "GO Pass",
-            "details": {
-                "bonuses": [
-                    "2× Daily Adventure Incense duration",
-                    "Hold 10 more Gifts in your Item Bag",
-                    "Hold up to 20 more Gifts in your Item Bag",
-                    "Increased XP and Stardust from hatching Eggs",
-                    "One additional Candy for trading Pokémon",
-                    "Open up to 40 Gifts per day",
-                    "Open up to 50 Gifts per day",
-                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
-                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs",
-                    "Trainers level 31 and above will receive one guaranteed Candy XL when trading Pokémon"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-07T10:00:00",
-            "end_time": "2026-08-04T10:00:00",
-            "description": "The Pokémon GO 10th Anniversary Celebration continues with GO Pass: July! Ho-Oh, Gimmighoul holding a 10th anniversary coin, and more await.\nFrom Tuesday, July 7, at 10:00 a.m. to Tuesday, August 4, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for July will be available in Pokémon GO!"
-        },
-        {
-            "title": "GO Pass: August",
-            "article_url": "https://leekduck.com/events/go-pass-august-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-04-go-pass-august-2026/go-pass-august-2026.jpg",
-            "category": "GO Pass",
-            "details": {
-                "bonuses": [
-                    "2× Daily Adventure Incense duration",
-                    "Hold 10 more Gifts in your Item Bag",
-                    "Hold up to 20 more Gifts in your Item Bag",
-                    "Increased XP and Stardust from hatching Eggs",
-                    "One additional Candy for trading Pokémon",
-                    "One single-use Incubator awarded for your first PokéStop or Gym spin of the day",
-                    "Open up to 40 Gifts per day",
-                    "Open up to 50 Gifts per day",
-                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
-                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs",
-                    "Trainers level 31 and above will receive one guaranteed Candy XL when trading Pokémon"
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-04T10:00:00",
-            "end_time": "2026-09-08T10:00:00",
-            "description": "The Lucky Trinket returns and Latias soars into GO Pass: August!\nThe GO Pass and GO Pass Deluxe for August will be available from August 4, 2026 at 10:00 am to September 8, 2026 at 10:00 am local time."
-        }
-    ],
-    "GO Battle League": [
-        {
-            "title": "Great League and Master Premier | Forever Forward",
-            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_master-premier/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1785268800,
-            "end_time": 1785873600,
-            "description": "The Great League and Master Premier will run from July 28, 2026, at 1:00 p.m. to August 4, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- No CP limit.\n- Mythical and Legendary Pokémon are not eligible."
-        },
-        {
-            "title": "Ultra League and Weather Cup: Great League Edition | Forever Forward",
-            "article_url": "https://leekduck.com/events/gbl-forever-forward_ultra-league_weather-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1785873600,
-            "end_time": 1786478400,
-            "description": "The Ultra League and Weather Cup: Great League Edition will run from August 4, 2026, at 1:00 p.m. to August 11, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Fire-, Water-, Ice-, and Rock-type Pokémon are eligible."
-        },
-        {
-            "title": "Master League and Evolution Cup: Great League Edition | Forever Forward",
-            "article_url": "https://leekduck.com/events/gbl-forever-forward_master-league_evolution-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1786478400,
-            "end_time": 1787083200,
-            "description": "The Master League and Evolution Cup: Great League Edition will run from August 11, 2026, at 1:00 p.m. to August 18, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Pokémon that have evolved at least once and can evolve again will be eligible."
-        },
-        {
-            "title": "Great League and Scroll Cup: Great League Edition | Forever Forward",
-            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_scroll-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1787083200,
-            "end_time": 1787688000,
-            "description": "The Great League and Scroll Cup: Great League Edition will run from August 18, 2026, at 1:00 p.m. to August 25, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Water-, Fighting-, and Dark-type Pokémon are eligible.\nThe following Pokémon will not be allowed.\n- Primarina"
-        },
-        {
-            "title": "Great League, Ultra League, and Master League | Forever Forward",
-            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_ultra-league_master-league-split-3/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-27-forever-forward.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1787688000,
-            "end_time": 1788292800,
-            "description": "The Great League, Ultra League, and Master League will run from August 25, 2026, at 1:00 p.m. to September 1, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
-        },
-        {
-            "title": "Great League, Ultra League, and Master League: Mega Edition | Forever Forward",
-            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_ultra-league_master-league-mega-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-27-forever-forward.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1788292800,
-            "end_time": 1788897600,
-            "description": "The Great League, Ultra League, and Master League: Mega Edition will run from September 1, 2026, at 1:00 p.m. to September 8, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
-        }
-    ],
-    "Raid Battles": [
-        {
-            "title": "Shadow Palkia in Shadow Raids",
-            "article_url": "https://leekduck.com/events/shadow-palkia-in-shadow-raids-july-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Palkia",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_484_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Palkia",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_484_00_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-01T06:00:00",
-            "end_time": "2026-08-04T22:00:00",
-            "description": "Shadow Palkia will appear in Pokemon GO in Shadow Raids. If you’re lucky you’ll be able to encounter Shiny Shadow Palkia!\nShadow Palkia will appear in five-star Shadow Raids every weekend from July 1 to August 4."
-        },
-        {
-            "title": "Kyurem in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/kyurem-in-5-star-raid-battles-july-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/kyurem.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Kyurem",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_11.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Kyurem",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_646_11_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-29T06:00:00",
-            "end_time": "2026-08-04T22:00:00",
-            "description": "Kyurem will be in five-star raid battles from July 29, 2026 to August 4, 2026.\nThere will also be a Raid Hour featuring Kyurem from 6:00 pm to 7:00 pm local time on the following date:\n- July 29"
-        },
-        {
-            "title": "Mega Aggron in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-aggron-in-mega-raids-july-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Mega Aggron",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm306.fMEGA.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Aggron",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_306_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Mega Aggron",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/ppm306.fMEGA.s.icon.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-07-29T06:00:00",
-            "end_time": "2026-08-04T22:00:00",
-            "description": "Mega Aggron will be in Mega Raids from July 29, 2026 at 6 am to August 4, 2026 at 10 pm local time."
-        },
-        {
-            "title": "Mega Blaziken in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-blaziken-in-mega-raids-august-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Mega Blaziken",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm257.fMEGA.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Blaziken",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_257_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Mega Blaziken",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm257.fMEGA.icon.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-05T06:00:00",
-            "end_time": "2026-08-11T22:00:00",
-            "description": "Mega Blaziken will be in Mega Raids from August 5, 2026 at 6 am to August 11, 2026 at 10 pm local time."
-        },
-        {
-            "title": "Uxie, Mesprit, and Azelf in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/uxie-mesprit-azelf-in-5-star-raid-battles-august-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Azelf",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_482_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Mesprit",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_481_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Uxie",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_480_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Azelf",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_482_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Mesprit",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_481_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Uxie",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_480_00_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-05T06:00:00",
-            "end_time": "2026-08-11T22:00:00",
-            "description": "Uxie, Mesprit, and Azelf will be in five-star raid battles from August 5, 2026 to August 11, 2026.\nThere will also be a Raid Hour featuring Uxie, Mesprit, and Azelf from 6:00 pm to 7:00 pm local time on the following date:\n- August 5\nAs a reminder, these are the regions that Uxie, Mesprit, and Azelf are available in:\nUxie is available in the Asia-Pacific region. Mesprit is available in Europe, the Middle East, Africa, and India. Azelf is available in the Americas and Greenland."
-        },
-        {
-            "title": "Groudon in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/groudon-in-5-star-raid-battles-august-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Groudon",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_383_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Groudon",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_383_00_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-12T06:00:00",
-            "end_time": "2026-08-18T22:00:00",
-            "description": "Groudon will be in five-star raid battles from August 12, 2026 to August 18, 2026.\nThere will also be a Raid Hour featuring Groudon from 6:00 pm to 7:00 pm local time on the following date:\n- August 12"
-        },
-        {
-            "title": "Mega Garchomp in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-garchomp-in-mega-raids-august-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Mega Garchomp",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm445.fMEGA.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Garchomp",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_445_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Mega Garchomp",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm445.fMEGA.s.icon.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-12T06:00:00",
-            "end_time": "2026-08-18T22:00:00",
-            "description": "Mega Garchomp will be in Mega Raids from August 12, 2026 at 6 am to August 18, 2026 at 10 pm local time."
-        },
-        {
-            "title": "Lunala in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/lunala-in-5-star-raid-battles-august-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Lunala",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm792.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Lunala",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm792.s.icon.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-19T06:00:00",
-            "end_time": "2026-08-25T22:00:00",
-            "description": "Lunala will be in five-star raid battles from August 19, 2026 to August 25, 2026.\nThere will also be a Raid Hour featuring Lunala from 6:00 pm to 7:00 pm local time on the following date:\n- August 19"
-        },
-        {
-            "title": "Mega Swampert in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-swampert-in-mega-raids-august-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Mega Swampert",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm260.fMEGA.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Mega Swampert",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm260.fMEGA.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Swampert",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_260_00_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-19T06:00:00",
-            "end_time": "2026-08-25T22:00:00",
-            "description": "Mega Swampert will be in Mega Raids from August 19, 2026 at 6 am to August 25, 2026 at 10 pm local time."
-        },
-        {
-            "title": "Shadow Giratina (Altered Forme) in Shadow Raids",
-            "article_url": "https://leekduck.com/events/shadow-giratina-altered-in-shadow-raids-august-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Giratina (Altered)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_11.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Giratina (Altered)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_11_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-05T06:00:00",
-            "end_time": "2026-09-08T22:00:00",
-            "description": "Shadow Giratina (Altered Forme) will make its Shadow Raid debut in Pokémon GO! If you’re lucky you’ll be able to encounter Shiny Shadow Giratina (Altered Forme)!\nShadow Giratina (Altered Forme) will appear in five-star Shadow Raids every weekend from August 5 to September 8."
-        },
-        {
-            "title": "Mega Gyarados in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-gyarados-in-mega-raids-august-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Mega Gyarados",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_51.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Gyarados",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Mega Gyarados",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_51_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-26T06:00:00",
-            "end_time": "2026-09-08T22:00:00",
-            "description": "Mega Gyarados will be in Mega Raids from August 26, 2026 at 6 am to September 8, 2026 at 10 pm local time."
-        },
-        {
-            "title": "Regirock, Regice, and Registeel in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/regirock-regice-registeel-in-5-star-raid-battles-august-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Regice",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_378_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Regirock",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_377_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Registeel",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_379_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Regice",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_378_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Regirock",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_377_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Registeel",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_379_00_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-26T06:00:00",
-            "end_time": "2026-09-08T22:00:00",
-            "description": "Regirock, Regice, and Registeel will be in five-star raid battles from August 26, 2026 to September 8, 2026.\nThere will also be a Raid Hour featuring Regirock, Regice, and Registeel from 6:00 pm to 7:00 pm local time on the following dates:\n- August 26\n- September 2"
-        }
-    ],
     "Raid Hour": [
         {
             "title": "Uxie, Mesprit, and Azelf Raid Hour",
@@ -1073,6 +575,359 @@
             "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn August 31, 2026, the featured Dynamax Pokemon is Eevee.\n- Eevee"
         }
     ],
+    "GO Battle League": [
+        {
+            "title": "Ultra League and Weather Cup: Great League Edition | Forever Forward",
+            "article_url": "https://leekduck.com/events/gbl-forever-forward_ultra-league_weather-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1785873600,
+            "end_time": 1786478400,
+            "description": "The Ultra League and Weather Cup: Great League Edition will run from August 4, 2026, at 1:00 p.m. to August 11, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 2,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Fire-, Water-, Ice-, and Rock-type Pokémon are eligible."
+        },
+        {
+            "title": "Master League and Evolution Cup: Great League Edition | Forever Forward",
+            "article_url": "https://leekduck.com/events/gbl-forever-forward_master-league_evolution-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1786478400,
+            "end_time": 1787083200,
+            "description": "The Master League and Evolution Cup: Great League Edition will run from August 11, 2026, at 1:00 p.m. to August 18, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Pokémon that have evolved at least once and can evolve again will be eligible."
+        },
+        {
+            "title": "Great League and Scroll Cup: Great League Edition | Forever Forward",
+            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_scroll-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1787083200,
+            "end_time": 1787688000,
+            "description": "The Great League and Scroll Cup: Great League Edition will run from August 18, 2026, at 1:00 p.m. to August 25, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Water-, Fighting-, and Dark-type Pokémon are eligible.\nThe following Pokémon will not be allowed.\n- Primarina"
+        },
+        {
+            "title": "Great League, Ultra League, and Master League | Forever Forward",
+            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_ultra-league_master-league-split-3/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-27-forever-forward.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1787688000,
+            "end_time": 1788292800,
+            "description": "The Great League, Ultra League, and Master League will run from August 25, 2026, at 1:00 p.m. to September 1, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
+        },
+        {
+            "title": "Great League, Ultra League, and Master League: Mega Edition | Forever Forward",
+            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_ultra-league_master-league-mega-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-27-forever-forward.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1788292800,
+            "end_time": 1788897600,
+            "description": "The Great League, Ultra League, and Master League: Mega Edition will run from September 1, 2026, at 1:00 p.m. to September 8, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
+        }
+    ],
+    "Raid Battles": [
+        {
+            "title": "Mega Blaziken in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-blaziken-in-mega-raids-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Mega Blaziken",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm257.fMEGA.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Blaziken",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_257_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Blaziken",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm257.fMEGA.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-05T06:00:00",
+            "end_time": "2026-08-11T22:00:00",
+            "description": "Mega Blaziken will be in Mega Raids from August 5, 2026 at 6 am to August 11, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Uxie, Mesprit, and Azelf in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/uxie-mesprit-azelf-in-5-star-raid-battles-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Azelf",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_482_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mesprit",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_481_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Uxie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_480_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Azelf",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_482_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mesprit",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_481_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Uxie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_480_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-05T06:00:00",
+            "end_time": "2026-08-11T22:00:00",
+            "description": "Uxie, Mesprit, and Azelf will be in five-star raid battles from August 5, 2026 to August 11, 2026.\nThere will also be a Raid Hour featuring Uxie, Mesprit, and Azelf from 6:00 pm to 7:00 pm local time on the following date:\n- August 5\nAs a reminder, these are the regions that Uxie, Mesprit, and Azelf are available in:\nUxie is available in the Asia-Pacific region. Mesprit is available in Europe, the Middle East, Africa, and India. Azelf is available in the Americas and Greenland."
+        },
+        {
+            "title": "Groudon in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/groudon-in-5-star-raid-battles-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Groudon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_383_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Groudon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_383_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-12T06:00:00",
+            "end_time": "2026-08-18T22:00:00",
+            "description": "Groudon will be in five-star raid battles from August 12, 2026 to August 18, 2026.\nThere will also be a Raid Hour featuring Groudon from 6:00 pm to 7:00 pm local time on the following date:\n- August 12"
+        },
+        {
+            "title": "Mega Garchomp in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-garchomp-in-mega-raids-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Mega Garchomp",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm445.fMEGA.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Garchomp",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_445_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Garchomp",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm445.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-12T06:00:00",
+            "end_time": "2026-08-18T22:00:00",
+            "description": "Mega Garchomp will be in Mega Raids from August 12, 2026 at 6 am to August 18, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Lunala in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/lunala-in-5-star-raid-battles-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Lunala",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm792.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Lunala",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm792.s.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-19T06:00:00",
+            "end_time": "2026-08-25T22:00:00",
+            "description": "Lunala will be in five-star raid battles from August 19, 2026 to August 25, 2026.\nThere will also be a Raid Hour featuring Lunala from 6:00 pm to 7:00 pm local time on the following date:\n- August 19"
+        },
+        {
+            "title": "Mega Swampert in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-swampert-in-mega-raids-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Mega Swampert",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm260.fMEGA.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Mega Swampert",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm260.fMEGA.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Swampert",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_260_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-19T06:00:00",
+            "end_time": "2026-08-25T22:00:00",
+            "description": "Mega Swampert will be in Mega Raids from August 19, 2026 at 6 am to August 25, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Shadow Giratina (Altered Forme) in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-giratina-altered-in-shadow-raids-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Giratina (Altered)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_11.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Giratina (Altered)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_11_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-05T06:00:00",
+            "end_time": "2026-09-08T22:00:00",
+            "description": "Shadow Giratina (Altered Forme) will make its Shadow Raid debut in Pokémon GO! If you’re lucky you’ll be able to encounter Shiny Shadow Giratina (Altered Forme)!\nShadow Giratina (Altered Forme) will appear in five-star Shadow Raids every weekend from August 5 to September 8."
+        },
+        {
+            "title": "Mega Gyarados in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-gyarados-in-mega-raids-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Mega Gyarados",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_51.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Gyarados",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Gyarados",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_51_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-26T06:00:00",
+            "end_time": "2026-09-08T22:00:00",
+            "description": "Mega Gyarados will be in Mega Raids from August 26, 2026 at 6 am to September 8, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Regirock, Regice, and Registeel in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/regirock-regice-registeel-in-5-star-raid-battles-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Regice",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_378_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Regirock",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_377_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Registeel",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_379_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Regice",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_378_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Regirock",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_377_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Registeel",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_379_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-26T06:00:00",
+            "end_time": "2026-09-08T22:00:00",
+            "description": "Regirock, Regice, and Registeel will be in five-star raid battles from August 26, 2026 to September 8, 2026.\nThere will also be a Raid Hour featuring Regirock, Regice, and Registeel from 6:00 pm to 7:00 pm local time on the following dates:\n- August 26\n- September 2"
+        }
+    ],
     "Community Day": [
         {
             "title": "Nickit Community Day",
@@ -1452,6 +1307,33 @@
             "start_time": "2026-06-02T10:00:00",
             "end_time": "2026-09-08T10:00:00",
             "description": "Welcome to Pokémon GO: Forever Forward!\nIn Pokémon GO, Seasons are periods of time that feature new events, Pokémon debuts, and surprises that all follow a certain theme. As the Seasons change, you may find different Pokémon appearing in your area and hatching from Eggs. Make sure to explore during each in-game Season to collect and train as many different Pokémon as you can! You’ll also enjoy special bonuses as you do."
+        }
+    ],
+    "GO Pass": [
+        {
+            "title": "GO Pass: August",
+            "article_url": "https://leekduck.com/events/go-pass-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-04-go-pass-august-2026/go-pass-august-2026.jpg",
+            "category": "GO Pass",
+            "details": {
+                "bonuses": [
+                    "2× Daily Adventure Incense duration",
+                    "Hold 10 more Gifts in your Item Bag",
+                    "Hold up to 20 more Gifts in your Item Bag",
+                    "Increased XP and Stardust from hatching Eggs",
+                    "One additional Candy for trading Pokémon",
+                    "One single-use Incubator awarded for your first PokéStop or Gym spin of the day",
+                    "Open up to 40 Gifts per day",
+                    "Open up to 50 Gifts per day",
+                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Trainers level 31 and above will receive one guaranteed Candy XL when trading Pokémon"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-04T10:00:00",
+            "end_time": "2026-09-08T10:00:00",
+            "description": "The Lucky Trinket returns and Latias soars into GO Pass: August!\nThe GO Pass and GO Pass Deluxe for August will be available from August 4, 2026 at 10:00 am to September 8, 2026 at 10:00 am local time."
         }
     ]
 }
