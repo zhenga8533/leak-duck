@@ -3760,6 +3760,53 @@
             "start_time": "2026-07-21T10:00:00",
             "end_time": "2026-07-27T20:00:00",
             "description": "First partner and costumed Pokémon galore in Ultra Unlock: 10th Anniversary Edition!\nThe Ultra Unlock: 10th Anniversary Edition event will take place from July 21, 2026 at 10 am to July 27, 2026 at 8 pm."
+        },
+        {
+            "title": "Fire and Ice Hatch Day",
+            "article_url": "https://leekduck.com/events/fire-and-ice-hatch-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-08-fire-and-ice-hatch-day-2026/fire-and-ice-hatch-day-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "1/2 Egg Hatch Distance*",
+                    "2× Candy from hatching Eggs*",
+                    "Increased chance of hatching Shiny Smoochum and Shiny Magby",
+                    "Increased chance of receiving 2 km Eggs from spinning PokéStops"
+                ],
+                "features": [
+                    {
+                        "name": "Larvesta",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Magby",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_240_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Smoochum",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_238_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Magby",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_240_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Smoochum",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_238_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-08T11:00:00",
+            "end_time": "2026-08-08T17:00:00",
+            "description": "Feeling the heat—and the chill? Fire and Ice Hatch Day features Smoochum and Magby hatching much more frequently from 2 km Eggs, with an increased chance of hatching Shiny Smoochum and Shiny Magby!\nThe Fire and Ice Hatch Day event will take place on August 8, 2026 from 11 am to 5 pm."
         }
     ],
     "PokéStop Showcase": [
