@@ -160,6 +160,20 @@ This repository is configured to run the scraper automatically using GitHub Acti
 
 **Note:** For the GitHub Action to work, you must **manually create the `data` branch** as a clean, orphan branch in your repository first.
 
+### Rebuilding the Archives
+
+Archived events keep whatever the scraper captured when they ended, so improvements to the parser do not reach them on their own. The backfill workflow re-reads every archived event from its Leek Duck page and republishes the result.
+
+- **Workflow file:** `.github/workflows/backfill_archives.yml`
+- **Trigger:** Manual only, from the "Actions" tab. `dry_run` defaults to `true`, so the report can be reviewed before anything is published.
+- **Behavior:** Identity, category, banner, and timestamps are always kept from the archive; only `description` and `details` are refreshed. Events whose page has been removed keep their original snapshot.
+
+It can also be run locally, which writes to `json/archives/` instead of publishing:
+
+```sh
+python -m src.backfill 2025 2026 --dry-run
+```
+
 ---
 
 ## Project Structure
@@ -168,6 +182,7 @@ This repository is configured to run the scraper automatically using GitHub Acti
 leak-duck/
 ├── .github/
 │   ├── workflows/
+│   │   ├── backfill_archives.yml
 │   │   ├── ci.yml
 │   │   └── run_scrapers.yml
 │   ├── data-branch-readme.md
@@ -184,6 +199,7 @@ leak-duck/
 │   │   └── event_page_scraper.py
 │   ├── __init__.py
 │   ├── archiver.py
+│   ├── backfill.py
 │   ├── config.json
 │   ├── main.py
 │   ├── paths.py
@@ -191,6 +207,7 @@ leak-duck/
 │   └── utils.py
 ├── tests/
 │   ├── test_archiver.py
+│   ├── test_backfill.py
 │   ├── test_scrapers.py
 │   └── test_validation.py
 ├── .gitignore
