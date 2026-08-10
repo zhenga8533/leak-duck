@@ -668,6 +668,17 @@
             "description": "Celebrate PokémonXP and the 2026 Pokémon World Championships in Pokémon GO!\nThe PokémonXP & 2026 Worlds event will take place from August 25, 2026 at 10 am to August 30, 2026 at 8 pm local time.\nPokémonXP: Tuesday, August 25, at 10:00 a.m. to Friday, August 28, 2026, at 10:00 a.m. local time.\n2026 Pokémon World Championships: Friday, August 28, at 10:00 a.m. to Sunday, August 30, at 8:00 p.m. local time."
         },
         {
+            "title": "Catch Mastery",
+            "article_url": "https://leekduck.com/events/catch-mastery-september-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-09-26T10:00:00",
+            "end_time": "2026-09-26T20:00:00",
+            "description": "The Catch Mastery event will take place on September 26, 2026 from 10 am to 8 pm. Stay tuned for more details."
+        },
+        {
             "title": "LEGO Stores and Pokémon GO",
             "article_url": "https://leekduck.com/events/lego-pokemon-go-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-03-lego-pokemon-go-2026/lego-stores-pokemon-go.jpg",
@@ -698,6 +709,17 @@
             "start_time": "2026-08-03T10:00:00",
             "end_time": "2026-09-30T23:59:00",
             "description": "The Pokémon GO and LEGO Group partnership continues for Trainers in the US, UK, Poland, France, Germany, and Australia! Visit participating LEGO Store locations for raids, a LEGO-themed stamp rally, event stickers, and LEGO Pokémon SMART Play.\nThe LEGO Stores and Pokémon GO event will take place from August 3, 2026 at 10 am to September 30, 2026 at 11 pm."
+        },
+        {
+            "title": "Hatch Day",
+            "article_url": "https://leekduck.com/events/hatch-day-october-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-10-17T11:00:00",
+            "end_time": "2026-10-17T17:00:00",
+            "description": "The Hatch Day event will take place on October 17, 2026 from 11 am to 5 pm. Stay tuned for more details."
         }
     ],
     "Max Mondays": [
@@ -1252,6 +1274,39 @@
             "start_time": "2026-08-16T14:00:00",
             "end_time": "2026-08-16T17:00:00",
             "description": "Nickit, the Fox Pokémon, will be featured during August Community Day!"
+        },
+        {
+            "title": "September Community Day Classic",
+            "article_url": "https://leekduck.com/events/september-communitydayclassic2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "category": "Community Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-09-12T14:00:00",
+            "end_time": "2026-09-12T17:00:00",
+            "description": "The September Community Day Classic event will take place on September 12, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "October Community Day",
+            "article_url": "https://leekduck.com/events/october-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "category": "Community Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-10-10T14:00:00",
+            "end_time": "2026-10-10T17:00:00",
+            "description": "The October Community Day event will take place on October 10, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "November Community Day",
+            "article_url": "https://leekduck.com/events/november-communityday2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+            "category": "Community Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-11-21T14:00:00",
+            "end_time": "2026-11-21T17:00:00",
+            "description": "The November Community Day event will take place on November 21, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
     "Choose Your Path": [
@@ -1316,6 +1371,39 @@
             "start_time": "2026-08-22T11:00:00",
             "end_time": "2026-08-22T17:00:00",
             "description": "Mega Starmie stars in Ultra Unlock: Starmie Super Mega Raid Day!"
+        },
+        {
+            "title": "Super Mega Raid Day",
+            "article_url": "https://leekduck.com/events/super-mega-raid-day-september-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-09-19T14:00:00",
+            "end_time": "2026-09-19T17:00:00",
+            "description": "The Super Mega Raid Day event will take place on September 19, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Super Mega Raid Day",
+            "article_url": "https://leekduck.com/events/super-mega-raid-day-october-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-10-31T14:00:00",
+            "end_time": "2026-10-31T17:00:00",
+            "description": "The Super Mega Raid Day event will take place on October 31, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Super Mega Raid Day",
+            "article_url": "https://leekduck.com/events/super-mega-raid-day-november-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Day",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-11-28T14:00:00",
+            "end_time": "2026-11-28T17:00:00",
+            "description": "The Super Mega Raid Day event will take place on November 28, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ],
     "Research": [
@@ -1623,6 +1711,30 @@
             "start_time": "2026-08-04T10:00:00",
             "end_time": "2026-09-08T10:00:00",
             "description": "The Lucky Trinket returns and Latias soars into GO Pass: August!\nThe GO Pass and GO Pass Deluxe for August will be available from August 4, 2026 at 10:00 am to September 8, 2026 at 10:00 am local time."
+        }
+    ],
+    "Max Battles": [
+        {
+            "title": "Max Battle Day",
+            "article_url": "https://leekduck.com/events/max-battle-day-october-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Max Battles",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-10-03T14:00:00",
+            "end_time": "2026-10-03T17:00:00",
+            "description": "The Max Battle Day event will take place on October 3, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Max Battle Day",
+            "article_url": "https://leekduck.com/events/max-battle-day-october-24-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Max Battles",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-10-24T14:00:00",
+            "end_time": "2026-10-24T17:00:00",
+            "description": "The Max Battle Day event will take place on October 24, 2026 from 2 pm to 5 pm. Stay tuned for more details."
         }
     ]
 }
