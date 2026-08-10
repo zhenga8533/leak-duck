@@ -153,6 +153,11 @@ class EventPageScraper:
             if description_parts:
                 event_details["description"] = "\n".join(description_parts)
 
+        if not event_details.get("description"):
+            unwrapped = self._parse_unwrapped_description(content)
+            if unwrapped:
+                event_details["description"] = unwrapped
+
         # Main sections
         main_sections = content.find_all("h2", class_="event-section-header")
         for section in main_sections:
@@ -165,6 +170,44 @@ class EventPageScraper:
             )
 
         return event_details
+
+    def _parse_unwrapped_description(self, content: Tag) -> str | None:
+        """Reads intro prose that is not wrapped in a div.event-description.
+
+        Some pages (Twitch Drops, for example) place their description directly
+        in the page content, between the page header and the first section.
+        """
+        description_parts: list[str] = []
+        after_header = False
+
+        for child in content.children:
+            if not isinstance(child, Tag):
+                continue
+
+            classes = cast(list, child.get("class") or [])
+            if child.name == "div" and "header-page" in classes:
+                after_header = True
+                continue
+            if not after_header:
+                continue
+
+            # The description ends where the page's structured content begins.
+            if child.name in ("h2", "hr", "style", "script") or (
+                child.name == "div" and "event-toc" in classes
+            ):
+                break
+
+            if child.name == "p":
+                text = clean_spacing(child.get_text(separator=" ", strip=True))
+                if text:
+                    description_parts.append(text)
+            elif child.name == "ul":
+                for li in child.find_all("li", recursive=False):
+                    text = clean_spacing(li.get_text(separator=" ", strip=True))
+                    if text:
+                        description_parts.append(f"- {text}")
+
+        return "\n".join(description_parts) or None
 
     def _parse_section(self, section: Tag, event_details: dict[str, Any]):
         """Parses a single section of the event page."""

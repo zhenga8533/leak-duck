@@ -134,6 +134,29 @@ class ParserFixtureTests(unittest.TestCase):
         data = EventPageScraper(self.settings)._parse_event_details(soup, "event-url")
         self.assertEqual(data["start_time"], "2026-07-20T10:00:00")
         self.assertEqual(data["details"]["bonuses"], ["Double XP"])
+        self.assertEqual(data["description"], "Event description.")
+
+    def test_event_page_parser_reads_unwrapped_description(self) -> None:
+        soup = BeautifulSoup(
+            '<div class="page-content"><div class="header-page">Title</div>'
+            "<p>First paragraph.</p><p>Second paragraph.</p><hr>"
+            '<h2 class="event-section-header" id="bonuses">Bonuses</h2>'
+            '<div class="bonus-list"><div class="bonus-text">Double XP</div></div></div>',
+            "lxml",
+        )
+        data = EventPageScraper(self.settings)._parse_event_details(soup, "event-url")
+        self.assertEqual(data["description"], "First paragraph.\nSecond paragraph.")
+        self.assertEqual(data["details"]["bonuses"], ["Double XP"])
+
+    def test_event_page_parser_prefers_the_wrapped_description(self) -> None:
+        soup = BeautifulSoup(
+            '<div class="page-content"><div class="header-page">Title</div>'
+            '<div class="event-description"><p>Wrapped description.</p></div>'
+            "<p>Trailing note.</p></div>",
+            "lxml",
+        )
+        data = EventPageScraper(self.settings)._parse_event_details(soup, "event-url")
+        self.assertEqual(data["description"], "Wrapped description.")
 
 
 if __name__ == "__main__":
