@@ -21,9 +21,9 @@ The raw JSON file URLs can be used as simple, free API endpoints. See the [offic
 
 Ended events are moved from `events.json` into `archives/archive_YYYY.json`. Automated archiving began on **September 19, 2025**; events that ended before that date are not included.
 
-Archives are immutable point-in-time snapshots and are not rewritten to match newer schema versions, so consumers should treat them as compatible-but-not-identical to `events.json`:
+Archives were rebuilt from their original Leek Duck pages on **August 10, 2026**, so every archived record now uses the same schema as `events.json`:
 
-- `description` is optional in legacy archived records; it is always present in `events.json`.
-- Pokémon detail arrays (`details.features`, `spawns`, `eggs`, `raids`, `shiny`, `moves`) are plain name strings for events archived before July 2026 and Pokémon objects from July 2026 onward.
+- Pokémon detail arrays (`details.features`, `spawns`, `eggs`, `raids`, `shiny`, `moves`) are arrays of Pokémon objects throughout. The legacy plain-string format is no longer present.
+- `description` is present except for a small number of events whose Leek Duck page no longer exists, so treat it as optional when reading archives.
 
 See the [archive compatibility notes](https://github.com/zhenga8533/leak-duck/wiki/API-Documentation#event-archives) for the full contract.
