@@ -6,6 +6,7 @@ import requests
 
 from src.paths import data_dir
 from src.utils import write_json_atomic
+from src.validation import validate_archive_output
 
 
 class ArchiveFetchError(RuntimeError):
@@ -98,8 +99,9 @@ class EventArchiver:
             print("No new events to archive.", flush=True)
 
     def _update_archive_file(self, year: int, events: list[dict[str, Any]]) -> None:
-        archive_file_path = self.archives_dir / f"archive_{year}.json"
-        archive_url = f"{self.repo_base_url}/archives/archive_{year}.json"
+        archive_name = f"archive_{year}"
+        archive_file_path = self.archives_dir / f"{archive_name}.json"
+        archive_url = f"{self.repo_base_url}/archives/{archive_name}.json"
 
         try:
             response = requests.get(archive_url, timeout=15)
@@ -118,6 +120,7 @@ class EventArchiver:
         if not isinstance(archive_data, dict):
             raise ArchiveFetchError(f"Published {year} archive is not a JSON object")
         archive_data = cast(dict[str, list[dict[str, Any]]], archive_data)
+        validate_archive_output(archive_name, archive_data, allow_empty=True)
 
         for event in events:
             category = event["category"]
@@ -131,5 +134,6 @@ class EventArchiver:
             )
             archive_data[category] = unique_events
 
+        validate_archive_output(archive_name, archive_data)
         write_json_atomic(archive_file_path, archive_data)
         print(f"Archived {len(events)} event(s) to {archive_file_path}.", flush=True)

@@ -24,7 +24,7 @@ The scraped data is automatically committed and pushed to the `data` branch of t
   - **Field Research**: All available research tasks and their possible rewards.
   - **Team GO Rocket**: The complete lineups for Giovanni, Leaders, and Grunts.
   - **Egg Pool**: The current list of Pokémon hatching from each egg distance.
-- **Data Archiving**: Automatically archives past events to a separate file for historical data.
+- **Data Archiving**: Automatically archives past events to yearly files for historical data, preserved as point-in-time snapshots.
 - **Failure-safe**: Uses retries, atomic writes, output validation, and nonzero exits to prevent failed runs from publishing empty or partial datasets.
 - **Organized**: A clean and modular project structure that is easy to understand and extend.
 
@@ -54,7 +54,8 @@ The following files are generated:
 - `egg_pool.json` - The current list of Pokémon hatching from each egg distance.
 - `events.json`- All current and upcoming events.
 - `archives/archive_YYYY.json` - Historical event data, organized by year.
-  - _Note: Automated archiving of past events is handled by the script._
+  - _Note: Automated archiving of past events is handled by the script. Coverage begins **September 19, 2025**; events that ended earlier are not archived._
+  - _Archives are immutable point-in-time snapshots and are not rewritten when the live schema changes. Legacy records may omit `description`, and Pokémon detail arrays are plain strings before July 2026 and Pokémon objects from July 2026 onward. See the [API documentation](https://github.com/zhenga8533/leak-duck/wiki/API-Documentation#event-archives) for the full compatibility contract._
 
 ### Example Data (`raid_bosses.json`)
 
@@ -140,7 +141,7 @@ python -m unittest discover -v
 python -m compileall -q src tests
 ```
 
-Use `ruff format .` to apply formatting. The tests are offline and cover parser selectors, output validation, fetch failures, and archive-preservation behavior.
+Use `ruff format .` to apply formatting. The tests are offline and cover parser selectors, output validation, archive compatibility validation, fetch failures, and archive-preservation behavior.
 
 ---
 
