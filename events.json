@@ -1,130 +1,5 @@
 {
-    "Pokémon Spotlight Hour": [
-        {
-            "title": "Delibird Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-08-06/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    {
-                        "name": "Delibird",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_225_00.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-06T18:00:00",
-            "end_time": "2026-08-06T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday.\nAugust 6: The featured Pokémon is Delibird and the special bonus is 2× Catch Stardust."
-        },
-        {
-            "title": "Wurmple Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-08-13/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    {
-                        "name": "Wurmple",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_265_00.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-13T18:00:00",
-            "end_time": "2026-08-13T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday.\nAugust 13: The featured Pokémon is Wurmple and the special bonus is 2× Evolution XP."
-        },
-        {
-            "title": "Magikarp Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-08-20/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    {
-                        "name": "Magikarp",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-20T18:00:00",
-            "end_time": "2026-08-20T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday.\nAugust 20: The featured Pokémon is Magikarp and the special bonus is 2× Catch XP."
-        },
-        {
-            "title": "Mankey Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-08-27/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    {
-                        "name": "Mankey",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_056_00.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-27T18:00:00",
-            "end_time": "2026-08-27T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday.\nAugust 27: The featured Pokémon is Mankey and the special bonus is 2× Catch Candy."
-        }
-    ],
     "Event": [
-        {
-            "title": "Fire and Ice Hatch Day",
-            "article_url": "https://leekduck.com/events/fire-and-ice-hatch-day-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-08-fire-and-ice-hatch-day-2026/fire-and-ice-hatch-day-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "1/2 Egg Hatch Distance*",
-                    "2× Candy from hatching Eggs*",
-                    "Increased chance of hatching Shiny Smoochum and Shiny Magby",
-                    "Increased chance of receiving 2 km Eggs from spinning PokéStops"
-                ],
-                "features": [
-                    {
-                        "name": "Larvesta",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Magby",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_240_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Smoochum",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_238_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Magby",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_240_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Smoochum",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_238_00_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-08T11:00:00",
-            "end_time": "2026-08-08T17:00:00",
-            "description": "Feeling the heat—and the chill? Fire and Ice Hatch Day features Smoochum and Magby hatching much more frequently from 2 km Eggs, with an increased chance of hatching Shiny Smoochum and Shiny Magby!\nThe Fire and Ice Hatch Day event will take place on August 8, 2026 from 11 am to 5 pm."
-        },
         {
             "title": "Summer Marathon: Arctic Embers",
             "article_url": "https://leekduck.com/events/summer-marathon-2026/",
@@ -1268,6 +1143,65 @@
             "start_time": "2026-09-02T18:00:00",
             "end_time": "2026-09-02T19:00:00",
             "description": "A Raid Hour featuring Regirock, Regice, and Registeel is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        }
+    ],
+    "Pokémon Spotlight Hour": [
+        {
+            "title": "Wurmple Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-08-13/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    {
+                        "name": "Wurmple",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_265_00.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-13T18:00:00",
+            "end_time": "2026-08-13T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday.\nAugust 13: The featured Pokémon is Wurmple and the special bonus is 2× Evolution XP."
+        },
+        {
+            "title": "Magikarp Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-08-20/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    {
+                        "name": "Magikarp",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-20T18:00:00",
+            "end_time": "2026-08-20T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday.\nAugust 20: The featured Pokémon is Magikarp and the special bonus is 2× Catch XP."
+        },
+        {
+            "title": "Mankey Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-08-27/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    {
+                        "name": "Mankey",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_056_00.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-27T18:00:00",
+            "end_time": "2026-08-27T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday.\nAugust 27: The featured Pokémon is Mankey and the special bonus is 2× Catch Candy."
         }
     ],
     "Community Day": [
