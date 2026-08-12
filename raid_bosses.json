@@ -147,21 +147,21 @@
     ],
     "Mega Raids": [
         {
-            "name": "Mega Blaziken",
+            "name": "Mega Garchomp",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm257.fMEGA.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm445.fMEGA.icon.png",
             "tier": "Mega Raids",
             "cp_range": {
-                "min": 1550,
-                "max": 1627
+                "min": 2174,
+                "max": 2264
             },
             "boosted_cp_range": {
-                "min": 1938,
-                "max": 2034
+                "min": 2718,
+                "max": 2830
             },
             "types": [
-                "Fire",
-                "Fighting"
+                "Dragon",
+                "Ground"
             ]
         }
     ]
