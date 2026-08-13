@@ -1277,6 +1277,25 @@
             "description": "Signs of an extraordinary mega-powered week are beginning to appear. Join Mega Ascension to prepare for Pokémon GO Fest 2026: Mega Finale with Mega Raids, Kalos first partner Pokémon, and GO Pass: Mega Finale!\nThe Mega Ascension event will take place from August 31, 2026 at 10 am to September 4, 2026 at 11 pm local time."
         },
         {
+            "title": "10th Anniversary Celebration - Perfect Mewtwo Timed Research",
+            "article_url": "https://leekduck.com/events/10th-anniversary-celebration/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-12-10th-anniversary-celebration/10th-anniversary-celebration-2026.jpg",
+            "category": "Event",
+            "details": {
+                "features": [
+                    {
+                        "name": "Mewtwo",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_150_00.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-12T16:00:00",
+            "end_time": "2026-09-06T23:59:00",
+            "description": "Every Trainer can celebrate 10 years of Pokémon GO with a special Mewtwo!\nThe Perfect Mewtwo Timed Research will be available from August 12, 2026 at 4:00 p.m. PDT to September 6, 2026 at 11 pm local time."
+        },
+        {
             "title": "Catch Mastery",
             "article_url": "https://leekduck.com/events/catch-mastery-september-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
