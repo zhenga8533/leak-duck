@@ -578,23 +578,8 @@
                         "shiny_available": true
                     },
                     {
-                        "name": "Oshawott",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_501_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Popplio",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm728.icon.png",
-                        "shiny_available": true
-                    },
-                    {
                         "name": "Psyduck",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_054_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Squirtle",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_007_00.png",
                         "shiny_available": true
                     },
                     {
