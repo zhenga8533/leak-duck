@@ -1940,6 +1940,63 @@
             "start_time": "2026-08-05T06:00:00",
             "end_time": "2026-08-11T22:00:00",
             "description": "Uxie, Mesprit, and Azelf will be in five-star raid battles from August 5, 2026 to August 11, 2026.\nThere will also be a Raid Hour featuring Uxie, Mesprit, and Azelf from 6:00 pm to 7:00 pm local time on the following date:\n- August 5\nAs a reminder, these are the regions that Uxie, Mesprit, and Azelf are available in:\nUxie is available in the Asia-Pacific region. Mesprit is available in Europe, the Middle East, Africa, and India. Azelf is available in the Americas and Greenland."
+        },
+        {
+            "title": "Groudon in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/groudon-in-5-star-raid-battles-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Groudon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_383_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Groudon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_383_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-12T06:00:00",
+            "end_time": "2026-08-18T22:00:00",
+            "description": "Groudon will be in five-star raid battles from August 12, 2026 to August 18, 2026.\nThere will also be a Raid Hour featuring Groudon from 6:00 pm to 7:00 pm local time on the following date:\n- August 12"
+        },
+        {
+            "title": "Mega Garchomp in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-garchomp-in-mega-raids-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Mega Garchomp",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm445.fMEGA.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Garchomp",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_445_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Garchomp",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm445.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-12T06:00:00",
+            "end_time": "2026-08-18T22:00:00",
+            "description": "Mega Garchomp will be in Mega Raids from August 12, 2026 at 6 am to August 18, 2026 at 10 pm local time."
         }
     ],
     "Community Day": [
