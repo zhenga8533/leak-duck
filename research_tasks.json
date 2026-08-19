@@ -75,65 +75,6 @@
             ]
         }
     ],
-    "Choose Your Path: Venom and Vines Tasks": [
-        {
-            "task": "Defeat a Team GO Rocket Grunt",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Venonat",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm48.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Fomantis",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm753.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Make 5 Nice Throws",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Venonat",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm48.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Fomantis",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm753.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Explore 1 km",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Venonat",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm48.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Fomantis",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm753.icon.png"
-                }
-            ]
-        }
-    ],
     "Catching Tasks": [
         {
             "task": "Catch 7 Pokémon",
