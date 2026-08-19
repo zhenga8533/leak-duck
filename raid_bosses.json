@@ -147,20 +147,20 @@
     ],
     "Mega Raids": [
         {
-            "name": "Mega Garchomp",
+            "name": "Mega Swampert",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm445.fMEGA.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm260.fMEGA.icon.png",
             "tier": "Mega Raids",
             "cp_range": {
-                "min": 2174,
-                "max": 2264
+                "min": 1622,
+                "max": 1699
             },
             "boosted_cp_range": {
-                "min": 2718,
-                "max": 2830
+                "min": 2027,
+                "max": 2124
             },
             "types": [
-                "Dragon",
+                "Water",
                 "Ground"
             ]
         }
