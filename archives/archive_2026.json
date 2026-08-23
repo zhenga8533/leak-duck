@@ -11037,6 +11037,55 @@
             "start_time": "2026-07-18T14:00:00",
             "end_time": "2026-07-18T17:00:00",
             "description": "Sparks fly for Raichu Super Mega Raid Day!"
+        },
+        {
+            "title": "Starmie Super Mega Raid Day",
+            "article_url": "https://leekduck.com/events/starmie-super-mega-raid-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-22-starmie-super-mega-raid-day-2026/starmie-super-mega-raid-day-2026.jpg",
+            "category": "Raid Day",
+            "details": {
+                "bonuses": [
+                    "An additional 5,000 XP from all raids",
+                    "An even greater chance to get Rare Candy XL from Raid Battles",
+                    "Guaranteed Rare Candy XL for successfully catching Starmie from raids",
+                    "Increased chance of encountering Shiny Starmie from Super Mega Raids",
+                    "Increased chance to get Rare Candy XL from Raid Battles",
+                    "Receive up to 14 Raid Passes from spinning Gym Photo Discs",
+                    "Receive up to six free Raid Passes from spinning Gym Photo Discs",
+                    "Remote Raid Pass limit increased to 20 from Friday, August 21, at 2:00 p.m. to Saturday, August 22, 2026, at 8:00 p.m. PDT",
+                    "Starmie caught from Super Mega Raids will have Mega Level 1 unlocked"
+                ],
+                "features": [
+                    {
+                        "name": "Mega Starmie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Starmie.png",
+                        "shiny_available": true
+                    }
+                ],
+                "raids": [
+                    {
+                        "name": "Mega Starmie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Starmie.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Mega Starmie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/Shiny Mega Starmie.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Starmie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_121_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-22T11:00:00",
+            "end_time": "2026-08-22T17:00:00",
+            "description": "Mega Starmie stars in Ultra Unlock: Starmie Super Mega Raid Day!"
         }
     ],
     "Team GO Rocket": [
