@@ -1,4 +1,76 @@
 {
+    "PokémonXP & 2026 Worlds Tasks": [
+        {
+            "task": "Catch 5 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Poké Ball",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Poke Ball.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Revive",
+                    "quantity": 2,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Revive.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Super Potion",
+                    "quantity": 3,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Super Potion.png"
+                }
+            ]
+        },
+        {
+            "task": "Spin 26 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing a Cosmog-themed spacesuit",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fPXP_2026.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Spin 3 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Poké Ball",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Poke Ball.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Revive",
+                    "quantity": 2,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Revive.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Super Potion",
+                    "quantity": 3,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Super Potion.png"
+                }
+            ]
+        },
+        {
+            "task": "Explore 5 km",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Pikachu wearing a Cosmog-themed spacesuit",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fPXP_2026.icon.png"
+                }
+            ]
+        }
+    ],
     "Ultra Unlock: Water Festival Tasks": [
         {
             "task": "Catch 5 Water-type Pokémon",
