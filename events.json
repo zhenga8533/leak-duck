@@ -1,214 +1,260 @@
 {
-    "Event": [
+    "GO Battle League": [
         {
-            "title": "Ultra Unlock: Water Festival",
-            "article_url": "https://leekduck.com/events/water-festival-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-18-water-festival-2026/water-festival-2026.jpg?v2",
-            "category": "Event",
+            "title": "Great League and Scroll Cup: Great League Edition | Forever Forward",
+            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_scroll-cup-great-league-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1787083200,
+            "end_time": 1787688000,
+            "description": "The Great League and Scroll Cup: Great League Edition will run from August 18, 2026, at 1:00 p.m. to August 25, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Water-, Fighting-, and Dark-type Pokémon are eligible.\nThe following Pokémon will not be allowed.\n- Primarina"
+        },
+        {
+            "title": "Great League, Ultra League, and Master League | Forever Forward",
+            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_ultra-league_master-league-split-3/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-27-forever-forward.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1787688000,
+            "end_time": 1788292800,
+            "description": "The Great League, Ultra League, and Master League will run from August 25, 2026, at 1:00 p.m. to September 1, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
+        },
+        {
+            "title": "Great League, Ultra League, and Master League: Mega Edition | Forever Forward",
+            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_ultra-league_master-league-mega-edition/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-27-forever-forward.jpg",
+            "category": "GO Battle League",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1788292800,
+            "end_time": 1788897600,
+            "description": "The Great League, Ultra League, and Master League: Mega Edition will run from September 1, 2026, at 1:00 p.m. to September 8, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
+        }
+    ],
+    "Raid Battles": [
+        {
+            "title": "Lunala in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/lunala-in-5-star-raid-battles-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/lunala.jpg?v2",
+            "category": "Raid Battles",
             "details": {
-                "bonuses": [
-                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
-                    "2× Candy for catching Pokémon",
-                    "2× XP for catching Pokémon.",
-                    "3× Stardust for catching Pokémon.",
-                    "3× XP for catching Pokémon.",
-                    "4× Stardust for catching Pokémon.",
-                    "4× XP for catching Pokémon.",
-                    "5× Stardust for catching Pokémon.",
-                    "Increased chance to encounter Shiny Ducklett and Shiny Dewpider",
-                    "Rainy Lure Modules will attract Arrokuda"
-                ],
-                "features": [
-                    {
-                        "name": "Arrokuda",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0846_000_mf_n_00000000_f_n.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Barraskewda",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0847_000_mf_n_00000000_f_n.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Cramorant",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm845.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Psyduck (Swim Ring)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm54.fSWIM_2025.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "spawns": [
-                    {
-                        "name": "Clamperl",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_366_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Corphish",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_341_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Dewpider",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm751.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Ducklett",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_580_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Feebas",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_349_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Frillish",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_592_01.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Goldeen",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_118_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Gyarados",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Magikarp",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Mareanie",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm747.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Marill",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_183_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Psyduck",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_054_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Tentacool",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_072_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Wailmer",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_320_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Wiglett",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0960_000_mf_n_00000000_f_n.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Wimpod",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm767.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "eggs": [
-                    {
-                        "name": "Azurill",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_298_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Cramorant",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm845.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Frillish",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_592_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Mantyke",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_458_00.png",
-                        "shiny_available": true
-                    }
-                ],
                 "raids": [
                     {
-                        "name": "Dondozo",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm977.icon.png",
+                        "name": "Lunala",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm792.icon.png",
                         "shiny_available": true
-                    },
-                    {
-                        "name": "Hisuian Samurott",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm503.fHISUIAN.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Psyduck (Swim Ring)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm54.fSWIM_2025.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Scarf Lapras",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm131.fCOSTUME_2020.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Tatsugiri (Curly)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm978.fCURLY.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Tatsugiri (Droopy)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm978.fDROOPY.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Tatsugiri (Stretchy)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm978.fSTRETCHY.icon.png",
-                        "shiny_available": false
                     }
                 ],
                 "shiny": [
                     {
-                        "name": "Araquanid",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm752.s.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Dewpider",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm751.s.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Ducklett",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_580_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Swanna",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_581_00_shiny.png",
+                        "name": "Lunala",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm792.s.icon.png",
                         "shiny_available": false
                     }
                 ]
             },
             "is_local_time": true,
-            "start_time": "2026-08-18T10:00:00",
-            "end_time": "2026-08-24T20:00:00",
-            "description": "Arrokuda and Cramorant splash into Pokémon GO during Ultra Unlock: Water Festival!\nThe Ultra Unlock: Water Festival event will take place from August 18, 2026 at 10 am to August 24, 2026 at 8 pm local time."
+            "start_time": "2026-08-19T06:00:00",
+            "end_time": "2026-08-25T22:00:00",
+            "description": "Lunala will be in five-star raid battles from August 19, 2026 to August 25, 2026.\nThere will also be a Raid Hour featuring Lunala from 6:00 pm to 7:00 pm local time on the following date:\n- August 19"
         },
+        {
+            "title": "Mega Swampert in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-swampert-in-mega-raids-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Mega Swampert",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm260.fMEGA.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Mega Swampert",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm260.fMEGA.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Swampert",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_260_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-19T06:00:00",
+            "end_time": "2026-08-25T22:00:00",
+            "description": "Mega Swampert will be in Mega Raids from August 19, 2026 at 6 am to August 25, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Shadow Giratina (Altered Forme) in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-giratina-altered-in-shadow-raids-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Giratina (Altered)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_11.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Giratina (Altered)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_11_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-05T06:00:00",
+            "end_time": "2026-09-08T22:00:00",
+            "description": "Shadow Giratina (Altered Forme) will make its Shadow Raid debut in Pokémon GO! If you’re lucky you’ll be able to encounter Shiny Shadow Giratina (Altered Forme)!\nShadow Giratina (Altered Forme) will appear in five-star Shadow Raids every weekend from August 5 to September 8."
+        },
+        {
+            "title": "Mega Gyarados in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-gyarados-in-mega-raids-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Mega Gyarados",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_51.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Gyarados",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Gyarados",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_51_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-26T06:00:00",
+            "end_time": "2026-09-08T22:00:00",
+            "description": "Mega Gyarados will be in Mega Raids from August 26, 2026 at 6 am to September 8, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Regirock, Regice, and Registeel in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/regirock-regice-registeel-in-5-star-raid-battles-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/regi-trio.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Regice",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_378_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Regirock",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_377_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Registeel",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_379_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Regice",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_378_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Regirock",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_377_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Registeel",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_379_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-26T06:00:00",
+            "end_time": "2026-09-08T22:00:00",
+            "description": "Regirock, Regice, and Registeel will be in five-star raid battles from August 26, 2026 to September 8, 2026.\nThere will also be a Raid Hour featuring Regirock, Regice, and Registeel from 6:00 pm to 7:00 pm local time on the following dates:\n- August 26\n- September 2"
+        }
+    ],
+    "Raid Hour": [
+        {
+            "title": "Regirock, Regice, and Registeel Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20260826/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-08-26T18:00:00",
+            "end_time": "2026-08-26T19:00:00",
+            "description": "A Raid Hour featuring Regirock, Regice, and Registeel is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        },
+        {
+            "title": "Regirock, Regice, and Registeel Raid Hour",
+            "article_url": "https://leekduck.com/events/raidhour20260902/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+            "category": "Raid Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-09-02T18:00:00",
+            "end_time": "2026-09-02T19:00:00",
+            "description": "A Raid Hour featuring Regirock, Regice, and Registeel is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
+        }
+    ],
+    "Pokémon Spotlight Hour": [
+        {
+            "title": "Mankey Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-08-27/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    {
+                        "name": "Mankey",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_056_00.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-27T18:00:00",
+            "end_time": "2026-08-27T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday.\nAugust 27: The featured Pokémon is Mankey and the special bonus is 2× Catch Candy."
+        }
+    ],
+    "Research": [
+        {
+            "title": "Twitch Drops for 2026 Pokémon World Championships",
+            "article_url": "https://leekduck.com/events/pokemon-world-championships-2026-timed-research-twitch-drops/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-28-pokemon-world-championships-2026-timed-research-twitch-drops/2026-worlds-go-drops.jpg",
+            "category": "Research",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1787932800,
+            "end_time": 1788145200,
+            "description": "Get codes for exclusive Timed Research, a Worlds Tee avatar item, and special Pikachu encounters by tuning in to the 2026 Pokémon World Championships and PokémonXP livestreams.\nTrainers can earn up to five Pokémon GO rewards across the official Pokémon GO broadcast, the Pokémon World Championships finals stream, official co-streamers, and the PokémonXP Pokémon GO panel. Here’s everything you can unlock."
+        }
+    ],
+    "Event": [
         {
             "title": "PokémonXP & 2026 Worlds",
             "article_url": "https://leekduck.com/events/pokemon-xp-2026-worlds/",
@@ -825,17 +871,6 @@
     ],
     "Max Mondays": [
         {
-            "title": "Dynamax Hitmontop during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-08-24/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-08-24T06:00:00",
-            "end_time": "2026-08-24T21:00:00",
-            "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn August 24, 2026, the featured Dynamax Pokemon is Hitmontop.\n- Hitmontop"
-        },
-        {
             "title": "Dynamax Eevee during Max Monday",
             "article_url": "https://leekduck.com/events/max-mondays-2026-08-31/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
@@ -845,261 +880,6 @@
             "start_time": "2026-08-31T06:00:00",
             "end_time": "2026-08-31T21:00:00",
             "description": "These Dynamax Pokemon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokemon.\nOn August 31, 2026, the featured Dynamax Pokemon is Eevee.\n- Eevee"
-        }
-    ],
-    "GO Battle League": [
-        {
-            "title": "Great League and Scroll Cup: Great League Edition | Forever Forward",
-            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_scroll-cup-great-league-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1787083200,
-            "end_time": 1787688000,
-            "description": "The Great League and Scroll Cup: Great League Edition will run from August 18, 2026, at 1:00 p.m. to August 25, 2026, at 1:00 p.m. PT.\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 1,500 CP to enter.\n- Only Water-, Fighting-, and Dark-type Pokémon are eligible.\nThe following Pokémon will not be allowed.\n- Primarina"
-        },
-        {
-            "title": "Great League, Ultra League, and Master League | Forever Forward",
-            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_ultra-league_master-league-split-3/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-27-forever-forward.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1787688000,
-            "end_time": 1788292800,
-            "description": "The Great League, Ultra League, and Master League will run from August 25, 2026, at 1:00 p.m. to September 1, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- All Pokémon are eligible."
-        },
-        {
-            "title": "Great League, Ultra League, and Master League: Mega Edition | Forever Forward",
-            "article_url": "https://leekduck.com/events/gbl-forever-forward_great-league_ultra-league_master-league-mega-edition/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-27-forever-forward.jpg",
-            "category": "GO Battle League",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1788292800,
-            "end_time": 1788897600,
-            "description": "The Great League, Ultra League, and Master League: Mega Edition will run from September 1, 2026, at 1:00 p.m. to September 8, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- Pokémon must be at or below 1,500 CP to enter.\n- Pokémon must be at or below 2,500 CP to enter.\n- No CP limit.\n- Mega-Evolved Pokémon are allowed."
-        }
-    ],
-    "Raid Battles": [
-        {
-            "title": "Lunala in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/lunala-in-5-star-raid-battles-august-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/lunala.jpg?v2",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Lunala",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm792.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Lunala",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm792.s.icon.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-19T06:00:00",
-            "end_time": "2026-08-25T22:00:00",
-            "description": "Lunala will be in five-star raid battles from August 19, 2026 to August 25, 2026.\nThere will also be a Raid Hour featuring Lunala from 6:00 pm to 7:00 pm local time on the following date:\n- August 19"
-        },
-        {
-            "title": "Mega Swampert in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-swampert-in-mega-raids-august-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Mega Swampert",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm260.fMEGA.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Mega Swampert",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm260.fMEGA.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Swampert",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_260_00_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-19T06:00:00",
-            "end_time": "2026-08-25T22:00:00",
-            "description": "Mega Swampert will be in Mega Raids from August 19, 2026 at 6 am to August 25, 2026 at 10 pm local time."
-        },
-        {
-            "title": "Shadow Giratina (Altered Forme) in Shadow Raids",
-            "article_url": "https://leekduck.com/events/shadow-giratina-altered-in-shadow-raids-august-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Giratina (Altered)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_11.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Giratina (Altered)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_11_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-05T06:00:00",
-            "end_time": "2026-09-08T22:00:00",
-            "description": "Shadow Giratina (Altered Forme) will make its Shadow Raid debut in Pokémon GO! If you’re lucky you’ll be able to encounter Shiny Shadow Giratina (Altered Forme)!\nShadow Giratina (Altered Forme) will appear in five-star Shadow Raids every weekend from August 5 to September 8."
-        },
-        {
-            "title": "Mega Gyarados in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-gyarados-in-mega-raids-august-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Mega Gyarados",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_51.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Gyarados",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Mega Gyarados",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_51_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-26T06:00:00",
-            "end_time": "2026-09-08T22:00:00",
-            "description": "Mega Gyarados will be in Mega Raids from August 26, 2026 at 6 am to September 8, 2026 at 10 pm local time."
-        },
-        {
-            "title": "Regirock, Regice, and Registeel in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/regirock-regice-registeel-in-5-star-raid-battles-august-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/regi-trio.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Regice",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_378_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Regirock",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_377_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Registeel",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_379_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Regice",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_378_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Regirock",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_377_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Registeel",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_379_00_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-26T06:00:00",
-            "end_time": "2026-09-08T22:00:00",
-            "description": "Regirock, Regice, and Registeel will be in five-star raid battles from August 26, 2026 to September 8, 2026.\nThere will also be a Raid Hour featuring Regirock, Regice, and Registeel from 6:00 pm to 7:00 pm local time on the following dates:\n- August 26\n- September 2"
-        }
-    ],
-    "Raid Hour": [
-        {
-            "title": "Regirock, Regice, and Registeel Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20260826/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-08-26T18:00:00",
-            "end_time": "2026-08-26T19:00:00",
-            "description": "A Raid Hour featuring Regirock, Regice, and Registeel is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
-        },
-        {
-            "title": "Regirock, Regice, and Registeel Raid Hour",
-            "article_url": "https://leekduck.com/events/raidhour20260902/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-            "category": "Raid Hour",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-09-02T18:00:00",
-            "end_time": "2026-09-02T19:00:00",
-            "description": "A Raid Hour featuring Regirock, Regice, and Registeel is scheduled from 6 to 7 pm Local Time. During this hour there will be an increased number of 5-star Raids."
-        }
-    ],
-    "Pokémon Spotlight Hour": [
-        {
-            "title": "Mankey Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-08-27/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    {
-                        "name": "Mankey",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_056_00.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-27T18:00:00",
-            "end_time": "2026-08-27T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday.\nAugust 27: The featured Pokémon is Mankey and the special bonus is 2× Catch Candy."
-        }
-    ],
-    "Research": [
-        {
-            "title": "Twitch Drops for 2026 Pokémon World Championships",
-            "article_url": "https://leekduck.com/events/pokemon-world-championships-2026-timed-research-twitch-drops/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-28-pokemon-world-championships-2026-timed-research-twitch-drops/2026-worlds-go-drops.jpg",
-            "category": "Research",
-            "details": {},
-            "is_local_time": false,
-            "start_time": 1787932800,
-            "end_time": 1788145200,
-            "description": "Get codes for exclusive Timed Research, a Worlds Tee avatar item, and special Pikachu encounters by tuning in to the 2026 Pokémon World Championships and PokémonXP livestreams.\nTrainers can earn up to five Pokémon GO rewards across the official Pokémon GO broadcast, the Pokémon World Championships finals stream, official co-streamers, and the PokémonXP Pokémon GO panel. Here’s everything you can unlock."
         }
     ],
     "Pokémon GO Fest": [

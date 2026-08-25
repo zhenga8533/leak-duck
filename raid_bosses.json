@@ -1,4 +1,44 @@
 {
+    "5-Star Raids": [
+        {
+            "name": "Shadow Giratina (Altered)",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm487.fALTERED.icon.png",
+            "tier": 5,
+            "cp_range": {
+                "min": 1782,
+                "max": 1931
+            },
+            "boosted_cp_range": {
+                "min": 2228,
+                "max": 2414
+            },
+            "types": [
+                "Ghost",
+                "Dragon"
+            ]
+        }
+    ],
+    "Mega Raids": [
+        {
+            "name": "Mega Swampert",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm260.fMEGA.icon.png",
+            "tier": "Mega Raids",
+            "cp_range": {
+                "min": 1622,
+                "max": 1699
+            },
+            "boosted_cp_range": {
+                "min": 2027,
+                "max": 2124
+            },
+            "types": [
+                "Water",
+                "Ground"
+            ]
+        }
+    ],
     "1-Star Raids": [
         {
             "name": "Shadow Slowpoke",
@@ -122,46 +162,6 @@
             "types": [
                 "Ghost",
                 "Fire"
-            ]
-        }
-    ],
-    "5-Star Raids": [
-        {
-            "name": "Shadow Giratina (Altered)",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm487.fALTERED.icon.png",
-            "tier": 5,
-            "cp_range": {
-                "min": 1782,
-                "max": 1931
-            },
-            "boosted_cp_range": {
-                "min": 2228,
-                "max": 2414
-            },
-            "types": [
-                "Ghost",
-                "Dragon"
-            ]
-        }
-    ],
-    "Mega Raids": [
-        {
-            "name": "Mega Swampert",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm260.fMEGA.icon.png",
-            "tier": "Mega Raids",
-            "cp_range": {
-                "min": 1622,
-                "max": 1699
-            },
-            "boosted_cp_range": {
-                "min": 2027,
-                "max": 2124
-            },
-            "types": [
-                "Water",
-                "Ground"
             ]
         }
     ]
