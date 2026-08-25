@@ -1862,6 +1862,174 @@
             "start_time": "2026-06-02T10:00:00",
             "end_time": "2026-09-08T10:00:00",
             "description": "Welcome to Pokémon GO: Forever Forward!\nIn Pokémon GO, Seasons are periods of time that feature new events, Pokémon debuts, and surprises that all follow a certain theme. As the Seasons change, you may find different Pokémon appearing in your area and hatching from Eggs. Make sure to explore during each in-game Season to collect and train as many different Pokémon as you can! You’ll also enjoy special bonuses as you do."
+        },
+        {
+            "title": "Twilight Trails",
+            "article_url": "https://leekduck.com/events/season-24-twilight-trails/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-08-season-24-twilight-trails/season-24-twilight-trails.jpg",
+            "category": "Season",
+            "details": {
+                "bonuses": [
+                    "2× Daily Adventure Incense duration",
+                    "Increased XP and Stardust from hatching Eggs",
+                    "Increased limits on opening Gifts, receiving Gifts from PokéStop and Gym Photo Discs, and storing Gifts",
+                    "One additional Candy for trading Pokémon",
+                    "One guaranteed Candy XL when trading Pokémon for Trainers level 31 and above"
+                ],
+                "features": [
+                    {
+                        "name": "Azelf",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_482_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mabosstiff",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm943.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Maschiff",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/Maschiff.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mesprit",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_481_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Rhyhorn",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_111_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Sizzlipede",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Sneasel",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_215_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Uxie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_480_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "eggs": [
+                    {
+                        "name": "Azurill",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_298_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Bagon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_371_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Budew",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_406_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Drampa",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm780.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Dratini",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_147_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Druddigon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_621_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Elekid",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_239_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Fidough",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm926.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Galarian Corsola",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fGALARIAN.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Galarian Meowth",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_052_31.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Galarian Slowpoke",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_31.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Galarian Stunfisk",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_618_31.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Galarian Zigzagoon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_263_31.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Hisuian Sneasel",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm215.fHISUIAN.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Honedge",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_679_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Impidimp",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm859.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Magby",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_240_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Munchlax",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_446_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Sableye",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Sizzlipede",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm850.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Tyrogue",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_236_00.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-09-08T10:00:00",
+            "end_time": "2026-12-01T10:00:00",
+            "description": "Welcome to Pokémon GO: Twilight Trails!\nIn Pokémon GO, Seasons are periods of time that feature new events, Pokémon debuts, and surprises that all follow a certain theme. As the Seasons change, you may find different Pokémon appearing in your area and hatching from Eggs. Make sure to explore during each in-game Season to collect and train as many different Pokémon as you can! You’ll also enjoy special bonuses as you do."
         }
     ],
     "GO Pass": [
@@ -1889,6 +2057,30 @@
             "start_time": "2026-08-04T10:00:00",
             "end_time": "2026-09-08T10:00:00",
             "description": "The Lucky Trinket returns and Latias soars into GO Pass: August!\nThe GO Pass and GO Pass Deluxe for August will be available from August 4, 2026 at 10:00 am to September 8, 2026 at 10:00 am local time."
+        },
+        {
+            "title": "GO Pass: September",
+            "article_url": "https://leekduck.com/events/go-pass-september-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-08-go-pass-september-2026/go-pass-september-2026.jpg",
+            "category": "GO Pass",
+            "details": {
+                "bonuses": [
+                    "2× Daily Adventure Incense duration",
+                    "Hold 10 more Gifts in your Item Bag",
+                    "Hold up to 20 more Gifts in your Item Bag",
+                    "Increased XP and Stardust from hatching Eggs",
+                    "One additional Candy for trading Pokémon",
+                    "Open up to 40 Gifts per day",
+                    "Open up to 50 Gifts per day",
+                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Trainers level 31 and above will receive one guaranteed Candy XL when trading Pokémon"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-09-08T10:00:00",
+            "end_time": "2026-10-06T10:00:00",
+            "description": "Latios soars in faster than a jet for GO Pass: September!\nThe GO Pass and GO Pass Deluxe for September will be available from September 8, 2026 at 10:00 am to October 6, 2026 at 10:00 am local time."
         }
     ],
     "Community Day": [
