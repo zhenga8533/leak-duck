@@ -8689,6 +8689,215 @@
             "start_time": "2026-08-04T10:00:00",
             "end_time": "2026-08-10T20:00:00",
             "description": "Fire up or chill out during Summer Marathon: Arctic Embers!\nThe Summer Marathon: Arctic Embers event will take place from August 4, 2026 at 10 am to August 10, 2026 at 8 pm."
+        },
+        {
+            "title": "Ultra Unlock: Water Festival",
+            "article_url": "https://leekduck.com/events/water-festival-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-18-water-festival-2026/water-festival-2026.jpg?v2",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
+                    "2× Candy for catching Pokémon",
+                    "2× XP for catching Pokémon.",
+                    "3× Stardust for catching Pokémon.",
+                    "3× XP for catching Pokémon.",
+                    "4× Stardust for catching Pokémon.",
+                    "4× XP for catching Pokémon.",
+                    "5× Stardust for catching Pokémon.",
+                    "Increased chance to encounter Shiny Ducklett and Shiny Dewpider",
+                    "Rainy Lure Modules will attract Arrokuda"
+                ],
+                "features": [
+                    {
+                        "name": "Arrokuda",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0846_000_mf_n_00000000_f_n.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Barraskewda",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0847_000_mf_n_00000000_f_n.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Cramorant",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm845.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Psyduck (Swim Ring)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm54.fSWIM_2025.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "spawns": [
+                    {
+                        "name": "Clamperl",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_366_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Corphish",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_341_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Dewpider",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm751.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Ducklett",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_580_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Feebas",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_349_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Frillish",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_592_01.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Goldeen",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_118_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Gyarados",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Magikarp",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mareanie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm747.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Marill",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_183_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Psyduck",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_054_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Tentacool",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_072_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Wailmer",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_320_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Wiglett",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0960_000_mf_n_00000000_f_n.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Wimpod",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm767.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "eggs": [
+                    {
+                        "name": "Azurill",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_298_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Cramorant",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm845.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Frillish",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_592_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mantyke",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_458_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "raids": [
+                    {
+                        "name": "Dondozo",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm977.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Hisuian Samurott",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm503.fHISUIAN.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Psyduck (Swim Ring)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm54.fSWIM_2025.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Scarf Lapras",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm131.fCOSTUME_2020.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Tatsugiri (Curly)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm978.fCURLY.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Tatsugiri (Droopy)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm978.fDROOPY.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Tatsugiri (Stretchy)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm978.fSTRETCHY.icon.png",
+                        "shiny_available": false
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Araquanid",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm752.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Dewpider",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm751.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Ducklett",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_580_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Swanna",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_581_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-18T10:00:00",
+            "end_time": "2026-08-24T20:00:00",
+            "description": "Arrokuda and Cramorant splash into Pokémon GO during Ultra Unlock: Water Festival!\nThe Ultra Unlock: Water Festival event will take place from August 18, 2026 at 10 am to August 24, 2026 at 8 pm local time."
         }
     ],
     "PokéStop Showcase": [
