@@ -1997,6 +1997,63 @@
             "start_time": "2026-08-12T06:00:00",
             "end_time": "2026-08-18T22:00:00",
             "description": "Mega Garchomp will be in Mega Raids from August 12, 2026 at 6 am to August 18, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Lunala in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/lunala-in-5-star-raid-battles-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/lunala.jpg?v2",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Lunala",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm792.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Lunala",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm792.s.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-19T06:00:00",
+            "end_time": "2026-08-25T22:00:00",
+            "description": "Lunala will be in five-star raid battles from August 19, 2026 to August 25, 2026.\nThere will also be a Raid Hour featuring Lunala from 6:00 pm to 7:00 pm local time on the following date:\n- August 19"
+        },
+        {
+            "title": "Mega Swampert in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-swampert-in-mega-raids-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Mega Swampert",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm260.fMEGA.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Mega Swampert",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm260.fMEGA.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Swampert",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_260_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-19T06:00:00",
+            "end_time": "2026-08-25T22:00:00",
+            "description": "Mega Swampert will be in Mega Raids from August 19, 2026 at 6 am to August 25, 2026 at 10 pm local time."
         }
     ],
     "Community Day": [
