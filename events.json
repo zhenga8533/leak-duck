@@ -699,15 +699,56 @@
             "description": "This unannounced event will take place from September 16, 2026 at 10 am to September 22, 2026 at 8 pm. Stay tuned for more details."
         },
         {
-            "title": "Catch Mastery",
-            "article_url": "https://leekduck.com/events/catch-mastery-september-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "title": "Phantump Catch Mastery",
+            "article_url": "https://leekduck.com/events/catch-mastery-phantump-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-26-catch-mastery-phantump-2026/phantump-catch-mastery.jpg",
             "category": "Event",
-            "details": {},
+            "details": {
+                "bonuses": [
+                    "2× XP for successfully catching Pokémon with Nice Throws or better",
+                    "Increased Candy for successfully catching Pokémon with Nice Throws or better"
+                ],
+                "features": [
+                    {
+                        "name": "Phantump",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm708.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "spawns": [
+                    {
+                        "name": "Cherubi",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_420_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Drifloon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_425_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Cherubi",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_420_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Drifloon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_425_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Phantump",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm708.s.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-09-26T10:00:00",
             "end_time": "2026-09-26T20:00:00",
-            "description": "The Catch Mastery event will take place on September 26, 2026 from 10 am to 8 pm. Stay tuned for more details."
+            "description": "Get ready for a Catch Mastery event featuring Phantump, the Stump Pokémon!"
         },
         {
             "title": "LEGO Stores and Pokémon GO",
