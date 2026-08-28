@@ -1,108 +1,4 @@
 {
-    "Pokémon Spotlight Hour": [
-        {
-            "title": "Mankey Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-08-27/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    {
-                        "name": "Mankey",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_056_00.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-27T18:00:00",
-            "end_time": "2026-08-27T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time on Thursday.\nAugust 27: The featured Pokémon is Mankey and the special bonus is 2× Catch Candy."
-        },
-        {
-            "title": "Weedle, Kakuna, and Beedrill Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-09-10/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    {
-                        "name": "Beedrill",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_015_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Kakuna",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_014_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Weedle",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_013_00.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-09-10T18:00:00",
-            "end_time": "2026-09-10T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nSeptember 10: The featured Pokémon are Weedle, Kakuna, and Beedrill and the special bonus is 2× Transfer Candy."
-        },
-        {
-            "title": "Houndour and Houndoom Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-09-13/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    {
-                        "name": "Houndoom",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Houndour",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-09-13T18:00:00",
-            "end_time": "2026-09-13T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nSeptember 13: The featured Pokémon are Houndour and Houndoom and the special bonus is 2× Transfer Candy."
-        },
-        {
-            "title": "Mystery Pokémon Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-09-17/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-09-17T18:00:00",
-            "end_time": "2026-09-17T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature an unannounced Pokémon and a special bonus for one hour at 6:00 p.m. local time.\nSeptember 17: The featured Pokémon has not yet been announced, and the special bonus is 2× Catch Stardust."
-        },
-        {
-            "title": "Rattata Spotlight Hour",
-            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-09-24/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-            "category": "Pokémon Spotlight Hour",
-            "details": {
-                "spawns": [
-                    {
-                        "name": "Rattata",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_019_00.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-09-24T18:00:00",
-            "end_time": "2026-09-24T19:00:00",
-            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nThere will be an increased chance to encounter XXS Rattata.\nSeptember 24: The featured Pokémon is Rattata and the special bonus is 2× Evolution XP."
-        }
-    ],
     "Research": [
         {
             "title": "Twitch Drops for 2026 Pokémon World Championships",
@@ -2552,6 +2448,91 @@
             "start_time": "2026-09-30T06:00:00",
             "end_time": "2026-10-06T22:00:00",
             "description": "Xerneas will be in five-star raid battles from September 30, 2026 to October 6, 2026.\nThere will also be a Raid Hour featuring Xerneas from 6:00 p.m. to 7:00 p.m. local time on September 30."
+        }
+    ],
+    "Pokémon Spotlight Hour": [
+        {
+            "title": "Weedle, Kakuna, and Beedrill Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-09-10/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    {
+                        "name": "Beedrill",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_015_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Kakuna",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_014_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Weedle",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_013_00.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-09-10T18:00:00",
+            "end_time": "2026-09-10T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nSeptember 10: The featured Pokémon are Weedle, Kakuna, and Beedrill and the special bonus is 2× Transfer Candy."
+        },
+        {
+            "title": "Houndour and Houndoom Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-09-13/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    {
+                        "name": "Houndoom",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Houndour",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-09-13T18:00:00",
+            "end_time": "2026-09-13T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nSeptember 13: The featured Pokémon are Houndour and Houndoom and the special bonus is 2× Transfer Candy."
+        },
+        {
+            "title": "Mystery Pokémon Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-09-17/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-09-17T18:00:00",
+            "end_time": "2026-09-17T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature an unannounced Pokémon and a special bonus for one hour at 6:00 p.m. local time.\nSeptember 17: The featured Pokémon has not yet been announced, and the special bonus is 2× Catch Stardust."
+        },
+        {
+            "title": "Rattata Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-09-24/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    {
+                        "name": "Rattata",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_019_00.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-09-24T18:00:00",
+            "end_time": "2026-09-24T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nThere will be an increased chance to encounter XXS Rattata.\nSeptember 24: The featured Pokémon is Rattata and the special bonus is 2× Evolution XP."
         }
     ],
     "Community Day": [
