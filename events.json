@@ -33,6 +33,21 @@
                         "shiny_available": true
                     },
                     {
+                        "name": "Deoxys (Attack)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_12.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Deoxys (Defense)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_13.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Deoxys (Speed)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_14.png",
+                        "shiny_available": true
+                    },
+                    {
                         "name": "Dewgong",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_087_00.png",
                         "shiny_available": true
@@ -53,8 +68,18 @@
                         "shiny_available": true
                     },
                     {
+                        "name": "Pikachu wearing a Cosmog-themed spacesuit",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fPXP_2026.icon.png",
+                        "shiny_available": true
+                    },
+                    {
                         "name": "Rayquaza",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_384_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "World Championships 2026 Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fWCS_2026.icon.png",
                         "shiny_available": true
                     },
                     {
