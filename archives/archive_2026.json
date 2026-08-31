@@ -8955,6 +8955,87 @@
             "start_time": "2026-08-18T10:00:00",
             "end_time": "2026-08-24T20:00:00",
             "description": "Arrokuda and Cramorant splash into Pokémon GO during Ultra Unlock: Water Festival!\nThe Ultra Unlock: Water Festival event will take place from August 18, 2026 at 10 am to August 24, 2026 at 8 pm local time."
+        },
+        {
+            "title": "[San Francisco] 2026 Pokémon World Championships",
+            "article_url": "https://leekduck.com/events/pokemon-world-championships-2026-san-francisco/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-28-pokemon-world-championships-2026-san-francisco/2026-worlds-san-francisco.png",
+            "category": "Event",
+            "details": {
+                "features": [
+                    {
+                        "name": "Pikachu wearing a Cosmog-themed spacesuit",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fPXP_2026.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "raids": [
+                    {
+                        "name": "Alolan Exeggutor",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_103_61.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Deoxys (Attack)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_12.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Deoxys (Defense)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_13.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Deoxys (Speed)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_14.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Dewgong",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_087_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Duraludon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm884.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Fuecoco",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm909.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Kingler",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_099_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Pikachu wearing a Cosmog-themed spacesuit",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fPXP_2026.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Rayquaza",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_384_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "World Championships 2026 Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fWCS_2026.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Zigzagoon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_263_00.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": false,
+            "start_time": 1787936400,
+            "end_time": 1788145200,
+            "description": "Special in-person Pokémon GO activities are available around San Francisco during the 2026 Pokémon World Championships. Explore the city for a Stamp Rally, location-themed raids with guaranteed Location Backgrounds, and exclusive research.\nThe event runs from Friday, August 28, at 10:00 a.m. to Sunday, August 30, 2026, at 8:00 p.m. PDT."
         }
     ],
     "PokéStop Showcase": [
@@ -11757,6 +11838,17 @@
             "start_time": 1781272800,
             "end_time": 1781578740,
             "description": "Get codes for exclusive Timed Research and a Battle Bundle during the 2026 Pokémon North American International Championships Twitch broadcast.\nWhen P4T0M4N reached the top at the 2026 Pokémon GO Europe International Championships, he had his faithful Seaking helping him along the way. Watch the 2026 NAIC stream, and you can get one of your own to join your team.\nTune in to Twitch.tv/PokemonGO during NAIC or the Grand Finals on Twitch.tv/Pokemon, and you’ll earn rewards the longer you watch. Here’s what you can get:\nWatch for 30 minutes: Unique Timed Research that includes the following.\n- An encounter with a Seaking that knows the move Icy Wind\n- 20 Goldeen Candy XL\n- 10 Charged TMs\n- 10 Fast TMs\nWatch for 45 minutes: An NAIC Battle Bundle that includes the following.\n- 1 Elite Charged TM\n- 1 Rare Candy XL\n- 25 Charged TMs\n- 25 Fast TMs\nBoth redemptions must be claimed by June 26, 2026, at 8:00 p.m. PDT.\nFind more information on the Timed Research from the Twitch Drops in the Research section."
+        },
+        {
+            "title": "Twitch Drops for 2026 Pokémon World Championships",
+            "article_url": "https://leekduck.com/events/pokemon-world-championships-2026-timed-research-twitch-drops/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-28-pokemon-world-championships-2026-timed-research-twitch-drops/2026-worlds-go-drops.jpg",
+            "category": "Research",
+            "details": {},
+            "is_local_time": false,
+            "start_time": 1787932800,
+            "end_time": 1788145200,
+            "description": "Get codes for exclusive Timed Research, a Worlds Tee avatar item, and special Pikachu encounters by tuning in to the 2026 Pokémon World Championships and PokémonXP livestreams.\nTrainers can earn up to five Pokémon GO rewards across the official Pokémon GO broadcast, the Pokémon World Championships finals stream, official co-streamers, and the PokémonXP Pokémon GO panel. Here’s everything you can unlock."
         }
     ],
     "Pokémon GO Tour": [
