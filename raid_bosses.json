@@ -1,24 +1,4 @@
 {
-    "5-Star Raids": [
-        {
-            "name": "Shadow Giratina (Altered)",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm487.fALTERED.icon.png",
-            "tier": 5,
-            "cp_range": {
-                "min": 1782,
-                "max": 1931
-            },
-            "boosted_cp_range": {
-                "min": 2228,
-                "max": 2414
-            },
-            "types": [
-                "Ghost",
-                "Dragon"
-            ]
-        }
-    ],
     "Mega Raids": [
         {
             "name": "Mega Gyarados",
@@ -162,6 +142,26 @@
             "types": [
                 "Ghost",
                 "Fire"
+            ]
+        }
+    ],
+    "5-Star Raids": [
+        {
+            "name": "Shadow Giratina (Altered)",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm487.fALTERED.icon.png",
+            "tier": 5,
+            "cp_range": {
+                "min": 1782,
+                "max": 1931
+            },
+            "boosted_cp_range": {
+                "min": 2228,
+                "max": 2414
+            },
+            "types": [
+                "Ghost",
+                "Dragon"
             ]
         }
     ]
