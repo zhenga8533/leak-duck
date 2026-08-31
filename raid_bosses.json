@@ -1,24 +1,4 @@
 {
-    "Mega Raids": [
-        {
-            "name": "Mega Gyarados",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm130.fMEGA.icon.png",
-            "tier": "Mega Raids",
-            "cp_range": {
-                "min": 1855,
-                "max": 1937
-            },
-            "boosted_cp_range": {
-                "min": 2319,
-                "max": 2422
-            },
-            "types": [
-                "Water",
-                "Dark"
-            ]
-        }
-    ],
     "1-Star Raids": [
         {
             "name": "Shadow Slowpoke",
@@ -142,6 +122,98 @@
             "types": [
                 "Ghost",
                 "Fire"
+            ]
+        }
+    ],
+    "Mega Raids": [
+        {
+            "name": "Mega Victreebel",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm71.fMEGA.icon.png",
+            "tier": "Mega Raids",
+            "cp_range": {
+                "min": 1318,
+                "max": 1389
+            },
+            "boosted_cp_range": {
+                "min": 1648,
+                "max": 1736
+            },
+            "types": [
+                "Grass",
+                "Poison"
+            ]
+        },
+        {
+            "name": "Mega Dragonite",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm149.fMEGA.icon.png",
+            "tier": "Mega Raids",
+            "cp_range": {
+                "min": 2079,
+                "max": 2167
+            },
+            "boosted_cp_range": {
+                "min": 2599,
+                "max": 2709
+            },
+            "types": [
+                "Dragon",
+                "Flying"
+            ]
+        },
+        {
+            "name": "Mega Malamar",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm687.fMEGA.icon.png",
+            "tier": "Mega Raids",
+            "cp_range": {
+                "min": 1279,
+                "max": 1347
+            },
+            "boosted_cp_range": {
+                "min": 1599,
+                "max": 1685
+            },
+            "types": [
+                "Dark",
+                "Psychic"
+            ]
+        },
+        {
+            "name": "Mega Latias",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm380.fMEGA.icon.png",
+            "tier": "Mega Raids",
+            "cp_range": {
+                "min": 1921,
+                "max": 2006
+            },
+            "boosted_cp_range": {
+                "min": 2402,
+                "max": 2507
+            },
+            "types": [
+                "Dragon",
+                "Psychic"
+            ]
+        },
+        {
+            "name": "Mega Latios",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm381.fMEGA.icon.png",
+            "tier": "Mega Raids",
+            "cp_range": {
+                "min": 2090,
+                "max": 2178
+            },
+            "boosted_cp_range": {
+                "min": 2613,
+                "max": 2723
+            },
+            "types": [
+                "Dragon",
+                "Psychic"
             ]
         }
     ],
