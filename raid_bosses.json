@@ -127,57 +127,20 @@
     ],
     "Mega Raids": [
         {
-            "name": "Mega Victreebel",
+            "name": "Mega Falinks",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm71.fMEGA.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm870.fMEGA.icon.png",
             "tier": "Mega Raids",
             "cp_range": {
-                "min": 1318,
-                "max": 1389
-            },
-            "boosted_cp_range": {
-                "min": 1648,
-                "max": 1736
-            },
-            "types": [
-                "Grass",
-                "Poison"
-            ]
-        },
-        {
-            "name": "Mega Dragonite",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm149.fMEGA.icon.png",
-            "tier": "Mega Raids",
-            "cp_range": {
-                "min": 2079,
-                "max": 2167
-            },
-            "boosted_cp_range": {
-                "min": 2599,
-                "max": 2709
-            },
-            "types": [
-                "Dragon",
-                "Flying"
-            ]
-        },
-        {
-            "name": "Mega Malamar",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm687.fMEGA.icon.png",
-            "tier": "Mega Raids",
-            "cp_range": {
-                "min": 1279,
+                "min": 1278,
                 "max": 1347
             },
             "boosted_cp_range": {
-                "min": 1599,
-                "max": 1685
+                "min": 1598,
+                "max": 1683
             },
             "types": [
-                "Dark",
-                "Psychic"
+                "Fighting"
             ]
         },
         {
