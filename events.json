@@ -2554,15 +2554,33 @@
     ],
     "Raid Day": [
         {
-            "title": "Super Mega Raid Day",
-            "article_url": "https://leekduck.com/events/super-mega-raid-day-september-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "title": "Staraptor Super Mega Raid Day",
+            "article_url": "https://leekduck.com/events/staraptor-super-mega-raid-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-19-staraptor-super-mega-raid-day-2026/staraptor-super-mega-raid-day-2026.jpg",
             "category": "Raid Day",
-            "details": {},
+            "details": {
+                "bonuses": [
+                    "An additional 5,000 Stardust from Super Mega Raid Battles",
+                    "An additional 5,000 XP from Super Mega Raid Battles",
+                    "Increased chance of encountering Shiny Staraptor from Super Mega Raids",
+                    "Increased chance to get Rare Candy XL from Raid Battles",
+                    "Receive up to 14 Raid Passes from spinning Gym Photo Discs",
+                    "Receive up to six free Raid Passes from spinning Gym Photo Discs",
+                    "Remote Raid limit increased to 20 from Friday, September 18, at 5:00 p.m. to Saturday, September 19, 2026, at 8:00 p.m. PDT",
+                    "Staraptor caught from Super Mega Raids will have Mega Level 1 unlocked"
+                ],
+                "shiny": [
+                    {
+                        "name": "Staraptor",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_398_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-09-19T14:00:00",
             "end_time": "2026-09-19T17:00:00",
-            "description": "The Super Mega Raid Day event will take place on September 19, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+            "description": "Ready yourself to courageously challenge Staraptor Super Mega Raid Day!"
         },
         {
             "title": "Super Mega Raid Day",
