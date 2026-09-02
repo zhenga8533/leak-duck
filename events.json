@@ -464,15 +464,126 @@
             "description": "Pick up where Mega Finale leaves off, and get energized for the Mega Squads event!\nThe Mega Squads event will take place from September 8, 2026 at 10 am to September 14, 2026 at 8 pm local time."
         },
         {
-            "title": "Unannounced Event",
-            "article_url": "https://leekduck.com/events/unannounced-september-event-season-24/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "title": "Pokémon Horizons: The Series Celebration Event",
+            "article_url": "https://leekduck.com/events/pokemon-horizons-the-series-celebration-event-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-16-pokemon-horizons-the-series-celebration-event-2026/pokemon-horizons-celebration-event-2026.jpg",
             "category": "Event",
-            "details": {},
+            "details": {
+                "bonuses": [
+                    "2× Candy for catching Pokémon",
+                    "Additional Stardust for catching Hatenna and Wattrel",
+                    "GO Pass Deluxe: 3× Candy for catching Pokémon",
+                    "Increased chance to encounter Kecleon at PokéStops",
+                    "Regular Lure Modules will last for one hour and may attract the featured Pokémon"
+                ],
+                "features": [
+                    {
+                        "name": "Charizard wearing Friede's goggles",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Charmander wearing Friede's goggles",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Charmeleon wearing Friede's goggles",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_005_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "spawns": [
+                    {
+                        "name": "Captain's Cap Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fHORIZONS.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Chansey",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_113_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Charmander wearing Friede's goggles",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Eevee",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_133_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Fidough",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm926.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Hatenna",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm856.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Rockruff",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm744.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Wattrel",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm940.icon.png",
+                        "shiny_available": false
+                    }
+                ],
+                "raids": [
+                    {
+                        "name": "Captain's Cap Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fHORIZONS.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Charizard wearing Friede's goggles",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Meowscarada",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm908.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Quaquaval",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm914.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Skeledirge",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm911.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Charizard wearing Friede's goggles",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Charmander wearing Friede's goggles",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Charmeleon wearing Friede's goggles",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_005_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-09-16T10:00:00",
             "end_time": "2026-09-22T20:00:00",
-            "description": "This unannounced event will take place from September 16, 2026 at 10 am to September 22, 2026 at 8 pm. Stay tuned for more details."
+            "description": "The Pokémon Horizons: The Series Celebration Event returns to Pokémon GO with the debut of Charmander wearing Friede’s goggles and its Evolutions!\nUS fans can watch Pokémon Horizons: Season 3—Rising Hope on Netflix now. For more information, visit the Pokémon Horizons website.\nUK fans can watch Pokémon Horizons: Season 3—Rising Hope on BBC iPlayer. For more information, visit the Pokémon animation website.\nFor fans in other regions, please check availability with your local providers."
         },
         {
             "title": "Phantump Catch Mastery",
