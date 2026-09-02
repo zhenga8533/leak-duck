@@ -127,20 +127,21 @@
     ],
     "Mega Raids": [
         {
-            "name": "Mega Falinks",
+            "name": "Mega Skarmory",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm870.fMEGA.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm227.fMEGA.icon.png",
             "tier": "Mega Raids",
             "cp_range": {
-                "min": 1278,
-                "max": 1347
+                "min": 1139,
+                "max": 1204
             },
             "boosted_cp_range": {
-                "min": 1598,
-                "max": 1683
+                "min": 1424,
+                "max": 1506
             },
             "types": [
-                "Fighting"
+                "Steel",
+                "Flying"
             ]
         },
         {
