@@ -1,21 +1,37 @@
 {
     "Mega Raids": [
         {
-            "name": "Mega Starmie",
+            "name": "Mega Raichu X",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Starmie.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm26.fMEGA_X.icon.png",
             "tier": "Mega Raids",
             "cp_range": {
-                "min": 1404,
-                "max": 1476
+                "min": 1180,
+                "max": 1247
             },
             "boosted_cp_range": {
-                "min": 1756,
-                "max": 1846
+                "min": 1476,
+                "max": 1558
             },
             "types": [
-                "Water",
-                "Psychic"
+                "Electric"
+            ]
+        },
+        {
+            "name": "Mega Raichu Y",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm26.fMEGA_Y.icon.png",
+            "tier": "Mega Raids",
+            "cp_range": {
+                "min": 1180,
+                "max": 1247
+            },
+            "boosted_cp_range": {
+                "min": 1476,
+                "max": 1558
+            },
+            "types": [
+                "Electric"
             ]
         },
         {
