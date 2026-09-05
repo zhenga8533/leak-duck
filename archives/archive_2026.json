@@ -9405,6 +9405,177 @@
             "start_time": "2026-08-25T10:00:00",
             "end_time": "2026-08-30T20:00:00",
             "description": "Celebrate PokémonXP and the 2026 Pokémon World Championships in Pokémon GO!\nThe PokémonXP & 2026 Worlds event will take place from August 25, 2026 at 10 am to August 30, 2026 at 8 pm local time.\nPokémonXP: Tuesday, August 25, at 10:00 a.m. to Friday, August 28, 2026, at 10:00 a.m. local time.\n2026 Pokémon World Championships: Friday, August 28, at 10:00 a.m. to Sunday, August 30, at 8:00 p.m. local time."
+        },
+        {
+            "title": "Mega Ascension",
+            "article_url": "https://leekduck.com/events/mega-ascension/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-31-mega-ascension/mega-ascension.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "Remote Raid Pass limit increased to 30 from Monday, August 31, to Friday, September 4, 2026"
+                ],
+                "spawns": [
+                    {
+                        "name": "Bellsprout",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_069_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Chespin",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_650_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Dratini",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_147_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Falinks",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm870.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Fennekin",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_653_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Froakie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_656_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Inkay",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_686_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Skarmory",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_227_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Staryu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_120_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "raids": [
+                    {
+                        "name": "Mega Dragonite",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm149.fMEGA.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Falinks",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm870.fMEGA.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Latias",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm380.fMEGA.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Latios",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm381.fMEGA.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Malamar",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm687.fMEGA.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Raichu X",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm26.fMEGA_X.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Raichu Y",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm26.fMEGA_Y.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Skarmory",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Skarmory.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Starmie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Starmie.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Victreebel",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm71.fMEGA.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Mega Dragonite",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm149.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Falinks",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm870.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Latias",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm380.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Latios",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm381.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Malamar",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm687.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Raichu X",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm26.fMEGA_X.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Raichu Y",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm26.fMEGA_Y.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Skarmory",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/Shiny Mega Skarmory.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Starmie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/Shiny Mega Starmie.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Victreebel",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm71.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-31T10:00:00",
+            "end_time": "2026-09-04T23:59:00",
+            "description": "Signs of an extraordinary mega-powered week are beginning to appear. Join Mega Ascension to prepare for Pokémon GO Fest 2026: Mega Finale with Mega Raids, Kalos first partner Pokémon, and GO Pass: Mega Finale!\nThe Mega Ascension event will take place from August 31, 2026 at 10 am to September 4, 2026 at 11 pm local time."
         }
     ],
     "PokéStop Showcase": [
