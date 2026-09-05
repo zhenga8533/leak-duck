@@ -1,73 +1,115 @@
 {
+    "Super Mega Raids": [
+        {
+            "name": "Mega Mewtwo X",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm150.fMEGA_X.icon.png",
+            "tier": "Super Mega Raids",
+            "cp_range": {
+                "min": 2294,
+                "max": 2387
+            },
+            "boosted_cp_range": {
+                "min": 2868,
+                "max": 2984
+            },
+            "types": [
+                "Psychic",
+                "Fighting"
+            ]
+        }
+    ],
     "Mega Raids": [
         {
-            "name": "Mega Raichu X",
+            "name": "Mega Beedrill",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm26.fMEGA_X.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm15.fMEGA.icon.png",
             "tier": "Mega Raids",
             "cp_range": {
-                "min": 1180,
-                "max": 1247
+                "min": 994,
+                "max": 1054
             },
             "boosted_cp_range": {
-                "min": 1476,
-                "max": 1558
+                "min": 1242,
+                "max": 1318
             },
             "types": [
-                "Electric"
+                "Bug",
+                "Poison"
             ]
         },
         {
-            "name": "Mega Raichu Y",
+            "name": "Mega Victreebel",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm26.fMEGA_Y.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm71.fMEGA.icon.png",
             "tier": "Mega Raids",
             "cp_range": {
-                "min": 1180,
-                "max": 1247
+                "min": 1318,
+                "max": 1389
             },
             "boosted_cp_range": {
-                "min": 1476,
-                "max": 1558
+                "min": 1648,
+                "max": 1736
             },
             "types": [
-                "Electric"
+                "Grass",
+                "Poison"
             ]
         },
         {
-            "name": "Mega Latias",
+            "name": "Mega Pinsir",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm380.fMEGA.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm127.fMEGA.icon.png",
             "tier": "Mega Raids",
             "cp_range": {
-                "min": 1921,
-                "max": 2006
+                "min": 1613,
+                "max": 1690
             },
             "boosted_cp_range": {
-                "min": 2402,
-                "max": 2507
+                "min": 2016,
+                "max": 2113
             },
             "types": [
-                "Dragon",
-                "Psychic"
+                "Bug",
+                "Flying"
             ]
         },
         {
-            "name": "Mega Latios",
+            "name": "Mega Abomasnow",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm381.fMEGA.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm460.fMEGA.icon.png",
             "tier": "Mega Raids",
             "cp_range": {
-                "min": 2090,
-                "max": 2178
+                "min": 1281,
+                "max": 1349
             },
             "boosted_cp_range": {
-                "min": 2613,
-                "max": 2723
+                "min": 1601,
+                "max": 1687
             },
             "types": [
-                "Dragon",
-                "Psychic"
+                "Grass",
+                "Ice"
+            ]
+        }
+    ],
+    "5-Star Raids": [
+        {
+            "name": "Shadow Giratina (Altered)",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm487.fALTERED.icon.png",
+            "tier": 5,
+            "cp_range": {
+                "min": 1782,
+                "max": 1931
+            },
+            "boosted_cp_range": {
+                "min": 2228,
+                "max": 2414
+            },
+            "types": [
+                "Ghost",
+                "Dragon"
             ]
         }
     ],
@@ -194,26 +236,6 @@
             "types": [
                 "Ghost",
                 "Fire"
-            ]
-        }
-    ],
-    "5-Star Raids": [
-        {
-            "name": "Shadow Giratina (Altered)",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm487.fALTERED.icon.png",
-            "tier": 5,
-            "cp_range": {
-                "min": 1782,
-                "max": 1931
-            },
-            "boosted_cp_range": {
-                "min": 2228,
-                "max": 2414
-            },
-            "types": [
-                "Ghost",
-                "Dragon"
             ]
         }
     ]
