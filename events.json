@@ -1167,7 +1167,7 @@
                     {
                         "name": "Mega Slowbro",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_080_51.png",
-                        "shiny_available": false
+                        "shiny_available": true
                     },
                     {
                         "name": "Mega Starmie",
