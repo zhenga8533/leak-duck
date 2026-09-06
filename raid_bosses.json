@@ -1,9 +1,9 @@
 {
     "Super Mega Raids": [
         {
-            "name": "Mega Mewtwo X",
+            "name": "Mega Mewtwo Y",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm150.fMEGA_X.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm150.fMEGA_Y.icon.png",
             "tier": "Super Mega Raids",
             "cp_range": {
                 "min": 2294,
@@ -14,62 +14,79 @@
                 "max": 2984
             },
             "types": [
-                "Psychic",
-                "Fighting"
+                "Psychic"
             ]
         }
     ],
     "Mega Raids": [
         {
-            "name": "Mega Raichu X",
+            "name": "Mega Steelix",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm26.fMEGA_X.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm208.fMEGA.icon.png",
             "tier": "Mega Raids",
             "cp_range": {
-                "min": 1180,
-                "max": 1247
+                "min": 1308,
+                "max": 1379
             },
             "boosted_cp_range": {
-                "min": 1476,
-                "max": 1558
+                "min": 1635,
+                "max": 1724
             },
             "types": [
-                "Electric"
+                "Steel",
+                "Ground"
             ]
         },
         {
-            "name": "Mega Ampharos",
+            "name": "Mega Skarmory",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm181.fMEGA.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm227.fMEGA.icon.png",
             "tier": "Mega Raids",
             "cp_range": {
-                "min": 1554,
-                "max": 1630
+                "min": 1139,
+                "max": 1204
             },
             "boosted_cp_range": {
-                "min": 1943,
-                "max": 2037
+                "min": 1424,
+                "max": 1506
             },
             "types": [
-                "Electric",
-                "Dragon"
+                "Steel",
+                "Flying"
             ]
         },
         {
-            "name": "Mega Manectric",
+            "name": "Mega Aggron",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm310.fMEGA.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm306.fMEGA.icon.png",
             "tier": "Mega Raids",
             "cp_range": {
-                "min": 1267,
-                "max": 1337
+                "min": 1636,
+                "max": 1714
             },
             "boosted_cp_range": {
-                "min": 1585,
-                "max": 1672
+                "min": 2045,
+                "max": 2143
             },
             "types": [
-                "Electric"
+                "Steel"
+            ]
+        },
+        {
+            "name": "Mega Glalie",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm362.fMEGA.icon.png",
+            "tier": "Mega Raids",
+            "cp_range": {
+                "min": 1138,
+                "max": 1203
+            },
+            "boosted_cp_range": {
+                "min": 1423,
+                "max": 1504
+            },
+            "types": [
+                "Ice"
             ]
         }
     ],
