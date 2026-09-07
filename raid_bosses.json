@@ -20,73 +20,74 @@
     ],
     "Mega Raids": [
         {
-            "name": "Mega Steelix",
+            "name": "Mega Raichu Y",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm208.fMEGA.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm26.fMEGA_Y.icon.png",
             "tier": "Mega Raids",
             "cp_range": {
-                "min": 1308,
-                "max": 1379
+                "min": 1180,
+                "max": 1247
             },
             "boosted_cp_range": {
-                "min": 1635,
-                "max": 1724
+                "min": 1476,
+                "max": 1558
+            },
+            "types": [
+                "Electric"
+            ]
+        },
+        {
+            "name": "Mega Sableye",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm302.fMEGA.icon.png",
+            "tier": "Mega Raids",
+            "cp_range": {
+                "min": 789,
+                "max": 843
+            },
+            "boosted_cp_range": {
+                "min": 986,
+                "max": 1054
+            },
+            "types": [
+                "Dark",
+                "Ghost"
+            ]
+        },
+        {
+            "name": "Mega Mawile",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm303.fMEGA.icon.png",
+            "tier": "Mega Raids",
+            "cp_range": {
+                "min": 877,
+                "max": 934
+            },
+            "boosted_cp_range": {
+                "min": 1096,
+                "max": 1167
             },
             "types": [
                 "Steel",
-                "Ground"
+                "Fairy"
             ]
         },
         {
-            "name": "Mega Skarmory",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm227.fMEGA.icon.png",
+            "name": "Mega Audino",
+            "shiny_available": false,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm531.fMEGA.icon.png",
             "tier": "Mega Raids",
             "cp_range": {
-                "min": 1139,
-                "max": 1204
+                "min": 901,
+                "max": 961
             },
             "boosted_cp_range": {
-                "min": 1424,
-                "max": 1506
+                "min": 1127,
+                "max": 1201
             },
             "types": [
-                "Steel",
-                "Flying"
-            ]
-        },
-        {
-            "name": "Mega Aggron",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm306.fMEGA.icon.png",
-            "tier": "Mega Raids",
-            "cp_range": {
-                "min": 1636,
-                "max": 1714
-            },
-            "boosted_cp_range": {
-                "min": 2045,
-                "max": 2143
-            },
-            "types": [
-                "Steel"
-            ]
-        },
-        {
-            "name": "Mega Glalie",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm362.fMEGA.icon.png",
-            "tier": "Mega Raids",
-            "cp_range": {
-                "min": 1138,
-                "max": 1203
-            },
-            "boosted_cp_range": {
-                "min": 1423,
-                "max": 1504
-            },
-            "types": [
-                "Ice"
+                "Normal",
+                "Fairy"
             ]
         }
     ],
