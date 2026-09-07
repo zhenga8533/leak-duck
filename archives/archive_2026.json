@@ -2054,6 +2054,25 @@
             "start_time": "2026-08-19T06:00:00",
             "end_time": "2026-08-25T22:00:00",
             "description": "Mega Swampert will be in Mega Raids from August 19, 2026 at 6 am to August 25, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Armored Mewtwo in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/armored-mewtwo-in-5-star-raid-battles-september-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/armored-mewtwo-mega-finale-2026.png",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Armored Mewtwo",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_pm0150_00_pgo_a.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-09-05T10:00:00",
+            "end_time": "2026-09-06T18:00:00",
+            "description": "Armored Mewtwo is back! Last seen in 2020, Armored Mewtwo will return to five-star Raid Battles for a limited time during Pokémon GO Fest 2026: Mega Finale.\nArmored Mewtwo will appear in five-star raids on both Saturday, September 5, and Sunday, September 6, 2026, from 10:00 a.m. to 6:00 p.m. local time."
         }
     ],
     "Community Day": [
@@ -16697,6 +16716,744 @@
             "start_time": "2026-07-26T10:00:00",
             "end_time": "2026-07-26T19:00:00",
             "description": "Before 10:00 a.m. and after 7:00 p.m. local time, raids will feature the Pokémon GO 10th Anniversary event lineup, including Solgaleo and Mega Salamence.\nUPDATE from Scopely:\nWe previously announced a special GO Fest 2026: Global Sunday raid event in select regions. Upon further investigation, we have found that the impact of technical issues related to raids was more widespread than initially thought. Therefore, we will expand the event globally to include all Trainers. The event will take place on Sunday, July 26, 2026, from 10:00 a.m. to 7:00 p.m. local time.\nAdditionally, we appreciate your extended patience as we work through these updates. As a token of our gratitude and sincere apology for the confusion we have caused, we have increased the number of free Raid Passes from 9 to 12 for this event.\nAs compensation for a technical issue that prevented some Trainers from joining Raid Battles during Pokémon GO Fest 2026: Global, a special Sunday raid makeup event will be held on July 26, 2026 from 10 am to 7 pm local time.\nRaid Bosses featured during the original Sunday of GO Fest 2026: Global—including Mega Mewtwo Y Super Mega Raids—will appear!"
+        },
+        {
+            "title": "Pokémon GO Fest 2026: Mega Finale",
+            "article_url": "https://leekduck.com/events/pokemon-go-fest-2026-mega-finale/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-05-pokemon-go-fest-2026-mega-finale/pokemon-go-fest-2026-mega-finale.jpg",
+            "category": "Pokémon GO Fest",
+            "details": {
+                "bonuses": [
+                    "All Mega-Evolved Pokémon will receive an extra CP boost from Saturday, September 5, to Sunday, September 6, 2026",
+                    "Bonus Candy, Candy XL, and XP from Mega Raids",
+                    "Increased chance of encountering Shiny Pokémon from certain Mega Raids and event Pokémon encounters",
+                    "No limit on Remote Raids from Saturday, September 5, to Sunday, September 6, 2026",
+                    "Premier Balls have an increased catch rate",
+                    "Up to two additional free Raid Passes for all Trainers on Day 2 (Sunday, September 6)"
+                ],
+                "features": [
+                    {
+                        "name": "Armored Mewtwo",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_pm0150_00_pgo_a.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Chesnaught",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm652.fMEGA.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Delphox",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm655.fMEGA.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Greninja",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm658.fMEGA.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Mewtwo X",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm150.fMEGA_X.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Mewtwo Y",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm150.fMEGA_Y.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "spawns": [
+                    {
+                        "name": "Abra",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_063_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Aerodactyl",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_142_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Amaura",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm698.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Aron",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_304_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Audino",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_531_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Bagon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_371_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Beldum",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_374_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Bellsprout",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_069_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Bergmite",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm712.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Binacle",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_688_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Buneary",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_427_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Carbink",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm703.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Carvanha",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_318_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Chespin",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_650_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Clauncher",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_692_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Clefairy",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_035_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Dedenne",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_702_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Dratini",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_147_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Drilbur",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_529_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Electrike",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Emolga",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_587_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Espurr",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_677_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Falinks",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm870.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Fennekin",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_653_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Fletchling",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_661_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Froakie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_656_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Furfrou (Natural)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm676.fNATURAL.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Gastly",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Helioptile",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm694.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Houndour",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Inkay",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_686_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Litwick",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_607_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Machop",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_066_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Magikarp",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_129_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mareep",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_179_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mawile",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_303_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Meditite",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_307_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Noibat",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_714_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Numel",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_322_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Onix",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_095_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Pancham",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_674_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Phantump",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm708.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Pinsir",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_127_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Pumpkaboo (Medium)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm710.fAVERAGE.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Ralts",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_280_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Roselia",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_315_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Sableye",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Sandile",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_551_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Scraggy",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_559_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Scyther",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_123_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Shuppet",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_353_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Skarmory",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_227_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Skiddo",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm672.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Slowpoke",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Snorunt",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_361_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Snover",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_459_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Spritzee",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_682_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Staryu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_120_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Stunfisk",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_618_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Swablu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_333_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Tynamo",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_602_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Tyrunt",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm696.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Venipede",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_543_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Weedle",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_013_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Zorua",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm570.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "raids": [
+                    {
+                        "name": "Armored Mewtwo",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_pm0150_00_pgo_a.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Abomasnow",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_460_51.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Aerodactyl",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm142.fMEGA.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Aggron",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm306.fMEGA.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Alakazam",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_065_51.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Altaria",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_334_51.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Ampharos",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_181_51.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Audino",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm531.fMEGA.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Banette",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm354.fMEGA.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Beedrill",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_015_51.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Camerupt",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm323.fMEGA.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Dragonite",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm149.fMEGA.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Falinks",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm870.fMEGA.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Gengar",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_51.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Glalie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm362.fMEGA.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Gyarados",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_51.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Houndoom",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_51.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Lopunny",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_428_51.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Malamar",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm687.fMEGA.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Manectric",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_310_51.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Mawile",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_303_51.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Medicham",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm308.fMEGA.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Mewtwo X",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm150.fMEGA_X.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Mewtwo Y",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm150.fMEGA_Y.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Pinsir",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm127.fMEGA.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Raichu X",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm26.fMEGA_X.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Raichu Y",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm26.fMEGA_Y.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Sableye",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_51.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Sharpedo",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm319.fMEGA.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Skarmory",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Skarmory.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Slowbro",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_080_51.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Starmie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/Mega Starmie.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Steelix",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm208.fMEGA.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Victreebel",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm71.fMEGA.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Mega Abomasnow",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_460_51_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Aerodactyl",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm142.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Aggron",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm306.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Alakazam",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_065_51_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Altaria",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_334_51_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Ampharos",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_181_51_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Audino",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm531.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Banette",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm354.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Beedrill",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_015_51_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Camerupt",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm323.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Chesnaught",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm652.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Delphox",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm655.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Dragonite",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm149.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Falinks",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm870.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Gengar",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_51_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Glalie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm362.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Greninja",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm658.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Gyarados",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_51_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Houndoom",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_51_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Lopunny",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_428_51_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Malamar",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm687.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Manectric",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_310_51_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Mawile",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_303_51_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Medicham",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm308.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Mewtwo X",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm150.fMEGA_X.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Mewtwo Y",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm150.fMEGA_Y.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Pinsir",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm127.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Raichu X",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm26.fMEGA_X.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Raichu Y",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm26.fMEGA_Y.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Sableye",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_51_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Sharpedo",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm319.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Skarmory",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/Shiny Mega Skarmory.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Slowbro",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_080_51_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Starmie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/Shiny Mega Starmie.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Steelix",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm208.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Victreebel",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm71.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-09-05T10:00:00",
+            "end_time": "2026-09-06T18:00:00",
+            "description": "Rally with Trainers around the world for the mega conclusion of Pokémon GO Fest 2026! Pokémon GO Fest 2026: Mega Finale brings Armored Mewtwo in five-star raids, rotating habitats, powerful Mega Raids, and Super Mega Raids featuring Mega Mewtwo X and Mega Mewtwo Y.\nPrepare during the lead-up event Mega Ascension, then join this unticketed worldwide weekend finale.\nThe Pokémon GO Fest 2026: Mega Finale event will take place from September 5, 2026 at 10 am to September 6, 2026 at 6 pm local time."
         }
     ],
     "Twitch Drops": [
