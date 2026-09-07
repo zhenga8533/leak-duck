@@ -1,469 +1,4 @@
 {
-    "Event": [
-        {
-            "title": "10th Anniversary Celebration - Perfect Mewtwo Timed Research",
-            "article_url": "https://leekduck.com/events/10th-anniversary-celebration/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-12-10th-anniversary-celebration/10th-anniversary-celebration-2026.jpg",
-            "category": "Event",
-            "details": {
-                "features": [
-                    {
-                        "name": "Mewtwo",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_150_00.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-12T16:00:00",
-            "end_time": "2026-09-06T23:59:00",
-            "description": "Every Trainer can celebrate 10 years of Pokémon GO with a special Mewtwo!\nThe Perfect Mewtwo Timed Research will be available from August 12, 2026 at 4:00 p.m. PDT to September 6, 2026 at 11 pm local time."
-        },
-        {
-            "title": "Mega Squads",
-            "article_url": "https://leekduck.com/events/mega-squads/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-08-mega-squads/mega-squads.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× Hatch Stardust",
-                    "Chance to obtain Mega Energy when catching Weedle, Pidgey, Houndour, Carvanha, or their Evolutions",
-                    "GO Pass Deluxe: 1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period"
-                ],
-                "features": [
-                    {
-                        "name": "Beedrill",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_015_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Houndoom",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Houndour",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Kakuna",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_014_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Mabosstiff",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm943.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Maschiff",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/Maschiff.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Mega Beedrill",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_015_51.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Mega Houndoom",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_51.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Weedle",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_013_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "spawns": [
-                    {
-                        "name": "Carvanha",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_318_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Flamigo",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Houndour",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Pidgey",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_016_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Rookidee",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm821.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Weedle",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_013_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "eggs": [
-                    {
-                        "name": "Emolga",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_587_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Flamigo",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Fletchling",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_661_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Maschiff",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/Maschiff.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Pancham",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_674_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Rookidee",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm821.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Sandile",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_551_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "raids": [
-                    {
-                        "name": "Mega Beedrill",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_015_51.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Mega Houndoom",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_51.png",
-                        "shiny_available": true
-                    }
-                ],
-                "research": [
-                    {
-                        "name": "Carvanha",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_318_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Flamigo",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Fletchling",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_661_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Houndour",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Maschiff",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/Maschiff.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Nickit",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm827.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Pidgey",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_016_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Weedle",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_013_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "moves": [
-                    {
-                        "name": "Mega Beedrill",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_015_51.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Mega Houndoom",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_51.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Carvanha",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_318_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Flamigo",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.s.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Pidgey",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_016_00_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-09-08T10:00:00",
-            "end_time": "2026-09-14T20:00:00",
-            "description": "Pick up where Mega Finale leaves off, and get energized for the Mega Squads event!\nThe Mega Squads event will take place from September 8, 2026 at 10 am to September 14, 2026 at 8 pm local time."
-        },
-        {
-            "title": "Pokémon Horizons: The Series Celebration Event",
-            "article_url": "https://leekduck.com/events/pokemon-horizons-the-series-celebration-event-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-16-pokemon-horizons-the-series-celebration-event-2026/pokemon-horizons-celebration-event-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× Candy for catching Pokémon",
-                    "Additional Stardust for catching Hatenna and Wattrel",
-                    "GO Pass Deluxe: 3× Candy for catching Pokémon",
-                    "Increased chance to encounter Kecleon at PokéStops",
-                    "Regular Lure Modules will last for one hour and may attract the featured Pokémon"
-                ],
-                "features": [
-                    {
-                        "name": "Charizard wearing Friede's goggles",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Charmander wearing Friede's goggles",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Charmeleon wearing Friede's goggles",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_005_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "spawns": [
-                    {
-                        "name": "Captain's Cap Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fHORIZONS.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Chansey",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_113_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Charmander wearing Friede's goggles",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Eevee",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_133_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Fidough",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm926.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Hatenna",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm856.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Rockruff",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm744.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Wattrel",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm940.icon.png",
-                        "shiny_available": false
-                    }
-                ],
-                "raids": [
-                    {
-                        "name": "Captain's Cap Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fHORIZONS.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Charizard wearing Friede's goggles",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Meowscarada",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm908.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Quaquaval",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm914.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Skeledirge",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm911.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Charizard wearing Friede's goggles",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Charmander wearing Friede's goggles",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Charmeleon wearing Friede's goggles",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_005_00_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-09-16T10:00:00",
-            "end_time": "2026-09-22T20:00:00",
-            "description": "The Pokémon Horizons: The Series Celebration Event returns to Pokémon GO with the debut of Charmander wearing Friede’s goggles and its Evolutions!\nUS fans can watch Pokémon Horizons: Season 3—Rising Hope on Netflix now. For more information, visit the Pokémon Horizons website.\nUK fans can watch Pokémon Horizons: Season 3—Rising Hope on BBC iPlayer. For more information, visit the Pokémon animation website.\nFor fans in other regions, please check availability with your local providers."
-        },
-        {
-            "title": "Phantump Catch Mastery",
-            "article_url": "https://leekduck.com/events/catch-mastery-phantump-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-26-catch-mastery-phantump-2026/phantump-catch-mastery.jpg?v2",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× XP for successfully catching Pokémon with Nice Throws or better",
-                    "Increased Candy for successfully catching Pokémon with Nice Throws or better"
-                ],
-                "features": [
-                    {
-                        "name": "Phantump",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm708.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "spawns": [
-                    {
-                        "name": "Cherubi",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_420_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Drifloon",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_425_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Cherubi",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_420_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Drifloon",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_425_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Phantump",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm708.s.icon.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-09-26T10:00:00",
-            "end_time": "2026-09-26T20:00:00",
-            "description": "Get ready for a Catch Mastery event featuring Phantump, the Stump Pokémon!"
-        },
-        {
-            "title": "LEGO Stores and Pokémon GO",
-            "article_url": "https://leekduck.com/events/lego-pokemon-go-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-03-lego-pokemon-go-2026/lego-stores-pokemon-go.jpg",
-            "category": "Event",
-            "details": {
-                "features": [
-                    {
-                        "name": "Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "bonuses": [
-                    "Nanab Berry ×5",
-                    "Pinap Berry ×5",
-                    "Poké Ball ×10",
-                    "Razz Berry ×5"
-                ],
-                "raids": [
-                    {
-                        "name": "Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-03T10:00:00",
-            "end_time": "2026-09-30T23:59:00",
-            "description": "The Pokémon GO and LEGO Group partnership continues for Trainers in the US, UK, Poland, France, Germany, and Australia! Visit participating LEGO Store locations for raids, a LEGO-themed stamp rally, event stickers, and LEGO Pokémon SMART Play.\nThe LEGO Stores and Pokémon GO event will take place from August 3, 2026 at 10 am to September 30, 2026 at 11 pm."
-        },
-        {
-            "title": "Harvest Festival",
-            "article_url": "https://leekduck.com/events/harvest-festival-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-09-29T10:00:00",
-            "end_time": "2026-10-05T20:00:00",
-            "description": "The Harvest Festival event will take place from September 29, 2026 at 10 am to October 5, 2026 at 8 pm. Stay tuned for more details."
-        },
-        {
-            "title": "Hatch Day",
-            "article_url": "https://leekduck.com/events/hatch-day-october-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-10-17T11:00:00",
-            "end_time": "2026-10-17T17:00:00",
-            "description": "The Hatch Day event will take place on October 17, 2026 from 11 am to 5 pm. Stay tuned for more details."
-        }
-    ],
     "Max Mondays": [
         {
             "title": "Dynamax Ralts during Max Monday",
@@ -729,7 +264,7 @@
                     {
                         "name": "Snom",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm872.icon.png",
-                        "shiny_available": false
+                        "shiny_available": true
                     },
                     {
                         "name": "Tinkatink",
@@ -1588,6 +1123,452 @@
             "start_time": "2026-11-21T14:00:00",
             "end_time": "2026-11-21T17:00:00",
             "description": "The November Community Day event will take place on November 21, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+        }
+    ],
+    "Event": [
+        {
+            "title": "Mega Squads",
+            "article_url": "https://leekduck.com/events/mega-squads/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-08-mega-squads/mega-squads.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Hatch Stardust",
+                    "Chance to obtain Mega Energy when catching Weedle, Pidgey, Houndour, Carvanha, or their Evolutions",
+                    "GO Pass Deluxe: 1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period"
+                ],
+                "features": [
+                    {
+                        "name": "Beedrill",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_015_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Houndoom",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Houndour",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Kakuna",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_014_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mabosstiff",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm943.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Maschiff",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/Maschiff.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Beedrill",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_015_51.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Houndoom",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_51.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Weedle",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_013_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "spawns": [
+                    {
+                        "name": "Carvanha",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_318_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Flamigo",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Houndour",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Pidgey",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_016_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Rookidee",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm821.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Weedle",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_013_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "eggs": [
+                    {
+                        "name": "Emolga",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_587_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Flamigo",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Fletchling",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_661_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Maschiff",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/Maschiff.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Pancham",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_674_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Rookidee",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm821.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Sandile",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_551_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "raids": [
+                    {
+                        "name": "Mega Beedrill",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_015_51.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Houndoom",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_51.png",
+                        "shiny_available": true
+                    }
+                ],
+                "research": [
+                    {
+                        "name": "Carvanha",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_318_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Flamigo",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Fletchling",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_661_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Houndour",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Maschiff",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/Maschiff.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Nickit",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm827.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Pidgey",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_016_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Weedle",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_013_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "moves": [
+                    {
+                        "name": "Mega Beedrill",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_015_51.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Houndoom",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_51.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Carvanha",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_318_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Flamigo",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Pidgey",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_016_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-09-08T10:00:00",
+            "end_time": "2026-09-14T20:00:00",
+            "description": "Pick up where Mega Finale leaves off, and get energized for the Mega Squads event!\nThe Mega Squads event will take place from September 8, 2026 at 10 am to September 14, 2026 at 8 pm local time."
+        },
+        {
+            "title": "Pokémon Horizons: The Series Celebration Event",
+            "article_url": "https://leekduck.com/events/pokemon-horizons-the-series-celebration-event-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-16-pokemon-horizons-the-series-celebration-event-2026/pokemon-horizons-celebration-event-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× Candy for catching Pokémon",
+                    "Additional Stardust for catching Hatenna and Wattrel",
+                    "GO Pass Deluxe: 3× Candy for catching Pokémon",
+                    "Increased chance to encounter Kecleon at PokéStops",
+                    "Regular Lure Modules will last for one hour and may attract the featured Pokémon"
+                ],
+                "features": [
+                    {
+                        "name": "Charizard wearing Friede's goggles",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Charmander wearing Friede's goggles",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Charmeleon wearing Friede's goggles",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_005_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "spawns": [
+                    {
+                        "name": "Captain's Cap Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fHORIZONS.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Chansey",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_113_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Charmander wearing Friede's goggles",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Eevee",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_133_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Fidough",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm926.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Hatenna",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm856.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Rockruff",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm744.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Wattrel",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm940.icon.png",
+                        "shiny_available": false
+                    }
+                ],
+                "raids": [
+                    {
+                        "name": "Captain's Cap Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fHORIZONS.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Charizard wearing Friede's goggles",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Meowscarada",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm908.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Quaquaval",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm914.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Skeledirge",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm911.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Charizard wearing Friede's goggles",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Charmander wearing Friede's goggles",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_004_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Charmeleon wearing Friede's goggles",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_005_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-09-16T10:00:00",
+            "end_time": "2026-09-22T20:00:00",
+            "description": "The Pokémon Horizons: The Series Celebration Event returns to Pokémon GO with the debut of Charmander wearing Friede’s goggles and its Evolutions!\nUS fans can watch Pokémon Horizons: Season 3—Rising Hope on Netflix now. For more information, visit the Pokémon Horizons website.\nUK fans can watch Pokémon Horizons: Season 3—Rising Hope on BBC iPlayer. For more information, visit the Pokémon animation website.\nFor fans in other regions, please check availability with your local providers."
+        },
+        {
+            "title": "Phantump Catch Mastery",
+            "article_url": "https://leekduck.com/events/catch-mastery-phantump-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-26-catch-mastery-phantump-2026/phantump-catch-mastery.jpg?v2",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× XP for successfully catching Pokémon with Nice Throws or better",
+                    "Increased Candy for successfully catching Pokémon with Nice Throws or better"
+                ],
+                "features": [
+                    {
+                        "name": "Phantump",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm708.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "spawns": [
+                    {
+                        "name": "Cherubi",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_420_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Drifloon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_425_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Cherubi",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_420_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Drifloon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_425_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Phantump",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm708.s.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-09-26T10:00:00",
+            "end_time": "2026-09-26T20:00:00",
+            "description": "Get ready for a Catch Mastery event featuring Phantump, the Stump Pokémon!"
+        },
+        {
+            "title": "LEGO Stores and Pokémon GO",
+            "article_url": "https://leekduck.com/events/lego-pokemon-go-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-03-lego-pokemon-go-2026/lego-stores-pokemon-go.jpg",
+            "category": "Event",
+            "details": {
+                "features": [
+                    {
+                        "name": "Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "bonuses": [
+                    "Nanab Berry ×5",
+                    "Pinap Berry ×5",
+                    "Poké Ball ×10",
+                    "Razz Berry ×5"
+                ],
+                "raids": [
+                    {
+                        "name": "Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-03T10:00:00",
+            "end_time": "2026-09-30T23:59:00",
+            "description": "The Pokémon GO and LEGO Group partnership continues for Trainers in the US, UK, Poland, France, Germany, and Australia! Visit participating LEGO Store locations for raids, a LEGO-themed stamp rally, event stickers, and LEGO Pokémon SMART Play.\nThe LEGO Stores and Pokémon GO event will take place from August 3, 2026 at 10 am to September 30, 2026 at 11 pm."
+        },
+        {
+            "title": "Harvest Festival",
+            "article_url": "https://leekduck.com/events/harvest-festival-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-09-29T10:00:00",
+            "end_time": "2026-10-05T20:00:00",
+            "description": "The Harvest Festival event will take place from September 29, 2026 at 10 am to October 5, 2026 at 8 pm. Stay tuned for more details."
+        },
+        {
+            "title": "Hatch Day",
+            "article_url": "https://leekduck.com/events/hatch-day-october-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-10-17T11:00:00",
+            "end_time": "2026-10-17T17:00:00",
+            "description": "The Hatch Day event will take place on October 17, 2026 from 11 am to 5 pm. Stay tuned for more details."
         }
     ],
     "GO Battle League": [

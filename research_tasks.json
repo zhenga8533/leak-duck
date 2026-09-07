@@ -1869,7 +1869,7 @@
                 {
                     "type": "encounter",
                     "name": "Nickit",
-                    "shiny_available": false,
+                    "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm827.icon.png"
                 },
