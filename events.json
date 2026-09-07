@@ -1191,13 +1191,28 @@
                         "shiny_available": true
                     },
                     {
+                        "name": "Emolga",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_587_00.png",
+                        "shiny_available": true
+                    },
+                    {
                         "name": "Flamigo",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png",
                         "shiny_available": true
                     },
                     {
+                        "name": "Fletchling",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_661_00.png",
+                        "shiny_available": true
+                    },
+                    {
                         "name": "Houndour",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Noibat",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_714_00.png",
                         "shiny_available": true
                     },
                     {
@@ -1507,15 +1522,174 @@
             "description": "The Pokémon GO and LEGO Group partnership continues for Trainers in the US, UK, Poland, France, Germany, and Australia! Visit participating LEGO Store locations for raids, a LEGO-themed stamp rally, event stickers, and LEGO Pokémon SMART Play.\nThe LEGO Stores and Pokémon GO event will take place from August 3, 2026 at 10 am to September 30, 2026 at 11 pm."
         },
         {
-            "title": "Harvest Festival",
+            "title": "Harvest Festival 2026: Applin Picking",
             "article_url": "https://leekduck.com/events/harvest-festival-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-29-harvest-festival-2026/harvest-festival-2026.jpg",
             "category": "Event",
-            "details": {},
+            "details": {
+                "bonuses": [
+                    "Applin will have an increased chance of holding Tart Apples, Sweet Apples, or Syrupy Apples when caught",
+                    "Increased chance to encounter Shiny Smoliv",
+                    "More Stardust from defeating Team GO Rocket Grunts and Leaders",
+                    "Mossy Lure Modules activated during the event will last for one hour"
+                ],
+                "features": [
+                    {
+                        "name": "Applin",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm840.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Flower Crown Cottonee",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm546.cSPRING_2024.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "spawns": [
+                    {
+                        "name": "Applin",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm840.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Lechonk",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm915.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Skwovet",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm819.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Smoliv",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm928.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Appletun",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm842.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Applin",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm840.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Arboliva",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm930.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Dipplin",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm1011.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Dolliv",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm929.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Flapple",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm841.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Hydrapple",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm1019.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Smoliv",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm928.s.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-09-29T10:00:00",
             "end_time": "2026-10-05T20:00:00",
-            "description": "The Harvest Festival event will take place from September 29, 2026 at 10 am to October 5, 2026 at 8 pm. Stay tuned for more details."
+            "description": "Harvest Festival returns with the Pokémon GO debut of Shiny Applin! Gather apples, choose a Timed Research path, and earn rewards through the event GO Pass.\nThe Harvest Festival 2026: Applin Picking event will take place from September 29, 2026 at 10 am to October 5, 2026 at 8 pm local time."
+        },
+        {
+            "title": "Harvest Festival: Taken Over",
+            "article_url": "https://leekduck.com/events/harvest-festival-taken-over-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-02-harvest-festival-taken-over-2026/harvest-festival-taken-over-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "Increased chance to encounter Shiny Slugma",
+                    "More Team GO Rocket appearances at PokéStops and in balloons",
+                    "Use a Charged TM to remove Frustration from Shadow Pokémon",
+                    "Wider Attack, Defense, and HP variance for Pokémon caught in one-star and three-star Shadow Raids during the event"
+                ],
+                "features": [
+                    {
+                        "name": "Zekrom",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_644_00.png",
+                        "shiny_available": false
+                    }
+                ],
+                "shadow": [
+                    {
+                        "name": "Fomantis",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm753.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Sandygast",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm769.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Wimpod",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm767.icon.png",
+                        "shiny_available": false
+                    }
+                ],
+                "spawns": [
+                    {
+                        "name": "Koffing",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_109_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Magmar",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_126_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Numel",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_322_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Slugma",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_218_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Shroodle",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm944.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Slugma",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_218_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-02T00:00:00",
+            "end_time": "2026-10-05T20:00:00",
+            "description": "Rescue Shadow Zekrom as Team GO Rocket takes over the Harvest Festival!\nThe Harvest Festival: Taken Over event will take place from October 2, 2026 at 12 am to October 5, 2026 at 8 pm local time."
         },
         {
             "title": "Hatch Day",

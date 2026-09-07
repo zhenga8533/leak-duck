@@ -1,4 +1,123 @@
 {
+    "Mega Squads - September 8 Tasks": [
+        {
+            "task": "Catch 10 Bug- or Flying-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Weedle",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm13.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Pidgey",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm16.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Fletchling",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm661.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Spin 3 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Razz Berry",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Razz Berry.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Stardust",
+                    "quantity": 500,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+                }
+            ]
+        },
+        {
+            "task": "Hatch an Egg",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Flamigo",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm973.icon.png"
+                }
+            ]
+        }
+    ],
+    "Mega Squads - September 11 Tasks": [
+        {
+            "task": "???",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Houndour",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm228.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "???",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Carvanha",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm318.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "???",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Nickit",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm827.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "???",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Maschiff",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm942.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "???",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Flamigo",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm973.icon.png"
+                }
+            ]
+        }
+    ],
     "Catching Tasks": [
         {
             "task": "Catch 7 Pokémon",
