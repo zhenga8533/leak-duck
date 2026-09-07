@@ -1265,48 +1265,6 @@
                         "shiny_available": true
                     }
                 ],
-                "research": [
-                    {
-                        "name": "Carvanha",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_318_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Flamigo",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Fletchling",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_661_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Houndour",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Maschiff",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/Maschiff.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Nickit",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm827.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Pidgey",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_016_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Weedle",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_013_00.png",
-                        "shiny_available": true
-                    }
-                ],
                 "moves": [
                     {
                         "name": "Mega Beedrill",

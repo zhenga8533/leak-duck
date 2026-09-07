@@ -1,116 +1,4 @@
 {
-    "Super Mega Raids": [
-        {
-            "name": "Mega Mewtwo Y",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm150.fMEGA_Y.icon.png",
-            "tier": "Super Mega Raids",
-            "cp_range": {
-                "min": 2294,
-                "max": 2387
-            },
-            "boosted_cp_range": {
-                "min": 2868,
-                "max": 2984
-            },
-            "types": [
-                "Psychic"
-            ]
-        }
-    ],
-    "Mega Raids": [
-        {
-            "name": "Mega Raichu Y",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm26.fMEGA_Y.icon.png",
-            "tier": "Mega Raids",
-            "cp_range": {
-                "min": 1180,
-                "max": 1247
-            },
-            "boosted_cp_range": {
-                "min": 1476,
-                "max": 1558
-            },
-            "types": [
-                "Electric"
-            ]
-        },
-        {
-            "name": "Mega Sableye",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm302.fMEGA.icon.png",
-            "tier": "Mega Raids",
-            "cp_range": {
-                "min": 789,
-                "max": 843
-            },
-            "boosted_cp_range": {
-                "min": 986,
-                "max": 1054
-            },
-            "types": [
-                "Dark",
-                "Ghost"
-            ]
-        },
-        {
-            "name": "Mega Mawile",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm303.fMEGA.icon.png",
-            "tier": "Mega Raids",
-            "cp_range": {
-                "min": 877,
-                "max": 934
-            },
-            "boosted_cp_range": {
-                "min": 1096,
-                "max": 1167
-            },
-            "types": [
-                "Steel",
-                "Fairy"
-            ]
-        },
-        {
-            "name": "Mega Audino",
-            "shiny_available": false,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm531.fMEGA.icon.png",
-            "tier": "Mega Raids",
-            "cp_range": {
-                "min": 901,
-                "max": 961
-            },
-            "boosted_cp_range": {
-                "min": 1127,
-                "max": 1201
-            },
-            "types": [
-                "Normal",
-                "Fairy"
-            ]
-        }
-    ],
-    "5-Star Raids": [
-        {
-            "name": "Shadow Giratina (Altered)",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm487.fALTERED.icon.png",
-            "tier": 5,
-            "cp_range": {
-                "min": 1782,
-                "max": 1931
-            },
-            "boosted_cp_range": {
-                "min": 2228,
-                "max": 2414
-            },
-            "types": [
-                "Ghost",
-                "Dragon"
-            ]
-        }
-    ],
     "1-Star Raids": [
         {
             "name": "Shadow Slowpoke",
@@ -234,6 +122,46 @@
             "types": [
                 "Ghost",
                 "Fire"
+            ]
+        }
+    ],
+    "5-Star Raids": [
+        {
+            "name": "Shadow Giratina (Altered)",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm487.fALTERED.icon.png",
+            "tier": 5,
+            "cp_range": {
+                "min": 1782,
+                "max": 1931
+            },
+            "boosted_cp_range": {
+                "min": 2228,
+                "max": 2414
+            },
+            "types": [
+                "Ghost",
+                "Dragon"
+            ]
+        }
+    ],
+    "Mega Raids": [
+        {
+            "name": "Mega Gyarados",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm130.fMEGA.icon.png",
+            "tier": "Mega Raids",
+            "cp_range": {
+                "min": 1855,
+                "max": 1937
+            },
+            "boosted_cp_range": {
+                "min": 2319,
+                "max": 2422
+            },
+            "types": [
+                "Water",
+                "Dark"
             ]
         }
     ]
