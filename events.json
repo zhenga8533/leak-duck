@@ -1631,24 +1631,24 @@
                     {
                         "name": "Zekrom",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_644_00.png",
-                        "shiny_available": false
+                        "shiny_available": true
                     }
                 ],
                 "shadow": [
                     {
                         "name": "Fomantis",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm753.icon.png",
-                        "shiny_available": false
+                        "shiny_available": true
                     },
                     {
                         "name": "Sandygast",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm769.icon.png",
-                        "shiny_available": false
+                        "shiny_available": true
                     },
                     {
                         "name": "Wimpod",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm767.icon.png",
-                        "shiny_available": false
+                        "shiny_available": true
                     }
                 ],
                 "spawns": [
@@ -1674,6 +1674,11 @@
                     }
                 ],
                 "shiny": [
+                    {
+                        "name": "Grafaiai",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm945.s.icon.png",
+                        "shiny_available": false
+                    },
                     {
                         "name": "Shroodle",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm944.s.icon.png",
