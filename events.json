@@ -1,50 +1,4 @@
 {
-    "Max Mondays": [
-        {
-            "title": "Dynamax Ralts during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-09-07/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-09-07T06:00:00",
-            "end_time": "2026-09-07T21:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn September 7, 2026, the featured Dynamax Pokémon is Ralts.\n- Ralts"
-        },
-        {
-            "title": "Dynamax Rhyhorn during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-09-14/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-09-14T06:00:00",
-            "end_time": "2026-09-14T21:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn September 14, 2026, the featured Dynamax Pokémon is Rhyhorn.\n- Rhyhorn"
-        },
-        {
-            "title": "Dynamax Articuno, Zapdos, and Moltres during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-09-21/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-09-21T06:00:00",
-            "end_time": "2026-09-21T21:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn September 21, 2026, the featured Dynamax Pokémon are Articuno, Zapdos, and Moltres.\n- Articuno\n- Zapdos\n- Moltres"
-        },
-        {
-            "title": "Dynamax Sobble during Max Monday",
-            "article_url": "https://leekduck.com/events/max-mondays-2026-09-28/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-            "category": "Max Mondays",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-09-28T06:00:00",
-            "end_time": "2026-09-28T21:00:00",
-            "description": "These Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn September 28, 2026, the featured Dynamax Pokémon is Sobble.\n- Sobble"
-        }
-    ],
     "Season": [
         {
             "title": "Forever Forward",
@@ -656,7 +610,7 @@
         {
             "title": "Zacian (Hero of Many Battles) in 5-star Raid Battles",
             "article_url": "https://leekduck.com/events/zacian-hero-of-many-battles-in-5-star-raid-battles-september-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/zacian-and-zamazenta-2.jpg",
             "category": "Raid Battles",
             "details": {
                 "raids": [
@@ -744,7 +698,7 @@
         {
             "title": "Zamazenta (Hero of Many Battles) in 5-star Raid Battles",
             "article_url": "https://leekduck.com/events/zamazenta-hero-of-many-battles-in-5-star-raid-battles-september-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/zacian-and-zamazenta-2.jpg",
             "category": "Raid Battles",
             "details": {
                 "raids": [
@@ -801,7 +755,7 @@
         {
             "title": "Xurkitree, Pheromosa, and Buzzwole in 5-star Raid Battles",
             "article_url": "https://leekduck.com/events/xurkitree-pheromosa-buzzwole-in-5-star-raid-battles-september-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/buzzwole-xurkitree-pheromosa-ultra-beasts.jpg",
             "category": "Raid Battles",
             "details": {
                 "raids": [
@@ -904,7 +858,7 @@
         {
             "title": "Xerneas in 5-star Raid Battles",
             "article_url": "https://leekduck.com/events/xerneas-in-5-star-raid-battles-september-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/xerneas-woods.jpg",
             "category": "Raid Battles",
             "details": {
                 "raids": [
@@ -1706,6 +1660,41 @@
             "start_time": "2026-10-17T11:00:00",
             "end_time": "2026-10-17T17:00:00",
             "description": "The Hatch Day event will take place on October 17, 2026 from 11 am to 5 pm. Stay tuned for more details."
+        }
+    ],
+    "Max Mondays": [
+        {
+            "title": "Dynamax Rhyhorn during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-09-14/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-09-14T06:00:00",
+            "end_time": "2026-09-14T21:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn September 14, 2026, the featured Dynamax Pokémon is Rhyhorn.\n- Rhyhorn"
+        },
+        {
+            "title": "Dynamax Articuno, Zapdos, and Moltres during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-09-21/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-09-21T06:00:00",
+            "end_time": "2026-09-21T21:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn September 21, 2026, the featured Dynamax Pokémon are Articuno, Zapdos, and Moltres.\n- Articuno\n- Zapdos\n- Moltres"
+        },
+        {
+            "title": "Dynamax Sobble during Max Monday",
+            "article_url": "https://leekduck.com/events/max-mondays-2026-09-28/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+            "category": "Max Mondays",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-09-28T06:00:00",
+            "end_time": "2026-09-28T21:00:00",
+            "description": "These Dynamax Pokémon may appear in Max Battles throughout this season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local time on Mondays.\n- Power Spots will refresh more frequently.\n- Additional Power Spots will be active on Mondays compared to the rest of the week.\n- Max Battles will rotate to feature different Dynamax Pokémon.\nOn September 28, 2026, the featured Dynamax Pokémon is Sobble.\n- Sobble"
         }
     ],
     "GO Battle League": [
