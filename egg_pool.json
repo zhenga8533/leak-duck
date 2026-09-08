@@ -377,25 +377,53 @@
     ],
     "10 km Eggs": [
         {
-            "name": "Dratini",
+            "name": "Charcadet",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm147.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm935.icon.png",
             "hatch_distance": 10,
-            "rarity_tier": 0
+            "rarity_tier": 1
+        },
+        {
+            "name": "Tinkatink",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm957.icon.png",
+            "hatch_distance": 10,
+            "rarity_tier": 1
         },
         {
             "name": "Honedge",
             "shiny_available": true,
             "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm679.icon.png",
             "hatch_distance": 10,
-            "rarity_tier": 0
+            "rarity_tier": 1
+        },
+        {
+            "name": "Frigibax",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm996.icon.png",
+            "hatch_distance": 10,
+            "rarity_tier": 1
         },
         {
             "name": "Impidimp",
             "shiny_available": true,
             "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm859.icon.png",
             "hatch_distance": 10,
-            "rarity_tier": 0
+            "rarity_tier": 1
+        },
+        {
+            "name": "Dratini",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm147.icon.png",
+            "hatch_distance": 10,
+            "rarity_tier": 1
+        },
+        {
+            "name": "Larvesta",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm636.icon.png",
+            "hatch_distance": 10,
+            "rarity_tier": 5
         }
     ],
     "10 km Eggs (Adventure Sync Rewards)": [
