@@ -10470,6 +10470,31 @@
             "start_time": "2026-07-07T10:00:00",
             "end_time": "2026-08-04T10:00:00",
             "description": "The Pokémon GO 10th Anniversary Celebration continues with GO Pass: July! Ho-Oh, Gimmighoul holding a 10th anniversary coin, and more await.\nFrom Tuesday, July 7, at 10:00 a.m. to Tuesday, August 4, at 10:00 a.m. local time, the GO Pass and GO Pass Deluxe for July will be available in Pokémon GO!"
+        },
+        {
+            "title": "GO Pass: August",
+            "article_url": "https://leekduck.com/events/go-pass-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-04-go-pass-august-2026/go-pass-august-2026.jpg",
+            "category": "GO Pass",
+            "details": {
+                "bonuses": [
+                    "2× Daily Adventure Incense duration",
+                    "Hold 10 more Gifts in your Item Bag",
+                    "Hold up to 20 more Gifts in your Item Bag",
+                    "Increased XP and Stardust from hatching Eggs",
+                    "One additional Candy for trading Pokémon",
+                    "One single-use Incubator awarded for your first PokéStop or Gym spin of the day",
+                    "Open up to 40 Gifts per day",
+                    "Open up to 50 Gifts per day",
+                    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs",
+                    "Trainers level 31 and above will receive one guaranteed Candy XL when trading Pokémon"
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-04T10:00:00",
+            "end_time": "2026-09-08T10:00:00",
+            "description": "The Lucky Trinket returns and Latias soars into GO Pass: August!\nThe GO Pass and GO Pass Deluxe for August will be available from August 4, 2026 at 10:00 am to September 8, 2026 at 10:00 am local time."
         }
     ],
     "GO Battle League": [
@@ -14710,6 +14735,258 @@
             "start_time": "2026-03-03T10:00:00",
             "end_time": "2026-06-02T10:00:00",
             "description": "Welcome to Pokémon GO: Memories in Motion!\nIn Pokémon GO, Seasons are periods of time that feature new events, Pokémon debuts, and surprises that all follow a certain theme. As the Seasons change, you may find different Pokémon appearing in your area and hatching from Eggs. Make sure to explore during each in-game Season to collect and train as many different Pokémon as you can! You’ll also enjoy special bonuses as you do."
+        },
+        {
+            "title": "Forever Forward",
+            "article_url": "https://leekduck.com/events/season-23-forever-forward/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-06-02-season-23-forever-forward/season-23-forever-forward.jpg",
+            "category": "Season",
+            "details": {
+                "bonuses": [
+                    "2× Daily Adventure Incense duration",
+                    "Increased XP and Stardust from hatching Eggs",
+                    "Increased limits on opening, receiving from PokéStop and Gym Photo Discs, and storing Gifts",
+                    "One additional Candy for trading Pokémon"
+                ],
+                "features": [
+                    {
+                        "name": "Axew",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_610_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Dragonite",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_149_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Honedge",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_679_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Indeedee (Male)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm876.fMALE.icon.png?v2",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Jangmo-o",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm782.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Klawf",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm950.icon.png",
+                        "shiny_available": false
+                    }
+                ],
+                "eggs": [
+                    {
+                        "name": "Absol",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_359_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Alolan Diglett",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_050_61.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Alolan Geodude",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_074_61.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Bagon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_371_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Basculin (White Striped)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm550.fWHITE_STRIPED.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Budew",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_406_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Charcadet",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm935.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Chingling",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_433_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Cleffa",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_173_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Corphish",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_341_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Drampa",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm780.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Druddigon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_621_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Exeggcute",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_102_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Flittle",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm955.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Frigibax",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm996.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Galarian Corsola",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm222.fGALARIAN.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Galarian Darumaka",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_554_31.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Galarian Meowth",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_052_31.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Galarian Slowpoke",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_31.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Galarian Stunfisk",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_618_31.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Galarian Zigzagoon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_263_31.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Gible",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Happiny",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_440_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Hisuian Growlithe",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm58.fHISUIAN.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Hisuian Sneasel",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm215.fHISUIAN.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Honedge",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_679_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Indeedee (Female)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm876.fFEMALE.icon.png?v2",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Indeedee (Male)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm876.fMALE.icon.png?v2",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Larvesta",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm636.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mantyke",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_458_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mawile",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_303_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Pichu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_172_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Riolu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_447_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Sableye",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Snom",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm872.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Tinkatink",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm957.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Togepi",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_175_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Toxel",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm848.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Tyrogue",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_236_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Wynaut",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_360_00.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-06-02T10:00:00",
+            "end_time": "2026-09-08T10:00:00",
+            "description": "Welcome to Pokémon GO: Forever Forward!\nIn Pokémon GO, Seasons are periods of time that feature new events, Pokémon debuts, and surprises that all follow a certain theme. As the Seasons change, you may find different Pokémon appearing in your area and hatching from Eggs. Make sure to explore during each in-game Season to collect and train as many different Pokémon as you can! You’ll also enjoy special bonuses as you do."
         }
     ],
     "Research Day": [
