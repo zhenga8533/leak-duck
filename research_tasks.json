@@ -364,66 +364,45 @@
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Bulbasaur",
+                    "name": "Sunkern",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm1.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm191.icon.png"
                 },
                 {
                     "type": "encounter",
-                    "name": "Chikorita",
+                    "name": "Seedot",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm152.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm273.icon.png"
                 },
                 {
                     "type": "encounter",
-                    "name": "Treecko",
+                    "name": "Shroomish",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm252.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm285.icon.png"
                 },
                 {
                     "type": "encounter",
-                    "name": "Turtwig",
+                    "name": "Petilil",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm387.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm548.icon.png"
                 },
                 {
                     "type": "encounter",
-                    "name": "Snivy",
+                    "name": "Skiddo",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm495.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm672.icon.png"
                 },
                 {
                     "type": "encounter",
-                    "name": "Chespin",
+                    "name": "Smoliv",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm650.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Rowlet",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm722.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Grookey",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm810.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Sprigatito",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm906.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm928.icon.png"
                 },
                 {
                     "type": "resource",
@@ -464,71 +443,102 @@
             ]
         },
         {
-            "task": "Catch 10 Fire-type Pokémon",
+            "task": "Catch 10 Ghost-type Pokémon",
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Charmander",
+                    "name": "Gastly",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm4.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm92.icon.png"
                 },
                 {
                     "type": "encounter",
-                    "name": "Cyndaquil",
+                    "name": "Shuppet",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm155.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm353.icon.png"
                 },
                 {
                     "type": "encounter",
-                    "name": "Torchic",
+                    "name": "Duskull",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm255.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm355.icon.png"
                 },
                 {
                     "type": "encounter",
-                    "name": "Chimchar",
+                    "name": "Drifloon",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm390.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm425.icon.png"
                 },
                 {
                     "type": "encounter",
-                    "name": "Tepig",
+                    "name": "Yamask",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm498.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm562.icon.png"
                 },
                 {
                     "type": "encounter",
-                    "name": "Fennekin",
+                    "name": "Golett",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm653.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm622.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 10 Dark-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Murkrow",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm198.icon.png"
                 },
                 {
                     "type": "encounter",
-                    "name": "Litten",
+                    "name": "Sneasel",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm725.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm215.icon.png"
                 },
                 {
                     "type": "encounter",
-                    "name": "Scorbunny",
+                    "name": "Poochyena",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm813.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm261.icon.png"
                 },
                 {
                     "type": "encounter",
-                    "name": "Fuecoco",
+                    "name": "Purrloin",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm909.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm509.icon.png"
                 },
+                {
+                    "type": "encounter",
+                    "name": "Inkay",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm686.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Nickit",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm827.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 10 Fire-type Pokémon",
+            "rewards": [
                 {
                     "type": "resource",
                     "name": "Blaziken Mega Energy",
@@ -570,69 +580,6 @@
         {
             "task": "Catch 10 Water-type Pokémon",
             "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Squirtle",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm7.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Totodile",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm158.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Mudkip",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm258.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Piplup",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm393.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Oshawott",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm501.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Froakie",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm656.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Popplio",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm728.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Sobble",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm816.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Quaxly",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm912.icon.png"
-                },
                 {
                     "type": "resource",
                     "name": "Blastoise Mega Energy",
@@ -946,20 +893,6 @@
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Alolan Sandshrew",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm27.fALOLA.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Machop",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm66.icon.png"
-                },
-                {
-                    "type": "encounter",
                     "name": "Magmar",
                     "shiny_available": true,
                     "cp_range": null,
@@ -985,6 +918,20 @@
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm274.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Roggenrola",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm524.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Galarian Stunfisk",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm618.fGALARIAN.icon.png"
                 },
                 {
                     "type": "encounter",
@@ -1021,10 +968,10 @@
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Goomy",
+                    "name": "Dratini",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm704.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm147.icon.png"
                 }
             ]
         },
@@ -1329,17 +1276,17 @@
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Spinda 2",
+                    "name": "Spinda 4",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm327.f01.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm327.f03.icon.png"
                 },
                 {
                     "type": "encounter",
-                    "name": "Spinda 3",
+                    "name": "Spinda 5",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm327.f02.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm327.f04.icon.png"
                 }
             ]
         },
@@ -1440,10 +1387,10 @@
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Onix",
+                    "name": "Lapras",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm95.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm131.icon.png"
                 },
                 {
                     "type": "encounter",
@@ -1620,17 +1567,10 @@
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Paras",
+                    "name": "Growlithe",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm46.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Mankey",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm56.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm58.icon.png"
                 },
                 {
                     "type": "encounter",
@@ -1648,6 +1588,20 @@
                 },
                 {
                     "type": "encounter",
+                    "name": "Galarian Slowpoke",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm79.fGALARIAN.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Slowpoke",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm79.icon.png"
+                },
+                {
+                    "type": "encounter",
                     "name": "Lapras",
                     "shiny_available": true,
                     "cp_range": null,
@@ -1655,17 +1609,17 @@
                 },
                 {
                     "type": "encounter",
-                    "name": "Mantine",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm226.icon.png"
-                },
-                {
-                    "type": "encounter",
                     "name": "Houndour",
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm228.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Electrike",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm309.icon.png"
                 },
                 {
                     "type": "encounter",
@@ -1680,13 +1634,6 @@
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm507.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Pawmi",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm921.icon.png"
                 }
             ]
         },
@@ -1702,20 +1649,6 @@
                 },
                 {
                     "type": "encounter",
-                    "name": "Scyther",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm123.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Dratini",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm147.icon.png"
-                },
-                {
-                    "type": "encounter",
                     "name": "Noctowl",
                     "shiny_available": true,
                     "cp_range": null,
@@ -1723,17 +1656,17 @@
                 },
                 {
                     "type": "encounter",
-                    "name": "Sudowoodo",
+                    "name": "Lileep",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm185.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm345.icon.png"
                 },
                 {
                     "type": "encounter",
-                    "name": "Nincada",
+                    "name": "Anorith",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm290.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm347.icon.png"
                 },
                 {
                     "type": "encounter",
@@ -1758,20 +1691,6 @@
                 },
                 {
                     "type": "encounter",
-                    "name": "Tyrunt",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm696.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Amaura",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm698.icon.png"
-                },
-                {
-                    "type": "encounter",
                     "name": "Stufful",
                     "shiny_available": true,
                     "cp_range": null,
@@ -1783,6 +1702,13 @@
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm767.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Fidough",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm926.icon.png"
                 }
             ]
         },
@@ -1887,49 +1813,21 @@
             ]
         },
         {
-            "task": "Spin 5 PokéStops or Gyms",
+            "task": "Spin 5 PokéStops",
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Alolan Rattata",
+                    "name": "Alolan Sandshrew",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm19.fALOLA.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm27.fALOLA.icon.png"
                 },
                 {
                     "type": "encounter",
-                    "name": "Rattata",
+                    "name": "Sandshrew",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm19.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Growlithe",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm58.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Hisuian Growlithe",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm58.fHISUIAN.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Galarian Slowpoke",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm79.fGALARIAN.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Slowpoke",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm79.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm27.icon.png"
                 },
                 {
                     "type": "encounter",
@@ -2010,17 +1908,17 @@
                 },
                 {
                     "type": "encounter",
-                    "name": "Nickit",
-                    "shiny_available": true,
+                    "name": "Blipbug",
+                    "shiny_available": false,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm827.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/poke_capture_0824_000_mf_n_00000000_f_n.png"
                 },
                 {
                     "type": "encounter",
-                    "name": "Wooloo",
-                    "shiny_available": true,
+                    "name": "Arrokuda",
+                    "shiny_available": false,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm831.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm846.icon.png"
                 },
                 {
                     "type": "encounter",
@@ -2078,17 +1976,10 @@
                 },
                 {
                     "type": "encounter",
-                    "name": "Starmie",
+                    "name": "Ursaring",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm121.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Eevee",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm133.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm217.icon.png"
                 },
                 {
                     "type": "encounter",
@@ -2371,6 +2262,13 @@
                 },
                 {
                     "type": "encounter",
+                    "name": "Kadabra",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm64.icon.png"
+                },
+                {
+                    "type": "encounter",
                     "name": "Machoke",
                     "shiny_available": true,
                     "cp_range": null,
@@ -2382,20 +2280,6 @@
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm93.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Karrablast",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm588.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Shelmet",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm616.icon.png"
                 }
             ]
         }
@@ -2406,6 +2290,13 @@
             "rewards": [
                 {
                     "type": "encounter",
+                    "name": "Arbok",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm24.icon.png"
+                },
+                {
+                    "type": "encounter",
                     "name": "Meowth",
                     "shiny_available": true,
                     "cp_range": null,
@@ -2413,17 +2304,10 @@
                 },
                 {
                     "type": "encounter",
-                    "name": "Wobbuffet",
+                    "name": "Weezing",
                     "shiny_available": true,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm202.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Yamask",
-                    "shiny_available": true,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm562.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm110.icon.png"
                 }
             ]
         }
@@ -2463,6 +2347,5 @@
                 }
             ]
         }
-    ],
-    "AR Scanning Tasks": []
+    ]
 }
