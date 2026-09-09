@@ -1,62 +1,4 @@
 {
-    "5-Star Raids": [
-        {
-            "name": "Shadow Thundurus (Incarnate)",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm642.fINCARNATE.icon.png",
-            "tier": 5,
-            "cp_range": {
-                "min": 1762,
-                "max": 1911
-            },
-            "boosted_cp_range": {
-                "min": 2203,
-                "max": 2389
-            },
-            "types": [
-                "Electric",
-                "Flying"
-            ]
-        }
-    ],
-    "Mega Raids": [
-        {
-            "name": "Mega Beedrill",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm15.fMEGA.icon.png",
-            "tier": "Mega Raids",
-            "cp_range": {
-                "min": 994,
-                "max": 1054
-            },
-            "boosted_cp_range": {
-                "min": 1242,
-                "max": 1318
-            },
-            "types": [
-                "Bug",
-                "Poison"
-            ]
-        },
-        {
-            "name": "Mega Gyarados",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm130.fMEGA.icon.png",
-            "tier": "Mega Raids",
-            "cp_range": {
-                "min": 1855,
-                "max": 1937
-            },
-            "boosted_cp_range": {
-                "min": 2319,
-                "max": 2422
-            },
-            "types": [
-                "Water",
-                "Dark"
-            ]
-        }
-    ],
     "1-Star Raids": [
         {
             "name": "Shadow Machop",
@@ -181,6 +123,46 @@
             "types": [
                 "Ghost",
                 "Fire"
+            ]
+        }
+    ],
+    "5-Star Raids": [
+        {
+            "name": "Shadow Thundurus (Incarnate)",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm642.fINCARNATE.icon.png",
+            "tier": 5,
+            "cp_range": {
+                "min": 1762,
+                "max": 1911
+            },
+            "boosted_cp_range": {
+                "min": 2203,
+                "max": 2389
+            },
+            "types": [
+                "Electric",
+                "Flying"
+            ]
+        }
+    ],
+    "Mega Raids": [
+        {
+            "name": "Mega Beedrill",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm15.fMEGA.icon.png",
+            "tier": "Mega Raids",
+            "cp_range": {
+                "min": 994,
+                "max": 1054
+            },
+            "boosted_cp_range": {
+                "min": 1242,
+                "max": 1318
+            },
+            "types": [
+                "Bug",
+                "Poison"
             ]
         }
     ]
