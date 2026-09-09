@@ -1,21 +1,21 @@
 {
     "5-Star Raids": [
         {
-            "name": "Shadow Giratina (Altered)",
+            "name": "Shadow Thundurus (Incarnate)",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm487.fALTERED.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm642.fINCARNATE.icon.png",
             "tier": 5,
             "cp_range": {
-                "min": 1782,
-                "max": 1931
+                "min": 1762,
+                "max": 1911
             },
             "boosted_cp_range": {
-                "min": 2228,
-                "max": 2414
+                "min": 2203,
+                "max": 2389
             },
             "types": [
-                "Ghost",
-                "Dragon"
+                "Electric",
+                "Flying"
             ]
         }
     ],
@@ -59,109 +59,110 @@
     ],
     "1-Star Raids": [
         {
-            "name": "Shadow Slowpoke",
+            "name": "Shadow Machop",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm79.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm66.icon.png",
             "tier": 1,
             "cp_range": {
-                "min": 610,
-                "max": 700
+                "min": 638,
+                "max": 730
             },
             "boosted_cp_range": {
-                "min": 763,
-                "max": 876
+                "min": 798,
+                "max": 913
             },
             "types": [
-                "Water",
-                "Psychic"
-            ]
-        },
-        {
-            "name": "Shadow Aipom",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm190.icon.png",
-            "tier": 1,
-            "cp_range": {
-                "min": 678,
-                "max": 770
-            },
-            "boosted_cp_range": {
-                "min": 848,
-                "max": 963
-            },
-            "types": [
-                "Normal"
-            ]
-        },
-        {
-            "name": "Shadow Croagunk",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm453.icon.png",
-            "tier": 1,
-            "cp_range": {
-                "min": 466,
-                "max": 544
-            },
-            "boosted_cp_range": {
-                "min": 583,
-                "max": 680
-            },
-            "types": [
-                "Poison",
                 "Fighting"
             ]
         },
         {
-            "name": "Shadow Grubbin",
+            "name": "Shadow Bellsprout",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm736.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm69.icon.png",
             "tier": 1,
             "cp_range": {
-                "min": 483,
-                "max": 562
+                "min": 506,
+                "max": 590
             },
             "boosted_cp_range": {
-                "min": 604,
-                "max": 703
+                "min": 633,
+                "max": 738
             },
             "types": [
-                "Bug"
+                "Grass",
+                "Poison"
+            ]
+        },
+        {
+            "name": "Shadow Torchic",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm255.icon.png",
+            "tier": 1,
+            "cp_range": {
+                "min": 541,
+                "max": 624
+            },
+            "boosted_cp_range": {
+                "min": 677,
+                "max": 781
+            },
+            "types": [
+                "Fire"
+            ]
+        },
+        {
+            "name": "Shadow Bagon",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm371.icon.png",
+            "tier": 1,
+            "cp_range": {
+                "min": 575,
+                "max": 660
+            },
+            "boosted_cp_range": {
+                "min": 719,
+                "max": 826
+            },
+            "types": [
+                "Dragon"
             ]
         }
     ],
     "3-Star Raids": [
         {
-            "name": "Shadow Snorlax",
+            "name": "Shadow Alolan Sandslash",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm143.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm28.fALOLA.icon.png",
             "tier": 3,
             "cp_range": {
-                "min": 1696,
-                "max": 1843
+                "min": 1266,
+                "max": 1390
             },
             "boosted_cp_range": {
-                "min": 2120,
-                "max": 2304
+                "min": 1582,
+                "max": 1737
             },
             "types": [
-                "Normal"
+                "Ice",
+                "Steel"
             ]
         },
         {
-            "name": "Shadow Hitmontop",
+            "name": "Shadow Quagsire",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm237.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm195.icon.png",
             "tier": 3,
             "cp_range": {
-                "min": 1114,
-                "max": 1232
+                "min": 1025,
+                "max": 1138
             },
             "boosted_cp_range": {
-                "min": 1393,
-                "max": 1540
+                "min": 1282,
+                "max": 1423
             },
             "types": [
-                "Fighting"
+                "Water",
+                "Ground"
             ]
         },
         {
