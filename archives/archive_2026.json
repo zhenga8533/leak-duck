@@ -2073,6 +2073,109 @@
             "start_time": "2026-09-05T10:00:00",
             "end_time": "2026-09-06T18:00:00",
             "description": "Armored Mewtwo is back! Last seen in 2020, Armored Mewtwo will return to five-star Raid Battles for a limited time during Pokémon GO Fest 2026: Mega Finale.\nArmored Mewtwo will appear in five-star raids on both Saturday, September 5, and Sunday, September 6, 2026, from 10:00 a.m. to 6:00 p.m. local time."
+        },
+        {
+            "title": "Shadow Giratina (Altered Forme) in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-giratina-altered-in-shadow-raids-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Giratina (Altered)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_11.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Giratina (Altered)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_11_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-05T06:00:00",
+            "end_time": "2026-09-08T22:00:00",
+            "description": "Shadow Giratina (Altered Forme) will make its Shadow Raid debut in Pokémon GO! If you’re lucky you’ll be able to encounter Shiny Shadow Giratina (Altered Forme)!\nShadow Giratina (Altered Forme) will appear in five-star Shadow Raids every weekend from August 5 to September 8."
+        },
+        {
+            "title": "Mega Gyarados in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-gyarados-in-mega-raids-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Mega Gyarados",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_51.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Gyarados",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Gyarados",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_130_51_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-26T06:00:00",
+            "end_time": "2026-09-08T22:00:00",
+            "description": "Mega Gyarados will be in Mega Raids from August 26, 2026 at 6 am to September 8, 2026 at 10 pm local time.\nMega Gyarados will not be available from August 31 to September 4 during Mega Ascension, but it will return to the raid rotation from September 5 to 6 during Pokémon GO Fest 2026: Mega Finale."
+        },
+        {
+            "title": "Regirock, Regice, and Registeel in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/regirock-regice-registeel-in-5-star-raid-battles-august-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/regi-trio.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Regice",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_378_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Regirock",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_377_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Registeel",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_379_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Regice",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_378_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Regirock",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_377_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Registeel",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_379_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-26T06:00:00",
+            "end_time": "2026-09-08T22:00:00",
+            "description": "Regirock, Regice, and Registeel will be in five-star raid battles from August 26, 2026 to September 8, 2026.\nThere will also be a Raid Hour featuring Regirock, Regice, and Registeel from 6:00 pm to 7:00 pm local time on the following dates:\n- August 26\n- September 2"
         }
     ],
     "Community Day": [
