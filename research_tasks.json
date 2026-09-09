@@ -1649,10 +1649,31 @@
                 },
                 {
                     "type": "encounter",
+                    "name": "Scyther",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm123.icon.png"
+                },
+                {
+                    "type": "encounter",
                     "name": "Noctowl",
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm164.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Sudowoodo",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm185.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Nincada",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm290.icon.png"
                 },
                 {
                     "type": "encounter",
@@ -1681,6 +1702,13 @@
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm531.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Trubbish",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm568.icon.png"
                 },
                 {
                     "type": "encounter",
@@ -1937,6 +1965,39 @@
             ]
         },
         {
+            "task": "Spin 5 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Growlithe",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm58.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Hisuian Growlithe",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm58.fHISUIAN.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Galarian Slowpoke",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm79.fGALARIAN.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Slowpoke",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm79.icon.png"
+                }
+            ]
+        },
+        {
             "task": "Take a snapshot of a wild Pokémon",
             "rewards": [
                 {
@@ -1973,6 +2034,13 @@
                     "shiny_available": true,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm117.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Eevee",
+                    "shiny_available": true,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm133.icon.png"
                 },
                 {
                     "type": "encounter",
