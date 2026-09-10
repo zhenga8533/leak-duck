@@ -1310,15 +1310,42 @@
     ],
     "Max Battles": [
         {
-            "title": "Max Battle Day",
-            "article_url": "https://leekduck.com/events/max-battle-day-october-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "title": "Gigantamax Cinderace Max Battle Day",
+            "article_url": "https://leekduck.com/events/gigantamax-cinderace-max-battle-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-03-gigantamax-cinderace-max-battle-day-2026/gigantamax-cinderace-max-battle-day.jpg",
             "category": "Max Battles",
-            "details": {},
+            "details": {
+                "bonuses": [
+                    "1/4 Adventuring distance to receive Max Particles**",
+                    "2× Max Particles from exploring*",
+                    "2× XP from Max Battles",
+                    "8× Max Particles from Power Spots",
+                    "Additional Power Spots will be active",
+                    "All Power Spots will host Gigantamax Battles",
+                    "From October 2 at 5:00 p.m. to October 3 at 8:00 p.m. PDT (GMT −7), the daily Remote Raid limit will increase from 10 to 20",
+                    "Max Particle collection limit increased to 1,600",
+                    "Power Spots will refresh more frequently",
+                    "Up to three Special Trades for the day"
+                ],
+                "features": [
+                    {
+                        "name": "Gigantamax Cinderace",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/poke_capture_0815_000_mf_g_00000000_f_n.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Gigantamax Cinderace",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm815.fGIGANTAMAX.s.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-10-03T14:00:00",
             "end_time": "2026-10-03T17:00:00",
-            "description": "The Max Battle Day event will take place on October 3, 2026 from 2 pm to 5 pm. Stay tuned for more details."
+            "description": "The Gigantamax Cinderace Max Battle Day event will take place on October 3, 2026 from 2 pm to 5 pm local time."
         },
         {
             "title": "Max Battle Day",
@@ -1360,7 +1387,7 @@
     ],
     "Wild Area": [
         {
-            "title": "Pokémon GO Wild Area: Sendai, Tohoku",
+            "title": "Pokémon GO Wild Area: Sendai • Tohoku",
             "article_url": "https://leekduck.com/events/pokemon-go-wild-area-2026-sendai-japan/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-06-pokemon-go-wild-area-2026-sendai-japan/key-art.jpg",
             "category": "Wild Area",
