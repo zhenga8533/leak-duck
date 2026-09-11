@@ -528,6 +528,166 @@
             "description": "The Pokémon GO and LEGO Group partnership continues for Trainers in the US, UK, Poland, France, Germany, and Australia! Visit participating LEGO Store locations for raids, a LEGO-themed stamp rally, event stickers, and LEGO Pokémon SMART Play.\nThe LEGO Stores and Pokémon GO event will take place from August 3, 2026 at 10 am to September 30, 2026 at 11 pm."
         },
         {
+            "title": "Patterns of the Wild",
+            "article_url": "https://leekduck.com/events/patterns-of-the-wild-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-02-patterns-of-the-wild-2026/patterns-of-the-wild-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "Incense will last for two hours",
+                    "Increased chance to encounter Pikachu wearing a batik shirt and other event-themed Pokémon while using Incense",
+                    "Increased chance to encounter Shiny featured wild Pokémon"
+                ],
+                "features": [
+                    {
+                        "name": "Batik Shirt Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fTSHIRT_03.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "spawns": [
+                    {
+                        "name": "Batik Shirt Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fTSHIRT_03.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Bellsprout",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_069_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Caterpie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_010_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Gloom",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_044_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Hoppip",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Ledian",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_166_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Ledyba",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_165_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Oddish",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_043_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Skiploom",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_188_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Sunkern",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_191_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Wurmple",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_265_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "research": [
+                    {
+                        "name": "Batik Shirt Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fTSHIRT_03.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Hoppip",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Ledyba",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_165_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Oddish",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_043_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Batik Shirt Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fTSHIRT_03.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Bellsprout",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_069_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Caterpie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_010_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Gloom",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_044_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Hoppip",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Ledian",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_166_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Ledyba",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_165_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Oddish",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_043_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Skiploom",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_188_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Sunkern",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_191_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Wurmple",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_265_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-02T10:00:00",
+            "end_time": "2026-10-02T20:00:00",
+            "description": "Patterns of the Wild brings a Special Background for Pikachu wearing a batik shirt, along with boosted wild encounters, Incense bonuses, and research rewards!\nThe event takes place on Friday, October 2, 2026, from 10:00 a.m. to 8:00 p.m. local time. Timed Research is available for a longer period, from September 28 through October 7."
+        },
+        {
             "title": "Harvest Festival 2026: Applin Picking",
             "article_url": "https://leekduck.com/events/harvest-festival-2026/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-29-harvest-festival-2026/harvest-festival-2026.jpg",
