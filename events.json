@@ -236,6 +236,11 @@
                         "shiny_available": true
                     },
                     {
+                        "name": "Nickit",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm827.icon.png",
+                        "shiny_available": true
+                    },
+                    {
                         "name": "Noibat",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_714_00.png",
                         "shiny_available": true
@@ -243,6 +248,11 @@
                     {
                         "name": "Pidgey",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_016_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Purrloin",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_509_00.png",
                         "shiny_available": true
                     },
                     {

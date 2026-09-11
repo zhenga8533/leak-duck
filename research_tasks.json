@@ -81,7 +81,7 @@
     ],
     "Mega Squads - September 11 Tasks": [
         {
-            "task": "???",
+            "task": "Catch 10 Dark-type Pokémon",
             "rewards": [
                 {
                     "type": "encounter",
@@ -89,24 +89,14 @@
                     "shiny_available": false,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm228.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "???",
-            "rewards": [
+                },
                 {
                     "type": "encounter",
                     "name": "Carvanha",
                     "shiny_available": false,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm318.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "???",
-            "rewards": [
+                },
                 {
                     "type": "encounter",
                     "name": "Nickit",
@@ -117,7 +107,47 @@
             ]
         },
         {
-            "task": "???",
+            "task": "Catch 10 Flamigo",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Rare Candy XL",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Rare Candy XL.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Stardust",
+                    "quantity": 10000,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+                }
+            ]
+        },
+        {
+            "task": "Spin 3 PokéStops or Gyms",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Poké Ball",
+                    "quantity": 10,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Poke Ball.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Razz Berry",
+                    "quantity": 5,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Razz Berry.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Stardust",
+                    "quantity": 500,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+                }
+            ]
+        },
+        {
+            "task": "Hatch an Egg",
             "rewards": [
                 {
                     "type": "encounter",
@@ -125,12 +155,7 @@
                     "shiny_available": false,
                     "cp_range": null,
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm942.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "???",
-            "rewards": [
+                },
                 {
                     "type": "encounter",
                     "name": "Flamigo",
