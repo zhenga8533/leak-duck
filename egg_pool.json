@@ -243,25 +243,67 @@
     ],
     "5 km Eggs": [
         {
-            "name": "Munchlax",
+            "name": "Snom",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm446.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm872.icon.png",
             "hatch_distance": 5,
-            "rarity_tier": 0
-        },
-        {
-            "name": "Sizzlipede",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm850.icon.png",
-            "hatch_distance": 5,
-            "rarity_tier": 0
+            "rarity_tier": 1
         },
         {
             "name": "Fidough",
             "shiny_available": true,
             "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm926.icon.png",
             "hatch_distance": 5,
-            "rarity_tier": 0
+            "rarity_tier": 1
+        },
+        {
+            "name": "Munchlax",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm446.icon.png",
+            "hatch_distance": 5,
+            "rarity_tier": 1
+        },
+        {
+            "name": "Sizzlipede",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm850.icon.png",
+            "hatch_distance": 5,
+            "rarity_tier": 1
+        },
+        {
+            "name": "Maschiff",
+            "shiny_available": false,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm942.icon.png",
+            "hatch_distance": 5,
+            "rarity_tier": 1
+        },
+        {
+            "name": "Mime Jr",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm439.icon.png",
+            "hatch_distance": 5,
+            "rarity_tier": 1
+        },
+        {
+            "name": "Indeedee (Male)",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm876.fMALE.icon.png",
+            "hatch_distance": 5,
+            "rarity_tier": 2
+        },
+        {
+            "name": "Indeedee (Female)",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm876.fFEMALE.icon.png",
+            "hatch_distance": 5,
+            "rarity_tier": 2
+        },
+        {
+            "name": "Larvesta",
+            "shiny_available": true,
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm636.icon.png",
+            "hatch_distance": 5,
+            "rarity_tier": 5
         }
     ],
     "5 km Eggs (Adventure Sync Rewards)": [

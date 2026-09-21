@@ -148,39 +148,21 @@
     ],
     "Mega Raids": [
         {
-            "name": "Mega Beedrill",
+            "name": "Mega Venusaur",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm15.fMEGA.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm3.fMEGA.icon.png",
             "tier": "Mega Raids",
             "cp_range": {
-                "min": 994,
-                "max": 1054
+                "min": 1480,
+                "max": 1554
             },
             "boosted_cp_range": {
-                "min": 1242,
-                "max": 1318
+                "min": 1851,
+                "max": 1943
             },
             "types": [
-                "Bug",
+                "Grass",
                 "Poison"
-            ]
-        },
-        {
-            "name": "Mega Houndoom",
-            "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm229.fMEGA.icon.png",
-            "tier": "Mega Raids",
-            "cp_range": {
-                "min": 1432,
-                "max": 1505
-            },
-            "boosted_cp_range": {
-                "min": 1790,
-                "max": 1882
-            },
-            "types": [
-                "Dark",
-                "Fire"
             ]
         }
     ]
