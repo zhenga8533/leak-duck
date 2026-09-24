@@ -1,187 +1,35 @@
 {
-    "Pokémon Horizons: The Series Celebration Event 2026 - Nighttime (5 PM to 5 AM) Tasks": [
+    "Choose Your Path: Twilight Trails Tasks": [
         {
-            "task": "Catch 10 Fire-type Pokémon",
+            "task": "Make 5 Nice Throws",
             "rewards": [
                 {
-                    "type": "encounter",
-                    "name": "Charmander wearing Friede's goggles",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm4.fGOGGLES_2026.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Eevee",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm133.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Hatenna",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm856.icon.png"
+                    "type": "item",
+                    "name": "Rare Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Rare Candy.png"
                 }
             ]
         },
         {
-            "task": "Make an Excellent Throw",
+            "task": "Defeat a Team GO Rocket Grunt",
             "rewards": [
                 {
-                    "type": "encounter",
-                    "name": "Charmander wearing Friede's goggles",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm4.fGOGGLES_2026.icon.png"
+                    "type": "item",
+                    "name": "Rare Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Rare Candy.png"
                 }
             ]
         },
         {
-            "task": "Make 5 Great Throws",
+            "task": "Explore 1 km",
             "rewards": [
                 {
-                    "type": "encounter",
-                    "name": "Rhyhorn",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm111.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Nacli",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm932.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Win a raid",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Rockruff",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm744.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Tinkatink",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm957.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Win 2 raids",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Captain's Cap Pikachu",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fHORIZONS.icon.png"
-                }
-            ]
-        }
-    ],
-    "Pokémon Horizons: The Series Celebration Event 2026 - Daytime (5 AM to 5 PM) Tasks": [
-        {
-            "task": "Catch 10 Fire-type Pokémon",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Charmander wearing Friede's goggles",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm4.fGOGGLES_2026.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Fidough",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm926.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Wattrel",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm940.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Make an Excellent Throw",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Charmander wearing Friede's goggles",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm4.fGOGGLES_2026.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Make 5 Great Throws",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Sprigatito",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm906.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Fuecoco",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm909.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Quaxly",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm912.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Win a raid",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Chansey",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm113.icon.png"
-                },
-                {
-                    "type": "encounter",
-                    "name": "Lapras",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm131.icon.png"
-                }
-            ]
-        },
-        {
-            "task": "Win 2 raids",
-            "rewards": [
-                {
-                    "type": "encounter",
-                    "name": "Captain's Cap Pikachu",
-                    "shiny_available": false,
-                    "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm25.fHORIZONS.icon.png"
+                    "type": "item",
+                    "name": "Rare Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Rare Candy.png"
                 }
             ]
         }

@@ -148,21 +148,21 @@
     ],
     "Mega Raids": [
         {
-            "name": "Mega Venusaur",
+            "name": "Mega Malamar",
             "shiny_available": true,
-            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm3.fMEGA.icon.png",
+            "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm687.fMEGA.icon.png",
             "tier": "Mega Raids",
             "cp_range": {
-                "min": 1480,
-                "max": 1554
+                "min": 1279,
+                "max": 1347
             },
             "boosted_cp_range": {
-                "min": 1851,
-                "max": 1943
+                "min": 1599,
+                "max": 1685
             },
             "types": [
-                "Grass",
-                "Poison"
+                "Dark",
+                "Psychic"
             ]
         }
     ]
