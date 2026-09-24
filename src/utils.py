@@ -89,35 +89,25 @@ def parse_pokemon_list(container: Tag) -> list[dict[str, Any]]:
     return pokemon_list
 
 
-def process_time_data(
-    date_element: Tag | None, time_element: Tag | None, is_local: bool
-) -> str | int | None:
+def parse_schedule_datetime(value: str | None, is_local: bool) -> str | int | None:
+    """
+    Parses a schedule-row data-start/data-end timestamp from an event page.
+
+    Local-time rows carry a placeholder offset, so only their wall-clock time
+    is kept as a naive ISO string; other rows are converted to unix time.
+    """
+    if not value:
+        return None
+    try:
+        dt_object = datetime.fromisoformat(value)
+    except ValueError:
+        return None
+
     if is_local:
-        if date_element and time_element:
-            raw_date_str = date_element.get_text(strip=True)
-            raw_time_str = time_element.get_text(strip=True)
-            date_str = re.sub(r"\s+", " ", raw_date_str).replace(",", "").strip()
-            time_str = (
-                re.sub(r"\s+", " ", raw_time_str)
-                .replace("at", "")
-                .replace("Local Time", "")
-                .strip()
-            )
-            datetime_str = f"{date_str} {time_str}"
-            try:
-                dt_object = datetime.strptime(datetime_str, "%A %B %d %Y %I:%M %p")
-                return dt_object.isoformat()
-            except ValueError:
-                return None
-    else:
-        if date_element and "data-event-page-date" in date_element.attrs:
-            iso_string = date_element["data-event-page-date"]
-            try:
-                dt_object = datetime.fromisoformat(str(iso_string))
-                return int(dt_object.timestamp())
-            except (ValueError, TypeError):
-                return None
-    return None
+        return dt_object.replace(tzinfo=None).isoformat()
+    if dt_object.tzinfo is None:
+        return None
+    return int(dt_object.timestamp())
 
 
 def parse_feed_datetime(value: str | None) -> str | int | None:
@@ -126,7 +116,7 @@ def parse_feed_datetime(value: str | None) -> str | int | None:
 
     Naive timestamps (no offset) represent local event time and are kept as an
     ISO string; offset-aware timestamps are converted to unix time, matching the
-    schema produced by process_time_data() for HTML-scraped dates.
+    schema produced by parse_schedule_datetime() for HTML-scraped dates.
     """
     if not value:
         return None

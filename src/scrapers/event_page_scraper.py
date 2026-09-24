@@ -9,7 +9,7 @@ import requests
 from bs4 import BeautifulSoup, Tag
 
 from src.paths import HTML_DIR
-from src.utils import clean_banner_url, process_time_data, save_html
+from src.utils import clean_banner_url, parse_schedule_datetime, save_html
 
 
 def clean_spacing(text: str) -> str:
@@ -65,6 +65,43 @@ class EventPageScraper:
         response.raise_for_status()
         return response.text
 
+    def _parse_schedule(self, soup: BeautifulSoup) -> dict[str, Any]:
+        """
+        Reads the event window from the page's schedule rows.
+
+        Pages list either separate "start" and "end" rows (each timestamp in
+        data-start), or one or more "single"/"day" rows spanning
+        data-start to data-end.
+        """
+        schedule = soup.select_one("section.event-schedule")
+        is_local = schedule is None or schedule.get("data-local-time") != "false"
+
+        rows = soup.select(".schedule-row[data-start]")
+        if not rows:
+            return {
+                "is_local_time": is_local,
+                "start_time": None,
+                "end_time": None,
+                "schedule_tba": schedule is not None
+                and schedule.get("data-mode") == "tba",
+            }
+
+        first_row, last_row = rows[0], rows[-1]
+
+        end_value = last_row.get("data-end")
+        if end_value is None and last_row.get("data-kind") == "end":
+            end_value = last_row.get("data-start")
+
+        return {
+            "is_local_time": is_local,
+            "start_time": parse_schedule_datetime(
+                str(first_row["data-start"]), is_local
+            ),
+            "end_time": parse_schedule_datetime(
+                str(end_value) if end_value else None, is_local
+            ),
+        }
+
     def _parse_event_details(self, soup: BeautifulSoup, url: str) -> dict[str, Any]:
         """Parses the HTML soup to extract event details."""
         event_details: dict[str, Any] = {"article_url": url, "details": {}}
@@ -73,24 +110,7 @@ class EventPageScraper:
         if not isinstance(content, Tag):
             return event_details
 
-        # Time details
-        start_date_element = cast(Tag | None, soup.find("span", id="event-date-start"))
-        start_time_element = cast(Tag | None, soup.find("span", id="event-time-start"))
-        end_date_element = cast(Tag | None, soup.find("span", id="event-date-end"))
-        end_time_element = cast(Tag | None, soup.find("span", id="event-time-end"))
-
-        is_local = not (
-            isinstance(start_date_element, Tag)
-            and "data-event-page-date" in start_date_element.attrs
-        )
-        event_details["is_local_time"] = is_local
-
-        event_details["start_time"] = process_time_data(
-            start_date_element, start_time_element, is_local
-        )
-        event_details["end_time"] = process_time_data(
-            end_date_element, end_time_element, is_local
-        )
+        event_details.update(self._parse_schedule(soup))
 
         # Description and embedded sections
         description_div = content.find("div", class_="event-description")

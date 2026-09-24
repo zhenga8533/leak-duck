@@ -70,6 +70,49 @@ class ScraperSafetyTests(unittest.TestCase):
             self.assertEqual(scraper.existing_events_data, events)
             self.assertEqual(scraper.existing_event_urls, {"active-url"})
 
+    def test_tba_events_are_skipped_until_times_are_known(self) -> None:
+        soup = BeautifulSoup(
+            "".join(
+                f'<a class="event-item-link" href="/events/{event_id}/">'
+                '<div class="event-item-wrapper"><p>Pokémon GO Tour</p>'
+                f'<div class="event-text"><h2>{event_id}</h2></div></div></a>'
+                for event_id in ("tour-global", "tour-city")
+            ),
+            "lxml",
+        )
+        scraper = EventScraper.__new__(EventScraper)
+        scraper.url = "https://leekduck.com/events/"
+        scraper.scraper_settings = {"retries": 1, "delay": 0}
+        scraper.check_existing_events = False
+        scraper.existing_events_data = {}
+        scraper.event_dates_feed = {
+            "tour-city": {
+                "start": "2027-02-19T09:00:00.000+0800",
+                "end": "2027-02-21T18:00:00.000+0800",
+            }
+        }
+
+        def scrape_tba_page(url: str) -> dict[str, object]:
+            return {
+                "article_url": url,
+                "details": {},
+                "is_local_time": True,
+                "start_time": None,
+                "end_time": None,
+                "schedule_tba": True,
+            }
+
+        with patch.object(EventPageScraper, "scrape", side_effect=scrape_tba_page):
+            data = scraper.parse(soup)
+
+        events = data["Pokémon GO Tour"]
+        self.assertEqual(
+            [event["article_url"] for event in events],
+            ["https://leekduck.com/events/tour-city/"],
+        )
+        self.assertNotIn("schedule_tba", events[0])
+        self.assertFalse(events[0]["is_local_time"])
+
 
 class ParserFixtureTests(unittest.TestCase):
     settings = {"retries": 1, "delay": 0, "timeout": 1}
@@ -122,19 +165,76 @@ class ParserFixtureTests(unittest.TestCase):
 
     def test_event_page_parser(self) -> None:
         soup = BeautifulSoup(
-            '<div class="page-content"><span id="event-date-start">Monday July 20, 2026</span>'
-            '<span id="event-time-start">at 10:00 AM Local Time</span>'
-            '<span id="event-date-end">Monday July 20, 2026</span>'
-            '<span id="event-time-end">at 11:00 AM Local Time</span>'
+            '<div class="page-content">'
+            '<section class="event-schedule" data-local-time="true">'
+            '<div class="schedule-row" data-kind="start" data-segment=""'
+            ' data-start="2026-07-20T10:00:00-08:00"><span class="label">Starts</span>'
+            '<div class="line"><span class="date">Monday, July 20, 2026, </span>'
+            '<span class="time">10:00 AM</span> <span class="tz">Local Time</span></div></div>'
+            '<div class="schedule-row" data-kind="end" data-segment=""'
+            ' data-start="2026-07-20T11:00:00-08:00"><span class="label">Ends</span>'
+            '<div class="line"><span class="date">Monday, July 20, 2026, </span>'
+            '<span class="time">11:00 AM</span> <span class="tz">Local Time</span></div></div>'
+            "</section>"
             '<div class="event-description"><p>Event description.</p></div>'
             '<h2 class="event-section-header" id="bonuses">Bonuses</h2>'
             '<div class="bonus-list"><div class="bonus-text">Double XP</div></div></div>',
             "lxml",
         )
         data = EventPageScraper(self.settings)._parse_event_details(soup, "event-url")
+        self.assertTrue(data["is_local_time"])
         self.assertEqual(data["start_time"], "2026-07-20T10:00:00")
+        self.assertEqual(data["end_time"], "2026-07-20T11:00:00")
         self.assertEqual(data["details"]["bonuses"], ["Double XP"])
         self.assertEqual(data["description"], "Event description.")
+
+    def test_event_page_parser_reads_single_session_schedule(self) -> None:
+        soup = BeautifulSoup(
+            '<div class="page-content">'
+            '<section class="event-schedule" data-local-time="true">'
+            '<div class="schedule-row" data-kind="single" data-segment=""'
+            ' data-start="2026-10-21T18:00:00-08:00" data-end="2026-10-21T19:00:00-08:00">'
+            '<span class="label">Event Time</span><div class="line">'
+            '<span class="time">6:00 PM – 7:00 PM</span> <span class="tz">Local Time</span>'
+            "</div></div></section></div>",
+            "lxml",
+        )
+        data = EventPageScraper(self.settings)._parse_event_details(soup, "event-url")
+        self.assertTrue(data["is_local_time"])
+        self.assertEqual(data["start_time"], "2026-10-21T18:00:00")
+        self.assertEqual(data["end_time"], "2026-10-21T19:00:00")
+
+    def test_event_page_parser_reads_multi_day_fixed_time_schedule(self) -> None:
+        rows = "".join(
+            '<div class="schedule-row" data-kind="day" data-segment=""'
+            f' data-start="2026-11-0{day}T10:00:00+09:00"'
+            f' data-end="2026-11-0{day}T18:00:00+09:00">'
+            '<div class="line"><span class="time">10:00 AM – 6:00 PM</span>'
+            ' <span class="tz" data-tz="viewer">UTC+9</span></div></div>'
+            for day in (6, 7, 8)
+        )
+        soup = BeautifulSoup(
+            '<div class="page-content">'
+            f'<section class="event-schedule" data-local-time="false">{rows}</section>'
+            "</div>",
+            "lxml",
+        )
+        data = EventPageScraper(self.settings)._parse_event_details(soup, "event-url")
+        self.assertFalse(data["is_local_time"])
+        self.assertEqual(data["start_time"], 1793926800)
+        self.assertEqual(data["end_time"], 1794128400)
+
+    def test_event_page_parser_flags_tba_schedule(self) -> None:
+        soup = BeautifulSoup(
+            '<div class="page-content">'
+            '<section class="event-schedule -tba" data-local-time="true" data-mode="tba">'
+            '<span class="date">February 27, 2027 (time to be announced)</span>'
+            "</section></div>",
+            "lxml",
+        )
+        data = EventPageScraper(self.settings)._parse_event_details(soup, "event-url")
+        self.assertTrue(data["schedule_tba"])
+        self.assertIsNone(data["start_time"])
 
     def test_event_page_parser_reads_unwrapped_description(self) -> None:
         soup = BeautifulSoup(

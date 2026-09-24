@@ -172,6 +172,16 @@ class EventScraper(BaseScraper):
         self._apply_feed_dates(all_events_data)
         new_events_by_category: dict[str, list[dict[str, Any]]] = {}
         for event in all_events_data.values():
+            schedule_tba = event.pop("schedule_tba", False)
+            if schedule_tba and (
+                event.get("start_time") is None or event.get("end_time") is None
+            ):
+                print(
+                    f"Skipping {event['article_url']}: times not yet announced",
+                    flush=True,
+                )
+                continue
+
             category = event.get("category", "Event")
             if category not in new_events_by_category:
                 new_events_by_category[category] = []
