@@ -11965,6 +11965,25 @@
             "start_time": "2026-09-17T18:00:00",
             "end_time": "2026-09-17T19:00:00",
             "description": "Pokémon Spotlight Hour will feature an unannounced Pokémon and a special bonus for one hour at 6:00 p.m. local time.\nSeptember 17: The featured Pokémon has not yet been announced, and the special bonus is 2× Catch Stardust."
+        },
+        {
+            "title": "Rattata Spotlight Hour",
+            "article_url": "https://leekduck.com/events/pokemonspotlighthour2026-09-24/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+            "category": "Pokémon Spotlight Hour",
+            "details": {
+                "spawns": [
+                    {
+                        "name": "Rattata",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_019_00.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-09-24T18:00:00",
+            "end_time": "2026-09-24T19:00:00",
+            "description": "Pokémon Spotlight Hour will feature a different Pokémon and special bonus for one hour at 6:00 p.m. local time.\nThere will be an increased chance to encounter XXS Rattata.\nSeptember 24: The featured Pokémon is Rattata and the special bonus is 2× Evolution XP."
         }
     ],
     "Raid Hour": [
