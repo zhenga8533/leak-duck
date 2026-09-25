@@ -1,487 +1,4 @@
 {
-    "Raid Battles": [
-        {
-            "title": "Mega Venusaur in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-venusaur-in-mega-raids-september-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Mega Venusaur",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_003_51.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Mega Venusaur",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_003_51_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Venusaur",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_003_00_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-09-16T06:00:00",
-            "end_time": "2026-09-22T22:00:00",
-            "description": "Mega Venusaur will be in Mega Raids from September 16, 2026 at 6 am to September 22, 2026 at 10 pm local time."
-        },
-        {
-            "title": "Zamazenta (Hero of Many Battles) in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/zamazenta-hero-of-many-battles-in-5-star-raid-battles-september-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/zacian-and-zamazenta-2.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Zamazenta (Hero of Many Battles)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm889.fHERO.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Zamazenta (Hero of Many Battles)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm889.fHERO.s.icon.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-09-16T06:00:00",
-            "end_time": "2026-09-22T22:00:00",
-            "description": "Zamazenta (Hero of Many Battles) will be in five-star raid battles from September 16, 2026 to September 22, 2026.\nThere will also be a Raid Hour featuring Zamazenta (Hero of Many Battles) from 6:00 p.m. to 7:00 p.m. local time on September 16."
-        },
-        {
-            "title": "Mega Malamar in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-malamar-in-mega-raids-september-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Mega Malamar",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm687.fMEGA.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Malamar",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_687_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Mega Malamar",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm687.fMEGA.s.icon.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-09-23T06:00:00",
-            "end_time": "2026-09-29T22:00:00",
-            "description": "Mega Malamar will be in Mega Raids from September 23, 2026 at 6 am to September 29, 2026 at 10 pm local time."
-        },
-        {
-            "title": "Xurkitree, Pheromosa, and Buzzwole in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/xurkitree-pheromosa-buzzwole-in-5-star-raid-battles-september-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/buzzwole-xurkitree-pheromosa-ultra-beasts.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Buzzwole",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm794.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Pheromosa",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm795.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Xurkitree",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm796.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Buzzwole",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm794.s.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Pheromosa",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm795.s.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Xurkitree",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm796.s.icon.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-09-23T06:00:00",
-            "end_time": "2026-09-29T22:00:00",
-            "description": "Xurkitree, Pheromosa, and Buzzwole will be in five-star raid battles from September 23, 2026 to September 29, 2026.\n- Xurkitree: Asia-Pacific\n- Pheromosa: Europe, the Middle East, Africa, and India\n- Buzzwole: The Americas and Greenland\nThere will also be a Raid Hour featuring these regional raid bosses from 6:00 p.m. to 7:00 p.m. local time on September 23."
-        },
-        {
-            "title": "Shadow Thundurus (Incarnate Forme) in Shadow Raids",
-            "article_url": "https://leekduck.com/events/shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Thundurus (Incarnate)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_642_11.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Thundurus (Incarnate)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_642_11_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-09-09T06:00:00",
-            "end_time": "2026-10-06T22:00:00",
-            "description": "Shadow Thundurus (Incarnate Forme) will appear in five-star Shadow Raids every weekend from September 9, 2026 to October 6, 2026. If you’re lucky, you may encounter Shiny Shadow Thundurus (Incarnate Forme)!"
-        },
-        {
-            "title": "Mega Victreebel in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-victreebel-in-mega-raids-september-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Mega Victreebel",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm71.fMEGA.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Mega Victreebel",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm71.fMEGA.s.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Victreebel",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_071_00_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-09-30T06:00:00",
-            "end_time": "2026-10-06T22:00:00",
-            "description": "Mega Victreebel will be in Mega Raids from September 30, 2026 at 6 am to October 6, 2026 at 10 pm local time."
-        },
-        {
-            "title": "Xerneas in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/xerneas-in-5-star-raid-battles-september-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/xerneas-woods.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Xerneas",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_716_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Xerneas",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_716_00_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-09-30T06:00:00",
-            "end_time": "2026-10-06T22:00:00",
-            "description": "Xerneas will be in five-star raid battles from September 30, 2026 to October 6, 2026.\nThere will also be a Raid Hour featuring Xerneas from 6:00 p.m. to 7:00 p.m. local time on September 30."
-        },
-        {
-            "title": "Mega Blastoise in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-blastoise-in-mega-raids-october-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Mega Blastoise",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_009_51.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Blastoise",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_009_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Mega Blastoise",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_009_51_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-10-07T06:00:00",
-            "end_time": "2026-10-13T22:00:00",
-            "description": "Mega Blastoise will be in Mega Raids from October 7, 2026 at 6 am to October 13, 2026 at 10 pm local time."
-        },
-        {
-            "title": "Yveltal in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/yveltal-in-5-star-raid-battles-october-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/yveltal-2.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Yveltal",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_717_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Yveltal",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_717_00_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-10-07T06:00:00",
-            "end_time": "2026-10-13T22:00:00",
-            "description": "Yveltal will be in five-star raid battles from October 7, 2026 to October 13, 2026.\nThere will also be a Raid Hour featuring Yveltal from 6:00 p.m. to 7:00 p.m. local time on October 7."
-        },
-        {
-            "title": "Dialga in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/dialga-in-5-star-raid-battles-october-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/dialgaraids.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Dialga",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_483_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Dialga",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_483_00_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-10-14T06:00:00",
-            "end_time": "2026-10-20T22:00:00",
-            "description": "Dialga will be in five-star raid battles from October 14, 2026 to October 20, 2026.\nThere will also be a Raid Hour featuring Dialga from 6:00 p.m. to 7:00 p.m. local time on October 14."
-        },
-        {
-            "title": "Mega Dragonite in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-dragonite-in-mega-raids-october-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Mega Dragonite",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm149.fMEGA.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Dragonite",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_149_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Mega Dragonite",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm149.fMEGA.s.icon.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-10-14T06:00:00",
-            "end_time": "2026-10-20T22:00:00",
-            "description": "Mega Dragonite will be in Mega Raids from October 14, 2026 at 6 am to October 20, 2026 at 10 pm local time."
-        },
-        {
-            "title": "Mega Charizard X and Mega Charizard Y in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Mega Charizard X",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_51.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Mega Charizard Y",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_52.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Charizard",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Mega Charizard X",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_51_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Mega Charizard Y",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_52_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-10-21T06:00:00",
-            "end_time": "2026-10-27T22:00:00",
-            "description": "Mega Charizard X and Mega Charizard Y will be in Mega Raids from October 21, 2026 at 6 am to October 27, 2026 at 10 pm local time."
-        },
-        {
-            "title": "Palkia in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/palkia-in-5-star-raid-battles-october-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/palkiaraid.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Palkia",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_484_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Palkia",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_484_00_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-10-21T06:00:00",
-            "end_time": "2026-10-27T22:00:00",
-            "description": "Palkia will be in five-star raid battles from October 21, 2026 to October 27, 2026.\nThere will also be a Raid Hour featuring Palkia from 6:00 p.m. to 7:00 p.m. local time on October 21."
-        },
-        {
-            "title": "Shadow Landorus (Incarnate Forme) in Shadow Raids",
-            "article_url": "https://leekduck.com/events/shadow-landorus-incarnate-forme-in-shadow-raids-october-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Landorus (Incarnate)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_645_11.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Landorus (Incarnate)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_645_11_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-10-07T06:00:00",
-            "end_time": "2026-11-03T22:00:00",
-            "description": "Shadow Landorus (Incarnate Forme) will appear in five-star Shadow Raids every weekend from October 7, 2026 to November 3, 2026. If you’re lucky, you may encounter Shiny Shadow Landorus (Incarnate Forme)!"
-        },
-        {
-            "title": "Giratina (Origin Forme) in 5-star Raid Battles",
-            "article_url": "https://leekduck.com/events/giratina-origin-forme-in-5-star-raid-battles-october-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/giratinaoriginforme.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Giratina (Origin)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_12.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Giratina (Origin)",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_12_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-10-28T06:00:00",
-            "end_time": "2026-11-03T22:00:00",
-            "description": "Giratina (Origin) will be in five-star raid battles from October 28, 2026 to November 3, 2026.\nThere will also be a Raid Hour featuring Giratina (Origin Forme) from 6:00 p.m. to 7:00 p.m. local time on October 28."
-        },
-        {
-            "title": "Mega Sableye in Mega Raids",
-            "article_url": "https://leekduck.com/events/mega-sableye-in-mega-raids-october-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-            "category": "Raid Battles",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Mega Sableye",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_51.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Mega Sableye",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_51_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Sableye",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-10-28T06:00:00",
-            "end_time": "2026-11-03T22:00:00",
-            "description": "Mega Sableye will be in Mega Raids from October 28, 2026 at 6 am to November 3, 2026 at 10 pm local time."
-        }
-    ],
     "Raid Hour": [
         {
             "title": "Xurkitree, Pheromosa, and Buzzwole Raid Hour",
@@ -1098,15 +615,47 @@
             "description": "Blast off with Astronaut Pikachu during World Space Week! This new costumed Pokémon makes its Pokémon GO debut in raids and free Timed Research.\nThis global event is part of a collaboration between the European Space Agency and The Pokémon Company.\nWorld Space Week takes place from Sunday, October 4, 2026, at 12:00 a.m. to Saturday, October 10, 2026, at 11:59 p.m. local time."
         },
         {
-            "title": "Hatch Day",
-            "article_url": "https://leekduck.com/events/hatch-day-october-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "title": "Sandile Hatch Day",
+            "article_url": "https://leekduck.com/events/sandile-hatch-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-17-sandile-hatch-day-2026/sandile-hatch-day-2026.jpg",
             "category": "Event",
-            "details": {},
+            "details": {
+                "bonuses": [
+                    "1/2 Egg Hatch Distance*",
+                    "1/4 Egg Hatch Distance*",
+                    "2× Candy from hatching Eggs*",
+                    "Increased chance of hatching Shiny Sandile",
+                    "Increased chance of receiving 2 km Eggs from spinning PokéStops"
+                ],
+                "features": [
+                    {
+                        "name": "Sandile",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_551_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Krokorok",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_552_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Krookodile",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_553_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Sandile",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_551_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
             "is_local_time": true,
             "start_time": "2026-10-17T11:00:00",
             "end_time": "2026-10-17T17:00:00",
-            "description": "The Hatch Day event will take place on October 17, 2026 from 11 am to 5 pm. Stay tuned for more details."
+            "description": "Sandile Hatch Day features more Sandile hatching from 2 km Eggs and an increased chance of hatching Shiny Sandile!\nThe Sandile Hatch Day event will take place on October 17, 2026 from 11 am to 5 pm local time."
         },
         {
             "title": "Fall Marathon: Buddy Trek",
@@ -1437,6 +986,432 @@
             "start_time": 1795554000,
             "end_time": 1796158800,
             "description": "The Master League and Mega Catch Cup: Great League Edition will run from November 24, 2026, at 1:00 p.m. to December 1, 2026, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this does not include end-of-set rewards).\n- All Pokémon are eligible.\n- Pokémon must be at or below 1,500 CP to enter.\n- Mega-Evolved Pokémon are allowed.\n- Only Pokémon caught during the Twilight Trails Season are eligible.*\n- Mythical Pokémon are not eligible.\n*Pokémon must be caught between September 8, 2026, at 1:00 p.m. and December 1, 2026, at 1:00 p.m. PST."
+        }
+    ],
+    "Raid Battles": [
+        {
+            "title": "Mega Malamar in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-malamar-in-mega-raids-september-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Mega Malamar",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm687.fMEGA.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Malamar",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_687_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Malamar",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm687.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-09-23T06:00:00",
+            "end_time": "2026-09-29T22:00:00",
+            "description": "Mega Malamar will be in Mega Raids from September 23, 2026 at 6 am to September 29, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Xurkitree, Pheromosa, and Buzzwole in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/xurkitree-pheromosa-buzzwole-in-5-star-raid-battles-september-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/buzzwole-xurkitree-pheromosa-ultra-beasts.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Buzzwole",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm794.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Pheromosa",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm795.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Xurkitree",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm796.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Buzzwole",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm794.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Pheromosa",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm795.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Xurkitree",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm796.s.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-09-23T06:00:00",
+            "end_time": "2026-09-29T22:00:00",
+            "description": "Xurkitree, Pheromosa, and Buzzwole will be in five-star raid battles from September 23, 2026 to September 29, 2026.\n- Xurkitree: Asia-Pacific\n- Pheromosa: Europe, the Middle East, Africa, and India\n- Buzzwole: The Americas and Greenland\nThere will also be a Raid Hour featuring these regional raid bosses from 6:00 p.m. to 7:00 p.m. local time on September 23."
+        },
+        {
+            "title": "Shadow Thundurus (Incarnate Forme) in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Thundurus (Incarnate)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_642_11.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Thundurus (Incarnate)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_642_11_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-09-09T06:00:00",
+            "end_time": "2026-10-06T22:00:00",
+            "description": "Shadow Thundurus (Incarnate Forme) will appear in five-star Shadow Raids every weekend from September 9, 2026 to October 6, 2026. If you’re lucky, you may encounter Shiny Shadow Thundurus (Incarnate Forme)!"
+        },
+        {
+            "title": "Mega Victreebel in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-victreebel-in-mega-raids-september-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Mega Victreebel",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm71.fMEGA.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Mega Victreebel",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm71.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Victreebel",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_071_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-09-30T06:00:00",
+            "end_time": "2026-10-06T22:00:00",
+            "description": "Mega Victreebel will be in Mega Raids from September 30, 2026 at 6 am to October 6, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Xerneas in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/xerneas-in-5-star-raid-battles-september-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/xerneas-woods.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Xerneas",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_716_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Xerneas",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_716_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-09-30T06:00:00",
+            "end_time": "2026-10-06T22:00:00",
+            "description": "Xerneas will be in five-star raid battles from September 30, 2026 to October 6, 2026.\nThere will also be a Raid Hour featuring Xerneas from 6:00 p.m. to 7:00 p.m. local time on September 30."
+        },
+        {
+            "title": "Mega Blastoise in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-blastoise-in-mega-raids-october-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Mega Blastoise",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_009_51.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Blastoise",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_009_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Blastoise",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_009_51_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-07T06:00:00",
+            "end_time": "2026-10-13T22:00:00",
+            "description": "Mega Blastoise will be in Mega Raids from October 7, 2026 at 6 am to October 13, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Yveltal in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/yveltal-in-5-star-raid-battles-october-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/yveltal-2.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Yveltal",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_717_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Yveltal",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_717_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-07T06:00:00",
+            "end_time": "2026-10-13T22:00:00",
+            "description": "Yveltal will be in five-star raid battles from October 7, 2026 to October 13, 2026.\nThere will also be a Raid Hour featuring Yveltal from 6:00 p.m. to 7:00 p.m. local time on October 7."
+        },
+        {
+            "title": "Dialga in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/dialga-in-5-star-raid-battles-october-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/dialgaraids.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Dialga",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_483_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Dialga",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_483_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-14T06:00:00",
+            "end_time": "2026-10-20T22:00:00",
+            "description": "Dialga will be in five-star raid battles from October 14, 2026 to October 20, 2026.\nThere will also be a Raid Hour featuring Dialga from 6:00 p.m. to 7:00 p.m. local time on October 14."
+        },
+        {
+            "title": "Mega Dragonite in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-dragonite-in-mega-raids-october-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Mega Dragonite",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm149.fMEGA.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Dragonite",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_149_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Dragonite",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm149.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-14T06:00:00",
+            "end_time": "2026-10-20T22:00:00",
+            "description": "Mega Dragonite will be in Mega Raids from October 14, 2026 at 6 am to October 20, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Mega Charizard X and Mega Charizard Y in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Mega Charizard X",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_51.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mega Charizard Y",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_52.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Charizard",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Charizard X",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_51_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Charizard Y",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_52_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-21T06:00:00",
+            "end_time": "2026-10-27T22:00:00",
+            "description": "Mega Charizard X and Mega Charizard Y will be in Mega Raids from October 21, 2026 at 6 am to October 27, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Palkia in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/palkia-in-5-star-raid-battles-october-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/palkiaraid.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Palkia",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_484_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Palkia",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_484_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-21T06:00:00",
+            "end_time": "2026-10-27T22:00:00",
+            "description": "Palkia will be in five-star raid battles from October 21, 2026 to October 27, 2026.\nThere will also be a Raid Hour featuring Palkia from 6:00 p.m. to 7:00 p.m. local time on October 21."
+        },
+        {
+            "title": "Shadow Landorus (Incarnate Forme) in Shadow Raids",
+            "article_url": "https://leekduck.com/events/shadow-landorus-incarnate-forme-in-shadow-raids-october-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Landorus (Incarnate)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_645_11.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Landorus (Incarnate)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_645_11_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-07T06:00:00",
+            "end_time": "2026-11-03T22:00:00",
+            "description": "Shadow Landorus (Incarnate Forme) will appear in five-star Shadow Raids every weekend from October 7, 2026 to November 3, 2026. If you’re lucky, you may encounter Shiny Shadow Landorus (Incarnate Forme)!"
+        },
+        {
+            "title": "Giratina (Origin Forme) in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/giratina-origin-forme-in-5-star-raid-battles-october-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/giratinaoriginforme.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Giratina (Origin)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_12.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Giratina (Origin)",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_12_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-28T06:00:00",
+            "end_time": "2026-11-03T22:00:00",
+            "description": "Giratina (Origin) will be in five-star raid battles from October 28, 2026 to November 3, 2026.\nThere will also be a Raid Hour featuring Giratina (Origin Forme) from 6:00 p.m. to 7:00 p.m. local time on October 28."
+        },
+        {
+            "title": "Mega Sableye in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-sableye-in-mega-raids-october-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Mega Sableye",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_51.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Mega Sableye",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_51_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Sableye",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-28T06:00:00",
+            "end_time": "2026-11-03T22:00:00",
+            "description": "Mega Sableye will be in Mega Raids from October 28, 2026 at 6 am to November 3, 2026 at 10 pm local time."
         }
     ],
     "Max Battles": [
