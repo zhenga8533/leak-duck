@@ -1,7 +1,26 @@
 {
     "Phantump Catch Mastery Tasks": [
         {
-            "task": "Make an Excellent Throw",
+            "task": "Make 10 Nice Throws",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Drifloon",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm425.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Phantump",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm708.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Make 3 Great Throws in a row",
             "rewards": [
                 {
                     "type": "encounter",
@@ -32,7 +51,7 @@
             ]
         },
         {
-            "task": "Make 3 Great Throws in a row",
+            "task": "Make an Excellent Throw",
             "rewards": [
                 {
                     "type": "encounter",
@@ -42,23 +61,63 @@
                     "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm708.icon.png"
                 }
             ]
+        }
+    ],
+    "Brisbane, Australia - Pokémon GO City Safari Tasks": [
+        {
+            "task": "Catch 5 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Stardust",
+                    "quantity": 1000,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
+                }
+            ]
         },
         {
-            "task": "Make 10 Nice Throws",
+            "task": "Catch 15 Pokémon",
             "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Drifloon",
+                    "name": "Mudbray",
                     "shiny_available": false,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm425.icon.png"
-                },
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm749.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 20 Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Rare Candy",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Rare Candy.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 5 different species of Pokémon",
+            "rewards": [
                 {
                     "type": "encounter",
-                    "name": "Phantump",
+                    "name": "Mudbray",
                     "shiny_available": false,
                     "cp_range": null,
-                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm708.icon.png"
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm749.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Take a snapshot of your buddy",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Stardust",
+                    "quantity": 1000,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Stardust.png"
                 }
             ]
         }
