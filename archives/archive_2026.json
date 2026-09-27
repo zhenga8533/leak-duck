@@ -10275,6 +10275,58 @@
             "start_time": "2026-09-16T10:00:00",
             "end_time": "2026-09-22T20:00:00",
             "description": "The Pokémon Horizons: The Series Celebration Event returns to Pokémon GO with the debut of Charmander wearing Friede’s goggles and its Evolutions!\nUS fans can watch Pokémon Horizons: Season 3—Rising Hope on Netflix now. For more information, visit the Pokémon Horizons website.\nUK fans can watch Pokémon Horizons: Season 3—Rising Hope on BBC iPlayer. For more information, visit the Pokémon animation website.\nFor fans in other regions, please check availability with your local providers."
+        },
+        {
+            "title": "Phantump Catch Mastery",
+            "article_url": "https://leekduck.com/events/catch-mastery-phantump-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-26-catch-mastery-phantump-2026/phantump-catch-mastery.jpg?v2",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "2× XP for successfully catching Pokémon with Nice Throws or better",
+                    "Increased Candy for successfully catching Pokémon with Nice Throws or better"
+                ],
+                "features": [
+                    {
+                        "name": "Phantump",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm708.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "spawns": [
+                    {
+                        "name": "Cherubi",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_420_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Drifloon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_425_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Cherubi",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_420_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Drifloon",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_425_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Phantump",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm708.s.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-09-26T10:00:00",
+            "end_time": "2026-09-26T20:00:00",
+            "description": "Get ready for a Catch Mastery event featuring Phantump, the Stump Pokémon!"
         }
     ],
     "PokéStop Showcase": [
@@ -18752,6 +18804,199 @@
             "start_time": "2026-08-11T10:00:00",
             "end_time": "2026-08-17T20:00:00",
             "description": "Choose Your Path Timed Research is a new way to play during non-event weeks, giving you the freedom to explore Pokémon GO your way!\nDuring a Choose Your Path Timed Research week, you’ll be able to select one of three paths: Explore, Catch, or Battle. Your choice will shape the Timed Research tasks and bonuses throughout the week.\nYou may have different research opportunities than other Trainers."
+        }
+    ],
+    "City Safari": [
+        {
+            "title": "Brisbane, Australia - Pokémon GO City Safari",
+            "article_url": "https://leekduck.com/events/pokemon-go-city-safari-brisbane-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-brisbane-2026/city-safari-brisbane-2026.jpg",
+            "category": "City Safari",
+            "details": {
+                "bonuses": [
+                    "Eight-hour Party Play",
+                    "Four-hour Lure Modules (excluding Golden Lure Modules)",
+                    "Half Stardust cost for trades",
+                    "Increased Shiny chance",
+                    "Tiny Compass buddy souvenir",
+                    "Up to five Special Trades"
+                ],
+                "features": [
+                    {
+                        "name": "Explorer Eevee",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm133.cMay_2023.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "spawns": [
+                    {
+                        "name": "Abra",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_063_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Baltoy",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_343_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Binacle",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_688_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Buizel",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_418_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Clauncher",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_692_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Flamigo",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Gothita",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_574_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Hawlucha",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Hoppip",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Jigglypuff",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_039_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Komala",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Lillipup",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_506_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mareep",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_179_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Marill",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_183_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Miltank",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_241_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mudbray",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Orange Flower Flabébé",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Oranguru",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm765.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Petilil",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_548_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Slowpoke",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Stantler",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_234_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Totodile",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_158_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Unown B",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_12.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Unown L",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_22.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Unown M",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_23.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Unown R",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_28.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Wingull",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_278_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Yamask",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_562_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "eggs": [
+                    {
+                        "name": "Hawlucha",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Komala",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Mudbray",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Orange Flower Flabébé",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": false,
+            "start_time": 1790380800,
+            "end_time": 1790496000,
+            "description": "Pokémon GO City Safari takes place in Brisbane, Australia, on September 26 and 27, 2026, from 10 am to 6 pm AEST each day. One-day tickets cost AU$17, including taxes and fees. Event gameplay requires a ticket and attendance in Brisbane.\nOfficial event details"
         }
     ]
 }
