@@ -593,6 +593,25 @@
             "description": "Bramblin makes its Pokémon GO debut during Fall Marathon: Buddy Trek! Explore up to 42 km to earn Marathon Visor Pikachu, enjoy increased chances of encountering Shiny Electrike and Shiny Hisuian Growlithe, and unlock new GO Pass rewards.\nThe event runs from Tuesday, October 13, at 10:00 a.m. to Monday, October 19, 2026, at 8:00 p.m. local time."
         },
         {
+            "title": "Pokémon TCG: 30th Celebration",
+            "article_url": "https://leekduck.com/events/pokemon-tcg-30th-celebration/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-27-pokemon-tcg-30th-celebration/pokemon-tcg-30th-celebration.jpg",
+            "category": "Event",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Mega Gengar",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_51.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-09-27T10:00:00",
+            "end_time": "2026-10-20T22:00:00",
+            "description": "Celebrate the release of Pokémon TCG: 30th Celebration!\nVisit participating Target, Best Buy, and GameStop locations in the United States for Mega Raids and Timed Research.\nThe event runs from September 27, 2026, at 10:00 a.m. to October 20, 2026, at 10:00 p.m. local time."
+        },
+        {
             "title": "Halloween 2026 Part I",
             "article_url": "https://leekduck.com/events/halloween-2026-part-1/",
             "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
@@ -4124,17 +4143,6 @@
         }
     ],
     "Research": [
-        {
-            "title": "Pokémon TCG: 30th Celebration",
-            "article_url": "https://leekduck.com/events/pokemon-tcg-30th-celebration/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Research",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-09-27T00:00:00",
-            "end_time": "2026-12-31T23:59:59",
-            "description": "Celebrate the release of Pokémon TCG: 30th Celebration!\nEvent Bonus Timed Research is available at Target, Best Buy, and GameStop Gyms. Complete three pages of tasks to earn Pokémon encounters, Berries, Poké Balls, an Incubator, 50 Gastly Candy, and two Lucky Eggs.\nThe event is available now. The event end date and the deadline to complete the Timed Research are currently unknown."
-        },
         {
             "title": "adidas × Pokémon Timed Research",
             "article_url": "https://leekduck.com/events/pokemon-x-adidas-2026/",
