@@ -5,6 +5,18 @@
             "rewards": [
                 {
                     "type": "item",
+                    "name": "Sweet Apple",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Sweet Apple.png"
+                },
+                {
+                    "type": "item",
+                    "name": "Syrupy Apple",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Syrupy Apple.png"
+                },
+                {
+                    "type": "item",
                     "name": "Tart Apple",
                     "quantity": 1,
                     "asset_url": "https://cdn.leekduck.com/assets/img/items/Tart Apple.png"
