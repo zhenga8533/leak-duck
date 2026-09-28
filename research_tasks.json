@@ -1,4 +1,67 @@
 {
+    "Harvest Festival 2026: Applin Picking Tasks": [
+        {
+            "task": "Use 20 Berries to help catch Pokémon",
+            "rewards": [
+                {
+                    "type": "item",
+                    "name": "Tart Apple",
+                    "quantity": 1,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/items/Tart Apple.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 15 Grass-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Applin",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm840.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Use 10 Berries to help catch Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Smoliv",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm928.icon.png"
+                }
+            ]
+        },
+        {
+            "task": "Catch 5 Grass-type Pokémon",
+            "rewards": [
+                {
+                    "type": "encounter",
+                    "name": "Foongus",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm590.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Skwovet",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm819.icon.png"
+                },
+                {
+                    "type": "encounter",
+                    "name": "Smoliv",
+                    "shiny_available": false,
+                    "cp_range": null,
+                    "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pm928.icon.png"
+                }
+            ]
+        }
+    ],
     "Choose Your Path: Twilight Trails Tasks": [
         {
             "task": "Make 5 Nice Throws",
