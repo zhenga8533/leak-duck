@@ -1,831 +1,5 @@
 {
-    "Event": [
-        {
-            "title": "Phantump Catch Mastery",
-            "article_url": "https://leekduck.com/events/catch-mastery-phantump-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-26-catch-mastery-phantump-2026/phantump-catch-mastery.jpg?v2",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "2× XP for successfully catching Pokémon with Nice Throws or better",
-                    "Increased Candy for successfully catching Pokémon with Nice Throws or better"
-                ],
-                "features": [
-                    {
-                        "name": "Phantump",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm708.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "spawns": [
-                    {
-                        "name": "Cherubi",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_420_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Drifloon",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_425_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Cherubi",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_420_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Drifloon",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_425_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Phantump",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm708.s.icon.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-09-26T10:00:00",
-            "end_time": "2026-09-26T20:00:00",
-            "description": "Get ready for a Catch Mastery event featuring Phantump, the Stump Pokémon!"
-        },
-        {
-            "title": "LEGO Stores and Pokémon GO",
-            "article_url": "https://leekduck.com/events/lego-pokemon-go-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-03-lego-pokemon-go-2026/lego-stores-pokemon-go.jpg",
-            "category": "Event",
-            "details": {
-                "features": [
-                    {
-                        "name": "Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "bonuses": [
-                    "Nanab Berry ×5",
-                    "Pinap Berry ×5",
-                    "Poké Ball ×10",
-                    "Razz Berry ×5"
-                ],
-                "raids": [
-                    {
-                        "name": "Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-08-03T10:00:00",
-            "end_time": "2026-09-30T23:59:00",
-            "description": "The Pokémon GO and LEGO Group partnership continues for Trainers in the US, UK, Poland, France, Germany, and Australia! Visit participating LEGO Store locations for raids, a LEGO-themed stamp rally, event stickers, and LEGO Pokémon SMART Play.\nThe LEGO Stores and Pokémon GO event will take place from August 3, 2026 at 10 am to September 30, 2026 at 11 pm."
-        },
-        {
-            "title": "Patterns of the Wild",
-            "article_url": "https://leekduck.com/events/patterns-of-the-wild-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-02-patterns-of-the-wild-2026/patterns-of-the-wild-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "Incense will last for two hours",
-                    "Increased chance to encounter Pikachu wearing a batik shirt and other event-themed Pokémon while using Incense",
-                    "Increased chance to encounter Shiny featured wild Pokémon"
-                ],
-                "features": [
-                    {
-                        "name": "Batik Shirt Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fTSHIRT_03.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "spawns": [
-                    {
-                        "name": "Batik Shirt Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fTSHIRT_03.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Bellsprout",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_069_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Caterpie",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_010_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Gloom",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_044_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Hoppip",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Ledian",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_166_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Ledyba",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_165_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Oddish",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_043_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Skiploom",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_188_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Sunkern",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_191_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Wurmple",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_265_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "research": [
-                    {
-                        "name": "Batik Shirt Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fTSHIRT_03.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Hoppip",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Ledyba",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_165_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Oddish",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_043_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Batik Shirt Pikachu",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fTSHIRT_03.s.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Bellsprout",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_069_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Caterpie",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_010_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Gloom",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_044_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Hoppip",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Ledian",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_166_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Ledyba",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_165_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Oddish",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_043_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Skiploom",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_188_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Sunkern",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_191_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Wurmple",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_265_00_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-10-02T10:00:00",
-            "end_time": "2026-10-02T20:00:00",
-            "description": "This event is available only in Indonesia.\nNote: The original announcement was updated to say this event is exclusive to Indonesia. It originally gave no indication that it was not a global event.\nPatterns of the Wild brings a Special Background for Pikachu wearing a batik shirt, along with boosted wild encounters, Incense bonuses, and research rewards!\nThe event takes place on Friday, October 2, 2026, from 10:00 a.m. to 8:00 p.m. local time. Timed Research is available for a longer period, from September 28 through October 7."
-        },
-        {
-            "title": "Harvest Festival 2026: Applin Picking",
-            "article_url": "https://leekduck.com/events/harvest-festival-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-29-harvest-festival-2026/harvest-festival-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "Applin will have an increased chance of holding Tart Apples, Sweet Apples, or Syrupy Apples when caught",
-                    "Increased chance to encounter Shiny Smoliv",
-                    "More Stardust from defeating Team GO Rocket Grunts and Leaders",
-                    "Mossy Lure Modules activated during the event will last for one hour"
-                ],
-                "features": [
-                    {
-                        "name": "Applin",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm840.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Flower Crown Cottonee",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm546.cSPRING_2024.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "spawns": [
-                    {
-                        "name": "Applin",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm840.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Lechonk",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm915.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Skwovet",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm819.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Smoliv",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm928.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Appletun",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm842.s.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Applin",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm840.s.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Arboliva",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm930.s.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Dipplin",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm1011.s.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Dolliv",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm929.s.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Flapple",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm841.s.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Hydrapple",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm1019.s.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Smoliv",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm928.s.icon.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-09-29T10:00:00",
-            "end_time": "2026-10-05T20:00:00",
-            "description": "Harvest Festival returns with the Pokémon GO debut of Shiny Applin! Gather apples, choose a Timed Research path, and earn rewards through the event GO Pass.\nThe Harvest Festival 2026: Applin Picking event will take place from September 29, 2026 at 10 am to October 5, 2026 at 8 pm local time."
-        },
-        {
-            "title": "Harvest Festival: Taken Over",
-            "article_url": "https://leekduck.com/events/harvest-festival-taken-over-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-02-harvest-festival-taken-over-2026/harvest-festival-taken-over-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "Increased chance to encounter Shiny Slugma",
-                    "More Team GO Rocket appearances at PokéStops and in balloons",
-                    "Use a Charged TM to remove Frustration from Shadow Pokémon",
-                    "Wider Attack, Defense, and HP variance for Pokémon caught in one-star and three-star Shadow Raids during the event"
-                ],
-                "features": [
-                    {
-                        "name": "Zekrom",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_644_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shadow": [
-                    {
-                        "name": "Fomantis",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm753.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Sandygast",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm769.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Wimpod",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm767.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "spawns": [
-                    {
-                        "name": "Koffing",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_109_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Magmar",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_126_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Numel",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_322_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Slugma",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_218_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Grafaiai",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm945.s.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Shroodle",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm944.s.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Slugma",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_218_00_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-10-02T00:00:00",
-            "end_time": "2026-10-05T20:00:00",
-            "description": "Rescue Shadow Zekrom as Team GO Rocket takes over the Harvest Festival!\nThe Harvest Festival: Taken Over event will take place from October 2, 2026 at 12 am to October 5, 2026 at 8 pm local time."
-        },
-        {
-            "title": "World Space Week 2026",
-            "article_url": "https://leekduck.com/events/world-space-week-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-04-world-space-week-2026/world-space-week-2026.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-10-04T00:00:00",
-            "end_time": "2026-10-10T23:59:00",
-            "description": "Blast off with Astronaut Pikachu during World Space Week! This new costumed Pokémon makes its Pokémon GO debut in raids and free Timed Research.\nThis global event is part of a collaboration between the European Space Agency and The Pokémon Company.\nWorld Space Week takes place from Sunday, October 4, 2026, at 12:00 a.m. to Saturday, October 10, 2026, at 11:59 p.m. local time."
-        },
-        {
-            "title": "Sandile Hatch Day",
-            "article_url": "https://leekduck.com/events/sandile-hatch-day-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-17-sandile-hatch-day-2026/sandile-hatch-day-2026.jpg",
-            "category": "Event",
-            "details": {
-                "bonuses": [
-                    "1/2 Egg Hatch Distance*",
-                    "1/4 Egg Hatch Distance*",
-                    "2× Candy from hatching Eggs*",
-                    "Increased chance of hatching Shiny Sandile",
-                    "Increased chance of receiving 2 km Eggs from spinning PokéStops"
-                ],
-                "features": [
-                    {
-                        "name": "Sandile",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_551_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "shiny": [
-                    {
-                        "name": "Krokorok",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_552_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Krookodile",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_553_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Sandile",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_551_00_shiny.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-10-17T11:00:00",
-            "end_time": "2026-10-17T17:00:00",
-            "description": "Sandile Hatch Day features more Sandile hatching from 2 km Eggs and an increased chance of hatching Shiny Sandile!\nThe Sandile Hatch Day event will take place on October 17, 2026 from 11 am to 5 pm local time."
-        },
-        {
-            "title": "Fall Marathon: Buddy Trek",
-            "article_url": "https://leekduck.com/events/fall-marathon-buddy-trek-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-13-fall-marathon-buddy-trek-2026/fall-marathon-buddy-trek-2026.jpg",
-            "category": "Event",
-            "details": {
-                "features": [
-                    {
-                        "name": "Bramblin",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm946.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Mega Manectric",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_310_51.png",
-                        "shiny_available": true
-                    }
-                ],
-                "spawns": [
-                    {
-                        "name": "Blitzle",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_522_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Bramblin",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm946.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Doduo",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_084_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Dwebble",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_557_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Electrike",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Galarian Ponyta",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm77.fGALARIAN.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Helioptile",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm694.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Hisuian Growlithe",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm58.fHISUIAN.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Hoppip",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Nincada",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_290_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Ponyta",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_077_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Skarmory",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_227_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "research": [
-                    {
-                        "name": "Bramblin",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm946.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Doduo",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_084_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Electrike",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "bonuses": [
-                    "5× Mega Energy from exploring with Electrike or Manectric as your buddy after Mega Evolving Manectric at least once",
-                    "Incense (excluding Daily Adventure Incense) activated during the event lasts for two hours"
-                ],
-                "shiny": [
-                    {
-                        "name": "Electrike",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00_shiny.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Hisuian Growlithe",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm58.fHISUIAN.s.icon.png",
-                        "shiny_available": false
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-10-13T10:00:00",
-            "end_time": "2026-10-19T20:00:00",
-            "description": "Bramblin makes its Pokémon GO debut during Fall Marathon: Buddy Trek! Explore up to 42 km to earn Marathon Visor Pikachu, enjoy increased chances of encountering Shiny Electrike and Shiny Hisuian Growlithe, and unlock new GO Pass rewards.\nThe event runs from Tuesday, October 13, at 10:00 a.m. to Monday, October 19, 2026, at 8:00 p.m. local time."
-        },
-        {
-            "title": "Pokémon TCG: 30th Celebration",
-            "article_url": "https://leekduck.com/events/pokemon-tcg-30th-celebration/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-27-pokemon-tcg-30th-celebration/pokemon-tcg-30th-celebration.jpg",
-            "category": "Event",
-            "details": {
-                "raids": [
-                    {
-                        "name": "Mega Gengar",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_51.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": true,
-            "start_time": "2026-09-27T10:00:00",
-            "end_time": "2026-10-20T22:00:00",
-            "description": "Celebrate the release of Pokémon TCG: 30th Celebration!\nVisit participating Target, Best Buy, and GameStop locations in the United States for Mega Raids and Timed Research.\nThe event runs from September 27, 2026, at 10:00 a.m. to October 20, 2026, at 10:00 p.m. local time."
-        },
-        {
-            "title": "Halloween 2026 Part I",
-            "article_url": "https://leekduck.com/events/halloween-2026-part-1/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-10-27T10:00:00",
-            "end_time": "2026-10-31T20:00:00",
-            "description": "The Halloween 2026 Part I event will take place from October 27, 2026 through October 31, 2026. The event is expected to begin at 10:00 a.m. and end at 8:00 p.m. local time. Stay tuned for more details."
-        },
-        {
-            "title": "Halloween 2026 Part II",
-            "article_url": "https://leekduck.com/events/halloween-2026-part-2/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-            "category": "Event",
-            "details": {},
-            "is_local_time": true,
-            "start_time": "2026-11-01T10:00:00",
-            "end_time": "2026-11-05T20:00:00",
-            "description": "The Halloween 2026 Part II event will take place from November 1, 2026 through November 5, 2026. The event is expected to begin at 10:00 a.m. and end at 8:00 p.m. local time. Stay tuned for more details."
-        }
-    ],
     "City Safari": [
-        {
-            "title": "Brisbane, Australia - Pokémon GO City Safari",
-            "article_url": "https://leekduck.com/events/pokemon-go-city-safari-brisbane-2026/",
-            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-26-pokemon-go-city-safari-brisbane-2026/city-safari-brisbane-2026.jpg",
-            "category": "City Safari",
-            "details": {
-                "bonuses": [
-                    "Eight-hour Party Play",
-                    "Four-hour Lure Modules (excluding Golden Lure Modules)",
-                    "Half Stardust cost for trades",
-                    "Increased Shiny chance",
-                    "Tiny Compass buddy souvenir",
-                    "Up to five Special Trades"
-                ],
-                "features": [
-                    {
-                        "name": "Explorer Eevee",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm133.cMay_2023.icon.png",
-                        "shiny_available": true
-                    }
-                ],
-                "spawns": [
-                    {
-                        "name": "Abra",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_063_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Baltoy",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_343_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Binacle",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_688_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Buizel",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_418_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Clauncher",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_692_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Flamigo",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm973.icon.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Gothita",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_574_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Hawlucha",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Hoppip",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Jigglypuff",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_039_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Komala",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Lillipup",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_506_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Mareep",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_179_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Marill",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_183_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Miltank",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_241_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Mudbray",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Orange Flower Flabébé",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Oranguru",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm765.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Petilil",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_548_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Slowpoke",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Stantler",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_234_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Totodile",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_158_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Unown B",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_12.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Unown L",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_22.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Unown M",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_23.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Unown R",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_201_28.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Wingull",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_278_00.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Yamask",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_562_00.png",
-                        "shiny_available": true
-                    }
-                ],
-                "eggs": [
-                    {
-                        "name": "Hawlucha",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_701_00.png",
-                        "shiny_available": false
-                    },
-                    {
-                        "name": "Komala",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm775.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Mudbray",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm749.icon.png",
-                        "shiny_available": true
-                    },
-                    {
-                        "name": "Orange Flower Flabébé",
-                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm669.fORANGE.icon.png",
-                        "shiny_available": true
-                    }
-                ]
-            },
-            "is_local_time": false,
-            "start_time": 1790380800,
-            "end_time": 1790496000,
-            "description": "Pokémon GO City Safari takes place in Brisbane, Australia, on September 26 and 27, 2026, from 10 am to 6 pm AEST each day. One-day tickets cost AU$17, including taxes and fees. Event gameplay requires a ticket and attendance in Brisbane.\nOfficial event details"
-        },
         {
             "title": "Marseille, France - Pokémon GO City Safari",
             "article_url": "https://leekduck.com/events/pokemon-go-city-safari-marseille-2026/",
@@ -2261,6 +1435,589 @@
             "start_time": "2026-10-28T18:00:00",
             "end_time": "2026-10-28T19:00:00",
             "description": "A Raid Hour featuring Giratina (Origin Forme) is scheduled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be an increased number of five-star raids."
+        }
+    ],
+    "Event": [
+        {
+            "title": "LEGO Stores and Pokémon GO",
+            "article_url": "https://leekduck.com/events/lego-pokemon-go-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-03-lego-pokemon-go-2026/lego-stores-pokemon-go.jpg",
+            "category": "Event",
+            "details": {
+                "features": [
+                    {
+                        "name": "Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "bonuses": [
+                    "Nanab Berry ×5",
+                    "Pinap Berry ×5",
+                    "Poké Ball ×10",
+                    "Razz Berry ×5"
+                ],
+                "raids": [
+                    {
+                        "name": "Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_025_00.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-08-03T10:00:00",
+            "end_time": "2026-09-30T23:59:00",
+            "description": "The Pokémon GO and LEGO Group partnership continues for Trainers in the US, UK, Poland, France, Germany, and Australia! Visit participating LEGO Store locations for raids, a LEGO-themed stamp rally, event stickers, and LEGO Pokémon SMART Play.\nThe LEGO Stores and Pokémon GO event will take place from August 3, 2026 at 10 am to September 30, 2026 at 11 pm."
+        },
+        {
+            "title": "Patterns of the Wild",
+            "article_url": "https://leekduck.com/events/patterns-of-the-wild-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-02-patterns-of-the-wild-2026/patterns-of-the-wild-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "Incense will last for two hours",
+                    "Increased chance to encounter Pikachu wearing a batik shirt and other event-themed Pokémon while using Incense",
+                    "Increased chance to encounter Shiny featured wild Pokémon"
+                ],
+                "features": [
+                    {
+                        "name": "Batik Shirt Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fTSHIRT_03.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "spawns": [
+                    {
+                        "name": "Batik Shirt Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fTSHIRT_03.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Bellsprout",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_069_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Caterpie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_010_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Gloom",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_044_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Hoppip",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Ledian",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_166_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Ledyba",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_165_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Oddish",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_043_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Skiploom",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_188_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Sunkern",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_191_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Wurmple",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_265_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "research": [
+                    {
+                        "name": "Batik Shirt Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fTSHIRT_03.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Hoppip",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Ledyba",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_165_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Oddish",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_043_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Batik Shirt Pikachu",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fTSHIRT_03.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Bellsprout",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_069_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Caterpie",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_010_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Gloom",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_044_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Hoppip",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Ledian",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_166_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Ledyba",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_165_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Oddish",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_043_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Skiploom",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_188_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Sunkern",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_191_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Wurmple",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_265_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-02T10:00:00",
+            "end_time": "2026-10-02T20:00:00",
+            "description": "This event is available only in Indonesia.\nNote: The original announcement was updated to say this event is exclusive to Indonesia. It originally gave no indication that it was not a global event.\nPatterns of the Wild brings a Special Background for Pikachu wearing a batik shirt, along with boosted wild encounters, Incense bonuses, and research rewards!\nThe event takes place on Friday, October 2, 2026, from 10:00 a.m. to 8:00 p.m. local time. Timed Research is available for a longer period, from September 28 through October 7."
+        },
+        {
+            "title": "Harvest Festival 2026: Applin Picking",
+            "article_url": "https://leekduck.com/events/harvest-festival-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-29-harvest-festival-2026/harvest-festival-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "Applin will have an increased chance of holding Tart Apples, Sweet Apples, or Syrupy Apples when caught",
+                    "Increased chance to encounter Shiny Smoliv",
+                    "More Stardust from defeating Team GO Rocket Grunts and Leaders",
+                    "Mossy Lure Modules activated during the event will last for one hour"
+                ],
+                "features": [
+                    {
+                        "name": "Applin",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm840.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Flower Crown Cottonee",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm546.cSPRING_2024.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "spawns": [
+                    {
+                        "name": "Applin",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm840.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Lechonk",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm915.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Skwovet",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm819.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Smoliv",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm928.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Appletun",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm842.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Applin",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm840.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Arboliva",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm930.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Dipplin",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm1011.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Dolliv",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm929.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Flapple",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm841.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Hydrapple",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm1019.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Smoliv",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm928.s.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-09-29T10:00:00",
+            "end_time": "2026-10-05T20:00:00",
+            "description": "Harvest Festival returns with the Pokémon GO debut of Shiny Applin! Gather apples, choose a Timed Research path, and earn rewards through the event GO Pass.\nThe Harvest Festival 2026: Applin Picking event will take place from September 29, 2026 at 10 am to October 5, 2026 at 8 pm local time."
+        },
+        {
+            "title": "Harvest Festival: Taken Over",
+            "article_url": "https://leekduck.com/events/harvest-festival-taken-over-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-02-harvest-festival-taken-over-2026/harvest-festival-taken-over-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "Increased chance to encounter Shiny Slugma",
+                    "More Team GO Rocket appearances at PokéStops and in balloons",
+                    "Use a Charged TM to remove Frustration from Shadow Pokémon",
+                    "Wider Attack, Defense, and HP variance for Pokémon caught in one-star and three-star Shadow Raids during the event"
+                ],
+                "features": [
+                    {
+                        "name": "Zekrom",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_644_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shadow": [
+                    {
+                        "name": "Fomantis",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm753.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Sandygast",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm769.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Wimpod",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm767.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "spawns": [
+                    {
+                        "name": "Koffing",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_109_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Magmar",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_126_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Numel",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_322_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Slugma",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_218_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Grafaiai",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm945.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Shroodle",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm944.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Slugma",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_218_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-02T00:00:00",
+            "end_time": "2026-10-05T20:00:00",
+            "description": "Rescue Shadow Zekrom as Team GO Rocket takes over the Harvest Festival!\nThe Harvest Festival: Taken Over event will take place from October 2, 2026 at 12 am to October 5, 2026 at 8 pm local time."
+        },
+        {
+            "title": "World Space Week 2026",
+            "article_url": "https://leekduck.com/events/world-space-week-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-04-world-space-week-2026/world-space-week-2026.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-10-04T00:00:00",
+            "end_time": "2026-10-10T23:59:00",
+            "description": "Blast off with Astronaut Pikachu during World Space Week! This new costumed Pokémon makes its Pokémon GO debut in raids and free Timed Research.\nThis global event is part of a collaboration between the European Space Agency and The Pokémon Company.\nWorld Space Week takes place from Sunday, October 4, 2026, at 12:00 a.m. to Saturday, October 10, 2026, at 11:59 p.m. local time."
+        },
+        {
+            "title": "Sandile Hatch Day",
+            "article_url": "https://leekduck.com/events/sandile-hatch-day-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-17-sandile-hatch-day-2026/sandile-hatch-day-2026.jpg",
+            "category": "Event",
+            "details": {
+                "bonuses": [
+                    "1/2 Egg Hatch Distance*",
+                    "1/4 Egg Hatch Distance*",
+                    "2× Candy from hatching Eggs*",
+                    "Increased chance of hatching Shiny Sandile",
+                    "Increased chance of receiving 2 km Eggs from spinning PokéStops"
+                ],
+                "features": [
+                    {
+                        "name": "Sandile",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_551_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Krokorok",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_552_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Krookodile",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_553_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Sandile",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_551_00_shiny.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-17T11:00:00",
+            "end_time": "2026-10-17T17:00:00",
+            "description": "Sandile Hatch Day features more Sandile hatching from 2 km Eggs and an increased chance of hatching Shiny Sandile!\nThe Sandile Hatch Day event will take place on October 17, 2026 from 11 am to 5 pm local time."
+        },
+        {
+            "title": "Fall Marathon: Buddy Trek",
+            "article_url": "https://leekduck.com/events/fall-marathon-buddy-trek-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-13-fall-marathon-buddy-trek-2026/fall-marathon-buddy-trek-2026.jpg",
+            "category": "Event",
+            "details": {
+                "features": [
+                    {
+                        "name": "Bramblin",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm946.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Manectric",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_310_51.png",
+                        "shiny_available": true
+                    }
+                ],
+                "spawns": [
+                    {
+                        "name": "Blitzle",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_522_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Bramblin",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm946.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Doduo",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_084_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Dwebble",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_557_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Electrike",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Galarian Ponyta",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm77.fGALARIAN.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Helioptile",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm694.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Hisuian Growlithe",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm58.fHISUIAN.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Hoppip",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_187_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Nincada",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_290_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Ponyta",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_077_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Skarmory",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_227_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "research": [
+                    {
+                        "name": "Bramblin",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm946.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Doduo",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_084_00.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Electrike",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00.png",
+                        "shiny_available": true
+                    }
+                ],
+                "bonuses": [
+                    "5× Mega Energy from exploring with Electrike or Manectric as your buddy after Mega Evolving Manectric at least once",
+                    "Incense (excluding Daily Adventure Incense) activated during the event lasts for two hours"
+                ],
+                "shiny": [
+                    {
+                        "name": "Electrike",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_309_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Hisuian Growlithe",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm58.fHISUIAN.s.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-10-13T10:00:00",
+            "end_time": "2026-10-19T20:00:00",
+            "description": "Bramblin makes its Pokémon GO debut during Fall Marathon: Buddy Trek! Explore up to 42 km to earn Marathon Visor Pikachu, enjoy increased chances of encountering Shiny Electrike and Shiny Hisuian Growlithe, and unlock new GO Pass rewards.\nThe event runs from Tuesday, October 13, at 10:00 a.m. to Monday, October 19, 2026, at 8:00 p.m. local time."
+        },
+        {
+            "title": "Pokémon TCG: 30th Celebration",
+            "article_url": "https://leekduck.com/events/pokemon-tcg-30th-celebration/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-27-pokemon-tcg-30th-celebration/pokemon-tcg-30th-celebration.jpg",
+            "category": "Event",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Mega Gengar",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_51.png",
+                        "shiny_available": true
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-09-27T10:00:00",
+            "end_time": "2026-10-20T22:00:00",
+            "description": "Celebrate the release of Pokémon TCG: 30th Celebration!\nVisit participating Target, Best Buy, and GameStop locations in the United States for Mega Raids and Timed Research.\nThe event runs from September 27, 2026, at 10:00 a.m. to October 20, 2026, at 10:00 p.m. local time."
+        },
+        {
+            "title": "Halloween 2026 Part I",
+            "article_url": "https://leekduck.com/events/halloween-2026-part-1/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-10-27T10:00:00",
+            "end_time": "2026-10-31T20:00:00",
+            "description": "The Halloween 2026 Part I event will take place from October 27, 2026 through October 31, 2026. The event is expected to begin at 10:00 a.m. and end at 8:00 p.m. local time. Stay tuned for more details."
+        },
+        {
+            "title": "Halloween 2026 Part II",
+            "article_url": "https://leekduck.com/events/halloween-2026-part-2/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+            "category": "Event",
+            "details": {},
+            "is_local_time": true,
+            "start_time": "2026-11-01T10:00:00",
+            "end_time": "2026-11-05T20:00:00",
+            "description": "The Halloween 2026 Part II event will take place from November 1, 2026 through November 5, 2026. The event is expected to begin at 10:00 a.m. and end at 8:00 p.m. local time. Stay tuned for more details."
         }
     ],
     "Pokémon Spotlight Hour": [
