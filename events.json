@@ -895,8 +895,18 @@
                         "shiny_available": true
                     },
                     {
+                        "name": "Foongus",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_590_00.png",
+                        "shiny_available": true
+                    },
+                    {
                         "name": "Lechonk",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm915.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Shroomish",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_285_00.png",
                         "shiny_available": true
                     },
                     {
@@ -907,6 +917,11 @@
                     {
                         "name": "Smoliv",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm928.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Snorlax",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_143_00.png",
                         "shiny_available": true
                     }
                 ],
