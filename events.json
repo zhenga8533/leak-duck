@@ -886,6 +886,16 @@
                         "name": "Flower Crown Cottonee",
                         "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm546.cSPRING_2024.icon.png",
                         "shiny_available": true
+                    },
+                    {
+                        "name": "Lechonk",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm915.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Skiddo",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm672.icon.png",
+                        "shiny_available": true
                     }
                 ],
                 "spawns": [
