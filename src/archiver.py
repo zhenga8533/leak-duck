@@ -1,9 +1,10 @@
-import json
 from datetime import UTC, datetime, timedelta, timezone
 from typing import Any, cast
 
 import requests
 
+from src.config import PublishedData
+from src.fetch import get_if_exists
 from src.paths import data_dir
 from src.utils import write_json_atomic
 from src.validation import validate_archive_output
@@ -14,10 +15,8 @@ class ArchiveFetchError(RuntimeError):
 
 
 class EventArchiver:
-    def __init__(self, user: str, repo: str):
-        self.repo_base_url = f"https://raw.githubusercontent.com/{user}/{repo}/data"
-        self.events_url = f"{self.repo_base_url}/events.json"
-
+    def __init__(self, published: PublishedData):
+        self.published = published
         self.json_dir = data_dir()
         self.archives_dir = self.json_dir / "archives"
         self.events_path = self.json_dir / "events.json"
@@ -46,24 +45,24 @@ class EventArchiver:
 
         return False, None
 
+    def _fetch_published_json(self, path: str) -> Any | None:
+        """Returns published JSON, or None when it has not been published yet."""
+        try:
+            response = get_if_exists(self.published.url(path), timeout=15)
+            return response.json() if response is not None else None
+        except (requests.exceptions.RequestException, ValueError) as e:
+            raise ArchiveFetchError(f"Could not fetch published {path}") from e
+
     def run(self) -> None:
         print("--- Running Event Archiver ---", flush=True)
         now_utc = datetime.now(UTC)
 
-        try:
-            response = requests.get(self.events_url, timeout=15)
-            response.raise_for_status()
-            current_events_data = response.json()
-        except requests.exceptions.HTTPError as e:
-            if e.response is not None and e.response.status_code == 404:
-                print(
-                    "No published events.json exists yet; skipping archiving.",
-                    flush=True,
-                )
-                return
-            raise ArchiveFetchError("Could not fetch published events.json") from e
-        except (requests.exceptions.RequestException, json.JSONDecodeError) as e:
-            raise ArchiveFetchError("Could not fetch published events.json") from e
+        current_events_data = self._fetch_published_json("events.json")
+        if current_events_data is None:
+            print(
+                "No published events.json exists yet; skipping archiving.", flush=True
+            )
+            return
 
         if not isinstance(current_events_data, dict):
             raise ArchiveFetchError("Published events.json is not a JSON object")
@@ -76,10 +75,7 @@ class EventArchiver:
             for event in events:
                 should_archive, end_dt = self._should_archive(event, now_utc)
                 if should_archive and end_dt:
-                    year = end_dt.year
-                    if year not in events_to_archive_by_year:
-                        events_to_archive_by_year[year] = []
-                    events_to_archive_by_year[year].append(event)
+                    events_to_archive_by_year.setdefault(end_dt.year, []).append(event)
                 else:
                     active_events_in_category.append(event)
 
@@ -101,21 +97,9 @@ class EventArchiver:
     def _update_archive_file(self, year: int, events: list[dict[str, Any]]) -> None:
         archive_name = f"archive_{year}"
         archive_file_path = self.archives_dir / f"{archive_name}.json"
-        archive_url = f"{self.repo_base_url}/archives/{archive_name}.json"
-
-        try:
-            response = requests.get(archive_url, timeout=15)
-            response.raise_for_status()
-            archive_data = response.json()
-        except requests.exceptions.HTTPError as e:
-            if e.response is not None and e.response.status_code == 404:
-                archive_data = {}
-            else:
-                raise ArchiveFetchError(
-                    f"Could not safely fetch the {year} archive"
-                ) from e
-        except (requests.exceptions.RequestException, json.JSONDecodeError) as e:
-            raise ArchiveFetchError(f"Could not safely fetch the {year} archive") from e
+        archive_data = self._fetch_published_json(f"archives/{archive_name}.json")
+        if archive_data is None:
+            archive_data = {}
 
         if not isinstance(archive_data, dict):
             raise ArchiveFetchError(f"Published {year} archive is not a JSON object")
@@ -123,16 +107,13 @@ class EventArchiver:
         validate_archive_output(archive_name, archive_data, allow_empty=True)
 
         for event in events:
-            category = event["category"]
-            if category not in archive_data:
-                archive_data[category] = []
-            archive_data[category].append(event)
+            archive_data.setdefault(event["category"], []).append(event)
 
-            # Simple de-duplication
-            unique_events = list(
+        # A re-archived event replaces its earlier copy but keeps its position.
+        for category in {event["category"] for event in events}:
+            archive_data[category] = list(
                 {e["article_url"]: e for e in archive_data[category]}.values()
             )
-            archive_data[category] = unique_events
 
         validate_archive_output(archive_name, archive_data)
         write_json_atomic(archive_file_path, archive_data)

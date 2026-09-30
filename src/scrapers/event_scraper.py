@@ -5,6 +5,8 @@ from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup, Tag
 
+from src.config import PublishedData, ScraperSettings
+from src.fetch import get_once
 from src.paths import data_dir
 from src.utils import clean_banner_url, parse_feed_datetime
 
@@ -19,28 +21,27 @@ class EventScraper(BaseScraper):
         self,
         url: str,
         file_name: str,
-        scraper_settings: dict[str, Any],
+        settings: ScraperSettings,
+        published: PublishedData,
         check_existing_events: bool = False,
-        github_user: str | None = None,
-        github_repo: str | None = None,
     ):
-        super().__init__(url, file_name, scraper_settings)
+        super().__init__(url, file_name, settings)
+        self.published = published
         self.check_existing_events = check_existing_events
-        self.github_user = github_user
-        self.github_repo = github_repo
         self.existing_event_urls: set[str] = set()
         self.existing_events_data: dict[str, list[dict[str, Any]]] = {}
+        self.event_dates_feed: dict[str, dict[str, str | None]] = {}
+
+    def run(self) -> None:
         if self.check_existing_events:
             self._fetch_existing_events()
         self.event_dates_feed = self._fetch_event_dates_feed()
+        super().run()
 
     def _fetch_event_dates_feed(self) -> dict[str, dict[str, str | None]]:
         """Fetches leekduck.com's official events feed for authoritative start/end times."""
         try:
-            timeout = self.scraper_settings.get("timeout", 15)
-            response = requests.get(EVENTS_FEED_URL, timeout=timeout)
-            response.raise_for_status()
-            feed = response.json()
+            feed = get_once(EVENTS_FEED_URL, self.settings.timeout).json()
             return {
                 entry["eventID"]: {
                     "start": entry.get("start"),
@@ -70,13 +71,6 @@ class EventScraper(BaseScraper):
                 event["end_time"] = end_time
 
     def _fetch_existing_events(self):
-        if not self.github_user or not self.github_repo:
-            print(
-                "GitHub user or repo not configured. Skipping check for existing events.",
-                flush=True,
-            )
-            return
-
         local_events_path = data_dir() / "events.json"
         if local_events_path.exists():
             try:
@@ -88,13 +82,11 @@ class EventScraper(BaseScraper):
                     f"Could not read local archived events from {local_events_path}"
                 ) from e
 
-        data_url = f"https://raw.githubusercontent.com/{self.github_user}/{self.github_repo}/data/events.json"
         try:
-            timeout = self.scraper_settings.get("timeout", 15)
-            response = requests.get(data_url, timeout=timeout)
-            response.raise_for_status()
-            data = response.json()
-            self._set_existing_events(data)
+            response = get_once(
+                self.published.url("events.json"), self.settings.timeout
+            )
+            self._set_existing_events(response.json())
         except (requests.exceptions.RequestException, ValueError) as e:
             print(f"Could not fetch existing events: {e}", flush=True)
             self.existing_events_data = {}
@@ -158,7 +150,7 @@ class EventScraper(BaseScraper):
         }
 
         if events_to_scrape:
-            page_scraper = EventPageScraper(self.scraper_settings)
+            page_scraper = EventPageScraper(self.settings)
             total_events = len(events_to_scrape)
             for idx, event in enumerate(events_to_scrape, 1):
                 print(
@@ -182,18 +174,15 @@ class EventScraper(BaseScraper):
                 )
                 continue
 
-            category = event.get("category", "Event")
-            if category not in new_events_by_category:
-                new_events_by_category[category] = []
-            new_events_by_category[category].append(event)
+            new_events_by_category.setdefault(
+                event.get("category", "Event"), []
+            ).append(event)
 
         merged_events = {
             category: list(events)
             for category, events in self.existing_events_data.items()
         }
         for category, events in new_events_by_category.items():
-            if category not in merged_events:
-                merged_events[category] = []
-            merged_events[category].extend(events)
+            merged_events.setdefault(category, []).extend(events)
 
         return merged_events

@@ -9,9 +9,6 @@ from .base_scraper import BaseScraper
 
 
 class RaidBossScraper(BaseScraper):
-    def __init__(self, url: str, file_name: str, scraper_settings: dict[str, Any]):
-        super().__init__(url, file_name, scraper_settings)
-
     def parse(self, soup: BeautifulSoup) -> dict[str, Any]:
         raid_data: dict[str, Any] = {}
         tier_sections = soup.select(".raid-bosses .tier, .shadow-raid-bosses .tier")

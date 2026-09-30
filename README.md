@@ -201,6 +201,8 @@ leak-duck/
 │   ├── archiver.py
 │   ├── backfill.py
 │   ├── config.json
+│   ├── config.py
+│   ├── fetch.py
 │   ├── main.py
 │   ├── paths.py
 │   ├── validation.py
@@ -208,6 +210,8 @@ leak-duck/
 ├── tests/
 │   ├── test_archiver.py
 │   ├── test_backfill.py
+│   ├── test_config.py
+│   ├── test_fetch.py
 │   ├── test_scrapers.py
 │   └── test_validation.py
 ├── .gitignore

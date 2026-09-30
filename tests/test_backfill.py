@@ -5,6 +5,7 @@ from unittest.mock import Mock, patch
 import requests
 
 from src.backfill import ArchiveBackfiller, modernize_details, modernize_pokemon
+from src.config import PublishedData
 
 
 def archived_event(**overrides: Any) -> dict[str, Any]:
@@ -52,7 +53,9 @@ class ModernizeTests(unittest.TestCase):
 
 class ArchiveBackfillerTests(unittest.TestCase):
     def setUp(self) -> None:
-        self.backfiller = ArchiveBackfiller("owner", "repository", [2025], delay=0)
+        self.backfiller = ArchiveBackfiller(
+            PublishedData("owner", "repository"), [2025], delay=0
+        )
 
     @staticmethod
     def response(text: str = "", status_code: int = 200) -> Mock:
@@ -64,7 +67,7 @@ class ArchiveBackfillerTests(unittest.TestCase):
 
     def test_recovers_description_and_sprites_from_a_live_page(self) -> None:
         event = archived_event()
-        with patch("src.backfill.requests.get", return_value=self.response(EVENT_PAGE)):
+        with patch("src.fetch.requests.get", return_value=self.response(EVENT_PAGE)):
             rebuilt, outcome = self.backfiller._backfill_event(event)
 
         self.assertEqual(outcome, "description recovered")
@@ -74,7 +77,7 @@ class ArchiveBackfillerTests(unittest.TestCase):
 
     def test_preserves_archived_identity_and_times(self) -> None:
         event = archived_event()
-        with patch("src.backfill.requests.get", return_value=self.response(EVENT_PAGE)):
+        with patch("src.fetch.requests.get", return_value=self.response(EVENT_PAGE)):
             rebuilt, _ = self.backfiller._backfill_event(event)
 
         for key in ("title", "category", "article_url", "banner_url", "start_time"):
@@ -83,7 +86,7 @@ class ArchiveBackfillerTests(unittest.TestCase):
     def test_missing_page_keeps_the_snapshot_and_only_modernizes_it(self) -> None:
         event = archived_event()
         with patch(
-            "src.backfill.requests.get", return_value=self.response(status_code=404)
+            "src.fetch.requests.get", return_value=self.response(status_code=404)
         ):
             rebuilt, outcome = self.backfiller._backfill_event(event)
 
@@ -97,7 +100,7 @@ class ArchiveBackfillerTests(unittest.TestCase):
     def test_existing_description_survives_a_page_without_one(self) -> None:
         event = archived_event(description="Original description.")
         page = '<div class="page-content"><div class="header-page">Title</div></div>'
-        with patch("src.backfill.requests.get", return_value=self.response(page)):
+        with patch("src.fetch.requests.get", return_value=self.response(page)):
             rebuilt, _ = self.backfiller._backfill_event(event)
 
         self.assertEqual(rebuilt["description"], "Original description.")
@@ -106,7 +109,7 @@ class ArchiveBackfillerTests(unittest.TestCase):
         from src.backfill import ArchiveBackfillError
 
         with patch(
-            "src.backfill.requests.get",
+            "src.fetch.requests.get",
             side_effect=requests.ConnectionError("temporary outage"),
         ):
             with self.assertRaises(ArchiveBackfillError):

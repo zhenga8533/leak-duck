@@ -7,6 +7,7 @@ from unittest.mock import Mock, patch
 import requests
 
 from src.archiver import ArchiveFetchError, EventArchiver
+from src.config import PublishedData
 from src.validation import OutputValidationError
 
 
@@ -31,7 +32,7 @@ class EventArchiverTests(unittest.TestCase):
         self.temporary_directory = tempfile.TemporaryDirectory()
         self.addCleanup(self.temporary_directory.cleanup)
         self.output_dir = Path(self.temporary_directory.name)
-        self.archiver = EventArchiver("owner", "repository")
+        self.archiver = EventArchiver(PublishedData("owner", "repository"))
         self.archiver.json_dir = self.output_dir
         self.archiver.archives_dir = self.output_dir / "archives"
         self.archiver.events_path = self.output_dir / "events.json"
@@ -62,7 +63,7 @@ class EventArchiverTests(unittest.TestCase):
         }
 
         with patch(
-            "src.archiver.requests.get",
+            "src.fetch.requests.get",
             side_effect=[
                 self.response(current_events),
                 requests.ConnectionError("temporary outage"),
@@ -89,7 +90,7 @@ class EventArchiverTests(unittest.TestCase):
             ]
         }
         with patch(
-            "src.archiver.requests.get", return_value=self.response(current_events)
+            "src.fetch.requests.get", return_value=self.response(current_events)
         ):
             self.archiver.run()
 
@@ -108,7 +109,7 @@ class EventArchiverTests(unittest.TestCase):
         )
 
         with patch(
-            "src.archiver.requests.get",
+            "src.fetch.requests.get",
             side_effect=[
                 self.response(current_events),
                 missing_archive_response,
@@ -129,7 +130,7 @@ class EventArchiverTests(unittest.TestCase):
         current_events = {"Event": [archived_event()]}
 
         with patch(
-            "src.archiver.requests.get",
+            "src.fetch.requests.get",
             side_effect=[
                 self.response(current_events),
                 self.response(published_archive),
@@ -150,7 +151,7 @@ class EventArchiverTests(unittest.TestCase):
         published_archive = {"Event": [archived_event(description=42)]}
 
         with patch(
-            "src.archiver.requests.get",
+            "src.fetch.requests.get",
             side_effect=[
                 self.response({"Event": [archived_event()]}),
                 self.response(published_archive),

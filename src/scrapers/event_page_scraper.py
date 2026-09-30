@@ -1,13 +1,13 @@
 import re
-import time
 from datetime import datetime, timedelta
 from pathlib import Path
 from typing import Any, cast
 from urllib.parse import quote_plus
 
-import requests
 from bs4 import BeautifulSoup, Tag
 
+from src.config import ScraperSettings
+from src.fetch import get_with_retries
 from src.paths import HTML_DIR
 from src.utils import clean_banner_url, parse_schedule_datetime, save_html
 
@@ -33,6 +33,27 @@ def clean_spacing(text: str) -> str:
     return text.strip()
 
 
+def _classes(tag: Tag) -> list[str]:
+    return cast(list[str], tag.get("class") or [])
+
+
+def _is_section_header(tag: Tag) -> bool:
+    return tag.name == "h2" and "event-section-header" in _classes(tag)
+
+
+def _block_texts(block: Tag, bullet: str = "") -> list[str]:
+    """Returns the cleaned text of a paragraph, or of each item in a list."""
+    if block.name == "p":
+        items = [block]
+    elif block.name == "ul":
+        items = block.find_all("li", recursive=False)
+    else:
+        return []
+
+    texts = (clean_spacing(item.get_text(separator=" ", strip=True)) for item in items)
+    return [f"{bullet}{text}" if block.name == "ul" else text for text in texts if text]
+
+
 class EventPageScraper:
     """
     A class to scrape event pages using requests and BeautifulSoup.
@@ -42,12 +63,8 @@ class EventPageScraper:
     is required to read them.
     """
 
-    def __init__(self, scraper_settings: dict[str, Any] | None = None):
-        settings = scraper_settings or {}
-        self.cache_expiration_hours = settings.get("cache_expiration_hours", 1)
-        self.max_retries = settings.get("retries", 3)
-        self.retry_delay = settings.get("delay", 1)
-        self.timeout = settings.get("timeout", 15)
+    def __init__(self, settings: ScraperSettings):
+        self.settings = settings
 
     def _is_cache_valid(self, cache_path: Path) -> bool:
         """Checks if the cached HTML file exists and is not expired."""
@@ -55,15 +72,11 @@ class EventPageScraper:
             return False
 
         file_modified_time = datetime.fromtimestamp(cache_path.stat().st_mtime)
-        expiration_time = datetime.now() - timedelta(hours=self.cache_expiration_hours)
+        expiration_time = datetime.now() - timedelta(
+            hours=self.settings.cache_expiration_hours
+        )
 
         return file_modified_time > expiration_time
-
-    def _fetch_html(self, url: str) -> str:
-        """Fetches the HTML content of an event page."""
-        response = requests.get(url, timeout=self.timeout)
-        response.raise_for_status()
-        return response.text
 
     def _parse_schedule(self, soup: BeautifulSoup) -> dict[str, Any]:
         """
@@ -102,8 +115,8 @@ class EventPageScraper:
             ),
         }
 
-    def _parse_event_details(self, soup: BeautifulSoup, url: str) -> dict[str, Any]:
-        """Parses the HTML soup to extract event details."""
+    def parse(self, soup: BeautifulSoup, url: str) -> dict[str, Any]:
+        """Parses an event page into its event details."""
         event_details: dict[str, Any] = {"article_url": url, "details": {}}
         content = soup.find("div", class_="page-content")
 
@@ -123,48 +136,22 @@ class EventPageScraper:
                 if not isinstance(child, Tag):
                     continue
 
-                # Check if this is a section header (h2 with id and event-section-header class)
                 section_id_val = child.get("id")
-                classes = cast(list, child.get("class") or [])
                 if (
-                    child.name == "h2"
+                    _is_section_header(child)
                     and section_id_val
                     and isinstance(section_id_val, str)
-                    and "event-section-header" in classes
                 ):
-                    # Save current section if we were in one
                     if current_section_id and current_section_items:
                         event_details["details"][current_section_id] = (
                             current_section_items
                         )
                         current_section_items = []
-
-                    # Start new section
                     current_section_id = section_id_val
-                    continue
-
-                # If we're in a section, collect items
-                if current_section_id:
-                    if child.name == "p":
-                        text = clean_spacing(child.get_text(separator=" ", strip=True))
-                        if text:
-                            current_section_items.append(text)
-                    elif child.name == "ul":
-                        for li in child.find_all("li", recursive=False):
-                            text = clean_spacing(li.get_text(separator=" ", strip=True))
-                            if text:
-                                current_section_items.append(text)
-                # Otherwise, add to description
+                elif current_section_id:
+                    current_section_items.extend(_block_texts(child))
                 else:
-                    if child.name == "p":
-                        text = clean_spacing(child.get_text(separator=" ", strip=True))
-                        if text:
-                            description_parts.append(text)
-                    elif child.name == "ul":
-                        for li in child.find_all("li", recursive=False):
-                            text = clean_spacing(li.get_text(separator=" ", strip=True))
-                            if text:
-                                description_parts.append(f"- {text}")
+                    description_parts.extend(_block_texts(child, bullet="- "))
 
             # Save any remaining section
             if current_section_id and current_section_items:
@@ -204,7 +191,7 @@ class EventPageScraper:
             if not isinstance(child, Tag):
                 continue
 
-            classes = cast(list, child.get("class") or [])
+            classes = _classes(child)
             if child.name == "div" and "header-page" in classes:
                 after_header = True
                 continue
@@ -217,15 +204,7 @@ class EventPageScraper:
             ):
                 break
 
-            if child.name == "p":
-                text = clean_spacing(child.get_text(separator=" ", strip=True))
-                if text:
-                    description_parts.append(text)
-            elif child.name == "ul":
-                for li in child.find_all("li", recursive=False):
-                    text = clean_spacing(li.get_text(separator=" ", strip=True))
-                    if text:
-                        description_parts.append(f"- {text}")
+            description_parts.extend(_block_texts(child, bullet="- "))
 
         return "\n".join(description_parts) or None
 
@@ -238,22 +217,15 @@ class EventPageScraper:
 
         next_element = section.find_next_sibling()
         while isinstance(next_element, Tag):
-            classes = cast(list, next_element.get("class") or [])
-            if (
-                next_element.name == "h2"
-                and classes
-                and "event-section-header" in classes
-            ):
+            if _is_section_header(next_element):
                 break
 
-            # Handle both pkmn-list and pkmn-list-flex classes
-            if (
-                next_element.name == "ul"
-                and classes
-                and ("pkmn-list" in classes or "pkmn-list-flex" in classes)
+            classes = _classes(next_element)
+            if next_element.name == "ul" and (
+                "pkmn-list" in classes or "pkmn-list-flex" in classes
             ):
                 self._parse_pokemon_list(next_element, section_id, event_details)
-            elif next_element.name == "div" and classes and "bonus-list" in classes:
+            elif next_element.name == "div" and "bonus-list" in classes:
                 self._parse_bonuses(next_element, event_details)
 
             next_element = next_element.find_next_sibling()
@@ -314,66 +286,18 @@ class EventPageScraper:
 
     def scrape(self, url: str) -> dict[str, Any]:
         """
-        Scrapes a given URL for event details, retrying on request errors.
+        Scrapes an event page, reusing recently cached HTML when available.
 
         Note: start_time/end_time parsed here are a fallback only -- EventScraper
         overlays authoritative dates from leekduck.com's official events feed.
-
-        Args:
-            url: The URL of the event page to scrape.
-
-        Returns:
-            A dictionary containing the scraped event details.
-
-        Raises:
-            RuntimeError: If fetching or parsing fails after all retries.
         """
         html_path = HTML_DIR / f"event_page_{quote_plus(url)}.html"
 
-        for attempt in range(1, self.max_retries + 1):
-            try:
-                use_cache = self._is_cache_valid(html_path) and attempt == 1
+        if self._is_cache_valid(html_path):
+            print(f"Using cached HTML for: {url}", flush=True)
+            html_content = html_path.read_text(encoding="utf-8")
+        else:
+            html_content = get_with_retries(url, self.settings).text
+            save_html(html_content, html_path)
 
-                if use_cache:
-                    print(f"Using cached HTML for: {url}", flush=True)
-                    with html_path.open("r", encoding="utf-8") as f:
-                        html_content = f.read()
-                else:
-                    print(
-                        f"Scraping event page: {url} (attempt {attempt}/{self.max_retries})",
-                        flush=True,
-                    )
-                    html_content = self._fetch_html(url)
-
-                soup = BeautifulSoup(html_content, "lxml")
-                event_details = self._parse_event_details(soup, url)
-
-                if not use_cache:
-                    save_html(html_content, html_path)
-                return event_details
-
-            except requests.exceptions.RequestException as e:
-                print(
-                    f"Request error scraping event page {url} (attempt {attempt}): {e}",
-                    flush=True,
-                )
-                if attempt < self.max_retries:
-                    time.sleep(self.retry_delay)
-                else:
-                    raise RuntimeError(
-                        f"Failed to scrape event page {url} after {self.max_retries} attempts"
-                    ) from e
-
-            except Exception as e:
-                print(
-                    f"Unexpected error scraping {url} (attempt {attempt}): {e}",
-                    flush=True,
-                )
-                if attempt == self.max_retries:
-                    raise RuntimeError(
-                        f"Failed to parse event page {url} after {self.max_retries} attempts"
-                    ) from e
-                time.sleep(self.retry_delay)
-
-        # Should never reach here, but just in case
-        raise RuntimeError(f"Failed to scrape event page {url}")
+        return self.parse(BeautifulSoup(html_content, "lxml"), url)

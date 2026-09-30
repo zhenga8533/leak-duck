@@ -1,11 +1,12 @@
 import argparse
-import json
 import time
 from typing import Any, cast
 
 import requests
 from bs4 import BeautifulSoup
 
+from src.config import PublishedData, ScraperSettings, load_config
+from src.fetch import get_if_exists, get_once
 from src.paths import data_dir
 from src.scrapers.event_page_scraper import EventPageScraper
 from src.utils import write_json_atomic
@@ -47,20 +48,19 @@ class ArchiveBackfiller:
     left as-is apart from a format conversion.
     """
 
-    def __init__(self, user: str, repo: str, years: list[int], delay: float = 0.15):
-        self.repo_base_url = f"https://raw.githubusercontent.com/{user}/{repo}/data"
+    def __init__(self, published: PublishedData, years: list[int], delay: float = 0.15):
+        self.published = published
         self.archives_dir = data_dir() / "archives"
         self.years = years
         self.delay = delay
-        self.page_scraper = EventPageScraper({"timeout": 20})
+        self.page_scraper = EventPageScraper(ScraperSettings(timeout=20))
 
     def _fetch_archive(self, year: int) -> dict[str, list[dict[str, Any]]]:
-        url = f"{self.repo_base_url}/archives/archive_{year}.json"
         try:
-            response = requests.get(url, timeout=15)
-            response.raise_for_status()
-            archive = response.json()
-        except (requests.exceptions.RequestException, json.JSONDecodeError) as e:
+            archive = get_once(
+                self.published.url(f"archives/archive_{year}.json"), timeout=15
+            ).json()
+        except (requests.exceptions.RequestException, ValueError) as e:
             raise ArchiveBackfillError(f"Could not fetch the {year} archive") from e
 
         if not isinstance(archive, dict):
@@ -73,12 +73,10 @@ class ArchiveBackfiller:
     def _rescrape(self, event: dict[str, Any]) -> dict[str, Any] | None:
         """Return the current page's parse, or None when the page is gone."""
         url = event["article_url"]
-        response = requests.get(url, timeout=20)
-        if response.status_code == 404:
+        response = get_if_exists(url, timeout=self.page_scraper.settings.timeout)
+        if response is None:
             return None
-        response.raise_for_status()
-        soup = BeautifulSoup(response.text, "lxml")
-        return self.page_scraper._parse_event_details(soup, url)
+        return self.page_scraper.parse(BeautifulSoup(response.text, "lxml"), url)
 
     def _backfill_event(self, event: dict[str, Any]) -> tuple[dict[str, Any], str]:
         """Return the rebuilt event and the outcome for reporting."""
@@ -143,10 +141,7 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    with open("src/config.json", encoding="utf-8") as f:
-        github = json.load(f)["github"]
-
-    backfiller = ArchiveBackfiller(github["user"], github["repo"], args.years)
+    backfiller = ArchiveBackfiller(load_config().published, args.years)
     backfiller.run(dry_run=args.dry_run)
 
 

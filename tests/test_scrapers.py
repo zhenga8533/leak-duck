@@ -7,7 +7,9 @@ from unittest.mock import patch
 import requests
 from bs4 import BeautifulSoup
 
-from src.scrapers.base_scraper import BaseScraper, ScraperFetchError
+from src.config import PublishedData, ScraperSettings
+from src.fetch import FetchError
+from src.scrapers.base_scraper import BaseScraper
 from src.scrapers.egg_scraper import EggScraper
 from src.scrapers.event_page_scraper import EventPageScraper
 from src.scrapers.event_scraper import EventScraper
@@ -27,15 +29,15 @@ class ScraperSafetyTests(unittest.TestCase):
             output_path = Path(temporary_directory) / "data.json"
             output_path.write_text('{"existing": true}', encoding="utf-8")
             scraper = DummyScraper(
-                "https://example.invalid", "dummy", {"retries": 1, "delay": 0}
+                "https://example.invalid", "dummy", ScraperSettings(retries=1, delay=0)
             )
             scraper.json_path = output_path
 
             with patch(
-                "src.scrapers.base_scraper.requests.get",
+                "src.fetch.requests.get",
                 side_effect=requests.ConnectionError("offline"),
             ):
-                with self.assertRaises(ScraperFetchError):
+                with self.assertRaises(FetchError):
                     scraper.run()
 
             self.assertEqual(
@@ -57,12 +59,12 @@ class ScraperSafetyTests(unittest.TestCase):
             (output_dir / "events.json").write_text(
                 json.dumps(events), encoding="utf-8"
             )
-            scraper = EventScraper.__new__(EventScraper)
-            scraper.github_user = "owner"
-            scraper.github_repo = "repository"
-            scraper.scraper_settings = {"timeout": 1}
-            scraper.existing_event_urls = set()
-            scraper.existing_events_data = {}
+            scraper = EventScraper(
+                "https://leekduck.com/events/",
+                "events",
+                ScraperSettings(timeout=1),
+                PublishedData("owner", "repository"),
+            )
 
             with patch("src.scrapers.event_scraper.data_dir", return_value=output_dir):
                 scraper._fetch_existing_events()
@@ -80,11 +82,12 @@ class ScraperSafetyTests(unittest.TestCase):
             ),
             "lxml",
         )
-        scraper = EventScraper.__new__(EventScraper)
-        scraper.url = "https://leekduck.com/events/"
-        scraper.scraper_settings = {"retries": 1, "delay": 0}
-        scraper.check_existing_events = False
-        scraper.existing_events_data = {}
+        scraper = EventScraper(
+            "https://leekduck.com/events/",
+            "events",
+            ScraperSettings(retries=1, delay=0),
+            PublishedData("owner", "repository"),
+        )
         scraper.event_dates_feed = {
             "tour-city": {
                 "start": "2027-02-19T09:00:00.000+0800",
@@ -115,7 +118,7 @@ class ScraperSafetyTests(unittest.TestCase):
 
 
 class ParserFixtureTests(unittest.TestCase):
-    settings = {"retries": 1, "delay": 0, "timeout": 1}
+    settings = ScraperSettings(retries=1, delay=0, timeout=1)
 
     def test_egg_parser(self) -> None:
         soup = BeautifulSoup(
@@ -181,7 +184,7 @@ class ParserFixtureTests(unittest.TestCase):
             '<div class="bonus-list"><div class="bonus-text">Double XP</div></div></div>',
             "lxml",
         )
-        data = EventPageScraper(self.settings)._parse_event_details(soup, "event-url")
+        data = EventPageScraper(self.settings).parse(soup, "event-url")
         self.assertTrue(data["is_local_time"])
         self.assertEqual(data["start_time"], "2026-07-20T10:00:00")
         self.assertEqual(data["end_time"], "2026-07-20T11:00:00")
@@ -199,7 +202,7 @@ class ParserFixtureTests(unittest.TestCase):
             "</div></div></section></div>",
             "lxml",
         )
-        data = EventPageScraper(self.settings)._parse_event_details(soup, "event-url")
+        data = EventPageScraper(self.settings).parse(soup, "event-url")
         self.assertTrue(data["is_local_time"])
         self.assertEqual(data["start_time"], "2026-10-21T18:00:00")
         self.assertEqual(data["end_time"], "2026-10-21T19:00:00")
@@ -219,7 +222,7 @@ class ParserFixtureTests(unittest.TestCase):
             "</div>",
             "lxml",
         )
-        data = EventPageScraper(self.settings)._parse_event_details(soup, "event-url")
+        data = EventPageScraper(self.settings).parse(soup, "event-url")
         self.assertFalse(data["is_local_time"])
         self.assertEqual(data["start_time"], 1793926800)
         self.assertEqual(data["end_time"], 1794128400)
@@ -232,7 +235,7 @@ class ParserFixtureTests(unittest.TestCase):
             "</section></div>",
             "lxml",
         )
-        data = EventPageScraper(self.settings)._parse_event_details(soup, "event-url")
+        data = EventPageScraper(self.settings).parse(soup, "event-url")
         self.assertTrue(data["schedule_tba"])
         self.assertIsNone(data["start_time"])
 
@@ -244,7 +247,7 @@ class ParserFixtureTests(unittest.TestCase):
             '<div class="bonus-list"><div class="bonus-text">Double XP</div></div></div>',
             "lxml",
         )
-        data = EventPageScraper(self.settings)._parse_event_details(soup, "event-url")
+        data = EventPageScraper(self.settings).parse(soup, "event-url")
         self.assertEqual(data["description"], "First paragraph.\nSecond paragraph.")
         self.assertEqual(data["details"]["bonuses"], ["Double XP"])
 
@@ -255,7 +258,7 @@ class ParserFixtureTests(unittest.TestCase):
             "<p>Trailing note.</p></div>",
             "lxml",
         )
-        data = EventPageScraper(self.settings)._parse_event_details(soup, "event-url")
+        data = EventPageScraper(self.settings).parse(soup, "event-url")
         self.assertEqual(data["description"], "Wrapped description.")
 
 
