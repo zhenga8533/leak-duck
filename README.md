@@ -1,7 +1,7 @@
 # Leak Duck 🦆
 
-[![Scrape Leek Duck Data](https://github.com/zhenga8533/leak-duck/actions/workflows/run_scrapers.yml/badge.svg)](https://github.com/zhenga8533/leak-duck/actions/workflows/run_scrapers.yml)
-![Last Updated](https://img.shields.io/github/last-commit/zhenga8533/leak-duck/data)
+[![Scrape Leek Duck Data](https://github.com/pogo-calendar/leak-duck/actions/workflows/run_scrapers.yml/badge.svg)](https://github.com/pogo-calendar/leak-duck/actions/workflows/run_scrapers.yml)
+![Last Updated](https://img.shields.io/github/last-commit/pogo-calendar/leak-duck/data)
 
 A Python-based web scraper that automatically collects and updates Pokémon GO data from [leekduck.com](https://leekduck.com). This project uses GitHub Actions to run on a schedule and pushes the structured JSON data to a dedicated `data` branch.
 
@@ -34,7 +34,7 @@ The scraped data is automatically committed and pushed to the `data` branch of t
 
 The raw JSON files can be used as simple, free API endpoints for your projects.
 
-**➡️ For detailed information, visit the [Official Project Wiki](https://github.com/zhenga8533/leak-duck/wiki)**
+**➡️ For detailed information, visit the [Official Project Wiki](https://github.com/pogo-calendar/leak-duck/wiki)**
 
 The wiki includes a full breakdown of the data structure for each file, field descriptions, and direct links to the JSON endpoints.
 
@@ -44,7 +44,7 @@ The wiki includes a full breakdown of the data structure for each file, field de
 
 The scraped data is automatically committed and pushed to the `data` branch of this repository.
 
-**➡️ Browse the raw data files here: [https://github.com/zhenga8533/leak-duck/tree/data](https://github.com/zhenga8533/leak-duck/tree/data)**
+**➡️ Browse the raw data files here: [https://github.com/pogo-calendar/leak-duck/tree/data](https://github.com/pogo-calendar/leak-duck/tree/data)**
 
 The following files are generated:
 
@@ -55,7 +55,7 @@ The following files are generated:
 - `events.json`- All current and upcoming events.
 - `archives/archive_YYYY.json` - Historical event data, organized by year.
   - _Note: Automated archiving of past events is handled by the script. Coverage begins **September 19, 2025**; events that ended earlier are not archived._
-  - _Archives were rebuilt from their source pages on **August 10, 2026**, so every record uses the current event schema. `description` is absent only for the few events whose Leek Duck page no longer exists. See the [API documentation](https://github.com/zhenga8533/leak-duck/wiki/API-Documentation#event-archives) for the full compatibility contract._
+  - _Archives were rebuilt from their source pages on **August 10, 2026**, so every record uses the current event schema. `description` is absent only for the few events whose Leek Duck page no longer exists. See the [API documentation](https://github.com/pogo-calendar/leak-duck/wiki/API-Documentation#event-archives) for the full compatibility contract._
 
 ### Example Data (`raid_bosses.json`)
 
@@ -97,7 +97,7 @@ To get a local copy up and running, follow these simple steps.
 1.  **Clone the repository:**
 
     ```sh
-    git clone https://github.com/zhenga8533/leak-duck.git
+    git clone https://github.com/pogo-calendar/leak-duck.git
     cd leak-duck
     ```
 
