@@ -2321,6 +2321,83 @@
             "start_time": "2026-09-16T06:00:00",
             "end_time": "2026-09-22T22:00:00",
             "description": "Zamazenta (Hero of Many Battles) will be in five-star raid battles from September 16, 2026 to September 22, 2026.\nThere will also be a Raid Hour featuring Zamazenta (Hero of Many Battles) from 6:00 p.m. to 7:00 p.m. local time on September 16."
+        },
+        {
+            "title": "Mega Malamar in Mega Raids",
+            "article_url": "https://leekduck.com/events/mega-malamar-in-mega-raids-september-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Mega Malamar",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm687.fMEGA.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Malamar",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_687_00_shiny.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Mega Malamar",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm687.fMEGA.s.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-09-23T06:00:00",
+            "end_time": "2026-09-29T22:00:00",
+            "description": "Mega Malamar will be in Mega Raids from September 23, 2026 at 6 am to September 29, 2026 at 10 pm local time."
+        },
+        {
+            "title": "Xurkitree, Pheromosa, and Buzzwole in 5-star Raid Battles",
+            "article_url": "https://leekduck.com/events/xurkitree-pheromosa-buzzwole-in-5-star-raid-battles-september-2026/",
+            "banner_url": "https://cdn.leekduck.com/assets/img/events/buzzwole-xurkitree-pheromosa-ultra-beasts.jpg",
+            "category": "Raid Battles",
+            "details": {
+                "raids": [
+                    {
+                        "name": "Buzzwole",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm794.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Pheromosa",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm795.icon.png",
+                        "shiny_available": true
+                    },
+                    {
+                        "name": "Xurkitree",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm796.icon.png",
+                        "shiny_available": true
+                    }
+                ],
+                "shiny": [
+                    {
+                        "name": "Buzzwole",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm794.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Pheromosa",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm795.s.icon.png",
+                        "shiny_available": false
+                    },
+                    {
+                        "name": "Xurkitree",
+                        "asset_url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm796.s.icon.png",
+                        "shiny_available": false
+                    }
+                ]
+            },
+            "is_local_time": true,
+            "start_time": "2026-09-23T06:00:00",
+            "end_time": "2026-09-29T22:00:00",
+            "description": "Xurkitree, Pheromosa, and Buzzwole will be in five-star raid battles from September 23, 2026 to September 29, 2026.\n- Xurkitree: Asia-Pacific\n- Pheromosa: Europe, the Middle East, Africa, and India\n- Buzzwole: The Americas and Greenland\nThere will also be a Raid Hour featuring these regional raid bosses from 6:00 p.m. to 7:00 p.m. local time on September 23."
         }
     ],
     "Community Day": [
