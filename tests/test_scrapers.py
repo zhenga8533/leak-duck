@@ -154,6 +154,27 @@ class ParserFixtureTests(unittest.TestCase):
         data = ResearchScraper("offline", "research_tasks", self.settings).parse(soup)
         self.assertEqual(data["Catch"][0]["rewards"][0]["quantity"], 3)
 
+    def test_research_parser_handles_non_numeric_quantity(self) -> None:
+        cases = [
+            ("Ball ×5", '<div class="quantity"></div>', 5),
+            ("Ball", '<div class="quantity">×</div>', 1),
+            ("Stardust", '<div class="quantity">×1,000</div>', 1000),
+            ("Ball", "", 1),
+        ]
+        for label, quantity_html, expected in cases:
+            with self.subTest(label=label, quantity_html=quantity_html):
+                soup = BeautifulSoup(
+                    '<div class="task-category"><h2>Catch</h2><li class="task-item">'
+                    '<span class="task-text">Catch one</span><ul class="reward-list">'
+                    f'<li class="reward" data-reward-type="item"><span class="reward-label">{label}</span>'
+                    f"{quantity_html}</li></ul></li></div>",
+                    "lxml",
+                )
+                data = ResearchScraper(
+                    "offline", "research_tasks", self.settings
+                ).parse(soup)
+                self.assertEqual(data["Catch"][0]["rewards"][0]["quantity"], expected)
+
     def test_rocket_parser(self) -> None:
         soup = BeautifulSoup(
             '<div class="rocket-profile"><div class="name">Leader</div><div class="lineup-info">'
