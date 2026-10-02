@@ -69,14 +69,24 @@ class ResearchScraper(BaseScraper):
             }
 
         quantity_element = reward_element.find("div", class_="quantity")
-        quantity = (
-            quantity_element.get_text(strip=True).replace("×", "")
-            if quantity_element
-            else "1"
+        quantity_text = (
+            quantity_element.get_text(strip=True) if quantity_element else ""
         )
         return {
             "type": reward_type,
             "name": re.sub(r"\s?×\d+$", "", label_text).strip(),
-            "quantity": int(re.sub(r"\D", "", quantity)),
+            "quantity": self._parse_quantity(quantity_text, label_text),
             "asset_url": asset_url,
         }
+
+    @staticmethod
+    def _parse_quantity(quantity_text: str, label_text: str) -> int:
+        # The quantity div is sometimes present but empty or non-numeric, so
+        # fall back to a "×N" suffix on the label, then to a single reward.
+        digits = re.sub(r"\D", "", quantity_text)
+        if digits:
+            return int(digits)
+        label_match = re.search(r"×\s?([\d,.]+)$", label_text)
+        if label_match and (label_digits := re.sub(r"\D", "", label_match.group(1))):
+            return int(label_digits)
+        return 1
